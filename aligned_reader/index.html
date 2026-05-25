@@ -73,6 +73,14 @@
       font-weight: 650;
     }
     .chapter-number { color: var(--muted); font-variant-numeric: tabular-nums; }
+    .chapter-title { display: block; }
+    .chapter-pages {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 500;
+      margin-top: 3px;
+    }
     main {
       min-width: 0;
       padding: 28px 32px 112px;
@@ -217,6 +225,47 @@
     const timeLabel = document.getElementById('timeLabel');
     const chapterTime = document.getElementById('chapterTime');
     const progressStorageKey = 'aligned-reader-progress-v1';
+    const tocEntries = [
+      { chapter: 1, title: 'Dudley Demented', bookPage: 1, appPage: 37 },
+      { chapter: 2, title: 'A Peck of Owls', bookPage: 20, appPage: 94 },
+      { chapter: 3, title: 'The Advance Guard', bookPage: 42, appPage: 159 },
+      { chapter: 4, title: 'Number Twelve, Grimmauld Place', bookPage: 59, appPage: 210 },
+      { chapter: 5, title: 'The Order of the Phoenix', bookPage: 79, appPage: 270 },
+      { chapter: 6, title: 'The Noble and Most Ancient House of Black', bookPage: 98, appPage: 325 },
+      { chapter: 7, title: 'The Ministry of Magic', bookPage: 121, appPage: 392 },
+      { chapter: 8, title: 'The Hearing', bookPage: 137, appPage: 438 },
+      { chapter: 9, title: 'The Woes of Mrs. Weasley', bookPage: 152, appPage: 482 },
+      { chapter: 10, title: 'Luna Lovegood', bookPage: 179, appPage: 562 },
+      { chapter: 11, title: 'The Sorting Hat’s New Song', bookPage: 200, appPage: 623 },
+      { chapter: 12, title: 'Professor Umbridge', bookPage: 221, appPage: 685 },
+      { chapter: 13, title: 'Detention with Dolores', bookPage: 250, appPage: 772 },
+      { chapter: 14, title: 'Percy and Padfoot', bookPage: 279, appPage: 858 },
+      { chapter: 15, title: 'The Hogwarts High Inquisitor', bookPage: 306, appPage: 938 },
+      { chapter: 16, title: 'In the Hog’s Head', bookPage: 330, appPage: 1008 },
+      { chapter: 17, title: 'Educational Decree Number Twenty-Four', bookPage: 350, appPage: 1066 },
+      { chapter: 18, title: 'Dumbledore’s Army', bookPage: 374, appPage: 1136 },
+      { chapter: 19, title: 'The Lion and the Serpent', bookPage: 397, appPage: 1205 },
+      { chapter: 20, title: 'Hagrid’s Tale', bookPage: 420, appPage: 1273 },
+      { chapter: 21, title: 'The Eye of the Snake', bookPage: 441, appPage: 1333 },
+      { chapter: 22, title: 'St. Mungo’s Hospital for Magical Maladies and Injuries', bookPage: 466, appPage: 1407 },
+      { chapter: 23, title: 'Christmas on the Closed Ward', bookPage: 492, appPage: 1485 },
+      { chapter: 24, title: 'Occlumency', bookPage: 516, appPage: 1557 },
+      { chapter: 25, title: 'The Beetle at Bay', bookPage: 543, appPage: 1637 },
+      { chapter: 26, title: 'Seen and Unforeseen', bookPage: 570, appPage: 1718 },
+      { chapter: 27, title: 'The Centaur and the Sneak', bookPage: 599, appPage: 1803 },
+      { chapter: 28, title: 'Snape’s Worst Memory', bookPage: 624, appPage: 1877 },
+      { chapter: 29, title: 'Career Advice', bookPage: 651, appPage: 1956 },
+      { chapter: 30, title: 'Grawp', bookPage: 676, appPage: 2030 },
+      { chapter: 31, title: 'O.W.L.s', bookPage: 703, appPage: 2111 },
+      { chapter: 32, title: 'Out of the Fire', bookPage: 729, appPage: 2187 },
+      { chapter: 33, title: 'Fight and Flight', bookPage: 751, appPage: 2251 },
+      { chapter: 34, title: 'The Department of Mysteries', bookPage: 764, appPage: 2290 },
+      { chapter: 35, title: 'Beyond the Veil', bookPage: 781, appPage: 2341 },
+      { chapter: 36, title: 'The Only One He Ever Feared', bookPage: 807, appPage: 2418 },
+      { chapter: 37, title: 'The Lost Prophecy', bookPage: 820, appPage: 2456 },
+      { chapter: 38, title: 'The Second War Begins', bookPage: 845, appPage: 2531 },
+    ];
+    const tocByChapter = new Map(tocEntries.map((entry) => [entry.chapter, entry]));
     let currentIndex = 0;
     let currentParagraphId = null;
     let pendingStartTime = null;
@@ -236,7 +285,10 @@
         button.type = 'button';
         button.className = 'chapter-link' + (index === currentIndex ? ' active' : '');
         const number = chapter.kind === 'chapter' ? String(chapter.number).padStart(2, '0') : '--';
-        button.innerHTML = `<span class="chapter-number">${number}</span><span>${chapter.title}</span>`;
+        const tocEntry = tocByChapter.get(chapter.number);
+        const title = tocEntry?.title || chapter.title;
+        const pages = tocEntry ? `<span class="chapter-pages">Book p. ${tocEntry.bookPage} · App p. ${tocEntry.appPage}</span>` : '';
+        button.innerHTML = `<span class="chapter-number">${number}</span><span><span class="chapter-title">${title}</span>${pages}</span>`;
         button.addEventListener('click', () => loadChapter(index, true));
         chapterList.appendChild(button);
       });
@@ -288,7 +340,9 @@
       currentParagraphId = null;
       pendingStartTime = null;
       audio.src = chapter.audio;
-      chapterTitle.textContent = chapter.kind === 'chapter' ? `Chapter ${chapter.number}. ${chapter.title}` : chapter.title;
+      const tocEntry = tocByChapter.get(chapter.number);
+      const displayTitle = tocEntry?.title || chapter.title;
+      chapterTitle.textContent = chapter.kind === 'chapter' ? `Chapter ${chapter.number}. ${displayTitle}` : chapter.title;
       reader.innerHTML = '';
       if (chapter.paragraphs.length) {
         chapter.paragraphs.forEach((paragraph) => {
