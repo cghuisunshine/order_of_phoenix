@@ -216,8 +216,10 @@
     const seekBar = document.getElementById('seekBar');
     const timeLabel = document.getElementById('timeLabel');
     const chapterTime = document.getElementById('chapterTime');
+    const progressStorageKey = 'aligned-reader-progress-v1';
     let currentIndex = 0;
     let currentParagraphId = null;
+    let pendingStartTime = null;
 
     function formatTime(seconds) {
       seconds = Math.max(0, Math.floor(seconds || 0));
@@ -240,10 +242,51 @@
       });
     }
 
-    function loadChapter(index, autoplay = false) {
+    function findParagraphAt(chapter, local) {
+      return chapter.paragraphs.find((item) => local >= item.localBegin && local < item.localEnd) || null;
+    }
+
+    function saveProgress(paragraphId = currentParagraphId, localTime = audio.currentTime || 0) {
+      if (!paragraphId) return;
+      try {
+        localStorage.setItem(progressStorageKey, JSON.stringify({
+          chapterIndex: currentIndex,
+          paragraphId,
+          localTime,
+        }));
+      } catch {
+        // localStorage can be unavailable in private or locked-down browser contexts.
+      }
+    }
+
+    function loadSavedProgress() {
+      try {
+        const saved = JSON.parse(localStorage.getItem(progressStorageKey) || 'null');
+        if (!saved || !Number.isInteger(saved.chapterIndex)) return null;
+
+        const chapter = manifest.chapters[saved.chapterIndex];
+        if (!chapter) return null;
+
+        const paragraph = chapter.paragraphs.find((item) => item.id === saved.paragraphId);
+        if (!paragraph) return null;
+
+        const savedTime = Number(saved.localTime);
+        const localTime = Number.isFinite(savedTime) ? savedTime : paragraph.localBegin;
+        return {
+          chapterIndex: saved.chapterIndex,
+          paragraphId: paragraph.id,
+          localTime: Math.max(0, Math.min(localTime, chapter.duration || localTime)),
+        };
+      } catch {
+        return null;
+      }
+    }
+
+    function loadChapter(index, autoplay = false, startTime = 0) {
       currentIndex = Math.max(0, Math.min(index, manifest.chapters.length - 1));
       const chapter = manifest.chapters[currentIndex];
       currentParagraphId = null;
+      pendingStartTime = null;
       audio.src = chapter.audio;
       chapterTitle.textContent = chapter.kind === 'chapter' ? `Chapter ${chapter.number}. ${chapter.title}` : chapter.title;
       reader.innerHTML = '';
@@ -254,7 +297,10 @@
           node.id = paragraph.id;
           node.textContent = paragraph.text;
           node.addEventListener('click', () => {
+            pendingStartTime = null;
             audio.currentTime = paragraph.localBegin;
+            updateHighlight(paragraph.localBegin);
+            saveProgress(paragraph.id, paragraph.localBegin);
             audio.play();
           });
           reader.appendChild(node);
@@ -266,24 +312,59 @@
         reader.appendChild(node);
       }
       renderNav();
-      updateTimes();
+      const localStart = Math.max(0, Math.min(Number(startTime) || 0, chapter.duration || 0));
+      if (localStart > 0) {
+        pendingStartTime = localStart;
+        try {
+          audio.currentTime = localStart;
+        } catch {
+          // Some browsers require metadata before seeking a new audio source.
+        }
+        updateTimes(localStart);
+      } else {
+        updateTimes();
+      }
       if (autoplay) {
         audio.play();
       }
     }
 
-    function updateTimes() {
+    function resolveLocalTime(localOverride = null) {
+      if (typeof localOverride === 'number' && Number.isFinite(localOverride)) {
+        return localOverride;
+      }
+
+      if (pendingStartTime !== null) {
+        return pendingStartTime;
+      }
+
+      const local = Number(audio.currentTime);
+      return Number.isFinite(local) ? local : 0;
+    }
+
+    function updateTimes(localOverride = null) {
       const chapter = manifest.chapters[currentIndex];
-      const local = audio.currentTime || 0;
+      const local = resolveLocalTime(localOverride);
       timeLabel.textContent = `${formatTime(chapter.start + local)} / ${formatTime(manifest.duration)}`;
       chapterTime.textContent = `${formatTime(local)} / ${formatTime(chapter.duration)}`;
       seekBar.value = chapter.duration ? String(Math.round((local / chapter.duration) * 1000)) : '0';
       updateHighlight(local);
     }
 
+    function restorePendingStartTime() {
+      if (pendingStartTime === null) {
+        updateTimes();
+        return;
+      }
+
+      const startTime = pendingStartTime;
+      audio.currentTime = startTime;
+      updateTimes(startTime);
+    }
+
     function updateHighlight(local) {
       const chapter = manifest.chapters[currentIndex];
-      const paragraph = chapter.paragraphs.find((item) => local >= item.localBegin && local < item.localEnd);
+      const paragraph = findParagraphAt(chapter, local);
       const nextId = paragraph ? paragraph.id : null;
       if (nextId === currentParagraphId) return;
       if (currentParagraphId) {
@@ -294,11 +375,28 @@
         const node = document.getElementById(currentParagraphId);
         node?.classList.add('active');
         node?.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        saveProgress(currentParagraphId, local);
+      }
+    }
+
+    function loadInitialChapter() {
+      const savedProgress = loadSavedProgress();
+      if (savedProgress) {
+        loadChapter(savedProgress.chapterIndex, false, savedProgress.localTime);
+      } else {
+        loadChapter(0, false);
       }
     }
 
     playButton.addEventListener('click', () => {
       if (audio.paused) {
+        if (pendingStartTime !== null) {
+          try {
+            audio.currentTime = pendingStartTime;
+          } catch {
+            // Keep the visible saved paragraph if the browser cannot seek yet.
+          }
+        }
         audio.play();
       } else {
         audio.pause();
@@ -308,19 +406,35 @@
     nextButton.addEventListener('click', () => loadChapter(currentIndex + 1, !audio.paused));
     seekBar.addEventListener('input', () => {
       const chapter = manifest.chapters[currentIndex];
-      audio.currentTime = (Number(seekBar.value) / 1000) * chapter.duration;
+      const local = (Number(seekBar.value) / 1000) * chapter.duration;
+      const paragraph = findParagraphAt(chapter, local);
+      pendingStartTime = null;
+      audio.currentTime = local;
+      updateHighlight(local);
+      saveProgress(paragraph?.id, local);
     });
     audio.addEventListener('play', () => playButton.textContent = 'Pause');
     audio.addEventListener('pause', () => playButton.textContent = 'Play');
-    audio.addEventListener('timeupdate', updateTimes);
-    audio.addEventListener('loadedmetadata', updateTimes);
+    audio.addEventListener('timeupdate', () => updateTimes());
+    audio.addEventListener('loadedmetadata', restorePendingStartTime);
+    audio.addEventListener('seeked', () => {
+      if (pendingStartTime !== null) {
+        const local = Number(audio.currentTime);
+        if (!Number.isFinite(local) || Math.abs(local - pendingStartTime) >= 0.25) {
+          updateTimes(pendingStartTime);
+          return;
+        }
+        pendingStartTime = null;
+      }
+      updateTimes();
+    });
     audio.addEventListener('ended', () => {
       if (currentIndex < manifest.chapters.length - 1) {
         loadChapter(currentIndex + 1, true);
       }
     });
 
-    loadChapter(0, false);
+    loadInitialChapter();
   </script>
 </body>
 </html>
