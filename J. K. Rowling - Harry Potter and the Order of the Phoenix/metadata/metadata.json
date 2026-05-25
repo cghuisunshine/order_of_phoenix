@@ -1,0 +1,419 @@
+{
+  "title": "Harry Potter and the Order of the Phoenix",
+  "description": {
+    "full": "<p>Jim Dale's Grammy Award-winning performance of J.K. Rowling's iconic stories is a listening adventure for the whole family.<br><i>'You are sharing the Dark Lord's thoughts and emotions. The Headmaster thinks it inadvisable for this to continue. He wishes me to teach you how to close your mind to the Dark Lord.'</i><br>Close your eyes and enter the magical world of Harry Potter. In these editions, Jim Dale's characterful narration is so entertaining, fun, and theatrical you can almost hear the crackle of the fire in the Gryffindor common room.<br>Dark times have come to Hogwarts. After the Dementors' attack on his cousin Dudley, Harry Potter knows that Voldemort will stop at nothing to find him. There are many who deny the Dark Lord's return, but Harry is not alone: a secret order gathers at Grimmauld Place to fight against the Dark forces. Harry must allow Professor Snape to teach him how to protect himself from Voldemort's savage assaults on his mind. But they are growing stronger by the day and Harry is running out of time...<br>Having become classics of our time, the Harry Potter stories never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new listeners.</p>",
+    "short": "<p>Jim Dale's Grammy Award-winning performance of J.K. Rowling's iconic stories is a listening adventure for the whole family.<br><i>'You are sharing the Dark Lord's thoughts and emotions. The Headmaster thinks it inadvisable for this to continue. He wishes me to teach you how to close your mind to the Dark Lord.'</i><br>Close your eyes and enter the magical world of Harry Potter. In these editions, Jim Dale's characterful narration is so entertaining, fun, and theatrical you can almost hear the crackle of the fire in the Gryffindor common room.<br>Dark times have come to Hogwarts. After the Dementors' attack on his cousin Dudley, Harry Potter knows that Voldemort will stop at nothing to find him. There are many who deny the Dark Lord's return, but Harry is not alone: a secret order gathers at Grimmauld Place to fight against the Dark forces. Harry must allow Professor Snape to teach him how to protect himself from Voldemort's savage assaults on his mind. But they are growing...</p>"
+  },
+  "coverUrl": "https://libbyapp.com/covers/resize?type=auto&width=536&quality=80&force=true&height=536&url=%2FImageType-100%2F3450-1%2F%257B759F6D95-BC27-4293-8C7C-E2A9B791DFA1%257DIMG100.JPG",
+  "creator": [
+    {
+      "name": "J. K. Rowling",
+      "role": "author",
+      "bio": ""
+    },
+    {
+      "name": "Jim Dale",
+      "role": "narrator",
+      "bio": ""
+    },
+    {
+      "name": "Olly Moss",
+      "role": "other",
+      "bio": ""
+    }
+  ],
+  "spine": [
+    {
+      "duration": 2199.849795,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2382.158367,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 1945.991836,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2009.260408,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 1958.373877,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2543.25551,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 1765.616326,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 1697.384489,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3039.712653,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2231.457959,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2213.276734,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3196.003265,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3231.190204,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2887.57551,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2665.665306,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2168.659591,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2568.594285,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2578.677551,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2437.851428,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2315.023673,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2753.201632,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2868.37551,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2697.508571,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3006.72,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2838.517551,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3031.797551,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2873.260408,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2985.299591,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2652.133877,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2969.417142,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2827.049795,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2282.03102,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 1397.786122,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 1874.311836,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2814.223673,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 1458.416326,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3006.589387,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 2865.60653,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 100.101224,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1:  Dudley Demented",
+      "spine": 0,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 2:  A Peck of Owls",
+      "spine": 1,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 3:  The Advance Guard",
+      "spine": 2,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 4:  Number Twelve, Grimmauld Place",
+      "spine": 3,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 5:  The Order of the Phoenix",
+      "spine": 4,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 6:  The Noble and Most Ancient House of Black",
+      "spine": 5,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 7:  The Ministry of Magic",
+      "spine": 6,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 8:  The Hearing",
+      "spine": 7,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 9:  The Woes of Mrs. Weasley",
+      "spine": 8,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 10:  Luna Lovegood",
+      "spine": 9,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 11:  The Sorting Hat&apos;s New Song",
+      "spine": 10,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 12:  Professor Umbridge",
+      "spine": 11,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 13:  Detention with Dolores",
+      "spine": 12,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 14:  Percy and Padfoot",
+      "spine": 13,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 15:  The Hogwarts High Inquisitor",
+      "spine": 14,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 16:  In the Hog&apos;s Head",
+      "spine": 15,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 17:  Educational Decree Number Twenty-Four",
+      "spine": 16,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 18:  Dumbledore&apos;s Army",
+      "spine": 17,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 19:  The Lion and the Serpent",
+      "spine": 18,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 20:  Hagrid&apos;s Tale",
+      "spine": 19,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 21:  The Eye of the Snake",
+      "spine": 20,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 22:  St. Mungo&apos;s Hospital for Magical Maladies and Injuries",
+      "spine": 21,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 23:  Christmas on the Closed Ward",
+      "spine": 22,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 24:  Occlumency",
+      "spine": 23,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 25:  The Bettle at Bay",
+      "spine": 24,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 26:  Seen and Unforeseen",
+      "spine": 25,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 27:  The Centaur and the Sneak",
+      "spine": 26,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 28:  Snape&apos;s Worst Memory",
+      "spine": 27,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 29:  Career Advice",
+      "spine": 28,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 30:  Grawp",
+      "spine": 29,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 31:  O.W.L.s",
+      "spine": 30,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 32:  Out of the Fire",
+      "spine": 31,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 33:  Fight and Flight",
+      "spine": 32,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 34:  The Department of Mysteries",
+      "spine": 33,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 35:  Beyond the Veil",
+      "spine": 34,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 36:  The Only One He Ever Feared",
+      "spine": 35,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 37:  The Lost Prophecy",
+      "spine": 36,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 38:  The Second War Begins",
+      "spine": 37,
+      "offset": 0
+    },
+    {
+      "title": "Next Chapter:  The Other Minister",
+      "spine": 38,
+      "offset": 0
+    }
+  ]
+}
