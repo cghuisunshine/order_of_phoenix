@@ -105,6 +105,35 @@ class Chapter:
     body: str
 
 
+SENTENCE_ABBREVIATIONS = {
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "St.",
+    "Jr.",
+    "Sr.",
+    "No.",
+}
+SPEECH_VERBS = {
+    "asked",
+    "barked",
+    "breathed",
+    "called",
+    "cried",
+    "gasped",
+    "growled",
+    "muttered",
+    "replied",
+    "said",
+    "shouted",
+    "snapped",
+    "whispered",
+    "yelled",
+}
+
+
 def clean_text(text: str) -> str:
     return (
         text.replace("\r\n", "\n")
@@ -273,9 +302,80 @@ def flush_paragraph(lines: list[str], paragraphs: list[str]) -> None:
         paragraphs.append(paragraph)
 
 
-def chapter_fragments(chapter: Chapter) -> list[str]:
+def split_sentences(paragraph: str) -> list[str]:
+    paragraph = re.sub(r"\s+", " ", paragraph).strip()
+    if not paragraph:
+        return []
+
+    sentences: list[str] = []
+    start = 0
+    index = 0
+    while index < len(paragraph):
+        char = paragraph[index]
+        if char not in ".?!":
+            index += 1
+            continue
+
+        if char == "." and is_non_terminal_period(paragraph, index):
+            index += 1
+            continue
+
+        end = index + 1
+        while end < len(paragraph) and paragraph[end] in "\"')]}":
+            end += 1
+        next_index = end
+        while next_index < len(paragraph) and paragraph[next_index].isspace():
+            next_index += 1
+        if is_dialogue_attribution(paragraph, end, next_index):
+            index += 1
+            continue
+        if next_index < len(paragraph) and paragraph[next_index].islower():
+            index += 1
+            continue
+
+        sentence = paragraph[start:end].strip()
+        if sentence:
+            sentences.append(sentence)
+        start = next_index
+        index = next_index
+
+    remainder = paragraph[start:].strip()
+    if remainder:
+        sentences.append(remainder)
+    return sentences or [paragraph]
+
+
+def is_dialogue_attribution(paragraph: str, end: int, next_index: int) -> bool:
+    if end == 0 or paragraph[end - 1] not in "\"'":
+        return False
+    match = re.match(r"([A-Z][A-Za-z']*)\s+([a-z]+)\b", paragraph[next_index:])
+    return bool(match and match.group(2) in SPEECH_VERBS)
+
+
+def is_non_terminal_period(paragraph: str, index: int) -> bool:
+    if paragraph[max(0, index - 4) : index + 6].count(".") >= 3:
+        return True
+
+    prefix = paragraph[: index + 1]
+    match = re.search(r"[\w']+\.$", prefix)
+    token = match.group(0) if match else ""
+    if token in SENTENCE_ABBREVIATIONS:
+        return True
+    if re.fullmatch(r"[A-Z]\.", token):
+        return True
+    if 0 < index < len(paragraph) - 1 and paragraph[index - 1].isdigit() and paragraph[index + 1].isdigit():
+        return True
+    return False
+
+
+def chapter_sentence_groups(chapter: Chapter) -> list[list[str]]:
     heading = f"Chapter {display_chapter_word(chapter.number)}. {chapter.title}."
-    return [heading, *normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter))]
+    paragraphs = normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter))
+    return [[heading], *[split_sentences(paragraph) for paragraph in paragraphs]]
+
+
+def chapter_fragments(chapter: Chapter) -> list[str]:
+    return [sentence for group in chapter_sentence_groups(chapter) for sentence in group]
 
 
 def running_headers_for(chapter: Chapter) -> set[str]:
@@ -414,21 +514,8 @@ def build_reader_manifest(
     for chapter, audio_path, duration in zip(chapters, audio_files, durations, strict=True):
         alignment_path = alignment_dir / f"chapter_{chapter.number:03d}.json"
         data = json.loads(alignment_path.read_text(encoding="utf-8"))
-        paragraphs = []
-        for fragment in data.get("fragments", []):
-            begin = float(fragment["begin"])
-            end = float(fragment["end"])
-            text = " ".join(fragment.get("lines", [])).strip()
-            paragraphs.append(
-                {
-                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(paragraphs))}",
-                    "text": text,
-                    "begin": round(offset + begin, 3),
-                    "end": round(offset + end, 3),
-                    "localBegin": round(begin, 3),
-                    "localEnd": round(end, 3),
-                }
-            )
+        fragments = data.get("fragments", [])
+        paragraphs = build_manifest_paragraphs(chapter, fragments, offset)
         manifest["chapters"].append(
             {
                 "kind": "chapter",
@@ -460,6 +547,68 @@ def build_reader_manifest(
 
     manifest["duration"] = round(offset, 3)
     return manifest
+
+
+def build_manifest_paragraphs(chapter: Chapter, fragments: Sequence[dict], offset: float) -> list[dict]:
+    groups = chapter_sentence_groups(chapter)
+    sentence_count = sum(len(group) for group in groups)
+    if len(fragments) != sentence_count:
+        return build_legacy_manifest_paragraphs(chapter, fragments, offset)
+
+    paragraphs = []
+    fragment_index = 0
+    for paragraph_index, group in enumerate(groups):
+        sentences = []
+        for sentence_index, sentence_text in enumerate(group):
+            fragment = fragments[fragment_index]
+            begin = float(fragment["begin"])
+            end = float(fragment["end"])
+            fragment_text = " ".join(fragment.get("lines", [])).strip() or sentence_text
+            sentences.append(
+                {
+                    "id": f"c{chapter.number:03d}_p{paragraph_index:06d}_s{sentence_index + 1:06d}",
+                    "text": fragment_text,
+                    "begin": round(offset + begin, 3),
+                    "end": round(offset + end, 3),
+                    "localBegin": round(begin, 3),
+                    "localEnd": round(end, 3),
+                }
+            )
+            fragment_index += 1
+
+        local_begin = sentences[0]["localBegin"]
+        local_end = sentences[-1]["localEnd"]
+        paragraphs.append(
+            {
+                "id": f"c{chapter.number:03d}_p{paragraph_index:06d}",
+                "text": " ".join(sentence["text"] for sentence in sentences).strip(),
+                "begin": round(offset + local_begin, 3),
+                "end": round(offset + local_end, 3),
+                "localBegin": local_begin,
+                "localEnd": local_end,
+                "sentences": sentences,
+            }
+        )
+    return paragraphs
+
+
+def build_legacy_manifest_paragraphs(chapter: Chapter, fragments: Sequence[dict], offset: float) -> list[dict]:
+    paragraphs = []
+    for fragment in fragments:
+        begin = float(fragment["begin"])
+        end = float(fragment["end"])
+        text = " ".join(fragment.get("lines", [])).strip()
+        paragraphs.append(
+            {
+                "id": f"c{chapter.number:03d}_{fragment.get('id', len(paragraphs))}",
+                "text": text,
+                "begin": round(offset + begin, 3),
+                "end": round(offset + end, 3),
+                "localBegin": round(begin, 3),
+                "localEnd": round(end, 3),
+            }
+        )
+    return paragraphs
 
 
 def build_reader(output_dir: Path, audio_dir: Path) -> None:
@@ -565,6 +714,14 @@ def build_reader_html(manifest: dict) -> str:
       font-weight: 650;
     }}
     .chapter-number {{ color: var(--muted); font-variant-numeric: tabular-nums; }}
+    .chapter-title {{ display: block; }}
+    .chapter-pages {{
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 500;
+      margin-top: 3px;
+    }}
     main {{
       min-width: 0;
       padding: 28px 32px 112px;
@@ -613,6 +770,15 @@ def build_reader_html(manifest: dict) -> str:
     .paragraph.active {{
       background: var(--active);
       border-left-color: var(--active-line);
+    }}
+    .sentence {{
+      border-radius: 3px;
+      cursor: pointer;
+    }}
+    .sentence:hover {{ background: #f8f6f1; }}
+    .sentence.active {{
+      background: var(--active);
+      box-shadow: 0 0 0 2px var(--active);
     }}
     .outro {{
       color: var(--muted);
@@ -708,8 +874,51 @@ def build_reader_html(manifest: dict) -> str:
     const seekBar = document.getElementById('seekBar');
     const timeLabel = document.getElementById('timeLabel');
     const chapterTime = document.getElementById('chapterTime');
+    const progressStorageKey = 'aligned-reader-progress-v1';
+    const tocEntries = [
+      {{ chapter: 1, title: 'Dudley Demented', bookPage: 1, appPage: 37 }},
+      {{ chapter: 2, title: 'A Peck of Owls', bookPage: 20, appPage: 94 }},
+      {{ chapter: 3, title: 'The Advance Guard', bookPage: 42, appPage: 159 }},
+      {{ chapter: 4, title: 'Number Twelve, Grimmauld Place', bookPage: 59, appPage: 210 }},
+      {{ chapter: 5, title: 'The Order of the Phoenix', bookPage: 79, appPage: 270 }},
+      {{ chapter: 6, title: 'The Noble and Most Ancient House of Black', bookPage: 98, appPage: 325 }},
+      {{ chapter: 7, title: 'The Ministry of Magic', bookPage: 121, appPage: 392 }},
+      {{ chapter: 8, title: 'The Hearing', bookPage: 137, appPage: 438 }},
+      {{ chapter: 9, title: 'The Woes of Mrs. Weasley', bookPage: 152, appPage: 482 }},
+      {{ chapter: 10, title: 'Luna Lovegood', bookPage: 179, appPage: 562 }},
+      {{ chapter: 11, title: 'The Sorting Hat’s New Song', bookPage: 200, appPage: 623 }},
+      {{ chapter: 12, title: 'Professor Umbridge', bookPage: 221, appPage: 685 }},
+      {{ chapter: 13, title: 'Detention with Dolores', bookPage: 250, appPage: 772 }},
+      {{ chapter: 14, title: 'Percy and Padfoot', bookPage: 279, appPage: 858 }},
+      {{ chapter: 15, title: 'The Hogwarts High Inquisitor', bookPage: 306, appPage: 938 }},
+      {{ chapter: 16, title: 'In the Hog’s Head', bookPage: 330, appPage: 1008 }},
+      {{ chapter: 17, title: 'Educational Decree Number Twenty-Four', bookPage: 350, appPage: 1066 }},
+      {{ chapter: 18, title: 'Dumbledore’s Army', bookPage: 374, appPage: 1136 }},
+      {{ chapter: 19, title: 'The Lion and the Serpent', bookPage: 397, appPage: 1205 }},
+      {{ chapter: 20, title: 'Hagrid’s Tale', bookPage: 420, appPage: 1273 }},
+      {{ chapter: 21, title: 'The Eye of the Snake', bookPage: 441, appPage: 1333 }},
+      {{ chapter: 22, title: 'St. Mungo’s Hospital for Magical Maladies and Injuries', bookPage: 466, appPage: 1407 }},
+      {{ chapter: 23, title: 'Christmas on the Closed Ward', bookPage: 492, appPage: 1485 }},
+      {{ chapter: 24, title: 'Occlumency', bookPage: 516, appPage: 1557 }},
+      {{ chapter: 25, title: 'The Beetle at Bay', bookPage: 543, appPage: 1637 }},
+      {{ chapter: 26, title: 'Seen and Unforeseen', bookPage: 570, appPage: 1718 }},
+      {{ chapter: 27, title: 'The Centaur and the Sneak', bookPage: 599, appPage: 1803 }},
+      {{ chapter: 28, title: 'Snape’s Worst Memory', bookPage: 624, appPage: 1877 }},
+      {{ chapter: 29, title: 'Career Advice', bookPage: 651, appPage: 1956 }},
+      {{ chapter: 30, title: 'Grawp', bookPage: 676, appPage: 2030 }},
+      {{ chapter: 31, title: 'O.W.L.s', bookPage: 703, appPage: 2111 }},
+      {{ chapter: 32, title: 'Out of the Fire', bookPage: 729, appPage: 2187 }},
+      {{ chapter: 33, title: 'Fight and Flight', bookPage: 751, appPage: 2251 }},
+      {{ chapter: 34, title: 'The Department of Mysteries', bookPage: 764, appPage: 2290 }},
+      {{ chapter: 35, title: 'Beyond the Veil', bookPage: 781, appPage: 2341 }},
+      {{ chapter: 36, title: 'The Only One He Ever Feared', bookPage: 807, appPage: 2418 }},
+      {{ chapter: 37, title: 'The Lost Prophecy', bookPage: 820, appPage: 2456 }},
+      {{ chapter: 38, title: 'The Second War Begins', bookPage: 845, appPage: 2531 }},
+    ];
+    const tocByChapter = new Map(tocEntries.map((entry) => [entry.chapter, entry]));
     let currentIndex = 0;
     let currentParagraphId = null;
+    let pendingStartTime = null;
 
     function formatTime(seconds) {{
       seconds = Math.max(0, Math.floor(seconds || 0));
@@ -726,27 +935,108 @@ def build_reader_html(manifest: dict) -> str:
         button.type = 'button';
         button.className = 'chapter-link' + (index === currentIndex ? ' active' : '');
         const number = chapter.kind === 'chapter' ? String(chapter.number).padStart(2, '0') : '--';
-        button.innerHTML = `<span class="chapter-number">${{number}}</span><span>${{chapter.title}}</span>`;
+        const tocEntry = tocByChapter.get(chapter.number);
+        const title = tocEntry?.title || chapter.title;
+        const pages = tocEntry ? `<span class="chapter-pages">Book p. ${{tocEntry.bookPage}} · App p. ${{tocEntry.appPage}}</span>` : '';
+        button.innerHTML = `<span class="chapter-number">${{number}}</span><span><span class="chapter-title">${{title}}</span>${{pages}}</span>`;
         button.addEventListener('click', () => loadChapter(index, true));
         chapterList.appendChild(button);
       }});
     }}
 
-    function loadChapter(index, autoplay = false) {{
+    function sentenceItems(paragraph) {{
+      return paragraph.sentences && paragraph.sentences.length ? paragraph.sentences : [paragraph];
+    }}
+
+    function findPlaybackUnitAt(chapter, local) {{
+      for (const paragraph of chapter.paragraphs) {{
+        const sentence = sentenceItems(paragraph).find((item) => local >= item.localBegin && local < item.localEnd);
+        if (sentence) return sentence;
+      }}
+      return null;
+    }}
+
+    function findParagraphByPlaybackId(chapter, playbackId) {{
+      return chapter.paragraphs.find((paragraph) => {{
+        if (paragraph.id === playbackId) return true;
+        return sentenceItems(paragraph).some((sentence) => sentence.id === playbackId);
+      }}) || null;
+    }}
+
+    function saveProgress(paragraphId = currentParagraphId, localTime = audio.currentTime || 0) {{
+      if (!paragraphId) return;
+      try {{
+        localStorage.setItem(progressStorageKey, JSON.stringify({{
+          chapterIndex: currentIndex,
+          paragraphId,
+          localTime,
+        }}));
+      }} catch {{
+        // localStorage can be unavailable in private or locked-down browser contexts.
+      }}
+    }}
+
+    function loadSavedProgress() {{
+      try {{
+        const saved = JSON.parse(localStorage.getItem(progressStorageKey) || 'null');
+        if (!saved || !Number.isInteger(saved.chapterIndex)) return null;
+
+        const chapter = manifest.chapters[saved.chapterIndex];
+        if (!chapter) return null;
+
+        const paragraph = findParagraphByPlaybackId(chapter, saved.paragraphId);
+        if (!paragraph) return null;
+        const playbackUnit = sentenceItems(paragraph).find((item) => item.id === saved.paragraphId) || paragraph;
+
+        const savedTime = Number(saved.localTime);
+        const localTime = Number.isFinite(savedTime) ? savedTime : playbackUnit.localBegin;
+        return {{
+          chapterIndex: saved.chapterIndex,
+          paragraphId: playbackUnit.id,
+          localTime: Math.max(0, Math.min(localTime, chapter.duration || localTime)),
+        }};
+      }} catch {{
+        return null;
+      }}
+    }}
+
+    function loadChapter(index, autoplay = false, startTime = 0) {{
       currentIndex = Math.max(0, Math.min(index, manifest.chapters.length - 1));
       const chapter = manifest.chapters[currentIndex];
       currentParagraphId = null;
+      pendingStartTime = null;
       audio.src = chapter.audio;
-      chapterTitle.textContent = chapter.kind === 'chapter' ? `Chapter ${{chapter.number}}. ${{chapter.title}}` : chapter.title;
+      const tocEntry = tocByChapter.get(chapter.number);
+      const displayTitle = tocEntry?.title || chapter.title;
+      chapterTitle.textContent = chapter.kind === 'chapter' ? `Chapter ${{chapter.number}}. ${{displayTitle}}` : chapter.title;
       reader.innerHTML = '';
       if (chapter.paragraphs.length) {{
         chapter.paragraphs.forEach((paragraph) => {{
           const node = document.createElement('p');
           node.className = 'paragraph';
           node.id = paragraph.id;
-          node.textContent = paragraph.text;
+          sentenceItems(paragraph).forEach((sentence, sentenceIndex) => {{
+            if (sentenceIndex > 0) node.appendChild(document.createTextNode(' '));
+            const sentenceNode = document.createElement('span');
+            sentenceNode.className = 'sentence';
+            sentenceNode.id = sentence.id;
+            sentenceNode.textContent = sentence.text;
+            sentenceNode.addEventListener('click', (event) => {{
+              event.stopPropagation();
+              pendingStartTime = null;
+              audio.currentTime = sentence.localBegin;
+              updateHighlight(sentence.localBegin);
+              saveProgress(sentence.id, sentence.localBegin);
+              audio.play();
+            }});
+            node.appendChild(sentenceNode);
+          }});
           node.addEventListener('click', () => {{
-            audio.currentTime = paragraph.localBegin;
+            const firstSentence = sentenceItems(paragraph)[0];
+            pendingStartTime = null;
+            audio.currentTime = firstSentence.localBegin;
+            updateHighlight(firstSentence.localBegin);
+            saveProgress(firstSentence.id, firstSentence.localBegin);
             audio.play();
           }});
           reader.appendChild(node);
@@ -758,25 +1048,60 @@ def build_reader_html(manifest: dict) -> str:
         reader.appendChild(node);
       }}
       renderNav();
-      updateTimes();
+      const localStart = Math.max(0, Math.min(Number(startTime) || 0, chapter.duration || 0));
+      if (localStart > 0) {{
+        pendingStartTime = localStart;
+        try {{
+          audio.currentTime = localStart;
+        }} catch {{
+          // Some browsers require metadata before seeking a new audio source.
+        }}
+        updateTimes(localStart);
+      }} else {{
+        updateTimes();
+      }}
       if (autoplay) {{
         audio.play();
       }}
     }}
 
-    function updateTimes() {{
+    function resolveLocalTime(localOverride = null) {{
+      if (typeof localOverride === 'number' && Number.isFinite(localOverride)) {{
+        return localOverride;
+      }}
+
+      if (pendingStartTime !== null) {{
+        return pendingStartTime;
+      }}
+
+      const local = Number(audio.currentTime);
+      return Number.isFinite(local) ? local : 0;
+    }}
+
+    function updateTimes(localOverride = null) {{
       const chapter = manifest.chapters[currentIndex];
-      const local = audio.currentTime || 0;
+      const local = resolveLocalTime(localOverride);
       timeLabel.textContent = `${{formatTime(chapter.start + local)}} / ${{formatTime(manifest.duration)}}`;
       chapterTime.textContent = `${{formatTime(local)}} / ${{formatTime(chapter.duration)}}`;
       seekBar.value = chapter.duration ? String(Math.round((local / chapter.duration) * 1000)) : '0';
       updateHighlight(local);
     }}
 
+    function restorePendingStartTime() {{
+      if (pendingStartTime === null) {{
+        updateTimes();
+        return;
+      }}
+
+      const startTime = pendingStartTime;
+      audio.currentTime = startTime;
+      updateTimes(startTime);
+    }}
+
     function updateHighlight(local) {{
       const chapter = manifest.chapters[currentIndex];
-      const paragraph = chapter.paragraphs.find((item) => local >= item.localBegin && local < item.localEnd);
-      const nextId = paragraph ? paragraph.id : null;
+      const unit = findPlaybackUnitAt(chapter, local);
+      const nextId = unit ? unit.id : null;
       if (nextId === currentParagraphId) return;
       if (currentParagraphId) {{
         document.getElementById(currentParagraphId)?.classList.remove('active');
@@ -786,11 +1111,28 @@ def build_reader_html(manifest: dict) -> str:
         const node = document.getElementById(currentParagraphId);
         node?.classList.add('active');
         node?.scrollIntoView({{ block: 'center', behavior: 'smooth' }});
+        saveProgress(currentParagraphId, local);
+      }}
+    }}
+
+    function loadInitialChapter() {{
+      const savedProgress = loadSavedProgress();
+      if (savedProgress) {{
+        loadChapter(savedProgress.chapterIndex, false, savedProgress.localTime);
+      }} else {{
+        loadChapter(0, false);
       }}
     }}
 
     playButton.addEventListener('click', () => {{
       if (audio.paused) {{
+        if (pendingStartTime !== null) {{
+          try {{
+            audio.currentTime = pendingStartTime;
+          }} catch {{
+            // Keep the visible saved sentence if the browser cannot seek yet.
+          }}
+        }}
         audio.play();
       }} else {{
         audio.pause();
@@ -800,19 +1142,35 @@ def build_reader_html(manifest: dict) -> str:
     nextButton.addEventListener('click', () => loadChapter(currentIndex + 1, !audio.paused));
     seekBar.addEventListener('input', () => {{
       const chapter = manifest.chapters[currentIndex];
-      audio.currentTime = (Number(seekBar.value) / 1000) * chapter.duration;
+      const local = (Number(seekBar.value) / 1000) * chapter.duration;
+      const unit = findPlaybackUnitAt(chapter, local);
+      pendingStartTime = null;
+      audio.currentTime = local;
+      updateHighlight(local);
+      saveProgress(unit?.id, local);
     }});
     audio.addEventListener('play', () => playButton.textContent = 'Pause');
     audio.addEventListener('pause', () => playButton.textContent = 'Play');
-    audio.addEventListener('timeupdate', updateTimes);
-    audio.addEventListener('loadedmetadata', updateTimes);
+    audio.addEventListener('timeupdate', () => updateTimes());
+    audio.addEventListener('loadedmetadata', restorePendingStartTime);
+    audio.addEventListener('seeked', () => {{
+      if (pendingStartTime !== null) {{
+        const local = Number(audio.currentTime);
+        if (!Number.isFinite(local) || Math.abs(local - pendingStartTime) >= 0.25) {{
+          updateTimes(pendingStartTime);
+          return;
+        }}
+        pendingStartTime = null;
+      }}
+      updateTimes();
+    }});
     audio.addEventListener('ended', () => {{
       if (currentIndex < manifest.chapters.length - 1) {{
         loadChapter(currentIndex + 1, true);
       }}
     }});
 
-    loadChapter(0, false);
+    loadInitialChapter();
   </script>
 </body>
 </html>

@@ -13,28 +13,88 @@
   {
    "begin": "8.920",
    "children": [],
-   "end": "71.680",
+   "end": "36.920",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "The hottest day of the summer so far was drawing to a close and a drowsy silence lay over the large, square houses of Privet Drive. Cars that were usually gleaming stood dusty in their drives and lawns that were once emerald green lay parched and yellowing; the use of hosepipes had been banned due to drought. Deprived of their usual car-washing and lawn-mowing pursuits, the inhabitants of Privet Drive had retreated into the shade of their cool houses, windows thrown wide in the hope of tempting in a nonexistent breeze. The only person left outdoors was a teenage boy who was lying flat on his back in a flower bed outside number four."
+    "The hottest day of the summer so far was drawing to a close and a drowsy silence lay over the large, square houses of Privet Drive."
+   ]
+  },
+  {
+   "begin": "36.920",
+   "children": [],
+   "end": "49.640",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Cars that were usually gleaming stood dusty in their drives and lawns that were once emerald green lay parched and yellowing; the use of hosepipes had been banned due to drought."
+   ]
+  },
+  {
+   "begin": "49.640",
+   "children": [],
+   "end": "63.040",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Deprived of their usual car-washing and lawn-mowing pursuits, the inhabitants of Privet Drive had retreated into the shade of their cool houses, windows thrown wide in the hope of tempting in a nonexistent breeze."
+   ]
+  },
+  {
+   "begin": "63.040",
+   "children": [],
+   "end": "71.680",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "The only person left outdoors was a teenage boy who was lying flat on his back in a flower bed outside number four."
    ]
   },
   {
    "begin": "71.680",
    "children": [],
-   "end": "105.600",
-   "id": "f000003",
+   "end": "81.120",
+   "id": "f000006",
    "language": "eng",
    "lines": [
-    "He was a skinny, black-haired, bespectacled boy who had the pinched, slightly unhealthy look of someone who has grown a lot in a short space of time. His jeans were torn and dirty, his T-shirt baggy and faded, and the soles of his trainers were peeling away from the uppers. Harry Potter's appearance did not endear him to the neighbors, who were the sort of people who thought scruffiness ought to be punishable by law, but as he had hidden himself behind a large hydrangea bush this evening he was quite invisible to passersby. In fact, the only"
+    "He was a skinny, black-haired, bespectacled boy who had the pinched, slightly unhealthy look of someone who has grown a lot in a short space of time."
+   ]
+  },
+  {
+   "begin": "81.120",
+   "children": [],
+   "end": "88.920",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "His jeans were torn and dirty, his T-shirt baggy and faded, and the soles of his trainers were peeling away from the uppers."
+   ]
+  },
+  {
+   "begin": "88.920",
+   "children": [],
+   "end": "104.800",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Harry Potter's appearance did not endear him to the neighbors, who were the sort of people who thought scruffiness ought to be punishable by law, but as he had hidden himself behind a large hydrangea bush this evening he was quite invisible to passersby."
+   ]
+  },
+  {
+   "begin": "104.800",
+   "children": [],
+   "end": "105.600",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "In fact, the only"
    ]
   },
   {
    "begin": "105.600",
    "children": [],
    "end": "115.040",
-   "id": "f000004",
+   "id": "f000010",
    "language": "eng",
    "lines": [
     "way he would be spotted was if his Uncle Vernon or Aunt Petunia stuck their heads out of the living room window and looked straight down into the flower bed below."
@@ -43,38 +103,78 @@
   {
    "begin": "115.040",
    "children": [],
-   "end": "140.600",
-   "id": "f000005",
+   "end": "120.400",
+   "id": "f000011",
    "language": "eng",
    "lines": [
-    "On the whole, Harry thought he was to be congratulated on his idea of hiding here. He was not, perhaps, very comfortable lying on the hot, hard earth, but on the other hand, nobody was glaring at him, grinding their teeth so loudly that he could not hear the news, or shooting nasty questions at him, as had happened every time he had tried sitting down in the living room and watching television with his aunt and uncle."
+    "On the whole, Harry thought he was to be congratulated on his idea of hiding here."
    ]
   },
   {
-   "begin": "140.600",
+   "begin": "120.400",
    "children": [],
-   "end": "151.720",
-   "id": "f000006",
+   "end": "140.640",
+   "id": "f000012",
    "language": "eng",
    "lines": [
-    "Almost as though this thought had fluttered through the open window, Vernon Dursley, Harry's uncle, suddenly spoke. \"Glad to see the boy's stopped trying to butt in. Where is he anyway?\""
+    "He was not, perhaps, very comfortable lying on the hot, hard earth, but on the other hand, nobody was glaring at him, grinding their teeth so loudly that he could not hear the news, or shooting nasty questions at him, as had happened every time he had tried sitting down in the living room and watching television with his aunt and uncle."
+   ]
+  },
+  {
+   "begin": "140.640",
+   "children": [],
+   "end": "146.600",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Almost as though this thought had fluttered through the open window, Vernon Dursley, Harry's uncle, suddenly spoke."
+   ]
+  },
+  {
+   "begin": "146.600",
+   "children": [],
+   "end": "150.600",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "\"Glad to see the boy's stopped trying to butt in."
+   ]
+  },
+  {
+   "begin": "150.600",
+   "children": [],
+   "end": "151.720",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Where is he anyway?\""
    ]
   },
   {
    "begin": "151.720",
    "children": [],
-   "end": "158.200",
-   "id": "f000007",
+   "end": "156.040",
+   "id": "f000016",
    "language": "eng",
    "lines": [
-    "\"I don't know,\" said Aunt Petunia unconcernedly. \"Not in the house.\""
+    "\"I don't know,\" said Aunt Petunia unconcernedly."
+   ]
+  },
+  {
+   "begin": "156.040",
+   "children": [],
+   "end": "158.200",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "\"Not in the house.\""
    ]
   },
   {
    "begin": "158.200",
    "children": [],
    "end": "159.480",
-   "id": "f000008",
+   "id": "f000018",
    "language": "eng",
    "lines": [
     "Uncle Vernon grunted."
@@ -83,28 +183,68 @@
   {
    "begin": "159.480",
    "children": [],
-   "end": "177.280",
-   "id": "f000009",
+   "end": "163.280",
+   "id": "f000019",
    "language": "eng",
    "lines": [
-    "\"Watching the news . . .\" he said scathingly. \"I'd like to know what he's really up to. As if a normal boy cares what's on the news - Dudley hasn't got a clue what's going on, doubt he knows who the Prime Minister is! Anyway, it's not as if there'd be anything about his lot on our news - \""
+    "\"Watching the news . . .\" he said scathingly."
+   ]
+  },
+  {
+   "begin": "163.280",
+   "children": [],
+   "end": "165.800",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "\"I'd like to know what he's really up to."
+   ]
+  },
+  {
+   "begin": "165.800",
+   "children": [],
+   "end": "173.320",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "As if a normal boy cares what's on the news - Dudley hasn't got a clue what's going on, doubt he knows who the Prime Minister is!"
+   ]
+  },
+  {
+   "begin": "173.320",
+   "children": [],
+   "end": "177.280",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Anyway, it's not as if there'd be anything about his lot on our news - \""
    ]
   },
   {
    "begin": "177.280",
    "children": [],
-   "end": "182.320",
-   "id": "f000010",
+   "end": "181.000",
+   "id": "f000023",
    "language": "eng",
    "lines": [
-    "\"Vernon, shh!\" said Aunt Petunia. \"The window's open!\""
+    "\"Vernon, shh!\" said Aunt Petunia."
+   ]
+  },
+  {
+   "begin": "181.000",
+   "children": [],
+   "end": "182.320",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "\"The window's open!\""
    ]
   },
   {
    "begin": "182.320",
    "children": [],
    "end": "186.160",
-   "id": "f000011",
+   "id": "f000025",
    "language": "eng",
    "lines": [
     "\"Oh - yes - sorry, dear . . .\""
@@ -113,18 +253,58 @@
   {
    "begin": "186.160",
    "children": [],
-   "end": "215.920",
-   "id": "f000012",
+   "end": "188.320",
+   "id": "f000026",
    "language": "eng",
    "lines": [
-    "The Dursleys fell silent. Harry listened to a jingle about Fruit 'N Bran breakfast cereal while he watched Mrs. Figg, a batty, cat-loving old lady from nearby Wisteria Walk, amble slowly past. She was frowning and muttering to herself. Harry was very pleased that he was concealed behind the bush; Mrs. Figg had recently taken to asking him around for tea whenever she met him in the street. She had rounded the corner and vanished from view before Uncle Vernon's voice floated out of the window again."
+    "The Dursleys fell silent."
+   ]
+  },
+  {
+   "begin": "188.320",
+   "children": [],
+   "end": "198.880",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Harry listened to a jingle about Fruit 'N Bran breakfast cereal while he watched Mrs. Figg, a batty, cat-loving old lady from nearby Wisteria Walk, amble slowly past."
+   ]
+  },
+  {
+   "begin": "198.880",
+   "children": [],
+   "end": "201.720",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "She was frowning and muttering to herself."
+   ]
+  },
+  {
+   "begin": "201.720",
+   "children": [],
+   "end": "210.280",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Harry was very pleased that he was concealed behind the bush; Mrs. Figg had recently taken to asking him around for tea whenever she met him in the street."
+   ]
+  },
+  {
+   "begin": "210.280",
+   "children": [],
+   "end": "215.920",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "She had rounded the corner and vanished from view before Uncle Vernon's voice floated out of the window again."
    ]
   },
   {
    "begin": "215.920",
    "children": [],
    "end": "218.200",
-   "id": "f000013",
+   "id": "f000031",
    "language": "eng",
    "lines": [
     "\"Dudders out for tea?\""
@@ -133,38 +313,88 @@
   {
    "begin": "218.200",
    "children": [],
-   "end": "227.480",
-   "id": "f000014",
+   "end": "222.520",
+   "id": "f000032",
    "language": "eng",
    "lines": [
-    "\"At the Polkisses',\" said Aunt Petunia fondly. \"He's got so many little friends, he's so popular . . .\""
+    "\"At the Polkisses',\" said Aunt Petunia fondly."
+   ]
+  },
+  {
+   "begin": "222.520",
+   "children": [],
+   "end": "227.480",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "\"He's got so many little friends, he's so popular . . .\""
    ]
   },
   {
    "begin": "227.480",
    "children": [],
-   "end": "266.360",
-   "id": "f000015",
+   "end": "230.400",
+   "id": "f000034",
    "language": "eng",
    "lines": [
-    "Harry repressed a snort with difficulty. The Dursleys really were astonishingly stupid about their son, Dudley; they had swallowed all his dim-witted lies about having tea with a different member of his gang every night of the summer holidays. Harry knew perfectly well that Dudley had not been to tea anywhere; he and his gang spent every evening vandalizing the play park, smoking on street corners, and throwing stones at passing cars and children. Harry had seen them at it during his evening walks around Little Whinging; he had spent most of the holidays wandering the streets, scavenging newspapers from bins along the way."
+    "Harry repressed a snort with difficulty."
+   ]
+  },
+  {
+   "begin": "230.400",
+   "children": [],
+   "end": "242.080",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "The Dursleys really were astonishingly stupid about their son, Dudley; they had swallowed all his dim-witted lies about having tea with a different member of his gang every night of the summer holidays."
+   ]
+  },
+  {
+   "begin": "242.080",
+   "children": [],
+   "end": "255.160",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Harry knew perfectly well that Dudley had not been to tea anywhere; he and his gang spent every evening vandalizing the play park, smoking on street corners, and throwing stones at passing cars and children."
+   ]
+  },
+  {
+   "begin": "255.160",
+   "children": [],
+   "end": "266.360",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Harry had seen them at it during his evening walks around Little Whinging; he had spent most of the holidays wandering the streets, scavenging newspapers from bins along the way."
    ]
   },
   {
    "begin": "266.360",
    "children": [],
-   "end": "276.800",
-   "id": "f000016",
+   "end": "272.720",
+   "id": "f000038",
    "language": "eng",
    "lines": [
-    "The opening notes of the music that heralded the seven o'clock news reached Harry's ears and his stomach turned over. Perhaps tonight - after a month of waiting - would be the night -"
+    "The opening notes of the music that heralded the seven o'clock news reached Harry's ears and his stomach turned over."
+   ]
+  },
+  {
+   "begin": "272.720",
+   "children": [],
+   "end": "276.800",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Perhaps tonight - after a month of waiting - would be the night -"
    ]
   },
   {
    "begin": "276.800",
    "children": [],
    "end": "285.400",
-   "id": "f000017",
+   "id": "f000040",
    "language": "eng",
    "lines": [
     "\"Record numbers of stranded holidaymakers fill airports as the Spanish baggage-handlers' strike reaches its second week - \""
@@ -173,28 +403,48 @@
   {
    "begin": "285.400",
    "children": [],
-   "end": "306.840",
-   "id": "f000018",
+   "end": "298.760",
+   "id": "f000041",
    "language": "eng",
    "lines": [
-    "\"Give 'em a lifelong siesta, I would,\" snarled Uncle Vernon over the end of the newsreader's sentence, but no matter: Outside in the flower bed, Harry's stomach seemed to unclench. If anything had happened, it would surely have been the first item on the news; death and destruction were more important than stranded holidaymakers. . . ."
+    "\"Give 'em a lifelong siesta, I would,\" snarled Uncle Vernon over the end of the newsreader's sentence, but no matter: Outside in the flower bed, Harry's stomach seemed to unclench."
+   ]
+  },
+  {
+   "begin": "298.760",
+   "children": [],
+   "end": "306.840",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "If anything had happened, it would surely have been the first item on the news; death and destruction were more important than stranded holidaymakers. . . ."
    ]
   },
   {
    "begin": "306.840",
    "children": [],
-   "end": "324.720",
-   "id": "f000019",
+   "end": "311.200",
+   "id": "f000043",
    "language": "eng",
    "lines": [
-    "He let out a long, slow breath and stared up at the brilliant blue sky. Every day this summer had been the same: the tension, the expectation, the temporary relief, and then mounting tension again . . . and always, growing more insistent all the time, the question of why nothing had happened yet. . . ."
+    "He let out a long, slow breath and stared up at the brilliant blue sky."
+   ]
+  },
+  {
+   "begin": "311.200",
+   "children": [],
+   "end": "324.720",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "Every day this summer had been the same: the tension, the expectation, the temporary relief, and then mounting tension again . . . and always, growing more insistent all the time, the question of why nothing had happened yet. . . ."
    ]
   },
   {
    "begin": "324.720",
    "children": [],
    "end": "335.920",
-   "id": "f000020",
+   "id": "f000045",
    "language": "eng",
    "lines": [
     "He kept listening, just in case there was some small clue, not recognized for what it really was by the Muggles - an unexplained disappearance, perhaps, or some strange accident . . . but the"
@@ -203,58 +453,118 @@
   {
    "begin": "335.920",
    "children": [],
-   "end": "365.200",
-   "id": "f000021",
+   "end": "347.520",
+   "id": "f000046",
    "language": "eng",
    "lines": [
-    "baggage-handlers' strike was followed by news on the drought in the Southeast (\"I hope he's listening next door!\" bellowed Uncle Vernon, \"with his sprinklers on at three in the morning!\"); then a helicopter that had almost crashed in a field in Surrey, then a famous actress's divorce from her famous husband (\"as if we're interested in their sordid affairs,\" sniffed Aunt Petunia, who had followed the case obsessively in every magazine she could lay her bony hands on)."
+    "baggage-handlers' strike was followed by news on the drought in the Southeast (\"I hope he's listening next door!\" bellowed Uncle Vernon, \"with his sprinklers on at three in the morning!\")"
+   ]
+  },
+  {
+   "begin": "347.520",
+   "children": [],
+   "end": "365.200",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "; then a helicopter that had almost crashed in a field in Surrey, then a famous actress's divorce from her famous husband (\"as if we're interested in their sordid affairs,\" sniffed Aunt Petunia, who had followed the case obsessively in every magazine she could lay her bony hands on)."
    ]
   },
   {
    "begin": "365.200",
    "children": [],
-   "end": "384.440",
-   "id": "f000022",
+   "end": "375.840",
+   "id": "f000048",
    "language": "eng",
    "lines": [
-    "Harry closed his eyes against the now blazing evening sky as the newsreader said, \"And finally, Bungy the budgie has found a novel way of keeping cool this summer. Bungy, who lives at the Five Feathers in Barnsley, has learned to water-ski! Mary Dorkins went to find out more. . . .\""
+    "Harry closed his eyes against the now blazing evening sky as the newsreader said, \"And finally, Bungy the budgie has found a novel way of keeping cool this summer."
    ]
   },
   {
-   "begin": "384.440",
+   "begin": "375.840",
    "children": [],
-   "end": "398.440",
-   "id": "f000023",
+   "end": "380.880",
+   "id": "f000049",
    "language": "eng",
    "lines": [
-    "Harry opened his eyes again. If they had reached water-skiing budgerigars, there was nothing else worth hearing. He rolled cautiously onto his front and raised himself onto his knees and elbows, preparing to crawl out from under the window."
+    "Bungy, who lives at the Five Feathers in Barnsley, has learned to water-ski!"
    ]
   },
   {
-   "begin": "398.440",
+   "begin": "380.880",
    "children": [],
-   "end": "403.920",
-   "id": "f000024",
+   "end": "383.360",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "Mary Dorkins went to find out more. . . .\""
+   ]
+  },
+  {
+   "begin": "383.360",
+   "children": [],
+   "end": "386.480",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "Harry opened his eyes again."
+   ]
+  },
+  {
+   "begin": "386.480",
+   "children": [],
+   "end": "391.000",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "If they had reached water-skiing budgerigars, there was nothing else worth hearing."
+   ]
+  },
+  {
+   "begin": "391.000",
+   "children": [],
+   "end": "397.680",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "He rolled cautiously onto his front and raised himself onto his knees and elbows, preparing to crawl out from under the window."
+   ]
+  },
+  {
+   "begin": "397.680",
+   "children": [],
+   "end": "403.880",
+   "id": "f000054",
    "language": "eng",
    "lines": [
     "He had moved about two inches when several things happened in very quick succession."
    ]
   },
   {
-   "begin": "403.920",
+   "begin": "403.880",
    "children": [],
-   "end": "438.000",
-   "id": "f000025",
+   "end": "427.240",
+   "id": "f000055",
    "language": "eng",
    "lines": [
-    "A loud, echoing crack broke the sleepy silence like a gunshot; a cat streaked out from under a parked car and flew out of sight; a shriek, a bellowed oath, and the sound of breaking china came from the Dursleys' living room, and as though Harry had been waiting for this signal, he jumped to his feet, at the same time pulling from the waistband of his jeans a thin wooden wand as if he were unsheathing a sword. But before he could draw himself up to full height, the top of his head collided with the Dursleys' open window, and the resultant crash made Aunt Petunia scream even louder."
+    "A loud, echoing crack broke the sleepy silence like a gunshot; a cat streaked out from under a parked car and flew out of sight; a shriek, a bellowed oath, and the sound of breaking china came from the Dursleys' living room, and as though Harry had been waiting for this signal, he jumped to his feet, at the same time pulling from the waistband of his jeans a thin wooden wand as if he were unsheathing a sword."
    ]
   },
   {
-   "begin": "438.000",
+   "begin": "427.240",
+   "children": [],
+   "end": "437.080",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "But before he could draw himself up to full height, the top of his head collided with the Dursleys' open window, and the resultant crash made Aunt Petunia scream even louder."
+   ]
+  },
+  {
+   "begin": "437.080",
    "children": [],
    "end": "454.400",
-   "id": "f000026",
+   "id": "f000057",
    "language": "eng",
    "lines": [
     "Harry felt as if his head had been split in two; eyes streaming, he swayed, trying to focus on the street and spot the source of the noise, but he had barely staggered upright again when two large purple hands reached through the open window and closed tightly around his throat."
@@ -263,58 +573,138 @@
   {
    "begin": "454.400",
    "children": [],
-   "end": "463.360",
-   "id": "f000027",
+   "end": "457.600",
+   "id": "f000058",
    "language": "eng",
    "lines": [
-    "\"Put - it - away!\" Uncle Vernon snarled into Harry's ear. \"Now! Before - anyone - sees!\""
+    "\"Put - it - away!\""
+   ]
+  },
+  {
+   "begin": "457.600",
+   "children": [],
+   "end": "460.000",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "Uncle Vernon snarled into Harry's ear."
+   ]
+  },
+  {
+   "begin": "460.000",
+   "children": [],
+   "end": "461.040",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "\"Now!"
+   ]
+  },
+  {
+   "begin": "461.040",
+   "children": [],
+   "end": "463.360",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "Before - anyone - sees!\""
    ]
   },
   {
    "begin": "463.360",
    "children": [],
-   "end": "491.120",
-   "id": "f000028",
+   "end": "476.320",
+   "id": "f000062",
    "language": "eng",
    "lines": [
-    "\"Get - off - me!\" Harry gasped; for a few seconds they struggled, Harry pulling at his uncle's sausage-like fingers with his left hand, his right maintaining a firm grip on his raised wand. Then, as the pain in the top of Harry's head gave a particularly nasty throb, Uncle Vernon yelped and released Harry as though he had received an electric shock - some invisible force seemed to have surged through his nephew, making him impossible to hold."
+    "\"Get - off - me!\" Harry gasped; for a few seconds they struggled, Harry pulling at his uncle's sausage-like fingers with his left hand, his right maintaining a firm grip on his raised wand."
+   ]
+  },
+  {
+   "begin": "476.320",
+   "children": [],
+   "end": "491.120",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "Then, as the pain in the top of Harry's head gave a particularly nasty throb, Uncle Vernon yelped and released Harry as though he had received an electric shock - some invisible force seemed to have surged through his nephew, making him impossible to hold."
    ]
   },
   {
    "begin": "491.120",
    "children": [],
-   "end": "509.800",
-   "id": "f000029",
+   "end": "497.840",
+   "id": "f000064",
    "language": "eng",
    "lines": [
-    "Panting, Harry fell forward over the hydrangea bush, straightened up, and stared around. There was no sign of what had caused the loud cracking noise, but there were several faces peering through various nearby windows. Harry stuffed his wand hastily back into his jeans and tried to look innocent."
+    "Panting, Harry fell forward over the hydrangea bush, straightened up, and stared around."
+   ]
+  },
+  {
+   "begin": "497.840",
+   "children": [],
+   "end": "505.640",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "There was no sign of what had caused the loud cracking noise, but there were several faces peering through various nearby windows."
+   ]
+  },
+  {
+   "begin": "505.640",
+   "children": [],
+   "end": "509.800",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "Harry stuffed his wand hastily back into his jeans and tried to look innocent."
    ]
   },
   {
    "begin": "509.800",
    "children": [],
-   "end": "524.680",
-   "id": "f000030",
+   "end": "517.600",
+   "id": "f000067",
    "language": "eng",
    "lines": [
-    "\"Lovely evening!\" shouted Uncle Vernon, waving at Mrs. Number Seven, who was glaring from behind her net curtains. \"Did you hear that car backfire just now? Gave Petunia and me quite a turn!\""
+    "\"Lovely evening!\" shouted Uncle Vernon, waving at Mrs. Number Seven, who was glaring from behind her net curtains."
    ]
   },
   {
-   "begin": "524.680",
+   "begin": "517.600",
    "children": [],
-   "end": "536.720",
-   "id": "f000031",
+   "end": "520.880",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "\"Did you hear that car backfire just now?"
+   ]
+  },
+  {
+   "begin": "520.880",
+   "children": [],
+   "end": "523.840",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "Gave Petunia and me quite a turn!\""
+   ]
+  },
+  {
+   "begin": "523.840",
+   "children": [],
+   "end": "535.920",
+   "id": "f000070",
    "language": "eng",
    "lines": [
     "He continued to grin in a horrible, manic way until all the curious neighbors had disappeared from their various windows, then the grin became a grimace of rage as he beckoned Harry back toward him."
    ]
   },
   {
-   "begin": "536.720",
+   "begin": "535.920",
    "children": [],
    "end": "544.960",
-   "id": "f000032",
+   "id": "f000071",
    "language": "eng",
    "lines": [
     "Harry moved a few steps closer, taking care to stop just short of the point at which Uncle Vernon's outstretched hands could resume their strangling."
@@ -324,7 +714,7 @@
    "begin": "544.960",
    "children": [],
    "end": "553.080",
-   "id": "f000033",
+   "id": "f000072",
    "language": "eng",
    "lines": [
     "\"What the devil do you mean by it, boy?\" asked Uncle Vernon in a croaky voice that trembled with fury."
@@ -333,18 +723,28 @@
   {
    "begin": "553.080",
    "children": [],
-   "end": "562.080",
-   "id": "f000034",
+   "end": "557.080",
+   "id": "f000073",
    "language": "eng",
    "lines": [
-    "\"What do I mean by what?\" said Harry coldly. He kept looking left and right up the street, still hoping to see the person who had made the cracking noise."
+    "\"What do I mean by what?\" said Harry coldly."
+   ]
+  },
+  {
+   "begin": "557.080",
+   "children": [],
+   "end": "562.080",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "He kept looking left and right up the street, still hoping to see the person who had made the cracking noise."
    ]
   },
   {
    "begin": "562.080",
    "children": [],
    "end": "566.280",
-   "id": "f000035",
+   "id": "f000075",
    "language": "eng",
    "lines": [
     "\"Making a racket like a starting pistol right outside our - \""
@@ -354,7 +754,7 @@
    "begin": "566.280",
    "children": [],
    "end": "570.480",
-   "id": "f000036",
+   "id": "f000076",
    "language": "eng",
    "lines": [
     "\"I didn't make that noise,\" said Harry firmly."
@@ -363,18 +763,28 @@
   {
    "begin": "570.480",
    "children": [],
-   "end": "577.040",
-   "id": "f000037",
+   "end": "575.800",
+   "id": "f000077",
    "language": "eng",
    "lines": [
-    "Aunt Petunia's thin, horsey face now appeared beside Uncle Vernon's wide, purple one. She looked livid."
+    "Aunt Petunia's thin, horsey face now appeared beside Uncle Vernon's wide, purple one."
+   ]
+  },
+  {
+   "begin": "575.800",
+   "children": [],
+   "end": "577.040",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "She looked livid."
    ]
   },
   {
    "begin": "577.040",
    "children": [],
    "end": "579.720",
-   "id": "f000038",
+   "id": "f000079",
    "language": "eng",
    "lines": [
     "\"Why were you lurking under our window?\""
@@ -383,18 +793,28 @@
   {
    "begin": "579.720",
    "children": [],
-   "end": "585.760",
-   "id": "f000039",
+   "end": "583.280",
+   "id": "f000080",
    "language": "eng",
    "lines": [
-    "\"Yes - yes, good point, Petunia! What were you doing under our window, boy?\""
+    "\"Yes - yes, good point, Petunia!"
+   ]
+  },
+  {
+   "begin": "583.280",
+   "children": [],
+   "end": "585.760",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "What were you doing under our window, boy?\""
    ]
   },
   {
    "begin": "585.760",
    "children": [],
    "end": "590.880",
-   "id": "f000040",
+   "id": "f000082",
    "language": "eng",
    "lines": [
     "\"Listening to the news,\" said Harry in a resigned voice."
@@ -404,7 +824,7 @@
    "begin": "590.880",
    "children": [],
    "end": "593.360",
-   "id": "f000041",
+   "id": "f000083",
    "language": "eng",
    "lines": [
     "His aunt and uncle exchanged looks of outrage."
@@ -413,18 +833,28 @@
   {
    "begin": "593.360",
    "children": [],
-   "end": "595.600",
-   "id": "f000042",
+   "end": "595.280",
+   "id": "f000084",
    "language": "eng",
    "lines": [
-    "\"Listening to the news! Again?\""
+    "\"Listening to the news!"
+   ]
+  },
+  {
+   "begin": "595.280",
+   "children": [],
+   "end": "595.600",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "Again?\""
    ]
   },
   {
    "begin": "595.600",
    "children": [],
    "end": "600.000",
-   "id": "f000043",
+   "id": "f000086",
    "language": "eng",
    "lines": [
     "\"Well, it changes every day, you see,\" said Harry."
@@ -433,18 +863,38 @@
   {
    "begin": "600.000",
    "children": [],
-   "end": "610.600",
-   "id": "f000044",
+   "end": "602.920",
+   "id": "f000087",
    "language": "eng",
    "lines": [
-    "\"Don't you be clever with me, boy! I want to know what you're really up to - and don't give me any more of this listening to the news tosh! You know perfectly well that your lot . . .\""
+    "\"Don't you be clever with me, boy!"
+   ]
+  },
+  {
+   "begin": "602.920",
+   "children": [],
+   "end": "608.720",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "I want to know what you're really up to - and don't give me any more of this listening to the news tosh!"
+   ]
+  },
+  {
+   "begin": "608.720",
+   "children": [],
+   "end": "610.600",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "You know perfectly well that your lot . . .\""
    ]
   },
   {
    "begin": "610.600",
    "children": [],
    "end": "622.280",
-   "id": "f000045",
+   "id": "f000090",
    "language": "eng",
    "lines": [
     "\"Careful, Vernon!\" breathed Aunt Petunia, and Uncle Vernon lowered his voice so that Harry could barely hear him, \". . . that your lot don't get on our news!\""
@@ -453,48 +903,88 @@
   {
    "begin": "622.280",
    "children": [],
-   "end": "626.000",
-   "id": "f000046",
+   "end": "625.240",
+   "id": "f000091",
    "language": "eng",
    "lines": [
     "\"That's all you know,\" said Harry."
    ]
   },
   {
-   "begin": "626.000",
+   "begin": "625.240",
    "children": [],
-   "end": "641.440",
-   "id": "f000047",
+   "end": "631.560",
+   "id": "f000092",
    "language": "eng",
    "lines": [
-    "The Dursleys goggled at him for a few seconds, then Aunt Petunia said, \"You're a nasty little liar. What are all those - \" she too lowered her voice so that Harry had to lip-read the next word, \" - owls doing if they're not bringing you news?\""
+    "The Dursleys goggled at him for a few seconds, then Aunt Petunia said, \"You're a nasty little liar."
+   ]
+  },
+  {
+   "begin": "631.560",
+   "children": [],
+   "end": "641.440",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "What are all those - \" she too lowered her voice so that Harry had to lip-read the next word, \" - owls doing if they're not bringing you news?\""
    ]
   },
   {
    "begin": "641.440",
    "children": [],
-   "end": "653.040",
-   "id": "f000048",
+   "end": "645.880",
+   "id": "f000094",
    "language": "eng",
    "lines": [
-    "\"Aha!\" said Uncle Vernon in a triumphant whisper. \"Get out of that one, boy! As if we didn't know you get all your news from those pestilential birds!\""
+    "\"Aha!\" said Uncle Vernon in a triumphant whisper."
    ]
   },
   {
-   "begin": "653.040",
+   "begin": "645.880",
    "children": [],
-   "end": "662.520",
-   "id": "f000049",
+   "end": "647.920",
+   "id": "f000095",
    "language": "eng",
    "lines": [
-    "Harry hesitated for a moment. It cost him something to tell the truth this time, even though his aunt and uncle could not possibly know how bad Harry felt at admitting it."
+    "\"Get out of that one, boy!"
+   ]
+  },
+  {
+   "begin": "647.920",
+   "children": [],
+   "end": "653.720",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "As if we didn't know you get all your news from those pestilential birds!\""
+   ]
+  },
+  {
+   "begin": "653.720",
+   "children": [],
+   "end": "655.680",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "Harry hesitated for a moment."
+   ]
+  },
+  {
+   "begin": "655.680",
+   "children": [],
+   "end": "662.520",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "It cost him something to tell the truth this time, even though his aunt and uncle could not possibly know how bad Harry felt at admitting it."
    ]
   },
   {
    "begin": "662.520",
    "children": [],
    "end": "668.040",
-   "id": "f000050",
+   "id": "f000099",
    "language": "eng",
    "lines": [
     "\"The owls . . . aren't bringing me news,\" said Harry tonelessly."
@@ -504,7 +994,7 @@
    "begin": "668.040",
    "children": [],
    "end": "671.960",
-   "id": "f000051",
+   "id": "f000100",
    "language": "eng",
    "lines": [
     "\"I don't believe it,\" said Aunt Petunia at once."
@@ -514,7 +1004,7 @@
    "begin": "671.960",
    "children": [],
    "end": "675.400",
-   "id": "f000052",
+   "id": "f000101",
    "language": "eng",
    "lines": [
     "\"No more do I,\" said Uncle Vernon forcefully."
@@ -524,7 +1014,7 @@
    "begin": "675.400",
    "children": [],
    "end": "679.120",
-   "id": "f000053",
+   "id": "f000102",
    "language": "eng",
    "lines": [
     "\"We know you're up to something funny,\" said Aunt Petunia."
@@ -534,7 +1024,7 @@
    "begin": "679.120",
    "children": [],
    "end": "682.400",
-   "id": "f000054",
+   "id": "f000103",
    "language": "eng",
    "lines": [
     "\"We're not stupid, you know,\" said Uncle Vernon."
@@ -543,58 +1033,138 @@
   {
    "begin": "682.400",
    "children": [],
-   "end": "690.960",
-   "id": "f000055",
+   "end": "690.920",
+   "id": "f000104",
    "language": "eng",
    "lines": [
     "\"Well, that's news to me,\" said Harry, his temper rising, and before the Dursleys could call him back, he had wheeled about, crossed the"
    ]
   },
   {
-   "begin": "690.960",
+   "begin": "690.920",
    "children": [],
-   "end": "696.040",
-   "id": "f000056",
+   "end": "695.040",
+   "id": "f000105",
    "language": "eng",
    "lines": [
     "front lawn, stepped over the low garden wall, and was striding off up the street."
    ]
   },
   {
-   "begin": "696.040",
+   "begin": "695.040",
    "children": [],
-   "end": "707.160",
-   "id": "f000057",
+   "end": "698.120",
+   "id": "f000106",
    "language": "eng",
    "lines": [
-    "He was in trouble now and he knew it. He would have to face his aunt and uncle later and pay the price for his rudeness, but he did not care very much just at the moment; he had much more pressing matters on his mind."
+    "He was in trouble now and he knew it."
+   ]
+  },
+  {
+   "begin": "698.120",
+   "children": [],
+   "end": "707.160",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "He would have to face his aunt and uncle later and pay the price for his rudeness, but he did not care very much just at the moment; he had much more pressing matters on his mind."
    ]
   },
   {
    "begin": "707.160",
    "children": [],
-   "end": "738.360",
-   "id": "f000058",
+   "end": "713.680",
+   "id": "f000108",
    "language": "eng",
    "lines": [
-    "Harry was sure that the cracking noise had been made by someone Apparating or Disapparating. It was exactly the sound Dobby the house-elf made when he vanished into thin air. Was it possible that Dobby was here in Privet Drive? Could Dobby be following him right at this very moment? As this thought occurred he wheeled around and stared back down Privet Drive, but it appeared to be completely deserted again and Harry was sure that Dobby did not know how to become invisible. . . ."
+    "Harry was sure that the cracking noise had been made by someone Apparating or Disapparating."
    ]
   },
   {
-   "begin": "738.360",
+   "begin": "713.680",
    "children": [],
-   "end": "764.280",
-   "id": "f000059",
+   "end": "718.600",
+   "id": "f000109",
    "language": "eng",
    "lines": [
-    "He walked on, hardly aware of the route he was taking, for he had pounded these streets so often lately that his feet carried him to his favorite haunts automatically. Every few steps he glanced back over his shoulder. Someone magical had been near him as he lay among Aunt Petunias dying begonias, he was sure of it. Why hadn't they spoken to him, why hadn't they made contact, why were they hiding now?"
+    "It was exactly the sound Dobby the house-elf made when he vanished into thin air."
    ]
   },
   {
-   "begin": "764.280",
+   "begin": "718.600",
+   "children": [],
+   "end": "722.560",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "Was it possible that Dobby was here in Privet Drive?"
+   ]
+  },
+  {
+   "begin": "722.560",
+   "children": [],
+   "end": "726.680",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "Could Dobby be following him right at this very moment?"
+   ]
+  },
+  {
+   "begin": "726.680",
+   "children": [],
+   "end": "737.560",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "As this thought occurred he wheeled around and stared back down Privet Drive, but it appeared to be completely deserted again and Harry was sure that Dobby did not know how to become invisible. . . ."
+   ]
+  },
+  {
+   "begin": "737.560",
+   "children": [],
+   "end": "747.840",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "He walked on, hardly aware of the route he was taking, for he had pounded these streets so often lately that his feet carried him to his favorite haunts automatically."
+   ]
+  },
+  {
+   "begin": "747.840",
+   "children": [],
+   "end": "751.000",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "Every few steps he glanced back over his shoulder."
+   ]
+  },
+  {
+   "begin": "751.000",
+   "children": [],
+   "end": "757.560",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Someone magical had been near him as he lay among Aunt Petunias dying begonias, he was sure of it."
+   ]
+  },
+  {
+   "begin": "757.560",
+   "children": [],
+   "end": "763.400",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "Why hadn't they spoken to him, why hadn't they made contact, why were they hiding now?"
+   ]
+  },
+  {
+   "begin": "763.400",
    "children": [],
    "end": "768.600",
-   "id": "f000060",
+   "id": "f000117",
    "language": "eng",
    "lines": [
     "And then, as his feeling of frustration peaked, his certainty leaked away."
@@ -603,18 +1173,38 @@
   {
    "begin": "768.600",
    "children": [],
-   "end": "787.720",
-   "id": "f000061",
+   "end": "772.200",
+   "id": "f000118",
    "language": "eng",
    "lines": [
-    "Perhaps it hadn't been a magical sound after all. Perhaps he was so desperate for the tiniest sign of contact from the world to which he belonged that he was simply overreacting to perfectly ordinary noises. Could he be sure it hadn't been the sound of something breaking inside a neighbor's house?"
+    "Perhaps it hadn't been a magical sound after all."
    ]
   },
   {
-   "begin": "787.720",
+   "begin": "772.200",
+   "children": [],
+   "end": "781.680",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "Perhaps he was so desperate for the tiniest sign of contact from the world to which he belonged that he was simply overreacting to perfectly ordinary noises."
+   ]
+  },
+  {
+   "begin": "781.680",
+   "children": [],
+   "end": "786.960",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "Could he be sure it hadn't been the sound of something breaking inside a neighbor's house?"
+   ]
+  },
+  {
+   "begin": "786.960",
    "children": [],
    "end": "797.000",
-   "id": "f000062",
+   "id": "f000121",
    "language": "eng",
    "lines": [
     "Harry felt a dull, sinking sensation in his stomach and, before he knew it, the feeling of hopelessness that had plagued him all summer rolled over him once again. . . ."
@@ -624,7 +1214,7 @@
    "begin": "797.000",
    "children": [],
    "end": "800.680",
-   "id": "f000063",
+   "id": "f000122",
    "language": "eng",
    "lines": [
     "Tomorrow morning he would be awoken by the alarm at five"
@@ -633,18 +1223,28 @@
   {
    "begin": "800.680",
    "children": [],
-   "end": "820.760",
-   "id": "f000064",
+   "end": "807.240",
+   "id": "f000123",
    "language": "eng",
    "lines": [
-    "o'clock so that he could pay the owl that delivered the Daily Prophet - but was there any point in continuing to take it? Harry merely glanced at the front page before throwing it aside these days; when the idiots who ran the paper finally realized that Voldemort was back it would be headline news, and that was the only kind Harry cared about."
+    "o'clock so that he could pay the owl that delivered the Daily Prophet - but was there any point in continuing to take it?"
+   ]
+  },
+  {
+   "begin": "807.240",
+   "children": [],
+   "end": "820.760",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "Harry merely glanced at the front page before throwing it aside these days; when the idiots who ran the paper finally realized that Voldemort was back it would be headline news, and that was the only kind Harry cared about."
    ]
   },
   {
    "begin": "820.760",
    "children": [],
    "end": "832.120",
-   "id": "f000065",
+   "id": "f000125",
    "language": "eng",
    "lines": [
     "If he was lucky, there would also be owls carrying letters from his best friends, Ron and Hermione, though any expectation he had had that their letters would bring him news had long since been dashed."
@@ -653,168 +1253,548 @@
   {
    "begin": "832.120",
    "children": [],
-   "end": "849.920",
-   "id": "f000066",
+   "end": "848.840",
+   "id": "f000126",
    "language": "eng",
    "lines": [
     "\"We can't say much about you-know-what, obviously. . . .\" \"We've been told not to say anything important in case our letters go astray. . . .\" \"We're quite busy but I can't give you details here. . . .\" \"There's a fair amount going on, we'll tell you everything when we see you. . . .\""
    ]
   },
   {
-   "begin": "849.920",
+   "begin": "848.840",
    "children": [],
-   "end": "892.320",
-   "id": "f000067",
+   "end": "851.680",
+   "id": "f000127",
    "language": "eng",
    "lines": [
-    "But when were they going to see him? Nobody seemed too bothered with a precise date. Hermione had scribbled, \"I expect we'll be seeing you quite soon\" inside his birthday card, but how soon was soon? As far as Harry could tell from the vague hints in their letters, Hermione and Ron were in the same place, presumably at Ron's parents' house. He could hardly bear to think of the pair of them having fun at the Burrow when he was stuck in Privet Drive. In fact, he was so angry at them that he had thrown both their birthday presents of Honeydukes chocolates away unopened, though he had regretted this after eating the wilting salad Aunt Petunia had provided for dinner that night."
+    "But when were they going to see him?"
    ]
   },
   {
-   "begin": "892.320",
+   "begin": "851.680",
    "children": [],
-   "end": "911.240",
-   "id": "f000068",
+   "end": "854.760",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "And what were Ron and Hermione busy with? Why wasn't he, Harry, busy? Hadn't he proved himself capable of handling much more than they? Had they all forgotten what he had done? Hadn't it been he who had entered that graveyard and watched Cedric being murdered and been tied to that tombstone and nearly killed . . . ?"
+    "Nobody seemed too bothered with a precise date."
+   ]
+  },
+  {
+   "begin": "854.760",
+   "children": [],
+   "end": "862.960",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "Hermione had scribbled, \"I expect we'll be seeing you quite soon\" inside his birthday card, but how soon was soon?"
+   ]
+  },
+  {
+   "begin": "862.960",
+   "children": [],
+   "end": "871.840",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "As far as Harry could tell from the vague hints in their letters, Hermione and Ron were in the same place, presumably at Ron's parents' house."
+   ]
+  },
+  {
+   "begin": "871.840",
+   "children": [],
+   "end": "878.120",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "He could hardly bear to think of the pair of them having fun at the Burrow when he was stuck in Privet Drive."
+   ]
+  },
+  {
+   "begin": "878.120",
+   "children": [],
+   "end": "891.600",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "In fact, he was so angry at them that he had thrown both their birthday presents of Honeydukes chocolates away unopened, though he had regretted this after eating the wilting salad Aunt Petunia had provided for dinner that night."
+   ]
+  },
+  {
+   "begin": "891.600",
+   "children": [],
+   "end": "894.640",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "And what were Ron and Hermione busy with?"
+   ]
+  },
+  {
+   "begin": "894.640",
+   "children": [],
+   "end": "897.280",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "Why wasn't he, Harry, busy?"
+   ]
+  },
+  {
+   "begin": "897.280",
+   "children": [],
+   "end": "900.880",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "Hadn't he proved himself capable of handling much more than they?"
+   ]
+  },
+  {
+   "begin": "900.880",
+   "children": [],
+   "end": "903.520",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Had they all forgotten what he had done?"
+   ]
+  },
+  {
+   "begin": "903.520",
+   "children": [],
+   "end": "911.240",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "Hadn't it been he who had entered that graveyard and watched Cedric being murdered and been tied to that tombstone and nearly killed . . . ?"
    ]
   },
   {
    "begin": "911.240",
    "children": [],
-   "end": "925.600",
-   "id": "f000069",
+   "end": "917.360",
+   "id": "f000138",
    "language": "eng",
    "lines": [
-    "Don't think about that, Harry told himself sternly for the hundredth time that summer. It was bad enough that he kept revisiting the graveyard in his nightmares, without dwelling on it in his waking moments too."
+    "Don't think about that, Harry told himself sternly for the hundredth time that summer."
    ]
   },
   {
-   "begin": "925.600",
+   "begin": "917.360",
    "children": [],
-   "end": "948.240",
-   "id": "f000070",
+   "end": "924.760",
+   "id": "f000139",
    "language": "eng",
    "lines": [
-    "He turned a corner into Magnolia Crescent; halfway along he passed the narrow alleyway down the side of a garage where he had first clapped eyes on his godfather. Sirius, at least, seemed to understand how Harry was feeling; admittedly his letters were just as empty of proper news as Ron and Hermione's, but at least they contained words of caution and consolation instead of tantalizing hints:"
+    "It was bad enough that he kept revisiting the graveyard in his nightmares, without dwelling on it in his waking moments too."
+   ]
+  },
+  {
+   "begin": "924.760",
+   "children": [],
+   "end": "934.280",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "He turned a corner into Magnolia Crescent; halfway along he passed the narrow alleyway down the side of a garage where he had first clapped eyes on his godfather."
+   ]
+  },
+  {
+   "begin": "934.280",
+   "children": [],
+   "end": "948.240",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "Sirius, at least, seemed to understand how Harry was feeling; admittedly his letters were just as empty of proper news as Ron and Hermione's, but at least they contained words of caution and consolation instead of tantalizing hints:"
    ]
   },
   {
    "begin": "948.240",
    "children": [],
-   "end": "958.120",
-   "id": "f000071",
+   "end": "957.280",
+   "id": "f000142",
    "language": "eng",
    "lines": [
     "\"I know this must be frustrating for you. . . .\" \"Keep your nose clean and everything will be okay. . . .\" \"Be careful and don't do anything rash. . . .\""
    ]
   },
   {
-   "begin": "958.120",
+   "begin": "957.280",
    "children": [],
-   "end": "1006.520",
-   "id": "f000072",
+   "end": "974.480",
+   "id": "f000143",
    "language": "eng",
    "lines": [
-    "Well, thought Harry, as he crossed Magnolia Crescent, turned into Magnolia Road, and headed toward the darkening play park, he had (by and large) done as Sirius advised; he had at least resisted the temptation to tie his trunk to his broomstick and set off for the Burrow by himself. In fact Harry thought his behavior had been very good considering how frustrated and angry he felt at being stuck in Privet Drive this long, reduced to hiding in flower beds in the hope of hearing something that might point to what Lord Voldemort was doing. Nevertheless, it was quite galling to be told not to be rash by a man who had served twelve years in the wizard prison, Azkaban, escaped, attempted to commit the murder he had been convicted for in the first place, then gone on the run with a stolen hippogriff. . . ."
+    "Well, thought Harry, as he crossed Magnolia Crescent, turned into Magnolia Road, and headed toward the darkening play park, he had (by and large) done as Sirius advised; he had at least resisted the temptation to tie his trunk to his broomstick and set off for the Burrow by himself."
    ]
   },
   {
-   "begin": "1006.520",
+   "begin": "974.480",
    "children": [],
-   "end": "1048.520",
-   "id": "f000073",
+   "end": "990.320",
+   "id": "f000144",
    "language": "eng",
    "lines": [
-    "Harry vaulted over the locked park gate and set off across the parched grass. The park was as empty as the surrounding streets. When he reached the swings he sank onto the only one that Dudley and his friends had not yet managed to break, coiled one arm around the chain, and stared moodily at the ground. He would not be able to hide in the Dursleys' flower bed again. Tomorrow he would have to think of some fresh way of listening to the news. In the meantime, he had nothing to look forward to but another restless, disturbed night, because even when he escaped nightmares about Cedric he had unsettling dreams about long dark corridors, all finishing in dead ends and locked doors, which he supposed had something to do with the"
+    "In fact Harry thought his behavior had been very good considering how frustrated and angry he felt at being stuck in Privet Drive this long, reduced to hiding in flower beds in the hope of hearing something that might point to what Lord Voldemort was doing."
+   ]
+  },
+  {
+   "begin": "990.320",
+   "children": [],
+   "end": "1005.640",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "Nevertheless, it was quite galling to be told not to be rash by a man who had served twelve years in the wizard prison, Azkaban, escaped, attempted to commit the murder he had been convicted for in the first place, then gone on the run with a stolen hippogriff. . . ."
+   ]
+  },
+  {
+   "begin": "1005.640",
+   "children": [],
+   "end": "1010.560",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "Harry vaulted over the locked park gate and set off across the parched grass."
+   ]
+  },
+  {
+   "begin": "1010.560",
+   "children": [],
+   "end": "1013.680",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "The park was as empty as the surrounding streets."
+   ]
+  },
+  {
+   "begin": "1013.680",
+   "children": [],
+   "end": "1023.440",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "When he reached the swings he sank onto the only one that Dudley and his friends had not yet managed to break, coiled one arm around the chain, and stared moodily at the ground."
+   ]
+  },
+  {
+   "begin": "1023.440",
+   "children": [],
+   "end": "1027.360",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "He would not be able to hide in the Dursleys' flower bed again."
+   ]
+  },
+  {
+   "begin": "1027.360",
+   "children": [],
+   "end": "1031.840",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "Tomorrow he would have to think of some fresh way of listening to the news."
+   ]
+  },
+  {
+   "begin": "1031.840",
+   "children": [],
+   "end": "1048.520",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "In the meantime, he had nothing to look forward to but another restless, disturbed night, because even when he escaped nightmares about Cedric he had unsettling dreams about long dark corridors, all finishing in dead ends and locked doors, which he supposed had something to do with the"
    ]
   },
   {
    "begin": "1048.520",
    "children": [],
-   "end": "1074.920",
-   "id": "f000074",
+   "end": "1050.720",
+   "id": "f000152",
    "language": "eng",
    "lines": [
-    "trapped feeling he had when he was awake. Often the old scar on his forehead prickled uncomfortably, but he did not fool himself that Ron or Hermione or Sirius would find that very interesting anymore. . . . In the past his scar hurting had warned that Voldemort was getting stronger again, but now that Voldemort was back they would probably remind him that its regular irritation was only to be expected. . . . Nothing to worry about . . . old news . . ."
+    "trapped feeling he had when he was awake."
+   ]
+  },
+  {
+   "begin": "1050.720",
+   "children": [],
+   "end": "1074.920",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "Often the old scar on his forehead prickled uncomfortably, but he did not fool himself that Ron or Hermione or Sirius would find that very interesting anymore. . . . In the past his scar hurting had warned that Voldemort was getting stronger again, but now that Voldemort was back they would probably remind him that its regular irritation was only to be expected. . . . Nothing to worry about . . . old news . . ."
    ]
   },
   {
    "begin": "1074.920",
    "children": [],
-   "end": "1135.480",
-   "id": "f000075",
+   "end": "1080.480",
+   "id": "f000154",
    "language": "eng",
    "lines": [
-    "The injustice of it all welled up inside him so that he wanted to yell with fury. If it hadn't been for him, nobody would even have known Voldemort was back! And his reward was to be stuck in Little Whinging for four solid weeks, completely cut off from the magical world, reduced to squatting among dying begonias so that he could hear about water-skiing budgerigars! How could Dumbledore have forgotten him so easily? Why had Ron and Hermione got together without inviting him along too? How much longer was he supposed to endure Sirius telling him to sit tight and be a good boy; or resist the temptation to write to the stupid Daily Prophet and point out that Voldemort had returned? These furious thoughts whirled around in Harry's head, and his insides writhed with anger as a sultry, velvety night fell around him, the air full of the smell of warm, dry grass and the only sound that of the low grumble of traffic on the road beyond the park railings."
+    "The injustice of it all welled up inside him so that he wanted to yell with fury."
    ]
   },
   {
-   "begin": "1135.480",
+   "begin": "1080.480",
    "children": [],
-   "end": "1161.680",
-   "id": "f000076",
+   "end": "1085.000",
+   "id": "f000155",
    "language": "eng",
    "lines": [
-    "He did not know how long he had sat on the swing before the sound of voices interrupted his musings and he looked up. The streetlamps from the surrounding roads were casting a misty glow strong enough to silhouette a group of people making their way across the park. One of them was singing a loud, crude song. The others were laughing. A soft ticking noise came from several expensive racing bikes that they were wheeling along."
+    "If it hadn't been for him, nobody would even have known Voldemort was back!"
    ]
   },
   {
-   "begin": "1161.680",
+   "begin": "1085.000",
+   "children": [],
+   "end": "1097.320",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "And his reward was to be stuck in Little Whinging for four solid weeks, completely cut off from the magical world, reduced to squatting among dying begonias so that he could hear about water-skiing budgerigars!"
+   ]
+  },
+  {
+   "begin": "1097.320",
+   "children": [],
+   "end": "1100.640",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "How could Dumbledore have forgotten him so easily?"
+   ]
+  },
+  {
+   "begin": "1100.640",
+   "children": [],
+   "end": "1105.120",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "Why had Ron and Hermione got together without inviting him along too?"
+   ]
+  },
+  {
+   "begin": "1105.120",
+   "children": [],
+   "end": "1117.280",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "How much longer was he supposed to endure Sirius telling him to sit tight and be a good boy; or resist the temptation to write to the stupid Daily Prophet and point out that Voldemort had returned?"
+   ]
+  },
+  {
+   "begin": "1117.280",
+   "children": [],
+   "end": "1134.640",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "These furious thoughts whirled around in Harry's head, and his insides writhed with anger as a sultry, velvety night fell around him, the air full of the smell of warm, dry grass and the only sound that of the low grumble of traffic on the road beyond the park railings."
+   ]
+  },
+  {
+   "begin": "1134.640",
+   "children": [],
+   "end": "1141.800",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "He did not know how long he had sat on the swing before the sound of voices interrupted his musings and he looked up."
+   ]
+  },
+  {
+   "begin": "1141.800",
+   "children": [],
+   "end": "1150.560",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "The streetlamps from the surrounding roads were casting a misty glow strong enough to silhouette a group of people making their way across the park."
+   ]
+  },
+  {
+   "begin": "1150.560",
+   "children": [],
+   "end": "1153.520",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "One of them was singing a loud, crude song."
+   ]
+  },
+  {
+   "begin": "1153.520",
+   "children": [],
+   "end": "1155.120",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "The others were laughing."
+   ]
+  },
+  {
+   "begin": "1155.120",
+   "children": [],
+   "end": "1160.840",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "A soft ticking noise came from several expensive racing bikes that they were wheeling along."
+   ]
+  },
+  {
+   "begin": "1160.840",
+   "children": [],
+   "end": "1163.440",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "Harry knew who those people were."
+   ]
+  },
+  {
+   "begin": "1163.440",
    "children": [],
    "end": "1171.320",
-   "id": "f000077",
+   "id": "f000167",
    "language": "eng",
    "lines": [
-    "Harry knew who those people were. The figure in front was unmistakably his cousin, Dudley Dursley, wending his way home, accompanied by his faithful gang."
+    "The figure in front was unmistakably his cousin, Dudley Dursley, wending his way home, accompanied by his faithful gang."
    ]
   },
   {
    "begin": "1171.320",
    "children": [],
-   "end": "1227.320",
-   "id": "f000078",
+   "end": "1179.760",
+   "id": "f000168",
    "language": "eng",
    "lines": [
-    "Dudley was as vast as ever, but a year's hard dieting and the discovery of a new talent had wrought quite a change in his physique. As Uncle Vernon delightedly told anyone who would listen, Dudley had recently become the Junior Heavyweight Inter-School Boxing Champion of the Southeast. \"The noble sport,\" as Uncle Vernon called it, had made Dudley even more formidable than he had seemed to Harry in the primary school days when he had served as Dudley's first punching bag. Harry was not remotely afraid of his cousin anymore but he still didn't think that Dudley learning to punch harder and more accurately was cause for celebration. Neighborhood children all around were terrified of him - even more terrified than they were of \"that Potter boy,\" who, they had been warned, was a hardened hooligan who attended St. Brutus's Secure Center for Incurably Criminal Boys."
+    "Dudley was as vast as ever, but a year's hard dieting and the discovery of a new talent had wrought quite a change in his physique."
    ]
   },
   {
-   "begin": "1227.320",
+   "begin": "1179.760",
    "children": [],
-   "end": "1245.080",
-   "id": "f000079",
+   "end": "1189.040",
+   "id": "f000169",
    "language": "eng",
    "lines": [
-    "Harry watched the dark figures crossing the grass and wondered whom they had been beating up tonight. Look round, Harry found himself thinking as he watched them. Come on . . . look round . . . I'm sitting here all alone. . . . Come and have ago. . . ."
+    "As Uncle Vernon delightedly told anyone who would listen, Dudley had recently become the Junior Heavyweight Inter-School Boxing Champion of the Southeast."
    ]
   },
   {
-   "begin": "1245.080",
+   "begin": "1189.040",
+   "children": [],
+   "end": "1201.360",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "\"The noble sport,\" as Uncle Vernon called it, had made Dudley even more formidable than he had seemed to Harry in the primary school days when he had served as Dudley's first punching bag."
+   ]
+  },
+  {
+   "begin": "1201.360",
+   "children": [],
+   "end": "1210.640",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "Harry was not remotely afraid of his cousin anymore but he still didn't think that Dudley learning to punch harder and more accurately was cause for celebration."
+   ]
+  },
+  {
+   "begin": "1210.640",
+   "children": [],
+   "end": "1226.560",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "Neighborhood children all around were terrified of him - even more terrified than they were of \"that Potter boy,\" who, they had been warned, was a hardened hooligan who attended St. Brutus's Secure Center for Incurably Criminal Boys."
+   ]
+  },
+  {
+   "begin": "1226.560",
+   "children": [],
+   "end": "1232.480",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "Harry watched the dark figures crossing the grass and wondered whom they had been beating up tonight."
+   ]
+  },
+  {
+   "begin": "1232.480",
+   "children": [],
+   "end": "1237.520",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "Look round, Harry found himself thinking as he watched them."
+   ]
+  },
+  {
+   "begin": "1237.520",
+   "children": [],
+   "end": "1244.160",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "Come on . . . look round . . . I'm sitting here all alone. . . . Come and have ago. . . ."
+   ]
+  },
+  {
+   "begin": "1244.160",
+   "children": [],
+   "end": "1251.640",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "If Dudley's friends saw him sitting here, they would be sure to make a beeline for him, and what would Dudley do then?"
+   ]
+  },
+  {
+   "begin": "1251.640",
    "children": [],
    "end": "1276.280",
-   "id": "f000080",
+   "id": "f000177",
    "language": "eng",
    "lines": [
-    "If Dudley's friends saw him sitting here, they would be sure to make a beeline for him, and what would Dudley do then? He wouldn't want to lose face in front of the gang, but he'd be terrified of provoking Harry. . . . It would be really fun to watch Dudley's dilemma; to taunt him, watch him, with him powerless to respond . . . and if any of the others tried hitting Harry, Harry was ready - he had his wand . . . let them try . . . He'd love to vent some of his frustration on the boys who had once made his life hell -"
+    "He wouldn't want to lose face in front of the gang, but he'd be terrified of provoking Harry. . . . It would be really fun to watch Dudley's dilemma; to taunt him, watch him, with him powerless to respond . . . and if any of the others tried hitting Harry, Harry was ready - he had his wand . . . let them try . . . He'd love to vent some of his frustration on the boys who had once made his life hell -"
    ]
   },
   {
    "begin": "1276.280",
    "children": [],
-   "end": "1290.640",
-   "id": "f000081",
+   "end": "1280.840",
+   "id": "f000178",
    "language": "eng",
    "lines": [
-    "But they did not turn around, they did not see him, they were almost at the railings. Harry mastered the impulse to call after them. . . . Seeking a fight was not a smart move. . . . He must not use magic. . . . He would be risking expulsion again. . . ."
+    "But they did not turn around, they did not see him, they were almost at the railings."
+   ]
+  },
+  {
+   "begin": "1280.840",
+   "children": [],
+   "end": "1290.640",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "Harry mastered the impulse to call after them. . . . Seeking a fight was not a smart move. . . . He must not use magic. . . . He would be risking expulsion again. . . ."
    ]
   },
   {
    "begin": "1290.640",
    "children": [],
    "end": "1296.880",
-   "id": "f000082",
+   "id": "f000180",
    "language": "eng",
    "lines": [
     "Dudley's gang's voices died; they were out of sight, heading along Magnolia Road."
@@ -823,48 +1803,138 @@
   {
    "begin": "1296.880",
    "children": [],
-   "end": "1307.960",
-   "id": "f000083",
+   "end": "1301.160",
+   "id": "f000181",
    "language": "eng",
    "lines": [
-    "There you go, Sirius, Harry thought dully. Nothing rash. Kept my nose clean. Exactly the opposite of what you'd have done . . ."
+    "There you go, Sirius, Harry thought dully."
    ]
   },
   {
-   "begin": "1307.960",
+   "begin": "1301.160",
    "children": [],
-   "end": "1328.600",
-   "id": "f000084",
+   "end": "1302.600",
+   "id": "f000182",
    "language": "eng",
    "lines": [
-    "He got to his feet and stretched. Aunt Petunia and Uncle Vernon seemed to feel that whenever Dudley turned up was the right time to be home, and anytime after that was much too late. Uncle Vernon had threatened to lock Harry in the shed if he came home after Dudley again, so, stifling a yawn, still scowling, Harry set off toward the park gate."
+    "Nothing rash."
+   ]
+  },
+  {
+   "begin": "1302.600",
+   "children": [],
+   "end": "1304.200",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "Kept my nose clean."
+   ]
+  },
+  {
+   "begin": "1304.200",
+   "children": [],
+   "end": "1307.120",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "Exactly the opposite of what you'd have done . . ."
+   ]
+  },
+  {
+   "begin": "1307.120",
+   "children": [],
+   "end": "1309.760",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "He got to his feet and stretched."
+   ]
+  },
+  {
+   "begin": "1309.760",
+   "children": [],
+   "end": "1318.520",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "Aunt Petunia and Uncle Vernon seemed to feel that whenever Dudley turned up was the right time to be home, and anytime after that was much too late."
+   ]
+  },
+  {
+   "begin": "1318.520",
+   "children": [],
+   "end": "1328.600",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "Uncle Vernon had threatened to lock Harry in the shed if he came home after Dudley again, so, stifling a yawn, still scowling, Harry set off toward the park gate."
    ]
   },
   {
    "begin": "1328.600",
    "children": [],
-   "end": "1369.680",
-   "id": "f000085",
+   "end": "1341.560",
+   "id": "f000188",
    "language": "eng",
    "lines": [
-    "Magnolia Road, like Privet Drive, was full of large, square houses with perfectly manicured lawns, all owned by large, square owners who drove very clean cars similar to Uncle Vernon's. Harry preferred Little Whinging by night, when the curtained windows made patches of jewel-bright colors in the darkness and he ran no danger of hearing disapproving mutters about his \"delinquent\" appearance when he passed the householders. He walked quickly, so that halfway along Magnolia Road Dudley's gang came into view again; they were saying their farewells at the entrance to Magnolia Crescent. Harry stepped into the shadow of a large lilac tree and waited."
+    "Magnolia Road, like Privet Drive, was full of large, square houses with perfectly manicured lawns, all owned by large, square owners who drove very clean cars similar to Uncle Vernon's."
+   ]
+  },
+  {
+   "begin": "1341.560",
+   "children": [],
+   "end": "1355.320",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "Harry preferred Little Whinging by night, when the curtained windows made patches of jewel-bright colors in the darkness and he ran no danger of hearing disapproving mutters about his \"delinquent\" appearance when he passed the householders."
+   ]
+  },
+  {
+   "begin": "1355.320",
+   "children": [],
+   "end": "1365.440",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "He walked quickly, so that halfway along Magnolia Road Dudley's gang came into view again; they were saying their farewells at the entrance to Magnolia Crescent."
+   ]
+  },
+  {
+   "begin": "1365.440",
+   "children": [],
+   "end": "1369.680",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "Harry stepped into the shadow of a large lilac tree and waited."
    ]
   },
   {
    "begin": "1369.680",
    "children": [],
-   "end": "1375.560",
-   "id": "f000086",
+   "end": "1372.400",
+   "id": "f000192",
    "language": "eng",
    "lines": [
-    "\". . . squealed like a pig, didn't he?\" Malcolm was saying, to guffaws from the others."
+    "\". . . squealed like a pig, didn't he?\""
+   ]
+  },
+  {
+   "begin": "1372.400",
+   "children": [],
+   "end": "1375.560",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "Malcolm was saying, to guffaws from the others."
    ]
   },
   {
    "begin": "1375.560",
    "children": [],
    "end": "1379.440",
-   "id": "f000087",
+   "id": "f000194",
    "language": "eng",
    "lines": [
     "\"Nice right hook, Big D,\" said Piers."
@@ -874,7 +1944,7 @@
    "begin": "1379.440",
    "children": [],
    "end": "1382.760",
-   "id": "f000088",
+   "id": "f000195",
    "language": "eng",
    "lines": [
     "\"Same time tomorrow?\" said Dudley."
@@ -884,7 +1954,7 @@
    "begin": "1382.760",
    "children": [],
    "end": "1387.280",
-   "id": "f000089",
+   "id": "f000196",
    "language": "eng",
    "lines": [
     "\"Round at my place, my parents are out,\" said Gordon."
@@ -894,7 +1964,7 @@
    "begin": "1387.280",
    "children": [],
    "end": "1389.800",
-   "id": "f000090",
+   "id": "f000197",
    "language": "eng",
    "lines": [
     "\"See you then,\" said Dudley."
@@ -904,7 +1974,7 @@
    "begin": "1389.800",
    "children": [],
    "end": "1391.000",
-   "id": "f000091",
+   "id": "f000198",
    "language": "eng",
    "lines": [
     "\"Bye Dud!\""
@@ -913,28 +1983,38 @@
   {
    "begin": "1391.000",
    "children": [],
-   "end": "1393.280",
-   "id": "f000092",
+   "end": "1392.520",
+   "id": "f000199",
    "language": "eng",
    "lines": [
     "\"See ya, Big D!\""
    ]
   },
   {
-   "begin": "1393.280",
+   "begin": "1392.520",
    "children": [],
-   "end": "1410.240",
-   "id": "f000093",
+   "end": "1396.840",
+   "id": "f000200",
    "language": "eng",
    "lines": [
-    "Harry waited for the rest of the gang to move on before setting off again. When their voices had faded once more he headed around the corner into Magnolia Crescent and by walking very quickly he soon came within hailing distance of Dudley, who was strolling along at his ease, humming tunelessly."
+    "Harry waited for the rest of the gang to move on before setting off again."
+   ]
+  },
+  {
+   "begin": "1396.840",
+   "children": [],
+   "end": "1410.240",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "When their voices had faded once more he headed around the corner into Magnolia Crescent and by walking very quickly he soon came within hailing distance of Dudley, who was strolling along at his ease, humming tunelessly."
    ]
   },
   {
    "begin": "1410.240",
    "children": [],
    "end": "1412.680",
-   "id": "f000094",
+   "id": "f000202",
    "language": "eng",
    "lines": [
     "\"Hey, Big D!\""
@@ -944,7 +2024,7 @@
    "begin": "1412.680",
    "children": [],
    "end": "1414.040",
-   "id": "f000095",
+   "id": "f000203",
    "language": "eng",
    "lines": [
     "Dudley turned."
@@ -953,18 +2033,28 @@
   {
    "begin": "1414.040",
    "children": [],
-   "end": "1417.120",
-   "id": "f000096",
+   "end": "1416.200",
+   "id": "f000204",
    "language": "eng",
    "lines": [
-    "\"Oh,\" he grunted. \"It's you.\""
+    "\"Oh,\" he grunted."
+   ]
+  },
+  {
+   "begin": "1416.200",
+   "children": [],
+   "end": "1417.120",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "\"It's you.\""
    ]
   },
   {
    "begin": "1417.120",
    "children": [],
    "end": "1421.120",
-   "id": "f000097",
+   "id": "f000206",
    "language": "eng",
    "lines": [
     "\"How long have you been 'Big D' then?\" said Harry."
@@ -974,7 +2064,7 @@
    "begin": "1421.120",
    "children": [],
    "end": "1424.640",
-   "id": "f000098",
+   "id": "f000207",
    "language": "eng",
    "lines": [
     "\"Shut it,\" snarled Dudley, turning away again."
@@ -983,18 +2073,28 @@
   {
    "begin": "1424.640",
    "children": [],
-   "end": "1434.760",
-   "id": "f000099",
+   "end": "1430.480",
+   "id": "f000208",
    "language": "eng",
    "lines": [
-    "\"Cool name,\" said Harry, grinning and falling into step beside his cousin. \"But you'll always be Ickle Diddykins to me.\""
+    "\"Cool name,\" said Harry, grinning and falling into step beside his cousin."
+   ]
+  },
+  {
+   "begin": "1430.480",
+   "children": [],
+   "end": "1434.760",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "\"But you'll always be Ickle Diddykins to me.\""
    ]
   },
   {
    "begin": "1434.760",
    "children": [],
    "end": "1440.280",
-   "id": "f000100",
+   "id": "f000210",
    "language": "eng",
    "lines": [
     "\"I said, SHUT IT!\" said Dudley, whose ham-like hands had curled into fists."
@@ -1004,7 +2104,7 @@
    "begin": "1440.280",
    "children": [],
    "end": "1443.560",
-   "id": "f000101",
+   "id": "f000211",
    "language": "eng",
    "lines": [
     "\"Don't the boys know that's what your mum calls you?\""
@@ -1014,7 +2114,7 @@
    "begin": "1443.560",
    "children": [],
    "end": "1444.880",
-   "id": "f000102",
+   "id": "f000212",
    "language": "eng",
    "lines": [
     "\"Shut your face.\""
@@ -1023,38 +2123,78 @@
   {
    "begin": "1444.880",
    "children": [],
-   "end": "1453.280",
-   "id": "f000103",
+   "end": "1447.440",
+   "id": "f000213",
    "language": "eng",
    "lines": [
-    "\"You don't tell her to shut her face. What about 'popkin' and 'Dinky Diddydums,' can I use them then?\""
+    "\"You don't tell her to shut her face."
+   ]
+  },
+  {
+   "begin": "1447.440",
+   "children": [],
+   "end": "1453.280",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "What about 'popkin' and 'Dinky Diddydums,' can I use them then?\""
    ]
   },
   {
    "begin": "1453.280",
    "children": [],
-   "end": "1460.000",
-   "id": "f000104",
+   "end": "1454.920",
+   "id": "f000215",
    "language": "eng",
    "lines": [
-    "Dudley said nothing. The effort of keeping himself from hitting Harry seemed to be demanding all his self-control."
+    "Dudley said nothing."
+   ]
+  },
+  {
+   "begin": "1454.920",
+   "children": [],
+   "end": "1460.000",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "The effort of keeping himself from hitting Harry seemed to be demanding all his self-control."
    ]
   },
   {
    "begin": "1460.000",
    "children": [],
-   "end": "1471.240",
-   "id": "f000105",
+   "end": "1466.280",
+   "id": "f000217",
    "language": "eng",
    "lines": [
-    "\"So who've you been beating up tonight?\" Harry asked, his grin fading. \"Another ten-year-old? I know you did Mark Evans two nights ago - \""
+    "\"So who've you been beating up tonight?\" Harry asked, his grin fading."
+   ]
+  },
+  {
+   "begin": "1466.280",
+   "children": [],
+   "end": "1468.160",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "\"Another ten-year-old?"
+   ]
+  },
+  {
+   "begin": "1468.160",
+   "children": [],
+   "end": "1471.240",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "I know you did Mark Evans two nights ago - \""
    ]
   },
   {
    "begin": "1471.240",
    "children": [],
    "end": "1474.880",
-   "id": "f000106",
+   "id": "f000220",
    "language": "eng",
    "lines": [
     "\"He was asking for it,\" snarled Dudley."
@@ -1064,7 +2204,7 @@
    "begin": "1474.880",
    "children": [],
    "end": "1476.040",
-   "id": "f000107",
+   "id": "f000221",
    "language": "eng",
    "lines": [
     "\"Oh yeah?\""
@@ -1074,7 +2214,7 @@
    "begin": "1476.040",
    "children": [],
    "end": "1477.600",
-   "id": "f000108",
+   "id": "f000222",
    "language": "eng",
    "lines": [
     "\"He cheeked me.\""
@@ -1083,38 +2223,88 @@
   {
    "begin": "1477.600",
    "children": [],
-   "end": "1485.600",
-   "id": "f000109",
+   "end": "1478.840",
+   "id": "f000223",
    "language": "eng",
    "lines": [
-    "\"Yeah? Did he say you look like a pig that's been taught to walk on its hind legs? 'Cause that's not cheek, Dud, that's true . . .\""
+    "\"Yeah?"
+   ]
+  },
+  {
+   "begin": "1478.840",
+   "children": [],
+   "end": "1483.320",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "Did he say you look like a pig that's been taught to walk on its hind legs?"
+   ]
+  },
+  {
+   "begin": "1483.320",
+   "children": [],
+   "end": "1485.600",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "'Cause that's not cheek, Dud, that's true . . .\""
    ]
   },
   {
    "begin": "1485.600",
    "children": [],
-   "end": "1498.760",
-   "id": "f000110",
+   "end": "1488.520",
+   "id": "f000226",
    "language": "eng",
    "lines": [
-    "A muscle was twitching in Dudley's jaw. It gave Harry enormous satisfaction to know how furious he was making Dudley; he felt as though he was siphoning off his own frustration into his cousin, the only outlet he had."
+    "A muscle was twitching in Dudley's jaw."
+   ]
+  },
+  {
+   "begin": "1488.520",
+   "children": [],
+   "end": "1498.760",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "It gave Harry enormous satisfaction to know how furious he was making Dudley; he felt as though he was siphoning off his own frustration into his cousin, the only outlet he had."
    ]
   },
   {
    "begin": "1498.760",
    "children": [],
-   "end": "1518.920",
-   "id": "f000111",
+   "end": "1507.760",
+   "id": "f000228",
    "language": "eng",
    "lines": [
-    "They turned right down the narrow alleyway where Harry had first seen Sirius and which formed a shortcut between Magnolia Crescent and Wisteria Walk. It was empty and much darker than the streets it linked because there were no streetlamps. Their footsteps were muffled between garage walls on one side and a high fence on the other."
+    "They turned right down the narrow alleyway where Harry had first seen Sirius and which formed a shortcut between Magnolia Crescent and Wisteria Walk."
+   ]
+  },
+  {
+   "begin": "1507.760",
+   "children": [],
+   "end": "1512.880",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "It was empty and much darker than the streets it linked because there were no streetlamps."
+   ]
+  },
+  {
+   "begin": "1512.880",
+   "children": [],
+   "end": "1518.920",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "Their footsteps were muffled between garage walls on one side and a high fence on the other."
    ]
   },
   {
    "begin": "1518.920",
    "children": [],
    "end": "1525.000",
-   "id": "f000112",
+   "id": "f000231",
    "language": "eng",
    "lines": [
     "\"Think you're a big man carrying that thing, don't you?\" Dudley said after a few seconds."
@@ -1124,7 +2314,7 @@
    "begin": "1525.000",
    "children": [],
    "end": "1526.200",
-   "id": "f000113",
+   "id": "f000232",
    "language": "eng",
    "lines": [
     "\"What thing?\""
@@ -1134,7 +2324,7 @@
    "begin": "1526.200",
    "children": [],
    "end": "1528.760",
-   "id": "f000114",
+   "id": "f000233",
    "language": "eng",
    "lines": [
     "\"That - that thing you're hiding.\""
@@ -1144,7 +2334,7 @@
    "begin": "1528.760",
    "children": [],
    "end": "1530.680",
-   "id": "f000115",
+   "id": "f000234",
    "language": "eng",
    "lines": [
     "Harry grinned again."
@@ -1153,38 +2343,78 @@
   {
    "begin": "1530.680",
    "children": [],
-   "end": "1537.520",
-   "id": "f000116",
+   "end": "1533.480",
+   "id": "f000235",
    "language": "eng",
    "lines": [
-    "\"Not as stupid as you look, are you, Dud? But I s'pose if you were, you wouldn't be able to walk and talk at the same time. . . .\""
+    "\"Not as stupid as you look, are you, Dud?"
+   ]
+  },
+  {
+   "begin": "1533.480",
+   "children": [],
+   "end": "1537.520",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "But I s'pose if you were, you wouldn't be able to walk and talk at the same time. . . .\""
    ]
   },
   {
    "begin": "1537.520",
    "children": [],
-   "end": "1542.200",
-   "id": "f000117",
+   "end": "1539.760",
+   "id": "f000237",
    "language": "eng",
    "lines": [
-    "Harry pulled out his wand. He saw Dudley look sideways at it."
+    "Harry pulled out his wand."
+   ]
+  },
+  {
+   "begin": "1539.760",
+   "children": [],
+   "end": "1542.200",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "He saw Dudley look sideways at it."
    ]
   },
   {
    "begin": "1542.200",
    "children": [],
-   "end": "1548.960",
-   "id": "f000118",
+   "end": "1545.480",
+   "id": "f000239",
    "language": "eng",
    "lines": [
-    "\"You're not allowed,\" Dudley said at once. \"I know you're not. You'd get expelled from that freak school you go to.\""
+    "\"You're not allowed,\" Dudley said at once."
+   ]
+  },
+  {
+   "begin": "1545.480",
+   "children": [],
+   "end": "1546.280",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "\"I know you're not."
+   ]
+  },
+  {
+   "begin": "1546.280",
+   "children": [],
+   "end": "1548.960",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "You'd get expelled from that freak school you go to.\""
    ]
   },
   {
    "begin": "1548.960",
    "children": [],
    "end": "1552.680",
-   "id": "f000119",
+   "id": "f000242",
    "language": "eng",
    "lines": [
     "\"How d'you know they haven't changed the rules, Big D?\""
@@ -1193,58 +2423,138 @@
   {
    "begin": "1552.680",
    "children": [],
-   "end": "1559.200",
-   "id": "f000120",
+   "end": "1557.280",
+   "id": "f000243",
    "language": "eng",
    "lines": [
-    "\"They haven't,\" said Dudley, though he didn't sound completely convinced. Harry laughed softly."
+    "\"They haven't,\" said Dudley, though he didn't sound completely convinced."
+   ]
+  },
+  {
+   "begin": "1557.280",
+   "children": [],
+   "end": "1559.200",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "Harry laughed softly."
    ]
   },
   {
    "begin": "1559.200",
    "children": [],
-   "end": "1564.040",
-   "id": "f000121",
+   "end": "1562.720",
+   "id": "f000245",
    "language": "eng",
    "lines": [
-    "\"You haven't got the guts to take me on without that thing, have you?\" Dudley snarled."
+    "\"You haven't got the guts to take me on without that thing, have you?\""
+   ]
+  },
+  {
+   "begin": "1562.720",
+   "children": [],
+   "end": "1564.040",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "Dudley snarled."
    ]
   },
   {
    "begin": "1564.040",
    "children": [],
-   "end": "1574.800",
-   "id": "f000122",
+   "end": "1568.560",
+   "id": "f000247",
    "language": "eng",
    "lines": [
-    "\"Whereas you just need four mates behind you before you can beat up a ten-year-old. You know that boxing title you keep banging on about? How old was your opponent? Seven? Eight?\""
+    "\"Whereas you just need four mates behind you before you can beat up a ten-year-old."
+   ]
+  },
+  {
+   "begin": "1568.560",
+   "children": [],
+   "end": "1571.720",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "You know that boxing title you keep banging on about?"
+   ]
+  },
+  {
+   "begin": "1571.720",
+   "children": [],
+   "end": "1573.640",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "How old was your opponent?"
+   ]
+  },
+  {
+   "begin": "1573.640",
+   "children": [],
+   "end": "1574.200",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "Seven?"
+   ]
+  },
+  {
+   "begin": "1574.200",
+   "children": [],
+   "end": "1574.800",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "Eight?\""
    ]
   },
   {
    "begin": "1574.800",
    "children": [],
-   "end": "1588.320",
-   "id": "f000123",
+   "end": "1584.760",
+   "id": "f000252",
    "language": "eng",
    "lines": [
-    "\"He was sixteen for your information,\" snarled Dudley, \"and he was out cold for twenty minutes after I'd finished with him and he was twice as heavy as you. You just wait till I tell Dad you had that thing out - \""
+    "\"He was sixteen for your information,\" snarled Dudley, \"and he was out cold for twenty minutes after I'd finished with him and he was twice as heavy as you."
+   ]
+  },
+  {
+   "begin": "1584.760",
+   "children": [],
+   "end": "1588.320",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "You just wait till I tell Dad you had that thing out - \""
    ]
   },
   {
    "begin": "1588.320",
    "children": [],
-   "end": "1595.200",
-   "id": "f000124",
+   "end": "1590.680",
+   "id": "f000254",
    "language": "eng",
    "lines": [
-    "\"Running to Daddy now, are you? Is his ickle boxing champ frightened of nasty Harry's wand?\""
+    "\"Running to Daddy now, are you?"
+   ]
+  },
+  {
+   "begin": "1590.680",
+   "children": [],
+   "end": "1595.200",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "Is his ickle boxing champ frightened of nasty Harry's wand?\""
    ]
   },
   {
    "begin": "1595.200",
    "children": [],
    "end": "1599.000",
-   "id": "f000125",
+   "id": "f000256",
    "language": "eng",
    "lines": [
     "\"Not this brave at night, are you?\" sneered Dudley."
@@ -1253,38 +2563,78 @@
   {
    "begin": "1599.000",
    "children": [],
-   "end": "1604.960",
-   "id": "f000126",
+   "end": "1601.840",
+   "id": "f000257",
    "language": "eng",
    "lines": [
-    "\"This is night, Diddykins. That's what we call it when it goes all dark like this.\""
+    "\"This is night, Diddykins."
+   ]
+  },
+  {
+   "begin": "1601.840",
+   "children": [],
+   "end": "1604.960",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "That's what we call it when it goes all dark like this.\""
    ]
   },
   {
    "begin": "1604.960",
    "children": [],
-   "end": "1609.080",
-   "id": "f000127",
+   "end": "1607.560",
+   "id": "f000259",
    "language": "eng",
    "lines": [
-    "\"I mean when you're in bed!\" Dudley snarled."
+    "\"I mean when you're in bed!\""
+   ]
+  },
+  {
+   "begin": "1607.560",
+   "children": [],
+   "end": "1609.080",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "Dudley snarled."
    ]
   },
   {
    "begin": "1609.080",
    "children": [],
-   "end": "1618.320",
-   "id": "f000128",
+   "end": "1610.920",
+   "id": "f000261",
    "language": "eng",
    "lines": [
-    "He had stopped walking. Harry stopped too, staring at his cousin. From the little he could see of Dudley's large face, he was wearing a strangely triumphant look."
+    "He had stopped walking."
+   ]
+  },
+  {
+   "begin": "1610.920",
+   "children": [],
+   "end": "1613.360",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "Harry stopped too, staring at his cousin."
+   ]
+  },
+  {
+   "begin": "1613.360",
+   "children": [],
+   "end": "1618.320",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "From the little he could see of Dudley's large face, he was wearing a strangely triumphant look."
    ]
   },
   {
    "begin": "1618.320",
    "children": [],
    "end": "1622.920",
-   "id": "f000129",
+   "id": "f000264",
    "language": "eng",
    "lines": [
     "\"What d'you mean, I'm not brave in bed?\" said Harry, completely"
@@ -1293,108 +2643,318 @@
   {
    "begin": "1622.920",
    "children": [],
-   "end": "1627.400",
-   "id": "f000130",
+   "end": "1623.640",
+   "id": "f000265",
    "language": "eng",
    "lines": [
-    "nonplussed. \"What - am I supposed to be frightened of pillows or something?\""
+    "nonplussed."
+   ]
+  },
+  {
+   "begin": "1623.640",
+   "children": [],
+   "end": "1627.400",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "\"What - am I supposed to be frightened of pillows or something?\""
    ]
   },
   {
    "begin": "1627.400",
    "children": [],
-   "end": "1633.760",
-   "id": "f000131",
+   "end": "1631.240",
+   "id": "f000267",
    "language": "eng",
    "lines": [
-    "\"I heard you last night,\" said Dudley breathlessly. \"Talking in your sleep. Moaning.\""
+    "\"I heard you last night,\" said Dudley breathlessly."
+   ]
+  },
+  {
+   "begin": "1631.240",
+   "children": [],
+   "end": "1632.720",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "\"Talking in your sleep."
+   ]
+  },
+  {
+   "begin": "1632.720",
+   "children": [],
+   "end": "1633.760",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "Moaning.\""
    ]
   },
   {
    "begin": "1633.760",
    "children": [],
-   "end": "1644.040",
-   "id": "f000132",
+   "end": "1640.480",
+   "id": "f000270",
    "language": "eng",
    "lines": [
-    "\"What d'you mean?\" Harry said again, but there was a cold, plunging sensation in his stomach. He had revisited the graveyard last night in his dreams."
+    "\"What d'you mean?\" Harry said again, but there was a cold, plunging sensation in his stomach."
+   ]
+  },
+  {
+   "begin": "1640.480",
+   "children": [],
+   "end": "1644.040",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "He had revisited the graveyard last night in his dreams."
    ]
   },
   {
    "begin": "1644.040",
    "children": [],
-   "end": "1655.000",
-   "id": "f000133",
+   "end": "1649.120",
+   "id": "f000272",
    "language": "eng",
    "lines": [
-    "Dudley gave a harsh bark of laughter then adopted a high-pitched, whimpering voice. \" 'Don't kill Cedric! Don't kill Cedric!' Who's Cedric - your boyfriend?\""
+    "Dudley gave a harsh bark of laughter then adopted a high-pitched, whimpering voice."
+   ]
+  },
+  {
+   "begin": "1649.120",
+   "children": [],
+   "end": "1651.240",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "\" 'Don't kill Cedric!"
+   ]
+  },
+  {
+   "begin": "1651.240",
+   "children": [],
+   "end": "1652.800",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "Don't kill Cedric!'"
+   ]
+  },
+  {
+   "begin": "1652.800",
+   "children": [],
+   "end": "1655.000",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "Who's Cedric - your boyfriend?\""
    ]
   },
   {
    "begin": "1655.000",
    "children": [],
-   "end": "1664.960",
-   "id": "f000134",
+   "end": "1659.320",
+   "id": "f000276",
    "language": "eng",
    "lines": [
-    "\"I - you're lying - \" said Harry automatically. But his mouth had gone dry. He knew Dudley wasn't lying - how else would he know about Cedric?"
+    "\"I - you're lying - \" said Harry automatically."
+   ]
+  },
+  {
+   "begin": "1659.320",
+   "children": [],
+   "end": "1660.960",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "But his mouth had gone dry."
+   ]
+  },
+  {
+   "begin": "1660.960",
+   "children": [],
+   "end": "1664.960",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "He knew Dudley wasn't lying - how else would he know about Cedric?"
    ]
   },
   {
    "begin": "1664.960",
    "children": [],
-   "end": "1670.240",
-   "id": "f000135",
+   "end": "1666.280",
+   "id": "f000279",
    "language": "eng",
    "lines": [
-    "\" 'Dad! Help me, Dad! He's going to kill me, Dad! Boo-hoo!' \""
+    "\" 'Dad!"
+   ]
+  },
+  {
+   "begin": "1666.280",
+   "children": [],
+   "end": "1667.640",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "Help me, Dad!"
+   ]
+  },
+  {
+   "begin": "1667.640",
+   "children": [],
+   "end": "1669.480",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "He's going to kill me, Dad!"
+   ]
+  },
+  {
+   "begin": "1669.480",
+   "children": [],
+   "end": "1670.240",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "Boo-hoo!'"
    ]
   },
   {
    "begin": "1670.240",
    "children": [],
-   "end": "1675.160",
-   "id": "f000136",
+   "end": "1670.240",
+   "id": "f000283",
    "language": "eng",
    "lines": [
-    "\"Shut up,\" said Harry quietly. \"Shut up, Dudley, I'm warning you!\""
+    "\""
+   ]
+  },
+  {
+   "begin": "1670.240",
+   "children": [],
+   "end": "1673.240",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "\"Shut up,\" said Harry quietly."
+   ]
+  },
+  {
+   "begin": "1673.240",
+   "children": [],
+   "end": "1675.160",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "\"Shut up, Dudley, I'm warning you!\""
    ]
   },
   {
    "begin": "1675.160",
    "children": [],
-   "end": "1683.560",
-   "id": "f000137",
+   "end": "1676.680",
+   "id": "f000286",
    "language": "eng",
    "lines": [
-    "\" 'Come and help me, Dad! Mum, come and help me! He's killed Cedric! Dad, help me! He's going to - ' Don't you point that thing at me!\""
+    "\" 'Come and help me, Dad!"
+   ]
+  },
+  {
+   "begin": "1676.680",
+   "children": [],
+   "end": "1678.200",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "Mum, come and help me!"
+   ]
+  },
+  {
+   "begin": "1678.200",
+   "children": [],
+   "end": "1679.360",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "He's killed Cedric!"
+   ]
+  },
+  {
+   "begin": "1679.360",
+   "children": [],
+   "end": "1680.280",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "Dad, help me!"
+   ]
+  },
+  {
+   "begin": "1680.280",
+   "children": [],
+   "end": "1683.560",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "He's going to - ' Don't you point that thing at me!\""
    ]
   },
   {
    "begin": "1683.560",
    "children": [],
-   "end": "1703.800",
-   "id": "f000138",
+   "end": "1686.000",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "Dudley backed into the alley wall. Harry was pointing the wand directly at Dudley's heart. Harry could feel fourteen years' hatred of Dudley pounding in his veins - what wouldn't he give to strike now, to jinx Dudley so thoroughly he'd have to crawl home like an insect, struck dumb, sprouting feelers -"
+    "Dudley backed into the alley wall."
+   ]
+  },
+  {
+   "begin": "1686.000",
+   "children": [],
+   "end": "1689.440",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "Harry was pointing the wand directly at Dudley's heart."
+   ]
+  },
+  {
+   "begin": "1689.440",
+   "children": [],
+   "end": "1703.800",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "Harry could feel fourteen years' hatred of Dudley pounding in his veins - what wouldn't he give to strike now, to jinx Dudley so thoroughly he'd have to crawl home like an insect, struck dumb, sprouting feelers -"
    ]
   },
   {
    "begin": "1703.800",
    "children": [],
-   "end": "1708.880",
-   "id": "f000139",
+   "end": "1707.840",
+   "id": "f000294",
    "language": "eng",
    "lines": [
-    "\"Don't ever talk about that again,\" Harry snarled. \"D'you understand me?\""
+    "\"Don't ever talk about that again,\" Harry snarled."
+   ]
+  },
+  {
+   "begin": "1707.840",
+   "children": [],
+   "end": "1708.880",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "\"D'you understand me?\""
    ]
   },
   {
    "begin": "1708.880",
    "children": [],
    "end": "1711.000",
-   "id": "f000140",
+   "id": "f000296",
    "language": "eng",
    "lines": [
     "\"Point that thing somewhere else!\""
@@ -1404,7 +2964,7 @@
    "begin": "1711.000",
    "children": [],
    "end": "1713.200",
-   "id": "f000141",
+   "id": "f000297",
    "language": "eng",
    "lines": [
     "\"I said, do you understand me?\""
@@ -1414,7 +2974,7 @@
    "begin": "1713.200",
    "children": [],
    "end": "1714.880",
-   "id": "f000142",
+   "id": "f000298",
    "language": "eng",
    "lines": [
     "\"Point it somewhere else!\""
@@ -1424,7 +2984,7 @@
    "begin": "1714.880",
    "children": [],
    "end": "1716.760",
-   "id": "f000143",
+   "id": "f000299",
    "language": "eng",
    "lines": [
     "\"DO YOU UNDERSTAND ME?\""
@@ -1434,7 +2994,7 @@
    "begin": "1716.760",
    "children": [],
    "end": "1718.160",
-   "id": "f000144",
+   "id": "f000300",
    "language": "eng",
    "lines": [
     "\"GET THAT THING AWAY FROM - \""
@@ -1444,7 +3004,7 @@
    "begin": "1718.160",
    "children": [],
    "end": "1722.800",
-   "id": "f000145",
+   "id": "f000301",
    "language": "eng",
    "lines": [
     "Dudley gave an odd, shuddering gasp, as though he had been doused in icy water."
@@ -1453,28 +3013,78 @@
   {
    "begin": "1722.800",
    "children": [],
-   "end": "1753.040",
-   "id": "f000146",
+   "end": "1725.240",
+   "id": "f000302",
    "language": "eng",
    "lines": [
-    "Something had happened to the night. The star-strewn indigo sky was suddenly pitch-black and lightless - the stars, the moon, the misty streetlamps at either end of the alley had vanished. The distant grumble of cars and the whisper of trees had gone. The balmy evening was suddenly piercingly, bitingly cold. They were surrounded by total, impenetrable, silent darkness, as though some giant hand had dropped a thick, icy mantle over the entire alleyway, blinding them."
+    "Something had happened to the night."
+   ]
+  },
+  {
+   "begin": "1725.240",
+   "children": [],
+   "end": "1734.320",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "The star-strewn indigo sky was suddenly pitch-black and lightless - the stars, the moon, the misty streetlamps at either end of the alley had vanished."
+   ]
+  },
+  {
+   "begin": "1734.320",
+   "children": [],
+   "end": "1738.280",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "The distant grumble of cars and the whisper of trees had gone."
+   ]
+  },
+  {
+   "begin": "1738.280",
+   "children": [],
+   "end": "1742.520",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "The balmy evening was suddenly piercingly, bitingly cold."
+   ]
+  },
+  {
+   "begin": "1742.520",
+   "children": [],
+   "end": "1753.040",
+   "id": "f000306",
+   "language": "eng",
+   "lines": [
+    "They were surrounded by total, impenetrable, silent darkness, as though some giant hand had dropped a thick, icy mantle over the entire alleyway, blinding them."
    ]
   },
   {
    "begin": "1753.040",
    "children": [],
-   "end": "1773.840",
-   "id": "f000147",
+   "end": "1766.520",
+   "id": "f000307",
    "language": "eng",
    "lines": [
-    "For a split second Harry thought he had done magic without meaning to, despite the fact that he'd been resisting as hard as he could - then his reason caught up with his senses - he didn't have the power to turn off the stars. He turned his head this way and that, trying to see something, but the darkness pressed on his eyes like a weightless veil."
+    "For a split second Harry thought he had done magic without meaning to, despite the fact that he'd been resisting as hard as he could - then his reason caught up with his senses - he didn't have the power to turn off the stars."
+   ]
+  },
+  {
+   "begin": "1766.520",
+   "children": [],
+   "end": "1773.840",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "He turned his head this way and that, trying to see something, but the darkness pressed on his eyes like a weightless veil."
    ]
   },
   {
    "begin": "1773.840",
    "children": [],
    "end": "1777.360",
-   "id": "f000148",
+   "id": "f000309",
    "language": "eng",
    "lines": [
     "Dudley's terrified voice broke in Harry's ear."
@@ -1483,38 +3093,78 @@
   {
    "begin": "1777.360",
    "children": [],
-   "end": "1781.080",
-   "id": "f000149",
+   "end": "1780.080",
+   "id": "f000310",
    "language": "eng",
    "lines": [
-    "\"W-what are you d-doing? St-stop it!\""
+    "\"W-what are you d-doing?"
+   ]
+  },
+  {
+   "begin": "1780.080",
+   "children": [],
+   "end": "1781.080",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "St-stop it!\""
    ]
   },
   {
    "begin": "1781.080",
    "children": [],
-   "end": "1785.720",
-   "id": "f000150",
+   "end": "1783.600",
+   "id": "f000312",
    "language": "eng",
    "lines": [
-    "\"I'm not doing anything! Shut up and don't move!\""
+    "\"I'm not doing anything!"
+   ]
+  },
+  {
+   "begin": "1783.600",
+   "children": [],
+   "end": "1785.720",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "Shut up and don't move!\""
    ]
   },
   {
    "begin": "1785.720",
    "children": [],
-   "end": "1789.240",
-   "id": "f000151",
+   "end": "1787.680",
+   "id": "f000314",
    "language": "eng",
    "lines": [
-    "\"I c-can't see! I've g-gone blind! I - \""
+    "\"I c-can't see!"
+   ]
+  },
+  {
+   "begin": "1787.680",
+   "children": [],
+   "end": "1788.920",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "I've g-gone blind!"
+   ]
+  },
+  {
+   "begin": "1788.920",
+   "children": [],
+   "end": "1789.240",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "I - \""
    ]
   },
   {
    "begin": "1789.240",
    "children": [],
    "end": "1791.560",
-   "id": "f000152",
+   "id": "f000317",
    "language": "eng",
    "lines": [
     "\"I said shut up!\""
@@ -1523,18 +3173,28 @@
   {
    "begin": "1791.560",
    "children": [],
-   "end": "1811.440",
-   "id": "f000153",
+   "end": "1795.960",
+   "id": "f000318",
    "language": "eng",
    "lines": [
-    "Harry stood stock-still, turning his sightless eyes left and right. The cold was so intense that he was shivering all over; goose bumps had erupted up his arms, and the hairs on the back of his neck were standing up - he opened his eyes to their fullest extent, staring blankly around, unseeing . . ."
+    "Harry stood stock-still, turning his sightless eyes left and right."
+   ]
+  },
+  {
+   "begin": "1795.960",
+   "children": [],
+   "end": "1811.440",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "The cold was so intense that he was shivering all over; goose bumps had erupted up his arms, and the hairs on the back of his neck were standing up - he opened his eyes to their fullest extent, staring blankly around, unseeing . . ."
    ]
   },
   {
    "begin": "1811.440",
    "children": [],
    "end": "1820.640",
-   "id": "f000154",
+   "id": "f000320",
    "language": "eng",
    "lines": [
     "It was impossible. . . . They couldn't be here. . . . Not in Little Whinging . . . He strained his ears. . . . He would hear them before he saw them. . . ."
@@ -1543,38 +3203,88 @@
   {
    "begin": "1820.640",
    "children": [],
-   "end": "1827.600",
-   "id": "f000155",
+   "end": "1822.920",
+   "id": "f000321",
    "language": "eng",
    "lines": [
-    "\"I'll t-tell Dad!\" Dudley whimpered. \"W-where are you? What are you d-do - ?\""
+    "\"I'll t-tell Dad!\""
+   ]
+  },
+  {
+   "begin": "1822.920",
+   "children": [],
+   "end": "1824.240",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "Dudley whimpered."
+   ]
+  },
+  {
+   "begin": "1824.240",
+   "children": [],
+   "end": "1825.720",
+   "id": "f000323",
+   "language": "eng",
+   "lines": [
+    "\"W-where are you?"
+   ]
+  },
+  {
+   "begin": "1825.720",
+   "children": [],
+   "end": "1827.600",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "What are you d-do - ?\""
    ]
   },
   {
    "begin": "1827.600",
    "children": [],
-   "end": "1831.960",
-   "id": "f000156",
+   "end": "1829.800",
+   "id": "f000325",
    "language": "eng",
    "lines": [
-    "\"Will you shut up?\" Harry hissed, \"I'm trying to lis - \""
+    "\"Will you shut up?\""
+   ]
+  },
+  {
+   "begin": "1829.800",
+   "children": [],
+   "end": "1831.960",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "Harry hissed, \"I'm trying to lis - \""
    ]
   },
   {
    "begin": "1831.960",
    "children": [],
-   "end": "1837.680",
-   "id": "f000157",
+   "end": "1834.280",
+   "id": "f000327",
    "language": "eng",
    "lines": [
-    "But he fell silent. He had heard just the thing he had been dreading."
+    "But he fell silent."
+   ]
+  },
+  {
+   "begin": "1834.280",
+   "children": [],
+   "end": "1837.680",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "He had heard just the thing he had been dreading."
    ]
   },
   {
    "begin": "1837.680",
    "children": [],
    "end": "1842.240",
-   "id": "f000158",
+   "id": "f000329",
    "language": "eng",
    "lines": [
     "There was something in the alleyway apart from themselves, some-"
@@ -1583,38 +3293,68 @@
   {
    "begin": "1842.240",
    "children": [],
-   "end": "1850.760",
-   "id": "f000159",
+   "end": "1845.720",
+   "id": "f000330",
    "language": "eng",
    "lines": [
-    "thing that was drawing long, hoarse, rattling breaths. Harry felt a horrible jolt of dread as he stood trembling in the freezing air."
+    "thing that was drawing long, hoarse, rattling breaths."
+   ]
+  },
+  {
+   "begin": "1845.720",
+   "children": [],
+   "end": "1850.760",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "Harry felt a horrible jolt of dread as he stood trembling in the freezing air."
    ]
   },
   {
    "begin": "1850.760",
    "children": [],
-   "end": "1855.600",
-   "id": "f000160",
+   "end": "1852.640",
+   "id": "f000332",
    "language": "eng",
    "lines": [
-    "\"C-cut it out! Stop doing it! I'll h-hit you, I swear I will!\""
+    "\"C-cut it out!"
+   ]
+  },
+  {
+   "begin": "1852.640",
+   "children": [],
+   "end": "1853.480",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "Stop doing it!"
+   ]
+  },
+  {
+   "begin": "1853.480",
+   "children": [],
+   "end": "1855.600",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "I'll h-hit you, I swear I will!\""
    ]
   },
   {
    "begin": "1855.600",
    "children": [],
-   "end": "1857.280",
-   "id": "f000161",
+   "end": "1857.960",
+   "id": "f000335",
    "language": "eng",
    "lines": [
     "\"Dudley, shut - \""
    ]
   },
   {
-   "begin": "1857.280",
+   "begin": "1857.960",
    "children": [],
    "end": "1858.600",
-   "id": "f000162",
+   "id": "f000336",
    "language": "eng",
    "lines": [
     "WHAM !"
@@ -1623,68 +3363,158 @@
   {
    "begin": "1858.600",
    "children": [],
-   "end": "1875.960",
-   "id": "f000163",
+   "end": "1863.360",
+   "id": "f000337",
    "language": "eng",
    "lines": [
-    "A fist made contact with the side of Harry's head, lifting Harry off his feet. Small white lights popped in front of Harry's eyes; for the second time in an hour he felt as though his head had been cleaved in two; next moment he had landed hard on the ground, and his wand had flown out of his hand."
+    "A fist made contact with the side of Harry's head, lifting Harry off his feet."
+   ]
+  },
+  {
+   "begin": "1863.360",
+   "children": [],
+   "end": "1875.960",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "Small white lights popped in front of Harry's eyes; for the second time in an hour he felt as though his head had been cleaved in two; next moment he had landed hard on the ground, and his wand had flown out of his hand."
    ]
   },
   {
    "begin": "1875.960",
    "children": [],
-   "end": "1890.880",
-   "id": "f000164",
+   "end": "1886.080",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "\"You moron, Dudley!\" Harry yelled, his eyes watering with pain, as he scrambled to his hands and knees, now feeling around frantically in the blackness. He heard Dudley blundering away, hitting the alley fence, stumbling."
+    "\"You moron, Dudley!\" Harry yelled, his eyes watering with pain, as he scrambled to his hands and knees, now feeling around frantically in the blackness."
+   ]
+  },
+  {
+   "begin": "1886.080",
+   "children": [],
+   "end": "1890.880",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "He heard Dudley blundering away, hitting the alley fence, stumbling."
    ]
   },
   {
    "begin": "1890.880",
    "children": [],
-   "end": "1894.880",
-   "id": "f000165",
+   "end": "1893.120",
+   "id": "f000341",
    "language": "eng",
    "lines": [
-    "\"DUDLEY, COME BACK! YOU'RE RUNNING RIGHT AT IT!\""
+    "\"DUDLEY, COME BACK!"
+   ]
+  },
+  {
+   "begin": "1893.120",
+   "children": [],
+   "end": "1894.880",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "YOU'RE RUNNING RIGHT AT IT!\""
    ]
   },
   {
    "begin": "1894.880",
    "children": [],
-   "end": "1907.880",
-   "id": "f000166",
+   "end": "1899.640",
+   "id": "f000343",
    "language": "eng",
    "lines": [
-    "There was a horrible squealing yell, and Dudley's footsteps stopped. At the same moment, Harry felt a creeping chill behind him that could mean only one thing. There was more than one."
+    "There was a horrible squealing yell, and Dudley's footsteps stopped."
+   ]
+  },
+  {
+   "begin": "1899.640",
+   "children": [],
+   "end": "1905.680",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "At the same moment, Harry felt a creeping chill behind him that could mean only one thing."
+   ]
+  },
+  {
+   "begin": "1905.680",
+   "children": [],
+   "end": "1907.880",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "There was more than one."
    ]
   },
   {
    "begin": "1907.880",
    "children": [],
-   "end": "1922.840",
-   "id": "f000167",
+   "end": "1911.400",
+   "id": "f000346",
    "language": "eng",
    "lines": [
-    "\"DUDLEY, KEEP YOUR MOUTH SHUT! WHATEVER YOU DO, KEEP YOUR MOUTH SHUT! Wand!\" Harry muttered frantically, his hands flying over the ground like spiders. \"Where's - wand - come on - Lumos!\""
+    "\"DUDLEY, KEEP YOUR MOUTH SHUT!"
+   ]
+  },
+  {
+   "begin": "1911.400",
+   "children": [],
+   "end": "1913.520",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "WHATEVER YOU DO, KEEP YOUR MOUTH SHUT!"
+   ]
+  },
+  {
+   "begin": "1913.520",
+   "children": [],
+   "end": "1919.280",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "Wand!\" Harry muttered frantically, his hands flying over the ground like spiders."
+   ]
+  },
+  {
+   "begin": "1919.280",
+   "children": [],
+   "end": "1922.840",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "\"Where's - wand - come on - Lumos!\""
    ]
   },
   {
    "begin": "1922.840",
    "children": [],
-   "end": "1939.160",
-   "id": "f000168",
+   "end": "1935.160",
+   "id": "f000350",
    "language": "eng",
    "lines": [
-    "He said the spell automatically, desperate for light to help him in his search - and to his disbelieving relief, light flared inches from his right hand - the wand tip had ignited. Harry snatched it up, scrambled to his feet, and turned around."
+    "He said the spell automatically, desperate for light to help him in his search - and to his disbelieving relief, light flared inches from his right hand - the wand tip had ignited."
+   ]
+  },
+  {
+   "begin": "1935.160",
+   "children": [],
+   "end": "1939.160",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "Harry snatched it up, scrambled to his feet, and turned around."
    ]
   },
   {
    "begin": "1939.160",
    "children": [],
    "end": "1941.280",
-   "id": "f000169",
+   "id": "f000352",
    "language": "eng",
    "lines": [
     "His stomach turned over."
@@ -1694,7 +3524,7 @@
    "begin": "1941.280",
    "children": [],
    "end": "1952.360",
-   "id": "f000170",
+   "id": "f000353",
    "language": "eng",
    "lines": [
     "A towering, hooded figure was gliding smoothly toward him, hovering over the ground, no feet or face visible beneath its robes, sucking on the night as it came."
@@ -1704,7 +3534,7 @@
    "begin": "1952.360",
    "children": [],
    "end": "1955.560",
-   "id": "f000171",
+   "id": "f000354",
    "language": "eng",
    "lines": [
     "Stumbling backward, Harry raised his wand."
@@ -1714,7 +3544,7 @@
    "begin": "1955.560",
    "children": [],
    "end": "1958.120",
-   "id": "f000172",
+   "id": "f000355",
    "language": "eng",
    "lines": [
     "\"Expecto Patronum!\""
@@ -1724,7 +3554,7 @@
    "begin": "1958.120",
    "children": [],
    "end": "1974.280",
-   "id": "f000173",
+   "id": "f000356",
    "language": "eng",
    "lines": [
     "A silvery wisp of vapor shot from the tip of the wand and the dementor slowed, but the spell hadn't worked properly; tripping over his feet, Harry retreated farther as the dementor bore down upon him, panic fogging his brain - concentrate -"
@@ -1733,18 +3563,28 @@
   {
    "begin": "1974.280",
    "children": [],
-   "end": "1983.640",
-   "id": "f000174",
+   "end": "1980.800",
+   "id": "f000357",
    "language": "eng",
    "lines": [
-    "A pair of gray, slimy, scabbed hands slid from inside the dementor's robes, reaching for him. A rushing noise filled Harry's ears."
+    "A pair of gray, slimy, scabbed hands slid from inside the dementor's robes, reaching for him."
+   ]
+  },
+  {
+   "begin": "1980.800",
+   "children": [],
+   "end": "1983.640",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "A rushing noise filled Harry's ears."
    ]
   },
   {
    "begin": "1983.640",
    "children": [],
    "end": "1986.000",
-   "id": "f000175",
+   "id": "f000359",
    "language": "eng",
    "lines": [
     "\"Expecto Patronum!\""
@@ -1754,7 +3594,7 @@
    "begin": "1986.000",
    "children": [],
    "end": "1997.080",
-   "id": "f000176",
+   "id": "f000360",
    "language": "eng",
    "lines": [
     "His voice sounded dim and distant. . . . Another wisp of silver smoke, feebler than the last, drifted from the wand - he couldn't do it anymore, he couldn't work the spell -"
@@ -1764,7 +3604,7 @@
    "begin": "1997.080",
    "children": [],
    "end": "2010.960",
-   "id": "f000177",
+   "id": "f000361",
    "language": "eng",
    "lines": [
     "There was laughter inside his own head, shrill, high-pitched laughter. . . . He could smell the dementor's putrid, death-cold breath, filling his own lungs, drowning him - Think . . . something happy. . . ."
@@ -1773,18 +3613,18 @@
   {
    "begin": "2010.960",
    "children": [],
-   "end": "2030.720",
-   "id": "f000178",
+   "end": "2030.880",
+   "id": "f000362",
    "language": "eng",
    "lines": [
     "But there was no happiness in him. . . . The dementor's icy fingers were closing on his throat - the high-pitched laughter was growing louder and louder, and a voice spoke inside his head - \"Bow to death, Harry. . . . It might even be painless. . . . I would not know. . . . I have never died. . . .\""
    ]
   },
   {
-   "begin": "2030.720",
+   "begin": "2030.880",
    "children": [],
    "end": "2034.760",
-   "id": "f000179",
+   "id": "f000363",
    "language": "eng",
    "lines": [
     "He was never going to see Ron and Hermione again -"
@@ -1794,7 +3634,7 @@
    "begin": "2034.760",
    "children": [],
    "end": "2039.160",
-   "id": "f000180",
+   "id": "f000364",
    "language": "eng",
    "lines": [
     "And their faces burst clearly into his mind as he fought for breath -"
@@ -1804,7 +3644,7 @@
    "begin": "2039.160",
    "children": [],
    "end": "2041.360",
-   "id": "f000181",
+   "id": "f000365",
    "language": "eng",
    "lines": [
     "\"EXPECTO PATRONUM !\""
@@ -1814,7 +3654,7 @@
    "begin": "2041.360",
    "children": [],
    "end": "2059.480",
-   "id": "f000182",
+   "id": "f000366",
    "language": "eng",
    "lines": [
     "An enormous silver stag erupted from the tip of Harry's wand; its antlers caught the dementor in the place where the heart should have been; it was thrown backward, weightless as darkness, and as the stag charged, the dementor swooped away, batlike and defeated."
@@ -1823,18 +3663,48 @@
   {
    "begin": "2059.480",
    "children": [],
-   "end": "2069.160",
-   "id": "f000183",
+   "end": "2062.880",
+   "id": "f000367",
    "language": "eng",
    "lines": [
-    "\"THIS WAY!\" Harry shouted at the stag. Wheeling around, he sprinted down the alleyway, holding the lit wand aloft. \"DUDLEY? DUDLEY!\""
+    "\"THIS WAY!\" Harry shouted at the stag."
+   ]
+  },
+  {
+   "begin": "2062.880",
+   "children": [],
+   "end": "2067.000",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "Wheeling around, he sprinted down the alleyway, holding the lit wand aloft."
+   ]
+  },
+  {
+   "begin": "2067.000",
+   "children": [],
+   "end": "2068.040",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "\"DUDLEY?"
+   ]
+  },
+  {
+   "begin": "2068.040",
+   "children": [],
+   "end": "2069.160",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "DUDLEY!\""
    ]
   },
   {
    "begin": "2069.160",
    "children": [],
    "end": "2077.520",
-   "id": "f000184",
+   "id": "f000371",
    "language": "eng",
    "lines": [
     "He had run barely a dozen steps when he reached them: Dudley was curled on the ground, his arms clamped over his face; a second de-"
@@ -1843,71 +3713,201 @@
   {
    "begin": "2077.520",
    "children": [],
-   "end": "2092.920",
-   "id": "f000185",
+   "end": "2092.840",
+   "id": "f000372",
    "language": "eng",
    "lines": [
     "mentor was crouching low over him, gripping his wrists in its slimy hands, prizing them slowly, almost lovingly apart, lowering its hooded head toward Dudley's face as though about to kiss him. . . ."
    ]
   },
   {
-   "begin": "2092.920",
+   "begin": "2092.840",
    "children": [],
-   "end": "2119.120",
-   "id": "f000186",
+   "end": "2094.440",
+   "id": "f000373",
    "language": "eng",
    "lines": [
-    "\"GET IT!\" Harry bellowed, and with a rushing, roaring sound, the silver stag he had conjured came galloping back past him. The dementor's eyeless face was barely an inch from Dudley's when the silver antlers caught it; the thing was thrown up into the air and, like its fellow, it soared away and was absorbed into the darkness. The stag cantered to the end of the alleyway and dissolved into silver mist."
+    "\"GET IT!\""
+   ]
+  },
+  {
+   "begin": "2094.440",
+   "children": [],
+   "end": "2102.040",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "Harry bellowed, and with a rushing, roaring sound, the silver stag he had conjured came galloping back past him."
+   ]
+  },
+  {
+   "begin": "2102.040",
+   "children": [],
+   "end": "2113.600",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "The dementor's eyeless face was barely an inch from Dudley's when the silver antlers caught it; the thing was thrown up into the air and, like its fellow, it soared away and was absorbed into the darkness."
+   ]
+  },
+  {
+   "begin": "2113.600",
+   "children": [],
+   "end": "2119.120",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "The stag cantered to the end of the alleyway and dissolved into silver mist."
    ]
   },
   {
    "begin": "2119.120",
    "children": [],
-   "end": "2146.640",
-   "id": "f000187",
+   "end": "2123.080",
+   "id": "f000377",
    "language": "eng",
    "lines": [
-    "Moon, stars, and streetlamps burst back into life. A warm breeze swept the alleyway. Trees rustled in neighboring gardens and the mundane rumble of cars in Magnolia Crescent filled the air again. Harry stood quite still, all his senses vibrating, taking in the abrupt return to normality. After a moment he became aware that his T-shirt was sticking to him; he was drenched in sweat."
+    "Moon, stars, and streetlamps burst back into life."
+   ]
+  },
+  {
+   "begin": "2123.080",
+   "children": [],
+   "end": "2125.680",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "A warm breeze swept the alleyway."
+   ]
+  },
+  {
+   "begin": "2125.680",
+   "children": [],
+   "end": "2132.720",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "Trees rustled in neighboring gardens and the mundane rumble of cars in Magnolia Crescent filled the air again."
+   ]
+  },
+  {
+   "begin": "2132.720",
+   "children": [],
+   "end": "2140.040",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "Harry stood quite still, all his senses vibrating, taking in the abrupt return to normality."
+   ]
+  },
+  {
+   "begin": "2140.040",
+   "children": [],
+   "end": "2146.640",
+   "id": "f000381",
+   "language": "eng",
+   "lines": [
+    "After a moment he became aware that his T-shirt was sticking to him; he was drenched in sweat."
    ]
   },
   {
    "begin": "2146.640",
    "children": [],
-   "end": "2154.280",
-   "id": "f000188",
+   "end": "2150.480",
+   "id": "f000382",
    "language": "eng",
    "lines": [
-    "He could not believe what had just happened. Dementors here, in Little Whinging . . ."
+    "He could not believe what had just happened."
+   ]
+  },
+  {
+   "begin": "2150.480",
+   "children": [],
+   "end": "2154.280",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "Dementors here, in Little Whinging . . ."
    ]
   },
   {
    "begin": "2154.280",
    "children": [],
-   "end": "2170.520",
-   "id": "f000189",
+   "end": "2159.120",
+   "id": "f000384",
    "language": "eng",
    "lines": [
-    "Dudley lay curled up on the ground, whimpering and shaking. Harry bent down to see whether he was in a fit state to stand up, but then heard loud, running footsteps behind him; instinctively raising his wand again, he spun on his heel to face the newcomer."
+    "Dudley lay curled up on the ground, whimpering and shaking."
+   ]
+  },
+  {
+   "begin": "2159.120",
+   "children": [],
+   "end": "2170.520",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "Harry bent down to see whether he was in a fit state to stand up, but then heard loud, running footsteps behind him; instinctively raising his wand again, he spun on his heel to face the newcomer."
    ]
   },
   {
    "begin": "2170.520",
    "children": [],
-   "end": "2188.440",
-   "id": "f000190",
+   "end": "2175.160",
+   "id": "f000386",
    "language": "eng",
    "lines": [
-    "Mrs. Figg, their batty old neighbor, came panting into sight. Her grizzled gray hair was escaping from its hairnet, a clanking string shopping bag was swinging from her wrist, and her feet were halfway out of her tartan carpet slippers. Harry made to stow his wand hurriedly out of sight, but -"
+    "Mrs. Figg, their batty old neighbor, came panting into sight."
+   ]
+  },
+  {
+   "begin": "2175.160",
+   "children": [],
+   "end": "2184.760",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "Her grizzled gray hair was escaping from its hairnet, a clanking string shopping bag was swinging from her wrist, and her feet were halfway out of her tartan carpet slippers."
+   ]
+  },
+  {
+   "begin": "2184.760",
+   "children": [],
+   "end": "2188.440",
+   "id": "f000388",
+   "language": "eng",
+   "lines": [
+    "Harry made to stow his wand hurriedly out of sight, but -"
    ]
   },
   {
    "begin": "2188.440",
    "children": [],
-   "end": "2199.800",
-   "id": "f000191",
+   "end": "2191.960",
+   "id": "f000389",
    "language": "eng",
    "lines": [
-    "\"Don't put it away, idiot boy!\" she shrieked. \"What if there are more of them around? Oh, I'm going to kill Mundungus Fletcher!\""
+    "\"Don't put it away, idiot boy!\" she shrieked."
+   ]
+  },
+  {
+   "begin": "2191.960",
+   "children": [],
+   "end": "2193.880",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "\"What if there are more of them around?"
+   ]
+  },
+  {
+   "begin": "2193.880",
+   "children": [],
+   "end": "2199.800",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "Oh, I'm going to kill Mundungus Fletcher!\""
    ]
   }
  ]

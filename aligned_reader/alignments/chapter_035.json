@@ -13,18 +13,28 @@
   {
    "begin": "6.760",
    "children": [],
-   "end": "19.200",
+   "end": "17.640",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Black shapes were emerging out of thin air all around them, blocking their way left and right; eyes glinted through slits in hoods, a dozen lit wand tips were pointing directly at their hearts. Ginny gave a gasp of horror."
+    "Black shapes were emerging out of thin air all around them, blocking their way left and right; eyes glinted through slits in hoods, a dozen lit wand tips were pointing directly at their hearts."
+   ]
+  },
+  {
+   "begin": "17.640",
+   "children": [],
+   "end": "19.200",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Ginny gave a gasp of horror."
    ]
   },
   {
    "begin": "19.200",
    "children": [],
    "end": "27.400",
-   "id": "f000003",
+   "id": "f000004",
    "language": "eng",
    "lines": [
     "\"To me, Potter,\" repeated the drawling voice of Lucius Malfoy as he held out his hand, palm up."
@@ -33,18 +43,28 @@
   {
    "begin": "27.400",
    "children": [],
-   "end": "32.520",
-   "id": "f000004",
+   "end": "30.240",
+   "id": "f000005",
    "language": "eng",
    "lines": [
-    "Harry's insides plummeted sickeningly. They were trapped and outnumbered two to one."
+    "Harry's insides plummeted sickeningly."
+   ]
+  },
+  {
+   "begin": "30.240",
+   "children": [],
+   "end": "32.520",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "They were trapped and outnumbered two to one."
    ]
   },
   {
    "begin": "32.520",
    "children": [],
    "end": "36.200",
-   "id": "f000005",
+   "id": "f000007",
    "language": "eng",
    "lines": [
     "\"To me,\" said Malfoy yet again."
@@ -53,38 +73,58 @@
   {
    "begin": "36.200",
    "children": [],
-   "end": "40.040",
-   "id": "f000006",
+   "end": "39.960",
+   "id": "f000008",
    "language": "eng",
    "lines": [
     "\"Where's Sirius?\" Harry said."
    ]
   },
   {
-   "begin": "40.040",
+   "begin": "39.960",
    "children": [],
-   "end": "49.320",
-   "id": "f000007",
+   "end": "42.120",
+   "id": "f000009",
    "language": "eng",
    "lines": [
-    "Several of the Death Eaters laughed. A harsh female voice from the midst of the shadowy figures to Harry's left said triumphantly, \"The Dark Lord always knows!\""
+    "Several of the Death Eaters laughed."
+   ]
+  },
+  {
+   "begin": "42.120",
+   "children": [],
+   "end": "49.320",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "A harsh female voice from the midst of the shadowy figures to Harry's left said triumphantly, \"The Dark Lord always knows!\""
    ]
   },
   {
    "begin": "49.320",
    "children": [],
-   "end": "55.520",
-   "id": "f000008",
+   "end": "52.920",
+   "id": "f000011",
    "language": "eng",
    "lines": [
-    "\"Always,\" echoed Malfoy softly. \"Now, give me the prophecy, Potter.\""
+    "\"Always,\" echoed Malfoy softly."
+   ]
+  },
+  {
+   "begin": "52.920",
+   "children": [],
+   "end": "55.520",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "\"Now, give me the prophecy, Potter.\""
    ]
   },
   {
    "begin": "55.520",
    "children": [],
    "end": "57.880",
-   "id": "f000009",
+   "id": "f000013",
    "language": "eng",
    "lines": [
     "\"I want to know where Sirius is!\""
@@ -94,7 +134,7 @@
    "begin": "57.880",
    "children": [],
    "end": "63.000",
-   "id": "f000010",
+   "id": "f000014",
    "language": "eng",
    "lines": [
     "\"I want to know where Sirius is!\" mimicked the woman to his left."
@@ -104,7 +144,7 @@
    "begin": "63.000",
    "children": [],
    "end": "66.280",
-   "id": "f000011",
+   "id": "f000015",
    "language": "eng",
    "lines": [
     "She and her fellow Death Eaters had closed in so that they were"
@@ -114,7 +154,7 @@
    "begin": "66.280",
    "children": [],
    "end": "71.040",
-   "id": "f000012",
+   "id": "f000016",
    "language": "eng",
    "lines": [
     "mere feet away from Harry and the others, the light from their wands dazzling Harry's eyes."
@@ -123,38 +163,78 @@
   {
    "begin": "71.040",
    "children": [],
-   "end": "81.960",
-   "id": "f000013",
+   "end": "79.880",
+   "id": "f000017",
    "language": "eng",
    "lines": [
-    "\"You've got him,\" said Harry, ignoring the rising panic in his chest, the dread he had been fighting since they had first entered the ninetyseventh row. \"He's here. I know he is.\""
+    "\"You've got him,\" said Harry, ignoring the rising panic in his chest, the dread he had been fighting since they had first entered the ninetyseventh row."
+   ]
+  },
+  {
+   "begin": "79.880",
+   "children": [],
+   "end": "81.120",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "\"He's here."
+   ]
+  },
+  {
+   "begin": "81.120",
+   "children": [],
+   "end": "81.960",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "I know he is.\""
    ]
   },
   {
    "begin": "81.960",
    "children": [],
-   "end": "92.600",
-   "id": "f000014",
+   "end": "90.520",
+   "id": "f000020",
    "language": "eng",
    "lines": [
-    "\"The little baby woke up fwightened and fort what it dweamed was twoo,\" said the woman in a horrible, mock-baby voice. Harry felt Ron stir beside him."
+    "\"The little baby woke up fwightened and fort what it dweamed was twoo,\" said the woman in a horrible, mock-baby voice."
+   ]
+  },
+  {
+   "begin": "90.520",
+   "children": [],
+   "end": "92.600",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Harry felt Ron stir beside him."
    ]
   },
   {
    "begin": "92.600",
    "children": [],
-   "end": "96.480",
-   "id": "f000015",
+   "end": "95.000",
+   "id": "f000022",
    "language": "eng",
    "lines": [
-    "\"Don't do anything,\" he muttered. \"Not yet - \""
+    "\"Don't do anything,\" he muttered."
+   ]
+  },
+  {
+   "begin": "95.000",
+   "children": [],
+   "end": "96.480",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "\"Not yet - \""
    ]
   },
   {
    "begin": "96.480",
    "children": [],
    "end": "99.840",
-   "id": "f000016",
+   "id": "f000024",
    "language": "eng",
    "lines": [
     "The woman who had mimicked him let out a raucous scream of laughter."
@@ -163,38 +243,88 @@
   {
    "begin": "99.840",
    "children": [],
-   "end": "106.600",
-   "id": "f000017",
+   "end": "101.560",
+   "id": "f000025",
    "language": "eng",
    "lines": [
-    "\"You hear him? You hear him? Giving instructions to the other children as though he thinks of fighting us!\""
+    "\"You hear him?"
+   ]
+  },
+  {
+   "begin": "101.560",
+   "children": [],
+   "end": "102.760",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "You hear him?"
+   ]
+  },
+  {
+   "begin": "102.760",
+   "children": [],
+   "end": "106.600",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Giving instructions to the other children as though he thinks of fighting us!\""
    ]
   },
   {
    "begin": "106.600",
    "children": [],
-   "end": "121.680",
-   "id": "f000018",
+   "end": "112.480",
+   "id": "f000028",
    "language": "eng",
    "lines": [
-    "\"Oh, you don't know Potter as I do, Bellatrix,\" said Malfoy softly. \"He has a great weakness for heroics; the Dark Lord understands this about him. Now give me the prophecy, Potter.\""
+    "\"Oh, you don't know Potter as I do, Bellatrix,\" said Malfoy softly."
+   ]
+  },
+  {
+   "begin": "112.480",
+   "children": [],
+   "end": "118.920",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "\"He has a great weakness for heroics; the Dark Lord understands this about him."
+   ]
+  },
+  {
+   "begin": "118.920",
+   "children": [],
+   "end": "121.680",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Now give me the prophecy, Potter.\""
    ]
   },
   {
    "begin": "121.680",
    "children": [],
-   "end": "131.880",
-   "id": "f000019",
+   "end": "129.280",
+   "id": "f000031",
    "language": "eng",
    "lines": [
-    "\"I know Sirius is here,\" said Harry, though panic was causing his chest to constrict and he felt as though he could not breathe properly. \"I know you've got him!\""
+    "\"I know Sirius is here,\" said Harry, though panic was causing his chest to constrict and he felt as though he could not breathe properly."
+   ]
+  },
+  {
+   "begin": "129.280",
+   "children": [],
+   "end": "131.880",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "\"I know you've got him!\""
    ]
   },
   {
    "begin": "131.880",
    "children": [],
    "end": "135.680",
-   "id": "f000020",
+   "id": "f000033",
    "language": "eng",
    "lines": [
     "More of the Death Eaters laughed, though the woman still laughed loudest of all."
@@ -203,28 +333,68 @@
   {
    "begin": "135.680",
    "children": [],
-   "end": "144.960",
-   "id": "f000021",
+   "end": "141.640",
+   "id": "f000034",
    "language": "eng",
    "lines": [
-    "\"It's time you learned the difference between life and dreams, Potter,\" said Malfoy. \"Now give me the prophecy, or we start using wands.\""
+    "\"It's time you learned the difference between life and dreams, Potter,\" said Malfoy."
+   ]
+  },
+  {
+   "begin": "141.640",
+   "children": [],
+   "end": "144.960",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "\"Now give me the prophecy, or we start using wands.\""
    ]
   },
   {
    "begin": "144.960",
    "children": [],
-   "end": "163.720",
-   "id": "f000022",
+   "end": "149.520",
+   "id": "f000036",
    "language": "eng",
    "lines": [
-    "\"Go on, then,\" said Harry, raising his own wand to chest height. As he did so, the five wands of Ron, Hermione, Neville, Ginny, and Luna rose on either side of him. The knot in Harry's stomach tightened. If Sirius really was not here, he had led his friends to their deaths for no reason at all. . . ."
+    "\"Go on, then,\" said Harry, raising his own wand to chest height."
+   ]
+  },
+  {
+   "begin": "149.520",
+   "children": [],
+   "end": "155.640",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "As he did so, the five wands of Ron, Hermione, Neville, Ginny, and Luna rose on either side of him."
+   ]
+  },
+  {
+   "begin": "155.640",
+   "children": [],
+   "end": "157.720",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "The knot in Harry's stomach tightened."
+   ]
+  },
+  {
+   "begin": "157.720",
+   "children": [],
+   "end": "163.720",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "If Sirius really was not here, he had led his friends to their deaths for no reason at all. . . ."
    ]
   },
   {
    "begin": "163.720",
    "children": [],
    "end": "165.880",
-   "id": "f000023",
+   "id": "f000040",
    "language": "eng",
    "lines": [
     "But the Death Eaters did not strike."
@@ -234,7 +404,7 @@
    "begin": "165.880",
    "children": [],
    "end": "173.120",
-   "id": "f000024",
+   "id": "f000041",
    "language": "eng",
    "lines": [
     "\"Hand over the prophecy and no one need get hurt,\" said Malfoy coolly."
@@ -244,7 +414,7 @@
    "begin": "173.120",
    "children": [],
    "end": "174.720",
-   "id": "f000025",
+   "id": "f000042",
    "language": "eng",
    "lines": [
     "It was Harry's turn to laugh."
@@ -253,18 +423,38 @@
   {
    "begin": "174.720",
    "children": [],
-   "end": "181.920",
-   "id": "f000026",
+   "end": "176.600",
+   "id": "f000043",
    "language": "eng",
    "lines": [
-    "\"Yeah, right!\" he said. \"I give you this - prophecy, is it? And you'll just let us skip off home, will you?\""
+    "\"Yeah, right!\" he said."
+   ]
+  },
+  {
+   "begin": "176.600",
+   "children": [],
+   "end": "179.200",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "\"I give you this - prophecy, is it?"
+   ]
+  },
+  {
+   "begin": "179.200",
+   "children": [],
+   "end": "181.920",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "And you'll just let us skip off home, will you?\""
    ]
   },
   {
    "begin": "181.920",
    "children": [],
    "end": "187.640",
-   "id": "f000027",
+   "id": "f000046",
    "language": "eng",
    "lines": [
     "The words were hardly out of his mouth when the female Death Eater shrieked, \"Accio Proph - \""
@@ -273,88 +463,218 @@
   {
    "begin": "187.640",
    "children": [],
-   "end": "196.720",
-   "id": "f000028",
+   "end": "189.280",
+   "id": "f000047",
    "language": "eng",
    "lines": [
-    "Harry was just ready for her. He shouted \"Protego!\" before she had finished her spell, and though the glass sphere slipped to the tips of his fingers he managed to cling on to it."
+    "Harry was just ready for her."
+   ]
+  },
+  {
+   "begin": "189.280",
+   "children": [],
+   "end": "196.720",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "He shouted \"Protego!\" before she had finished her spell, and though the glass sphere slipped to the tips of his fingers he managed to cling on to it."
    ]
   },
   {
    "begin": "196.720",
    "children": [],
-   "end": "206.480",
-   "id": "f000029",
+   "end": "204.960",
+   "id": "f000049",
    "language": "eng",
    "lines": [
-    "\"Oh, he knows how to play, little bitty baby Potter,\" she said, her mad eyes staring through the slits in her hood. \"Very well, then - \""
+    "\"Oh, he knows how to play, little bitty baby Potter,\" she said, her mad eyes staring through the slits in her hood."
+   ]
+  },
+  {
+   "begin": "204.960",
+   "children": [],
+   "end": "206.480",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "\"Very well, then - \""
    ]
   },
   {
    "begin": "206.480",
    "children": [],
-   "end": "213.320",
-   "id": "f000030",
+   "end": "209.120",
+   "id": "f000051",
    "language": "eng",
    "lines": [
-    "\"I TOLD YOU, NO!\" Lucius Malfoy roared at the woman. \"If you smash it - !\""
+    "\"I TOLD YOU, NO!\""
    ]
   },
   {
-   "begin": "213.320",
+   "begin": "209.120",
    "children": [],
-   "end": "227.800",
-   "id": "f000031",
+   "end": "211.040",
+   "id": "f000052",
    "language": "eng",
    "lines": [
-    "Harry's mind was racing. The Death Eaters wanted this dusty spun-glass sphere. He had no interest in it. He just wanted to get them all out of this alive, make sure that none of his friends paid a terrible price for his stupidity . . ."
+    "Lucius Malfoy roared at the woman."
    ]
   },
   {
-   "begin": "227.800",
+   "begin": "211.040",
+   "children": [],
+   "end": "213.360",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "\"If you smash it - !\""
+   ]
+  },
+  {
+   "begin": "213.360",
+   "children": [],
+   "end": "214.800",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Harry's mind was racing."
+   ]
+  },
+  {
+   "begin": "214.800",
+   "children": [],
+   "end": "218.880",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "The Death Eaters wanted this dusty spun-glass sphere."
+   ]
+  },
+  {
+   "begin": "218.880",
+   "children": [],
+   "end": "220.480",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "He had no interest in it."
+   ]
+  },
+  {
+   "begin": "220.480",
+   "children": [],
+   "end": "226.960",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "He just wanted to get them all out of this alive, make sure that none of his friends paid a terrible price for his stupidity . . ."
+   ]
+  },
+  {
+   "begin": "226.960",
+   "children": [],
+   "end": "232.640",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "The woman stepped forward, away from her fellows, and pulled off her hood."
+   ]
+  },
+  {
+   "begin": "232.640",
    "children": [],
    "end": "241.000",
-   "id": "f000032",
+   "id": "f000059",
    "language": "eng",
    "lines": [
-    "The woman stepped forward, away from her fellows, and pulled off her hood. Azkaban had hollowed Bellatrix Lestrange's face, making it gaunt and skull-like, but it was alive with a feverish, fanatical glow."
+    "Azkaban had hollowed Bellatrix Lestrange's face, making it gaunt and skull-like, but it was alive with a feverish, fanatical glow."
    ]
   },
   {
    "begin": "241.000",
    "children": [],
-   "end": "257.200",
-   "id": "f000033",
+   "end": "246.120",
+   "id": "f000060",
    "language": "eng",
    "lines": [
-    "\"You need more persuasion?\" she said, her chest rising and falling rapidly. \"Very well - take the smallest one,\" she ordered the Death Eaters beside her. \"Let him watch while we torture the little girl. I'll do it.\""
+    "\"You need more persuasion?\" she said, her chest rising and falling rapidly."
    ]
   },
   {
-   "begin": "257.200",
+   "begin": "246.120",
    "children": [],
-   "end": "264.440",
-   "id": "f000034",
+   "end": "250.760",
+   "id": "f000061",
    "language": "eng",
    "lines": [
-    "Harry felt the others close in around Ginny. He stepped sideways so that he was right in front of her, the prophecy held up to his chest."
+    "\"Very well - take the smallest one,\" she ordered the Death Eaters beside her."
+   ]
+  },
+  {
+   "begin": "250.760",
+   "children": [],
+   "end": "255.400",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "\"Let him watch while we torture the little girl."
+   ]
+  },
+  {
+   "begin": "255.400",
+   "children": [],
+   "end": "256.200",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "I'll do it.\""
+   ]
+  },
+  {
+   "begin": "256.200",
+   "children": [],
+   "end": "259.440",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "Harry felt the others close in around Ginny."
+   ]
+  },
+  {
+   "begin": "259.440",
+   "children": [],
+   "end": "264.440",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "He stepped sideways so that he was right in front of her, the prophecy held up to his chest."
    ]
   },
   {
    "begin": "264.440",
    "children": [],
-   "end": "274.600",
-   "id": "f000035",
+   "end": "269.440",
+   "id": "f000066",
    "language": "eng",
    "lines": [
-    "\"You'll have to smash this if you want to attack any of us,\" he told Bellatrix. \"I don't think your boss will be too pleased if you come back without it, will he?\""
+    "\"You'll have to smash this if you want to attack any of us,\" he told Bellatrix."
+   ]
+  },
+  {
+   "begin": "269.440",
+   "children": [],
+   "end": "274.600",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "\"I don't think your boss will be too pleased if you come back without it, will he?\""
    ]
   },
   {
    "begin": "274.600",
    "children": [],
    "end": "280.000",
-   "id": "f000036",
+   "id": "f000068",
    "language": "eng",
    "lines": [
     "She did not move; she merely stared at him, the tip of her tongue moistening her thin mouth."
@@ -364,7 +684,7 @@
    "begin": "280.000",
    "children": [],
    "end": "286.320",
-   "id": "f000037",
+   "id": "f000069",
    "language": "eng",
    "lines": [
     "\"So,\" said Harry, \"what kind of prophecy are we talking about anyway?\""
@@ -373,38 +693,88 @@
   {
    "begin": "286.320",
    "children": [],
-   "end": "301.960",
-   "id": "f000038",
+   "end": "289.520",
+   "id": "f000070",
    "language": "eng",
    "lines": [
-    "He could not think what to do but to keep talking. Neville's arm was pressed against his, and he could feel him shaking. He could feel one of the other's quickened breath on the back of his head. He was hoping they were all thinking hard about ways to get out of this, because his mind was blank."
+    "He could not think what to do but to keep talking."
+   ]
+  },
+  {
+   "begin": "289.520",
+   "children": [],
+   "end": "293.480",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "Neville's arm was pressed against his, and he could feel him shaking."
+   ]
+  },
+  {
+   "begin": "293.480",
+   "children": [],
+   "end": "296.480",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "He could feel one of the other's quickened breath on the back of his head."
+   ]
+  },
+  {
+   "begin": "296.480",
+   "children": [],
+   "end": "301.960",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "He was hoping they were all thinking hard about ways to get out of this, because his mind was blank."
    ]
   },
   {
    "begin": "301.960",
    "children": [],
-   "end": "310.320",
-   "id": "f000039",
+   "end": "307.720",
+   "id": "f000074",
    "language": "eng",
    "lines": [
-    "\"What kind of prophecy?\" repeated Bellatrix, the grin fading from her face. \"You jest, Harry Potter.\""
+    "\"What kind of prophecy?\" repeated Bellatrix, the grin fading from her face."
+   ]
+  },
+  {
+   "begin": "307.720",
+   "children": [],
+   "end": "310.320",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "\"You jest, Harry Potter.\""
    ]
   },
   {
    "begin": "310.320",
    "children": [],
-   "end": "322.600",
-   "id": "f000040",
+   "end": "319.320",
+   "id": "f000076",
    "language": "eng",
    "lines": [
-    "\"Nope, not jesting,\" said Harry, his eyes flicking from Death Eater to Death Eater, looking for a weak link, a space through which they could escape. \"How come Voldemort wants it?\""
+    "\"Nope, not jesting,\" said Harry, his eyes flicking from Death Eater to Death Eater, looking for a weak link, a space through which they could escape."
    ]
   },
   {
-   "begin": "322.600",
+   "begin": "319.320",
+   "children": [],
+   "end": "321.800",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "\"How come Voldemort wants it?\""
+   ]
+  },
+  {
+   "begin": "321.800",
    "children": [],
    "end": "325.120",
-   "id": "f000041",
+   "id": "f000078",
    "language": "eng",
    "lines": [
     "Several of the Death Eaters let out low hisses."
@@ -414,7 +784,7 @@
    "begin": "325.120",
    "children": [],
    "end": "328.760",
-   "id": "f000042",
+   "id": "f000079",
    "language": "eng",
    "lines": [
     "\"You dare speak his name?\" whispered Bellatrix."
@@ -423,38 +793,98 @@
   {
    "begin": "328.760",
    "children": [],
-   "end": "338.600",
-   "id": "f000043",
+   "end": "335.400",
+   "id": "f000080",
    "language": "eng",
    "lines": [
-    "\"Yeah,\" said Harry, maintaining his tight grip on the glass ball, expecting another attempt to bewitch it from him. \"Yeah, I've got no problem saying Vol - \""
+    "\"Yeah,\" said Harry, maintaining his tight grip on the glass ball, expecting another attempt to bewitch it from him."
+   ]
+  },
+  {
+   "begin": "335.400",
+   "children": [],
+   "end": "338.600",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "\"Yeah, I've got no problem saying Vol - \""
    ]
   },
   {
    "begin": "338.600",
    "children": [],
-   "end": "348.440",
-   "id": "f000044",
+   "end": "340.600",
+   "id": "f000082",
    "language": "eng",
    "lines": [
-    "\"Shut your mouth!\" Bellatrix shrieked. \"You dare speak his name with your unworthy lips, you dare besmirch it with your half-blood's tongue, you dare - \""
+    "\"Shut your mouth!\""
+   ]
+  },
+  {
+   "begin": "340.600",
+   "children": [],
+   "end": "341.520",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "Bellatrix shrieked."
+   ]
+  },
+  {
+   "begin": "341.520",
+   "children": [],
+   "end": "348.440",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "\"You dare speak his name with your unworthy lips, you dare besmirch it with your half-blood's tongue, you dare - \""
    ]
   },
   {
    "begin": "348.440",
    "children": [],
-   "end": "362.400",
-   "id": "f000045",
+   "end": "352.520",
+   "id": "f000085",
    "language": "eng",
    "lines": [
-    "\"Did you know he's a half-blood too?\" said Harry recklessly. Hermione gave a little moan in his ear. \"Voldemort? Yeah, his mother was a witch but his dad was a Muggle - or has he been telling you lot he's pureblood?\""
+    "\"Did you know he's a half-blood too?\" said Harry recklessly."
+   ]
+  },
+  {
+   "begin": "352.520",
+   "children": [],
+   "end": "355.160",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "Hermione gave a little moan in his ear."
+   ]
+  },
+  {
+   "begin": "355.160",
+   "children": [],
+   "end": "356.320",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "\"Voldemort?"
+   ]
+  },
+  {
+   "begin": "356.320",
+   "children": [],
+   "end": "362.400",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "Yeah, his mother was a witch but his dad was a Muggle - or has he been telling you lot he's pureblood?\""
    ]
   },
   {
    "begin": "362.400",
    "children": [],
    "end": "363.960",
-   "id": "f000046",
+   "id": "f000089",
    "language": "eng",
    "lines": [
     "\"STUPEF - \""
@@ -464,7 +894,7 @@
    "begin": "363.960",
    "children": [],
    "end": "365.560",
-   "id": "f000047",
+   "id": "f000090",
    "language": "eng",
    "lines": [
     "\"NO !\""
@@ -473,28 +903,48 @@
   {
    "begin": "365.560",
    "children": [],
-   "end": "377.200",
-   "id": "f000048",
+   "end": "370.960",
+   "id": "f000091",
    "language": "eng",
    "lines": [
-    "A jet of red light had shot from the end of Bellatrix Lestrange's wand, but Malfoy had deflected it. His spell caused hers to hit the shelf a foot to the left of Harry and several of the glass orbs there shattered."
+    "A jet of red light had shot from the end of Bellatrix Lestrange's wand, but Malfoy had deflected it."
+   ]
+  },
+  {
+   "begin": "370.960",
+   "children": [],
+   "end": "377.200",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "His spell caused hers to hit the shelf a foot to the left of Harry and several of the glass orbs there shattered."
    ]
   },
   {
    "begin": "377.200",
    "children": [],
-   "end": "389.960",
-   "id": "f000049",
+   "end": "386.560",
+   "id": "f000093",
    "language": "eng",
    "lines": [
-    "Two figures, pearly white as ghosts, fluid as smoke, unfurled themselves from the fragments of broken glass upon the floor and each began to speak. Their voices vied with each other, so that only fragments"
+    "Two figures, pearly white as ghosts, fluid as smoke, unfurled themselves from the fragments of broken glass upon the floor and each began to speak."
+   ]
+  },
+  {
+   "begin": "386.560",
+   "children": [],
+   "end": "389.960",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "Their voices vied with each other, so that only fragments"
    ]
   },
   {
    "begin": "389.960",
    "children": [],
    "end": "393.600",
-   "id": "f000050",
+   "id": "f000095",
    "language": "eng",
    "lines": [
     "of what they were saying could be heard over Malfoy and Bellatrix's shouts."
@@ -504,7 +954,7 @@
    "begin": "393.600",
    "children": [],
    "end": "398.720",
-   "id": "f000051",
+   "id": "f000096",
    "language": "eng",
    "lines": [
     "\". . . at the Solstice will come a new . . .\" said the figure of an old, bearded man."
@@ -513,28 +963,48 @@
   {
    "begin": "398.720",
    "children": [],
-   "end": "402.480",
-   "id": "f000052",
+   "end": "401.080",
+   "id": "f000097",
    "language": "eng",
    "lines": [
-    "\"DO NOT ATTACK! WE NEED THE PROPHECY!\""
+    "\"DO NOT ATTACK!"
+   ]
+  },
+  {
+   "begin": "401.080",
+   "children": [],
+   "end": "402.480",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "WE NEED THE PROPHECY!\""
    ]
   },
   {
    "begin": "402.480",
    "children": [],
-   "end": "410.040",
-   "id": "f000053",
+   "end": "406.840",
+   "id": "f000099",
    "language": "eng",
    "lines": [
-    "\"He dared - he dares - \" shrieked Bellatrix incoherently. \" - He stands there - filthy half-blood - \""
+    "\"He dared - he dares - \" shrieked Bellatrix incoherently."
+   ]
+  },
+  {
+   "begin": "406.840",
+   "children": [],
+   "end": "410.040",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "\" - He stands there - filthy half-blood - \""
    ]
   },
   {
    "begin": "410.040",
    "children": [],
    "end": "414.040",
-   "id": "f000054",
+   "id": "f000101",
    "language": "eng",
    "lines": [
     "\"WAIT UNTIL WE'VE GOT THE PROPHECY!\" bawled Malfoy."
@@ -543,38 +1013,78 @@
   {
    "begin": "414.040",
    "children": [],
-   "end": "420.120",
-   "id": "f000055",
+   "end": "419.400",
+   "id": "f000102",
    "language": "eng",
    "lines": [
     "\". . . and none will come after . . .\" said the figure of a young woman."
    ]
   },
   {
-   "begin": "420.120",
+   "begin": "419.400",
    "children": [],
-   "end": "435.280",
-   "id": "f000056",
+   "end": "424.480",
+   "id": "f000103",
    "language": "eng",
    "lines": [
-    "The two figures that had burst from the shattered spheres had melted into thin air. Nothing remained of them or their erstwhile homes but fragments of glass upon the floor. They had, however, given Harry an idea. The problem was going to be conveying it to the others."
+    "The two figures that had burst from the shattered spheres had melted into thin air."
+   ]
+  },
+  {
+   "begin": "424.480",
+   "children": [],
+   "end": "429.120",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "Nothing remained of them or their erstwhile homes but fragments of glass upon the floor."
+   ]
+  },
+  {
+   "begin": "429.120",
+   "children": [],
+   "end": "432.200",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "They had, however, given Harry an idea."
+   ]
+  },
+  {
+   "begin": "432.200",
+   "children": [],
+   "end": "435.280",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "The problem was going to be conveying it to the others."
    ]
   },
   {
    "begin": "435.280",
    "children": [],
-   "end": "446.320",
-   "id": "f000057",
+   "end": "441.800",
+   "id": "f000107",
    "language": "eng",
    "lines": [
-    "\"You haven't told me what's so special about this prophecy I'm supposed to be handing over,\" he said, playing for time. He moved his foot slowly sideways, feeling around for someone else's."
+    "\"You haven't told me what's so special about this prophecy I'm supposed to be handing over,\" he said, playing for time."
+   ]
+  },
+  {
+   "begin": "441.800",
+   "children": [],
+   "end": "446.320",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "He moved his foot slowly sideways, feeling around for someone else's."
    ]
   },
   {
    "begin": "446.320",
    "children": [],
    "end": "450.680",
-   "id": "f000058",
+   "id": "f000109",
    "language": "eng",
    "lines": [
     "\"Do not play games with us, Potter,\" said Malfoy."
@@ -583,18 +1093,38 @@
   {
    "begin": "450.680",
    "children": [],
-   "end": "463.920",
-   "id": "f000059",
+   "end": "456.800",
+   "id": "f000110",
    "language": "eng",
    "lines": [
-    "\"I'm not playing games,\" said Harry, half his mind on the conversation, half on his wandering foot. And then he found someone's toes and pressed down upon them. A sharp intake of breath behind him told him they were Hermione's."
+    "\"I'm not playing games,\" said Harry, half his mind on the conversation, half on his wandering foot."
+   ]
+  },
+  {
+   "begin": "456.800",
+   "children": [],
+   "end": "459.960",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "And then he found someone's toes and pressed down upon them."
+   ]
+  },
+  {
+   "begin": "459.960",
+   "children": [],
+   "end": "463.920",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "A sharp intake of breath behind him told him they were Hermione's."
    ]
   },
   {
    "begin": "463.920",
    "children": [],
    "end": "466.120",
-   "id": "f000060",
+   "id": "f000113",
    "language": "eng",
    "lines": [
     "\"What?\" she whispered."
@@ -604,7 +1134,7 @@
    "begin": "466.120",
    "children": [],
    "end": "474.720",
-   "id": "f000061",
+   "id": "f000114",
    "language": "eng",
    "lines": [
     "\"Dumbledore never told you that the reason you bear that scar was hidden in the bowels of the Department of Mysteries?\" said Malfoy sneeringly."
@@ -613,18 +1143,28 @@
   {
    "begin": "474.720",
    "children": [],
-   "end": "481.760",
-   "id": "f000062",
+   "end": "479.960",
+   "id": "f000115",
    "language": "eng",
    "lines": [
-    "\"I - what?\" said Harry, and for a moment he quite forgot his plan. \"What about my scar?\""
+    "\"I - what?\" said Harry, and for a moment he quite forgot his plan."
+   ]
+  },
+  {
+   "begin": "479.960",
+   "children": [],
+   "end": "481.760",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "\"What about my scar?\""
    ]
   },
   {
    "begin": "481.760",
    "children": [],
    "end": "485.720",
-   "id": "f000063",
+   "id": "f000117",
    "language": "eng",
    "lines": [
     "\"What?\" whispered Hermione more urgently behind him."
@@ -634,7 +1174,7 @@
    "begin": "485.720",
    "children": [],
    "end": "494.120",
-   "id": "f000064",
+   "id": "f000118",
    "language": "eng",
    "lines": [
     "\"Can this be?\" said Malfoy, sounding maliciously delighted; some of the Death Eaters were laughing again, and under cover of their"
@@ -644,7 +1184,7 @@
    "begin": "494.120",
    "children": [],
    "end": "499.600",
-   "id": "f000065",
+   "id": "f000119",
    "language": "eng",
    "lines": [
     "laughter, Harry hissed to Hermione, moving his lips as little as possible, \"Smash shelves - \""
@@ -653,18 +1193,38 @@
   {
    "begin": "499.600",
    "children": [],
-   "end": "510.080",
-   "id": "f000066",
+   "end": "502.560",
+   "id": "f000120",
    "language": "eng",
    "lines": [
-    "\"Dumbledore never told you?\" Malfoy repeated. \"Well, this explains why you didn't come earlier, Potter, the Dark Lord wondered why - \""
+    "\"Dumbledore never told you?\""
+   ]
+  },
+  {
+   "begin": "502.560",
+   "children": [],
+   "end": "503.960",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "Malfoy repeated."
+   ]
+  },
+  {
+   "begin": "503.960",
+   "children": [],
+   "end": "510.080",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "\"Well, this explains why you didn't come earlier, Potter, the Dark Lord wondered why - \""
    ]
   },
   {
    "begin": "510.080",
    "children": [],
    "end": "511.400",
-   "id": "f000067",
+   "id": "f000123",
    "language": "eng",
    "lines": [
     "\" - when I say go - \""
@@ -673,38 +1233,98 @@
   {
    "begin": "511.400",
    "children": [],
-   "end": "521.400",
-   "id": "f000068",
+   "end": "516.360",
+   "id": "f000124",
    "language": "eng",
    "lines": [
-    "\" - you didn't come running when he showed you the place where it was hidden in your dreams. He thought natural curiosity would make you want to hear the exact wording. . . .\""
+    "\" - you didn't come running when he showed you the place where it was hidden in your dreams."
+   ]
+  },
+  {
+   "begin": "516.360",
+   "children": [],
+   "end": "521.400",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "He thought natural curiosity would make you want to hear the exact wording. . . .\""
    ]
   },
   {
    "begin": "521.400",
    "children": [],
-   "end": "536.080",
-   "id": "f000069",
+   "end": "523.520",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "\"Did he?\" said Harry. Behind him he felt rather than heard Hermione passing his message to the others and he sought to keep talking, to distract the Death Eaters. \"So he wanted me to come and get it, did he? Why?\""
+    "\"Did he?\" said Harry."
+   ]
+  },
+  {
+   "begin": "523.520",
+   "children": [],
+   "end": "531.840",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "Behind him he felt rather than heard Hermione passing his message to the others and he sought to keep talking, to distract the Death Eaters."
+   ]
+  },
+  {
+   "begin": "531.840",
+   "children": [],
+   "end": "535.560",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "\"So he wanted me to come and get it, did he?"
+   ]
+  },
+  {
+   "begin": "535.560",
+   "children": [],
+   "end": "536.080",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "Why?\""
    ]
   },
   {
    "begin": "536.080",
    "children": [],
-   "end": "554.960",
-   "id": "f000070",
+   "end": "537.680",
+   "id": "f000130",
    "language": "eng",
    "lines": [
-    "\"Why?\" Malfoy sounded incredulously delighted. \"Because the only people who are permitted to retrieve a prophecy from the Department of Mysteries, Potter, are those about whom it was made, as the Dark Lord discovered when he attempted to use others to steal it for him.\""
+    "\"Why?\""
+   ]
+  },
+  {
+   "begin": "537.680",
+   "children": [],
+   "end": "540.320",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "Malfoy sounded incredulously delighted."
+   ]
+  },
+  {
+   "begin": "540.320",
+   "children": [],
+   "end": "554.960",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "\"Because the only people who are permitted to retrieve a prophecy from the Department of Mysteries, Potter, are those about whom it was made, as the Dark Lord discovered when he attempted to use others to steal it for him.\""
    ]
   },
   {
    "begin": "554.960",
    "children": [],
    "end": "558.280",
-   "id": "f000071",
+   "id": "f000133",
    "language": "eng",
    "lines": [
     "\"And why did he want to steal a prophecy about me?\""
@@ -713,38 +1333,88 @@
   {
    "begin": "558.280",
    "children": [],
-   "end": "567.760",
-   "id": "f000072",
+   "end": "566.920",
+   "id": "f000134",
    "language": "eng",
    "lines": [
     "\"About both of you, Potter, about both of you . . . Haven't you ever wondered why the Dark Lord tried to kill you as a baby?\""
    ]
   },
   {
-   "begin": "567.760",
+   "begin": "566.920",
    "children": [],
-   "end": "582.160",
-   "id": "f000073",
+   "end": "572.120",
+   "id": "f000135",
    "language": "eng",
    "lines": [
-    "Harry stared into the slitted eyeholes through which Malfoy's gray eyes were gleaming. Was this prophecy the reason Harry's parents had died, the reason he carried his lightning-bolt scar? Was the answer to all of this clutched in his hand?"
+    "Harry stared into the slitted eyeholes through which Malfoy's gray eyes were gleaming."
+   ]
+  },
+  {
+   "begin": "572.120",
+   "children": [],
+   "end": "578.680",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Was this prophecy the reason Harry's parents had died, the reason he carried his lightning-bolt scar?"
+   ]
+  },
+  {
+   "begin": "578.680",
+   "children": [],
+   "end": "582.160",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "Was the answer to all of this clutched in his hand?"
    ]
   },
   {
    "begin": "582.160",
    "children": [],
-   "end": "600.880",
-   "id": "f000074",
+   "end": "592.000",
+   "id": "f000138",
    "language": "eng",
    "lines": [
-    "\"Someone made a prophecy about Voldemort and me?\" he said quietly, gazing at Lucius Malfoy, his fingers tightening over the warm glass sphere in his hand. It was hardly larger than a Snitch and still gritty with dust. \"And he's made me come and get it for him? Why couldn't he come and get it himself?\""
+    "\"Someone made a prophecy about Voldemort and me?\" he said quietly, gazing at Lucius Malfoy, his fingers tightening over the warm glass sphere in his hand."
+   ]
+  },
+  {
+   "begin": "592.000",
+   "children": [],
+   "end": "595.760",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "It was hardly larger than a Snitch and still gritty with dust."
+   ]
+  },
+  {
+   "begin": "595.760",
+   "children": [],
+   "end": "598.440",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "\"And he's made me come and get it for him?"
+   ]
+  },
+  {
+   "begin": "598.440",
+   "children": [],
+   "end": "600.880",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "Why couldn't he come and get it himself?\""
    ]
   },
   {
    "begin": "600.880",
    "children": [],
    "end": "605.720",
-   "id": "f000075",
+   "id": "f000142",
    "language": "eng",
    "lines": [
     "\"Get it himself?\" shrieked Bellatrix on a cackle of mad laughter."
@@ -753,38 +1423,68 @@
   {
    "begin": "605.720",
    "children": [],
-   "end": "619.440",
-   "id": "f000076",
+   "end": "612.040",
+   "id": "f000143",
    "language": "eng",
    "lines": [
-    "\"The Dark Lord, walk into the Ministry of Magic, when they are so sweetly ignoring his return? The Dark Lord, reveal himself to the Aurors, when at the moment they are wasting their time on my dear cousin?\""
+    "\"The Dark Lord, walk into the Ministry of Magic, when they are so sweetly ignoring his return?"
+   ]
+  },
+  {
+   "begin": "612.040",
+   "children": [],
+   "end": "619.440",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "The Dark Lord, reveal himself to the Aurors, when at the moment they are wasting their time on my dear cousin?\""
    ]
   },
   {
    "begin": "619.440",
    "children": [],
-   "end": "627.360",
-   "id": "f000077",
+   "end": "623.880",
+   "id": "f000145",
    "language": "eng",
    "lines": [
-    "\"So he's got you doing his dirty work for him, has he?\" said Harry. \"Like he tried to get Sturgis to steal it - and Bode?\""
+    "\"So he's got you doing his dirty work for him, has he?\" said Harry."
+   ]
+  },
+  {
+   "begin": "623.880",
+   "children": [],
+   "end": "627.360",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "\"Like he tried to get Sturgis to steal it - and Bode?\""
    ]
   },
   {
    "begin": "627.360",
    "children": [],
-   "end": "635.960",
-   "id": "f000078",
+   "end": "632.480",
+   "id": "f000147",
    "language": "eng",
    "lines": [
-    "\"Very good, Potter, very good . . .\" said Malfoy slowly. \"But the Dark Lord knows you are not unintell - \""
+    "\"Very good, Potter, very good . . .\" said Malfoy slowly."
+   ]
+  },
+  {
+   "begin": "632.480",
+   "children": [],
+   "end": "635.960",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "\"But the Dark Lord knows you are not unintell - \""
    ]
   },
   {
    "begin": "635.960",
    "children": [],
    "end": "637.640",
-   "id": "f000079",
+   "id": "f000149",
    "language": "eng",
    "lines": [
     "\"NOW!\" yelled Harry."
@@ -793,58 +1493,128 @@
   {
    "begin": "637.640",
    "children": [],
-   "end": "663.160",
-   "id": "f000080",
+   "end": "641.320",
+   "id": "f000150",
    "language": "eng",
    "lines": [
-    "Five different voices behind him bellowed \"REDUCTO !\" Five curses flew in five different directions and the shelves opposite them exploded as they hit. The towering structure swayed as a hundred glass spheres burst apart, pearly-white figures unfurled into the air and floated there, their voices echoing from who knew what long-dead past amid the torrent of crashing glass and splintered wood now raining down upon the floor -"
+    "Five different voices behind him bellowed \"REDUCTO !\""
+   ]
+  },
+  {
+   "begin": "641.320",
+   "children": [],
+   "end": "647.360",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "Five curses flew in five different directions and the shelves opposite them exploded as they hit."
+   ]
+  },
+  {
+   "begin": "647.360",
+   "children": [],
+   "end": "663.160",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "The towering structure swayed as a hundred glass spheres burst apart, pearly-white figures unfurled into the air and floated there, their voices echoing from who knew what long-dead past amid the torrent of crashing glass and splintered wood now raining down upon the floor -"
    ]
   },
   {
    "begin": "663.160",
    "children": [],
-   "end": "694.920",
-   "id": "f000081",
+   "end": "678.680",
+   "id": "f000153",
    "language": "eng",
    "lines": [
-    "\"RUN!\" Harry yelled, and as the shelves swayed precariously and more glass spheres began to pour from above, he seized a handful of Hermione's robes and dragged her forward, one arm over his head as chunks of shelf and shards of glass thundered down upon them. A Death Eater lunged forward through the cloud of dust and Harry elbowed him hard in the masked face. They were all yelling, there were cries of pain, thunderous crashes as the shelves collapsed upon themselves, weirdly echoing fragments of the Seers unleashed from their spheres -"
+    "\"RUN!\" Harry yelled, and as the shelves swayed precariously and more glass spheres began to pour from above, he seized a handful of Hermione's robes and dragged her forward, one arm over his head as chunks of shelf and shards of glass thundered down upon them."
+   ]
+  },
+  {
+   "begin": "678.680",
+   "children": [],
+   "end": "684.200",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "A Death Eater lunged forward through the cloud of dust and Harry elbowed him hard in the masked face."
+   ]
+  },
+  {
+   "begin": "684.200",
+   "children": [],
+   "end": "694.920",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "They were all yelling, there were cries of pain, thunderous crashes as the shelves collapsed upon themselves, weirdly echoing fragments of the Seers unleashed from their spheres -"
    ]
   },
   {
    "begin": "694.920",
    "children": [],
-   "end": "712.520",
-   "id": "f000082",
+   "end": "700.960",
+   "id": "f000156",
    "language": "eng",
    "lines": [
-    "Harry found the way ahead clear and saw Ron, Ginny, and Luna sprint past him, their arms over their heads. Something heavy struck him on the side of the face but he merely ducked his head and sprinted onward; a hand caught him by the shoulder; he heard Hermione shout \"Stupefy!\" and the hand released him at once."
+    "Harry found the way ahead clear and saw Ron, Ginny, and Luna sprint past him, their arms over their heads."
+   ]
+  },
+  {
+   "begin": "700.960",
+   "children": [],
+   "end": "712.520",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "Something heavy struck him on the side of the face but he merely ducked his head and sprinted onward; a hand caught him by the shoulder; he heard Hermione shout \"Stupefy!\" and the hand released him at once."
    ]
   },
   {
    "begin": "712.520",
    "children": [],
-   "end": "716.760",
-   "id": "f000083",
+   "end": "716.840",
+   "id": "f000158",
    "language": "eng",
    "lines": [
     "They were at the end of row ninety-seven; Harry turned right and"
    ]
   },
   {
-   "begin": "716.760",
+   "begin": "716.840",
    "children": [],
-   "end": "737.360",
-   "id": "f000084",
+   "end": "718.120",
+   "id": "f000159",
    "language": "eng",
    "lines": [
-    "began to sprint in earnest. He could hear footsteps right behind him and Hermione's voice urging Neville on. The door through which they had come was ajar straight ahead, Harry could see the glittering light of the bell jar, he pelted through it, the prophecy still clutched tight and safe in his hand, waited for the others to hurtle over the threshold before slamming the door behind them -"
+    "began to sprint in earnest."
+   ]
+  },
+  {
+   "begin": "718.120",
+   "children": [],
+   "end": "722.480",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "He could hear footsteps right behind him and Hermione's voice urging Neville on."
+   ]
+  },
+  {
+   "begin": "722.480",
+   "children": [],
+   "end": "737.360",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "The door through which they had come was ajar straight ahead, Harry could see the glittering light of the bell jar, he pelted through it, the prophecy still clutched tight and safe in his hand, waited for the others to hurtle over the threshold before slamming the door behind them -"
    ]
   },
   {
    "begin": "737.360",
    "children": [],
    "end": "744.160",
-   "id": "f000085",
+   "id": "f000162",
    "language": "eng",
    "lines": [
     "\"Colloportus!\" gasped Hermione and the door sealed itself with an odd squelching noise."
@@ -854,7 +1624,7 @@
    "begin": "744.160",
    "children": [],
    "end": "747.720",
-   "id": "f000086",
+   "id": "f000163",
    "language": "eng",
    "lines": [
     "\"Where - where are the others?\" gasped Harry."
@@ -864,7 +1634,7 @@
    "begin": "747.720",
    "children": [],
    "end": "754.520",
-   "id": "f000087",
+   "id": "f000164",
    "language": "eng",
    "lines": [
     "He had thought that Ron, Luna, and Ginny had been ahead of them, that they would be waiting in this room, but there was nobody there."
@@ -874,7 +1644,7 @@
    "begin": "754.520",
    "children": [],
    "end": "759.560",
-   "id": "f000088",
+   "id": "f000165",
    "language": "eng",
    "lines": [
     "\"They must have gone the wrong way!\" whispered Hermione, terror in her face."
@@ -884,7 +1654,7 @@
    "begin": "759.560",
    "children": [],
    "end": "762.000",
-   "id": "f000089",
+   "id": "f000166",
    "language": "eng",
    "lines": [
     "\"Listen!\" whispered Neville."
@@ -893,18 +1663,38 @@
   {
    "begin": "762.000",
    "children": [],
-   "end": "803.160",
-   "id": "f000090",
+   "end": "765.840",
+   "id": "f000167",
    "language": "eng",
    "lines": [
-    "Footsteps and shouts echoed from behind the door they had just sealed. Harry put his ear close to the door to listen and heard Lucius Malfoy roar: \"Leave Nott, leave him, I say, the Dark Lord will not care for Nott's injuries as much as losing that prophecy - Jugson, come back here, we need to organize! We'll split into pairs and search, and don't forget, be gentle with Potter until we've got the prophecy, you can kill the others if necessary - Bellatrix, Rodolphus, you take the left, Crabbe, Rabastan, go right - Jugson, Dolohov, the door straight ahead - Macnair and Avery, through here - Rookwood, over there - Mulciber, come with me!\""
+    "Footsteps and shouts echoed from behind the door they had just sealed."
+   ]
+  },
+  {
+   "begin": "765.840",
+   "children": [],
+   "end": "780.920",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "Harry put his ear close to the door to listen and heard Lucius Malfoy roar: \"Leave Nott, leave him, I say, the Dark Lord will not care for Nott's injuries as much as losing that prophecy - Jugson, come back here, we need to organize!"
+   ]
+  },
+  {
+   "begin": "780.920",
+   "children": [],
+   "end": "803.160",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "We'll split into pairs and search, and don't forget, be gentle with Potter until we've got the prophecy, you can kill the others if necessary - Bellatrix, Rodolphus, you take the left, Crabbe, Rabastan, go right - Jugson, Dolohov, the door straight ahead - Macnair and Avery, through here - Rookwood, over there - Mulciber, come with me!\""
    ]
   },
   {
    "begin": "803.160",
    "children": [],
    "end": "807.640",
-   "id": "f000091",
+   "id": "f000170",
    "language": "eng",
    "lines": [
     "\"What do we do?\" Hermione asked Harry, trembling from head to foot."
@@ -913,58 +1703,98 @@
   {
    "begin": "807.640",
    "children": [],
-   "end": "814.680",
-   "id": "f000092",
+   "end": "812.120",
+   "id": "f000171",
    "language": "eng",
    "lines": [
-    "\"Well, we don't stand here waiting for them to find us, for a start,\" said Harry. \"Let's get away from this door. . . .\""
+    "\"Well, we don't stand here waiting for them to find us, for a start,\" said Harry."
    ]
   },
   {
-   "begin": "814.680",
+   "begin": "812.120",
    "children": [],
-   "end": "822.200",
-   "id": "f000093",
+   "end": "813.920",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "\"Let's get away from this door. . . .\""
+   ]
+  },
+  {
+   "begin": "813.920",
+   "children": [],
+   "end": "821.760",
+   "id": "f000173",
    "language": "eng",
    "lines": [
     "They ran, quietly as they could, past the shimmering bell jar where the tiny egg was hatching and unhatching, toward the exit into the"
    ]
   },
   {
-   "begin": "822.200",
+   "begin": "821.760",
    "children": [],
-   "end": "830.720",
-   "id": "f000094",
+   "end": "824.160",
+   "id": "f000174",
    "language": "eng",
    "lines": [
-    "circular hallway at the far end of the room. They were almost there when Harry heard something large and heavy collide with the door Hermione had charmed shut."
+    "circular hallway at the far end of the room."
+   ]
+  },
+  {
+   "begin": "824.160",
+   "children": [],
+   "end": "830.720",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "They were almost there when Harry heard something large and heavy collide with the door Hermione had charmed shut."
    ]
   },
   {
    "begin": "830.720",
    "children": [],
-   "end": "836.240",
-   "id": "f000095",
+   "end": "834.000",
+   "id": "f000176",
    "language": "eng",
    "lines": [
-    "\"Stand aside!\" said a rough voice. \"Alohomora!\""
+    "\"Stand aside!\" said a rough voice."
    ]
   },
   {
-   "begin": "836.240",
+   "begin": "834.000",
    "children": [],
-   "end": "845.000",
-   "id": "f000096",
+   "end": "835.560",
+   "id": "f000177",
    "language": "eng",
    "lines": [
-    "As the door flew open, Harry, Hermione, and Neville dived under desks. They could see the bottom of the two Death Eaters' robes drawing nearer, their feet moving rapidly."
+    "\"Alohomora!\""
+   ]
+  },
+  {
+   "begin": "835.560",
+   "children": [],
+   "end": "839.960",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "As the door flew open, Harry, Hermione, and Neville dived under desks."
+   ]
+  },
+  {
+   "begin": "839.960",
+   "children": [],
+   "end": "845.000",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "They could see the bottom of the two Death Eaters' robes drawing nearer, their feet moving rapidly."
    ]
   },
   {
    "begin": "845.000",
    "children": [],
    "end": "849.600",
-   "id": "f000097",
+   "id": "f000180",
    "language": "eng",
    "lines": [
     "\"They might've run straight through to the hall,\" said the rough voice."
@@ -974,7 +1804,7 @@
    "begin": "849.600",
    "children": [],
    "end": "852.280",
-   "id": "f000098",
+   "id": "f000181",
    "language": "eng",
    "lines": [
     "\"Check under the desks,\" said another."
@@ -983,28 +1813,48 @@
   {
    "begin": "852.280",
    "children": [],
-   "end": "859.800",
-   "id": "f000099",
+   "end": "855.040",
+   "id": "f000182",
    "language": "eng",
    "lines": [
-    "Harry saw the knees of the Death Eaters bend. Poking his wand out from under the desk he shouted, \"STUPEFY !\""
+    "Harry saw the knees of the Death Eaters bend."
    ]
   },
   {
-   "begin": "859.800",
+   "begin": "855.040",
    "children": [],
-   "end": "875.040",
-   "id": "f000100",
+   "end": "859.040",
+   "id": "f000183",
    "language": "eng",
    "lines": [
-    "A jet of red light hit the nearest Death Eater; he fell backward into a grandfather clock and knocked it over. The second Death Eater, however, had leapt aside to avoid Harry's spell and now pointed his own wand at Hermione, who had crawled out from under the desk to get a better aim."
+    "Poking his wand out from under the desk he shouted, \"STUPEFY !\""
+   ]
+  },
+  {
+   "begin": "859.040",
+   "children": [],
+   "end": "865.480",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "A jet of red light hit the nearest Death Eater; he fell backward into a grandfather clock and knocked it over."
+   ]
+  },
+  {
+   "begin": "865.480",
+   "children": [],
+   "end": "875.040",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "The second Death Eater, however, had leapt aside to avoid Harry's spell and now pointed his own wand at Hermione, who had crawled out from under the desk to get a better aim."
    ]
   },
   {
    "begin": "875.040",
    "children": [],
    "end": "876.320",
-   "id": "f000101",
+   "id": "f000186",
    "language": "eng",
    "lines": [
     "\"Avada - \""
@@ -1013,18 +1863,28 @@
   {
    "begin": "876.320",
    "children": [],
-   "end": "891.360",
-   "id": "f000102",
+   "end": "883.360",
+   "id": "f000187",
    "language": "eng",
    "lines": [
-    "Harry launched himself across the floor and grabbed the Death Eater around the knees, causing him to topple and his aim to go awry. Neville overturned his desk in his anxiety to help; pointing his wand wildly at the struggling pair he cried, \"EXPELLIARMUS !\""
+    "Harry launched himself across the floor and grabbed the Death Eater around the knees, causing him to topple and his aim to go awry."
+   ]
+  },
+  {
+   "begin": "883.360",
+   "children": [],
+   "end": "891.360",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "Neville overturned his desk in his anxiety to help; pointing his wand wildly at the struggling pair he cried, \"EXPELLIARMUS !\""
    ]
   },
   {
    "begin": "891.360",
    "children": [],
    "end": "908.080",
-   "id": "f000103",
+   "id": "f000189",
    "language": "eng",
    "lines": [
     "Both Harry's and the Death Eater's wands flew out of their hands and soared back toward the entrance to the Hall of Prophecy; both scrambled to their feet and charged after them, the Death Eater in front and Harry hot on his heels, Neville bringing up the rear, plainly horrorstruck at what he had done."
@@ -1033,18 +1893,18 @@
   {
    "begin": "908.080",
    "children": [],
-   "end": "913.920",
-   "id": "f000104",
+   "end": "913.160",
+   "id": "f000190",
    "language": "eng",
    "lines": [
     "\"Get out of the way, Harry!\" yelled Neville, clearly determined to repair the damage."
    ]
   },
   {
-   "begin": "913.920",
+   "begin": "913.160",
    "children": [],
    "end": "918.360",
-   "id": "f000105",
+   "id": "f000191",
    "language": "eng",
    "lines": [
     "Harry flung himself sideways as Neville took aim again and shouted, \"STUPEFY !\""
@@ -1053,48 +1913,98 @@
   {
    "begin": "918.360",
    "children": [],
-   "end": "936.080",
-   "id": "f000106",
+   "end": "926.760",
+   "id": "f000192",
    "language": "eng",
    "lines": [
-    "The jet of red light flew right over the Death Eater's shoulder and hit a glass-fronted cabinet on the wall full of variously shaped hourglasses. The cabinet fell to the floor and burst apart, glass flying everywhere, then sprang back up onto the wall, fully mended, then fell down again, and shattered -"
+    "The jet of red light flew right over the Death Eater's shoulder and hit a glass-fronted cabinet on the wall full of variously shaped hourglasses."
+   ]
+  },
+  {
+   "begin": "926.760",
+   "children": [],
+   "end": "936.080",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "The cabinet fell to the floor and burst apart, glass flying everywhere, then sprang back up onto the wall, fully mended, then fell down again, and shattered -"
    ]
   },
   {
    "begin": "936.080",
    "children": [],
-   "end": "950.320",
-   "id": "f000107",
+   "end": "941.040",
+   "id": "f000194",
    "language": "eng",
    "lines": [
-    "The Death Eater had snatched up his wand, which lay on the floor beside the glittering bell jar. Harry ducked down behind another desk as the man turned - his mask had slipped so that he could not see, he ripped it off with his free hand and shouted, \"STUP - \""
+    "The Death Eater had snatched up his wand, which lay on the floor beside the glittering bell jar."
+   ]
+  },
+  {
+   "begin": "941.040",
+   "children": [],
+   "end": "950.320",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "Harry ducked down behind another desk as the man turned - his mask had slipped so that he could not see, he ripped it off with his free hand and shouted, \"STUP - \""
    ]
   },
   {
    "begin": "950.320",
    "children": [],
-   "end": "984.160",
-   "id": "f000108",
+   "end": "954.480",
+   "id": "f000196",
    "language": "eng",
    "lines": [
-    "\"STUPEFY !\" screamed Hermione, who had just caught up with them. The jet of red light hit the Death Eater in the middle of his chest; he froze, his arm still raised, his wand fell to the floor with a clatter and he collapsed backward toward the bell jar. Harry expected to hear a clunk, for the man to hit solid glass and slide off the jar onto the floor, but instead, his head sank through the surface of the bell jar as though it was nothing but a soap bubble and he came to rest, sprawled on his back on the table, with his head lying inside the jar full of glittering wind."
+    "\"STUPEFY !\" screamed Hermione, who had just caught up with them."
+   ]
+  },
+  {
+   "begin": "954.480",
+   "children": [],
+   "end": "965.640",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "The jet of red light hit the Death Eater in the middle of his chest; he froze, his arm still raised, his wand fell to the floor with a clatter and he collapsed backward toward the bell jar."
+   ]
+  },
+  {
+   "begin": "965.640",
+   "children": [],
+   "end": "984.160",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "Harry expected to hear a clunk, for the man to hit solid glass and slide off the jar onto the floor, but instead, his head sank through the surface of the bell jar as though it was nothing but a soap bubble and he came to rest, sprawled on his back on the table, with his head lying inside the jar full of glittering wind."
    ]
   },
   {
    "begin": "984.160",
    "children": [],
-   "end": "991.560",
-   "id": "f000109",
+   "end": "987.080",
+   "id": "f000199",
    "language": "eng",
    "lines": [
-    "\"Accio Wand !\" cried Hermione. Harry's wand flew from a dark corner into her hand and she threw it to him."
+    "\"Accio Wand !\" cried Hermione."
+   ]
+  },
+  {
+   "begin": "987.080",
+   "children": [],
+   "end": "991.560",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "Harry's wand flew from a dark corner into her hand and she threw it to him."
    ]
   },
   {
    "begin": "991.560",
    "children": [],
    "end": "994.600",
-   "id": "f000110",
+   "id": "f000201",
    "language": "eng",
    "lines": [
     "\"Thanks,\" he said, \"right, let's get out of - \""
@@ -1104,7 +2014,7 @@
    "begin": "994.600",
    "children": [],
    "end": "999.720",
-   "id": "f000111",
+   "id": "f000202",
    "language": "eng",
    "lines": [
     "\"Look out!\" said Neville, horrified, staring at the Death Eater's head in the bell jar."
@@ -1113,38 +2023,58 @@
   {
    "begin": "999.720",
    "children": [],
-   "end": "1009.960",
-   "id": "f000112",
+   "end": "1003.840",
+   "id": "f000203",
    "language": "eng",
    "lines": [
-    "All three of them raised their wands again, but none of them struck. They were all gazing, openmouthed, appalled, at what was happening to the man's head."
+    "All three of them raised their wands again, but none of them struck."
    ]
   },
   {
-   "begin": "1009.960",
+   "begin": "1003.840",
    "children": [],
-   "end": "1021.480",
-   "id": "f000113",
+   "end": "1009.240",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "They were all gazing, openmouthed, appalled, at what was happening to the man's head."
+   ]
+  },
+  {
+   "begin": "1009.240",
+   "children": [],
+   "end": "1020.800",
+   "id": "f000205",
    "language": "eng",
    "lines": [
     "It was shrinking very fast, growing balder and balder, the black hair and stubble retracting into his skull, his cheeks smooth, his skull round and covered with a peachlike fuzz. . . ."
    ]
   },
   {
-   "begin": "1021.480",
+   "begin": "1020.800",
    "children": [],
-   "end": "1033.120",
-   "id": "f000114",
+   "end": "1027.880",
+   "id": "f000206",
    "language": "eng",
    "lines": [
-    "A baby's head now sat grotesquely on top of the thick, muscled neck of the Death Eater as he struggled to get up again. But even as they watched, their mouths open, the head began to swell to its previ-"
+    "A baby's head now sat grotesquely on top of the thick, muscled neck of the Death Eater as he struggled to get up again."
+   ]
+  },
+  {
+   "begin": "1027.880",
+   "children": [],
+   "end": "1033.120",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "But even as they watched, their mouths open, the head began to swell to its previ-"
    ]
   },
   {
    "begin": "1033.120",
    "children": [],
    "end": "1037.080",
-   "id": "f000115",
+   "id": "f000208",
    "language": "eng",
    "lines": [
     "ous proportions again, thick black hair was sprouting from the pate and chin. . . ."
@@ -1153,18 +2083,28 @@
   {
    "begin": "1037.080",
    "children": [],
-   "end": "1042.560",
-   "id": "f000116",
+   "end": "1041.160",
+   "id": "f000209",
    "language": "eng",
    "lines": [
-    "\"It's time,\" said Hermione in an awestruck voice. \"Time . . .\""
+    "\"It's time,\" said Hermione in an awestruck voice."
+   ]
+  },
+  {
+   "begin": "1041.160",
+   "children": [],
+   "end": "1042.560",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "\"Time . . .\""
    ]
   },
   {
    "begin": "1042.560",
    "children": [],
    "end": "1051.600",
-   "id": "f000117",
+   "id": "f000211",
    "language": "eng",
    "lines": [
     "The Death Eater shook his ugly head again, trying to clear it, but before he could pull himself together again, it began to shrink back to babyhood once more. . . ."
@@ -1174,7 +2114,7 @@
    "begin": "1051.600",
    "children": [],
    "end": "1055.520",
-   "id": "f000118",
+   "id": "f000212",
    "language": "eng",
    "lines": [
     "There was a shout from a room nearby, then a crash and a scream."
@@ -1183,38 +2123,88 @@
   {
    "begin": "1055.520",
    "children": [],
-   "end": "1062.920",
-   "id": "f000119",
+   "end": "1061.280",
+   "id": "f000213",
    "language": "eng",
    "lines": [
-    "\"RON?\" Harry yelled, turning quickly from the monstrous transformation taking place before them. \"GINNY? LUNA?\""
+    "\"RON?\" Harry yelled, turning quickly from the monstrous transformation taking place before them."
+   ]
+  },
+  {
+   "begin": "1061.280",
+   "children": [],
+   "end": "1062.080",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "\"GINNY?"
+   ]
+  },
+  {
+   "begin": "1062.080",
+   "children": [],
+   "end": "1062.920",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "LUNA?\""
    ]
   },
   {
    "begin": "1062.920",
    "children": [],
-   "end": "1065.560",
-   "id": "f000120",
+   "end": "1064.160",
+   "id": "f000216",
    "language": "eng",
    "lines": [
-    "\"Harry!\" Hermione screamed."
+    "\"Harry!\""
+   ]
+  },
+  {
+   "begin": "1064.160",
+   "children": [],
+   "end": "1065.560",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "Hermione screamed."
    ]
   },
   {
    "begin": "1065.560",
    "children": [],
-   "end": "1083.040",
-   "id": "f000121",
+   "end": "1068.720",
+   "id": "f000218",
    "language": "eng",
    "lines": [
-    "The Death Eater had pulled his head out of the bell jar. His appearance was utterly bizarre, his tiny baby's head bawling loudly while his thick arms flailed dangerously in all directions, narrowly missing Harry, who ducked. Harry raised his wand but to his amazement Hermione seized his arm."
+    "The Death Eater had pulled his head out of the bell jar."
+   ]
+  },
+  {
+   "begin": "1068.720",
+   "children": [],
+   "end": "1078.640",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "His appearance was utterly bizarre, his tiny baby's head bawling loudly while his thick arms flailed dangerously in all directions, narrowly missing Harry, who ducked."
+   ]
+  },
+  {
+   "begin": "1078.640",
+   "children": [],
+   "end": "1083.040",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "Harry raised his wand but to his amazement Hermione seized his arm."
    ]
   },
   {
    "begin": "1083.040",
    "children": [],
    "end": "1085.200",
-   "id": "f000122",
+   "id": "f000221",
    "language": "eng",
    "lines": [
     "\"You can't hurt a baby!\""
@@ -1223,18 +2213,28 @@
   {
    "begin": "1085.200",
    "children": [],
-   "end": "1096.520",
-   "id": "f000123",
+   "end": "1087.560",
+   "id": "f000222",
    "language": "eng",
    "lines": [
-    "There was no time to argue the point. Harry could hear more footsteps growing louder from the Hall of Prophecy they had just left and knew, too late, that he ought not to have shouted and given away their position."
+    "There was no time to argue the point."
+   ]
+  },
+  {
+   "begin": "1087.560",
+   "children": [],
+   "end": "1096.520",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "Harry could hear more footsteps growing louder from the Hall of Prophecy they had just left and knew, too late, that he ought not to have shouted and given away their position."
    ]
   },
   {
    "begin": "1096.520",
    "children": [],
    "end": "1107.840",
-   "id": "f000124",
+   "id": "f000224",
    "language": "eng",
    "lines": [
     "\"Come on!\" he said again, and leaving the ugly baby-headed Death Eater staggering behind them, they took off for the door that stood ajar at the other end of the room, leading back into the black hallway."
@@ -1243,38 +2243,68 @@
   {
    "begin": "1107.840",
    "children": [],
-   "end": "1120.920",
-   "id": "f000125",
+   "end": "1115.280",
+   "id": "f000225",
    "language": "eng",
    "lines": [
-    "They had run halfway toward it when Harry saw through the open door two more Death Eaters running across the black room toward them. Veering left he burst instead into a small, dark, cluttered office and slammed the door behind them."
+    "They had run halfway toward it when Harry saw through the open door two more Death Eaters running across the black room toward them."
+   ]
+  },
+  {
+   "begin": "1115.280",
+   "children": [],
+   "end": "1120.920",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "Veering left he burst instead into a small, dark, cluttered office and slammed the door behind them."
    ]
   },
   {
    "begin": "1120.920",
    "children": [],
-   "end": "1134.760",
-   "id": "f000126",
+   "end": "1130.400",
+   "id": "f000227",
    "language": "eng",
    "lines": [
-    "\"Collo - \" began Hermione, but before she could complete the spell the door had burst open again and the two Death Eaters had come hurtling inside. With a cry of triumph, both yelled, \"IMPEDIMENTA!\""
+    "\"Collo - \" began Hermione, but before she could complete the spell the door had burst open again and the two Death Eaters had come hurtling inside."
+   ]
+  },
+  {
+   "begin": "1130.400",
+   "children": [],
+   "end": "1134.760",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "With a cry of triumph, both yelled, \"IMPEDIMENTA!\""
    ]
   },
   {
    "begin": "1134.760",
    "children": [],
-   "end": "1142.040",
-   "id": "f000127",
+   "end": "1138.760",
+   "id": "f000229",
    "language": "eng",
    "lines": [
-    "Harry, Hermione, and Neville were all knocked backward off their feet. Neville was thrown over the desk and disappeared from view,"
+    "Harry, Hermione, and Neville were all knocked backward off their feet."
+   ]
+  },
+  {
+   "begin": "1138.760",
+   "children": [],
+   "end": "1142.040",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "Neville was thrown over the desk and disappeared from view,"
    ]
   },
   {
    "begin": "1142.040",
    "children": [],
    "end": "1156.560",
-   "id": "f000128",
+   "id": "f000231",
    "language": "eng",
    "lines": [
     "Hermione smashed into a bookcase and was promptly deluged in a cascade of heavy books; the back of Harry's head slammed into the stone wall behind him, tiny lights burst in front of his eyes, and for a moment he was too dizzy and bewildered to react."
@@ -1284,7 +2314,7 @@
    "begin": "1156.560",
    "children": [],
    "end": "1161.840",
-   "id": "f000129",
+   "id": "f000232",
    "language": "eng",
    "lines": [
     "\"WE'VE GOT HIM!\" yelled the Death Eater nearest Harry, \"IN AN OFFICE OFF - \""
@@ -1293,28 +2323,48 @@
   {
    "begin": "1161.840",
    "children": [],
-   "end": "1173.440",
-   "id": "f000130",
+   "end": "1166.400",
+   "id": "f000233",
    "language": "eng",
    "lines": [
-    "\"Silencio!\" cried Hermione, and the man's voice was extinguished. He continued to mouth through the hole in his mask, but no sound came out; he was thrust aside by his fellow."
+    "\"Silencio!\" cried Hermione, and the man's voice was extinguished."
+   ]
+  },
+  {
+   "begin": "1166.400",
+   "children": [],
+   "end": "1173.440",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "He continued to mouth through the hole in his mask, but no sound came out; he was thrust aside by his fellow."
    ]
   },
   {
    "begin": "1173.440",
    "children": [],
-   "end": "1187.360",
-   "id": "f000131",
+   "end": "1178.880",
+   "id": "f000235",
    "language": "eng",
    "lines": [
-    "\"Petrificus Totalus!\" shouted Harry, as the second Death Eater raised his wand. His arms and legs snapped together and he fell forward, facedown onto the rug at Harry's feet, stiff as a board and unable to move at all."
+    "\"Petrificus Totalus!\" shouted Harry, as the second Death Eater raised his wand."
+   ]
+  },
+  {
+   "begin": "1178.880",
+   "children": [],
+   "end": "1187.360",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "His arms and legs snapped together and he fell forward, facedown onto the rug at Harry's feet, stiff as a board and unable to move at all."
    ]
   },
   {
    "begin": "1187.360",
    "children": [],
    "end": "1188.920",
-   "id": "f000132",
+   "id": "f000237",
    "language": "eng",
    "lines": [
     "\"Well done, Ha - \""
@@ -1323,18 +2373,28 @@
   {
    "begin": "1188.920",
    "children": [],
-   "end": "1206.520",
-   "id": "f000133",
+   "end": "1197.680",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "But the Death Eater Hermione had just struck dumb made a sudden slashing movement with his wand from which flew a streak of what looked like purple flame. It passed right across Hermione's chest; she gave a tiny \"oh!\" as though of surprise and then crumpled onto the floor where she lay motionless."
+    "But the Death Eater Hermione had just struck dumb made a sudden slashing movement with his wand from which flew a streak of what looked like purple flame."
+   ]
+  },
+  {
+   "begin": "1197.680",
+   "children": [],
+   "end": "1206.520",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "It passed right across Hermione's chest; she gave a tiny \"oh!\" as though of surprise and then crumpled onto the floor where she lay motionless."
    ]
   },
   {
    "begin": "1206.520",
    "children": [],
    "end": "1207.960",
-   "id": "f000134",
+   "id": "f000240",
    "language": "eng",
    "lines": [
     "\"HERMIONE!\""
@@ -1343,28 +2403,58 @@
   {
    "begin": "1207.960",
    "children": [],
-   "end": "1243.680",
-   "id": "f000135",
+   "end": "1215.080",
+   "id": "f000241",
    "language": "eng",
    "lines": [
-    "Harry fell to his knees beside her as Neville crawled rapidly toward her from under the desk, his wand held up in front of him. The Death Eater kicked out hard at Neville's head as he emerged - his foot broke Neville's wand in two and connected with his face - Neville gave a howl of pain and recoiled, clutching his mouth and nose. Harry twisted around, his own wand held high, and saw that the Death Eater had ripped off his mask and was pointing his wand directly at Harry, who recognized the long, pale, twisted face from the Daily Prophet: Antonin Dolohov, the wizard who had murdered the Prewetts."
+    "Harry fell to his knees beside her as Neville crawled rapidly toward her from under the desk, his wand held up in front of him."
+   ]
+  },
+  {
+   "begin": "1215.080",
+   "children": [],
+   "end": "1227.160",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "The Death Eater kicked out hard at Neville's head as he emerged - his foot broke Neville's wand in two and connected with his face - Neville gave a howl of pain and recoiled, clutching his mouth and nose."
+   ]
+  },
+  {
+   "begin": "1227.160",
+   "children": [],
+   "end": "1243.680",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "Harry twisted around, his own wand held high, and saw that the Death Eater had ripped off his mask and was pointing his wand directly at Harry, who recognized the long, pale, twisted face from the Daily Prophet: Antonin Dolohov, the wizard who had murdered the Prewetts."
    ]
   },
   {
    "begin": "1243.680",
    "children": [],
-   "end": "1252.320",
-   "id": "f000136",
+   "end": "1245.680",
+   "id": "f000244",
    "language": "eng",
    "lines": [
-    "Dolohov grinned. With his free hand, he pointed from the prophecy still clutched in Harry's hand, to himself, then at Hermione."
+    "Dolohov grinned."
+   ]
+  },
+  {
+   "begin": "1245.680",
+   "children": [],
+   "end": "1252.320",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "With his free hand, he pointed from the prophecy still clutched in Harry's hand, to himself, then at Hermione."
    ]
   },
   {
    "begin": "1252.320",
    "children": [],
    "end": "1260.880",
-   "id": "f000137",
+   "id": "f000246",
    "language": "eng",
    "lines": [
     "Though he could no longer speak his meaning could not have been clearer: Give me the prophecy, or you get the same as her. . . ."
@@ -1374,7 +2464,7 @@
    "begin": "1260.880",
    "children": [],
    "end": "1265.640",
-   "id": "f000138",
+   "id": "f000247",
    "language": "eng",
    "lines": [
     "\"Like you won't kill us all the moment I hand it over anyway!\" said Harry."
@@ -1383,18 +2473,38 @@
   {
    "begin": "1265.640",
    "children": [],
-   "end": "1279.600",
-   "id": "f000139",
+   "end": "1270.000",
+   "id": "f000248",
    "language": "eng",
    "lines": [
-    "A whine of panic inside his head was preventing him thinking properly. He had one hand on Hermione's shoulder, which was still warm, yet did not dare look at her properly. Don't let her be dead, don't let her be dead, it's my fault if she's dead. . . ."
+    "A whine of panic inside his head was preventing him thinking properly."
+   ]
+  },
+  {
+   "begin": "1270.000",
+   "children": [],
+   "end": "1275.240",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "He had one hand on Hermione's shoulder, which was still warm, yet did not dare look at her properly."
+   ]
+  },
+  {
+   "begin": "1275.240",
+   "children": [],
+   "end": "1279.600",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "Don't let her be dead, don't let her be dead, it's my fault if she's dead. . . ."
    ]
   },
   {
    "begin": "1279.600",
    "children": [],
    "end": "1291.240",
-   "id": "f000140",
+   "id": "f000251",
    "language": "eng",
    "lines": [
     "\"Whaddever you do, Harry,\" said Neville fiercely from under the desk, lowering his hands to show a clearly broken nose and blood pouring down his mouth and chin, \"don'd gib it to him!\""
@@ -1404,7 +2514,7 @@
    "begin": "1291.240",
    "children": [],
    "end": "1303.840",
-   "id": "f000141",
+   "id": "f000252",
    "language": "eng",
    "lines": [
     "Then there was a crash outside the door, and Dolohov looked over his shoulder - the baby-headed Death Eater had appeared in the doorway, his head bawling, his great fists still flailing uncontrollably at everything around him."
@@ -1414,7 +2524,7 @@
    "begin": "1303.840",
    "children": [],
    "end": "1307.720",
-   "id": "f000142",
+   "id": "f000253",
    "language": "eng",
    "lines": [
     "Harry seized his chance: \"PETRIFICUS TOTALUS!\""
@@ -1424,7 +2534,7 @@
    "begin": "1307.720",
    "children": [],
    "end": "1316.120",
-   "id": "f000143",
+   "id": "f000254",
    "language": "eng",
    "lines": [
     "The spell hit Dolohov before he could block it, and he toppled forward across his comrade, both of them rigid as boards and unable to move an inch."
@@ -1433,28 +2543,48 @@
   {
    "begin": "1316.120",
    "children": [],
-   "end": "1324.120",
-   "id": "f000144",
+   "end": "1322.200",
+   "id": "f000255",
    "language": "eng",
    "lines": [
-    "\"Hermione,\" Harry said at once, shaking her as the baby-headed Death Eater blundered out of sight again. \"Hermione, wake up. . . .\""
+    "\"Hermione,\" Harry said at once, shaking her as the baby-headed Death Eater blundered out of sight again."
+   ]
+  },
+  {
+   "begin": "1322.200",
+   "children": [],
+   "end": "1324.120",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "\"Hermione, wake up. . . .\""
    ]
   },
   {
    "begin": "1324.120",
    "children": [],
-   "end": "1334.200",
-   "id": "f000145",
+   "end": "1332.880",
+   "id": "f000257",
    "language": "eng",
    "lines": [
-    "\"Whaddid he do to her?\" said Neville, crawling out from under the desk again to kneel at her other side, blood streaming from his rapidly swelling nose. \"I dunno. . . .\""
+    "\"Whaddid he do to her?\" said Neville, crawling out from under the desk again to kneel at her other side, blood streaming from his rapidly swelling nose."
+   ]
+  },
+  {
+   "begin": "1332.880",
+   "children": [],
+   "end": "1334.200",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "\"I dunno. . . .\""
    ]
   },
   {
    "begin": "1334.200",
    "children": [],
    "end": "1336.800",
-   "id": "f000146",
+   "id": "f000259",
    "language": "eng",
    "lines": [
     "Neville groped for Hermione's wrist."
@@ -1464,7 +2594,7 @@
    "begin": "1336.800",
    "children": [],
    "end": "1339.680",
-   "id": "f000147",
+   "id": "f000260",
    "language": "eng",
    "lines": [
     "\"Dat's a pulse, Harry, I'b sure id is. . . .\""
@@ -1474,7 +2604,7 @@
    "begin": "1339.680",
    "children": [],
    "end": "1345.120",
-   "id": "f000148",
+   "id": "f000261",
    "language": "eng",
    "lines": [
     "Such a powerful wave of relief swept through Harry that for a moment he felt light-headed."
@@ -1484,7 +2614,7 @@
    "begin": "1345.120",
    "children": [],
    "end": "1346.720",
-   "id": "f000149",
+   "id": "f000262",
    "language": "eng",
    "lines": [
     "\"She's alive?\""
@@ -1494,7 +2624,7 @@
    "begin": "1346.720",
    "children": [],
    "end": "1349.200",
-   "id": "f000150",
+   "id": "f000263",
    "language": "eng",
    "lines": [
     "\"Yeah, I dink so. . . .\""
@@ -1503,18 +2633,18 @@
   {
    "begin": "1349.200",
    "children": [],
-   "end": "1353.240",
-   "id": "f000151",
+   "end": "1353.200",
+   "id": "f000264",
    "language": "eng",
    "lines": [
     "There was a pause in which Harry listened hard for the sounds of"
    ]
   },
   {
-   "begin": "1353.240",
+   "begin": "1353.200",
    "children": [],
    "end": "1359.320",
-   "id": "f000152",
+   "id": "f000265",
    "language": "eng",
    "lines": [
     "more footsteps, but all he could hear were the whimpers and blunderings of the baby Death Eater in the next room."
@@ -1523,18 +2653,28 @@
   {
    "begin": "1359.320",
    "children": [],
-   "end": "1376.160",
-   "id": "f000153",
+   "end": "1363.560",
+   "id": "f000266",
    "language": "eng",
    "lines": [
-    "\"Neville, we're not far from the exit,\" Harry whispered. \"We're right next to that circular room. . . . If we can just get you across it and find the right door before any more Death Eaters come, I'll bet you can get Hermione up the corridor and into the lift. . . . Then you could find someone. . . . Raise the alarm . . .\""
+    "\"Neville, we're not far from the exit,\" Harry whispered."
+   ]
+  },
+  {
+   "begin": "1363.560",
+   "children": [],
+   "end": "1376.160",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "\"We're right next to that circular room. . . . If we can just get you across it and find the right door before any more Death Eaters come, I'll bet you can get Hermione up the corridor and into the lift. . . . Then you could find someone. . . . Raise the alarm . . .\""
    ]
   },
   {
    "begin": "1376.160",
    "children": [],
    "end": "1382.520",
-   "id": "f000154",
+   "id": "f000268",
    "language": "eng",
    "lines": [
     "\"And whad are you going do do?\" said Neville, mopping his bleeding nose with his sleeve and frowning at Harry."
@@ -1544,7 +2684,7 @@
    "begin": "1382.520",
    "children": [],
    "end": "1385.080",
-   "id": "f000155",
+   "id": "f000269",
    "language": "eng",
    "lines": [
     "\"I've got to find the others,\" said Harry."
@@ -1554,7 +2694,7 @@
    "begin": "1385.080",
    "children": [],
    "end": "1389.000",
-   "id": "f000156",
+   "id": "f000270",
    "language": "eng",
    "lines": [
     "\"Well, I'b going do find dem wid you,\" said Neville firmly."
@@ -1564,7 +2704,7 @@
    "begin": "1389.000",
    "children": [],
    "end": "1390.440",
-   "id": "f000157",
+   "id": "f000271",
    "language": "eng",
    "lines": [
     "\"But Hermione - \""
@@ -1573,18 +2713,28 @@
   {
    "begin": "1390.440",
    "children": [],
-   "end": "1397.160",
-   "id": "f000158",
+   "end": "1393.840",
+   "id": "f000272",
    "language": "eng",
    "lines": [
-    "\"We'll dake her wid us,\" said Neville firmly. \"I'll carry her - you're bedder at fighding dem dan I ab - \""
+    "\"We'll dake her wid us,\" said Neville firmly."
+   ]
+  },
+  {
+   "begin": "1393.840",
+   "children": [],
+   "end": "1397.160",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "\"I'll carry her - you're bedder at fighding dem dan I ab - \""
    ]
   },
   {
    "begin": "1397.160",
    "children": [],
    "end": "1406.000",
-   "id": "f000159",
+   "id": "f000274",
    "language": "eng",
    "lines": [
     "He stood up and seized one of Hermione's arms, glared at Harry, who hesitated, then grabbed the other and helped hoist Hermione's limp form over Neville's shoulders."
@@ -1594,7 +2744,7 @@
    "begin": "1406.000",
    "children": [],
    "end": "1413.160",
-   "id": "f000160",
+   "id": "f000275",
    "language": "eng",
    "lines": [
     "\"Wait,\" said Harry, snatching up Hermione's wand from the floor and shoving it into Nevilles hand, \"you'd better take this. . . .\""
@@ -1604,7 +2754,7 @@
    "begin": "1413.160",
    "children": [],
    "end": "1418.400",
-   "id": "f000161",
+   "id": "f000276",
    "language": "eng",
    "lines": [
     "Neville kicked aside the broken fragments of his own wand as they walked slowly toward the door."
@@ -1614,7 +2764,7 @@
    "begin": "1418.400",
    "children": [],
    "end": "1427.080",
-   "id": "f000162",
+   "id": "f000277",
    "language": "eng",
    "lines": [
     "\"My gran's going do kill be,\" said Neville thickly, blood spattering from his nose as he spoke, \"dat was by dad's old wand. . . .\""
@@ -1623,38 +2773,98 @@
   {
    "begin": "1427.080",
    "children": [],
-   "end": "1448.920",
-   "id": "f000163",
+   "end": "1431.000",
+   "id": "f000278",
    "language": "eng",
    "lines": [
-    "Harry stuck his head out of the door and looked around cautiously. The baby-headed Death Eater was screaming and banging into things, toppling grandfather clocks and overturning desks, bawling and confused, while the glass cabinet that Harry now suspected had contained Time-Turners continued to fall, shatter, and repair itself on the wall behind them."
+    "Harry stuck his head out of the door and looked around cautiously."
+   ]
+  },
+  {
+   "begin": "1431.000",
+   "children": [],
+   "end": "1448.920",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "The baby-headed Death Eater was screaming and banging into things, toppling grandfather clocks and overturning desks, bawling and confused, while the glass cabinet that Harry now suspected had contained Time-Turners continued to fall, shatter, and repair itself on the wall behind them."
    ]
   },
   {
    "begin": "1448.920",
    "children": [],
-   "end": "1454.000",
-   "id": "f000164",
+   "end": "1452.040",
+   "id": "f000280",
    "language": "eng",
    "lines": [
-    "\"He's never going to notice us,\" he whispered. \"C'mon . . . keep close behind me. . . .\""
+    "\"He's never going to notice us,\" he whispered."
+   ]
+  },
+  {
+   "begin": "1452.040",
+   "children": [],
+   "end": "1454.000",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "\"C'mon . . . keep close behind me. . . .\""
    ]
   },
   {
    "begin": "1454.000",
    "children": [],
-   "end": "1484.600",
-   "id": "f000165",
+   "end": "1460.480",
+   "id": "f000282",
    "language": "eng",
    "lines": [
-    "They crept out of the office and back toward the door into the black hallway, which now seemed completely deserted. They walked a few steps forward, Neville tottering slightly due to Hermione's weight. The door of the Time Room swung shut behind them, and the walls began to rotate once more. The recent blow on the back of Harry's head seemed to have unsteadied him; he narrowed his eyes, swaying slightly, until the walls stopped moving again. With a sinking heart Harry saw that Hermione's fiery crosses had faded from the doors."
+    "They crept out of the office and back toward the door into the black hallway, which now seemed completely deserted."
+   ]
+  },
+  {
+   "begin": "1460.480",
+   "children": [],
+   "end": "1465.560",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "They walked a few steps forward, Neville tottering slightly due to Hermione's weight."
+   ]
+  },
+  {
+   "begin": "1465.560",
+   "children": [],
+   "end": "1471.120",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "The door of the Time Room swung shut behind them, and the walls began to rotate once more."
+   ]
+  },
+  {
+   "begin": "1471.120",
+   "children": [],
+   "end": "1479.760",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "The recent blow on the back of Harry's head seemed to have unsteadied him; he narrowed his eyes, swaying slightly, until the walls stopped moving again."
+   ]
+  },
+  {
+   "begin": "1479.760",
+   "children": [],
+   "end": "1484.600",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "With a sinking heart Harry saw that Hermione's fiery crosses had faded from the doors."
    ]
   },
   {
    "begin": "1484.600",
    "children": [],
    "end": "1486.480",
-   "id": "f000166",
+   "id": "f000287",
    "language": "eng",
    "lines": [
     "\"So which way d'you reck - ?\""
@@ -1664,7 +2874,7 @@
    "begin": "1486.480",
    "children": [],
    "end": "1493.440",
-   "id": "f000167",
+   "id": "f000288",
    "language": "eng",
    "lines": [
     "But before they could make a decision as to which way to try, a door to their right sprang open and three people fell out of it."
@@ -1673,48 +2883,88 @@
   {
    "begin": "1493.440",
    "children": [],
-   "end": "1499.240",
-   "id": "f000168",
+   "end": "1497.360",
+   "id": "f000289",
    "language": "eng",
    "lines": [
-    "\"Ron!\" croaked Harry, dashing toward them. \"Ginny - are you all - ?\""
+    "\"Ron!\" croaked Harry, dashing toward them."
+   ]
+  },
+  {
+   "begin": "1497.360",
+   "children": [],
+   "end": "1499.240",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "\"Ginny - are you all - ?\""
    ]
   },
   {
    "begin": "1499.240",
    "children": [],
-   "end": "1515.360",
-   "id": "f000169",
+   "end": "1507.960",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "\"Harry,\" said Ron, giggling weakly, lurching forward, seizing the front of Harry's robes and gazing at him with unfocused eyes. \"There you are. . . . Ha ha ha . . . You look funny, Harry. . . . You're all messed up. . . ."
+    "\"Harry,\" said Ron, giggling weakly, lurching forward, seizing the front of Harry's robes and gazing at him with unfocused eyes."
    ]
   },
   {
-   "begin": "1515.360",
+   "begin": "1507.960",
    "children": [],
-   "end": "1527.760",
-   "id": "f000170",
+   "end": "1515.200",
+   "id": "f000292",
    "language": "eng",
    "lines": [
-    "Ron's face was very white and something dark was trickling from the corner of his mouth. Next moment his knees had given way, but he still clutched the front of Harry's robes, so that Harry was pulled into a kind of bow."
+    "\"There you are. . . . Ha ha ha . . . You look funny, Harry. . . . You're all messed up. . . ."
+   ]
+  },
+  {
+   "begin": "1515.200",
+   "children": [],
+   "end": "1520.280",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "Ron's face was very white and something dark was trickling from the corner of his mouth."
+   ]
+  },
+  {
+   "begin": "1520.280",
+   "children": [],
+   "end": "1527.760",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "Next moment his knees had given way, but he still clutched the front of Harry's robes, so that Harry was pulled into a kind of bow."
    ]
   },
   {
    "begin": "1527.760",
    "children": [],
-   "end": "1531.720",
-   "id": "f000171",
+   "end": "1530.560",
+   "id": "f000295",
    "language": "eng",
    "lines": [
-    "\"Ginny?\" Harry said fearfully. \"What happened?\""
+    "\"Ginny?\" Harry said fearfully."
+   ]
+  },
+  {
+   "begin": "1530.560",
+   "children": [],
+   "end": "1531.720",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "\"What happened?\""
    ]
   },
   {
    "begin": "1531.720",
    "children": [],
    "end": "1537.280",
-   "id": "f000172",
+   "id": "f000297",
    "language": "eng",
    "lines": [
     "But Ginny shook her head and slid down the wall into a sitting position, panting and holding her ankle."
@@ -1723,28 +2973,58 @@
   {
    "begin": "1537.280",
    "children": [],
-   "end": "1556.120",
-   "id": "f000173",
+   "end": "1546.200",
+   "id": "f000298",
    "language": "eng",
    "lines": [
-    "\"I think her ankle's broken, I heard something crack,\" whispered Luna, who was bending over her and who alone seemed to be unhurt. \"Four of them chased us into a dark room full of planets, it was a very odd place, some of the time we were just floating in the dark - \""
+    "\"I think her ankle's broken, I heard something crack,\" whispered Luna, who was bending over her and who alone seemed to be unhurt."
+   ]
+  },
+  {
+   "begin": "1546.200",
+   "children": [],
+   "end": "1556.120",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "\"Four of them chased us into a dark room full of planets, it was a very odd place, some of the time we were just floating in the dark - \""
    ]
   },
   {
    "begin": "1556.120",
    "children": [],
-   "end": "1568.240",
-   "id": "f000174",
+   "end": "1562.520",
+   "id": "f000300",
    "language": "eng",
    "lines": [
-    "\"Harry, we saw Uranus up close!\" said Ron, still giggling feebly. \"Get it, Harry? We saw Uranus - ha ha ha - \""
+    "\"Harry, we saw Uranus up close!\" said Ron, still giggling feebly."
+   ]
+  },
+  {
+   "begin": "1562.520",
+   "children": [],
+   "end": "1564.000",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "\"Get it, Harry?"
+   ]
+  },
+  {
+   "begin": "1564.000",
+   "children": [],
+   "end": "1568.240",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "We saw Uranus - ha ha ha - \""
    ]
   },
   {
    "begin": "1568.240",
    "children": [],
    "end": "1572.120",
-   "id": "f000175",
+   "id": "f000303",
    "language": "eng",
    "lines": [
     "A bubble of blood grew at the corner of Ron's mouth and burst."
@@ -1753,18 +3033,18 @@
   {
    "begin": "1572.120",
    "children": [],
-   "end": "1581.360",
-   "id": "f000176",
+   "end": "1582.040",
+   "id": "f000304",
    "language": "eng",
    "lines": [
     "\"Anyway, one of them grabbed Ginny's foot, I used the Reductor Curse and blew up Pluto in his face, but . . .\""
    ]
   },
   {
-   "begin": "1581.360",
+   "begin": "1582.040",
    "children": [],
    "end": "1588.000",
-   "id": "f000177",
+   "id": "f000305",
    "language": "eng",
    "lines": [
     "Luna gestured hopelessly at Ginny, who was breathing in a very shallow way, her eyes still closed."
@@ -1774,7 +3054,7 @@
    "begin": "1588.000",
    "children": [],
    "end": "1595.600",
-   "id": "f000178",
+   "id": "f000306",
    "language": "eng",
    "lines": [
     "\"And what about Ron?\" said Harry fearfully, as Ron continued to giggle, still hanging off the front of Harry's robes."
@@ -1784,7 +3064,7 @@
    "begin": "1595.600",
    "children": [],
    "end": "1604.680",
-   "id": "f000179",
+   "id": "f000307",
    "language": "eng",
    "lines": [
     "\"I don't know what they hit him with,\" said Luna sadly, \"but he's gone a bit funny, I could hardly get him along at all. . . .\""
@@ -1793,28 +3073,48 @@
   {
    "begin": "1604.680",
    "children": [],
-   "end": "1618.520",
-   "id": "f000180",
+   "end": "1614.200",
+   "id": "f000308",
    "language": "eng",
    "lines": [
-    "\"Harry,\" said Ron, pulling Harry's ear down to his mouth and still giggling weakly, \"you know who this girl is, Harry? She's Loony . . . Loony Lovegood . . . ha ha ha . . .\""
+    "\"Harry,\" said Ron, pulling Harry's ear down to his mouth and still giggling weakly, \"you know who this girl is, Harry?"
+   ]
+  },
+  {
+   "begin": "1614.200",
+   "children": [],
+   "end": "1618.520",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "She's Loony . . . Loony Lovegood . . . ha ha ha . . .\""
    ]
   },
   {
    "begin": "1618.520",
    "children": [],
-   "end": "1623.680",
-   "id": "f000181",
+   "end": "1622.040",
+   "id": "f000310",
    "language": "eng",
    "lines": [
-    "\"We've got to get out of here,\" said Harry firmly. \"Luna, can you help Ginny?\""
+    "\"We've got to get out of here,\" said Harry firmly."
+   ]
+  },
+  {
+   "begin": "1622.040",
+   "children": [],
+   "end": "1623.680",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "\"Luna, can you help Ginny?\""
    ]
   },
   {
    "begin": "1623.680",
    "children": [],
    "end": "1631.400",
-   "id": "f000182",
+   "id": "f000312",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Luna, sticking her wand behind her ear for safekeeping, putting an arm around Ginny's waist and pulling her up."
@@ -1823,18 +3123,38 @@
   {
    "begin": "1631.400",
    "children": [],
-   "end": "1653.480",
-   "id": "f000183",
+   "end": "1641.280",
+   "id": "f000313",
    "language": "eng",
    "lines": [
-    "\"It's only my ankle, I can do it myself!\" said Ginny impatiently, but next moment she had collapsed sideways and grabbed Luna for support. Harry pulled Ron's arm over his shoulder just as, so many months ago, he had pulled Dudley's. He looked around: They had a one-in-twelve chance of getting the exit right the first time -"
+    "\"It's only my ankle, I can do it myself!\" said Ginny impatiently, but next moment she had collapsed sideways and grabbed Luna for support."
+   ]
+  },
+  {
+   "begin": "1641.280",
+   "children": [],
+   "end": "1647.440",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "Harry pulled Ron's arm over his shoulder just as, so many months ago, he had pulled Dudley's."
+   ]
+  },
+  {
+   "begin": "1647.440",
+   "children": [],
+   "end": "1653.480",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "He looked around: They had a one-in-twelve chance of getting the exit right the first time -"
    ]
   },
   {
    "begin": "1653.480",
    "children": [],
    "end": "1665.360",
-   "id": "f000184",
+   "id": "f000316",
    "language": "eng",
    "lines": [
     "He heaved Ron toward a door; they were within a few feet of it when another door across the hall burst open and three Death Eaters sped into the hall, led by Bellatrix Lestrange."
@@ -1844,7 +3164,7 @@
    "begin": "1665.360",
    "children": [],
    "end": "1668.640",
-   "id": "f000185",
+   "id": "f000317",
    "language": "eng",
    "lines": [
     "\"There they are!\" she shrieked."
@@ -1853,18 +3173,28 @@
   {
    "begin": "1668.640",
    "children": [],
-   "end": "1684.760",
-   "id": "f000186",
+   "end": "1679.840",
+   "id": "f000318",
    "language": "eng",
    "lines": [
-    "Stunning Spells shot across the room: Harry smashed his way through the door ahead, flung Ron unceremoniously from him, and ducked back to help Neville in with Hermione. They were all over the threshold just in time to slam the door against Bellatrix."
+    "Stunning Spells shot across the room: Harry smashed his way through the door ahead, flung Ron unceremoniously from him, and ducked back to help Neville in with Hermione."
+   ]
+  },
+  {
+   "begin": "1679.840",
+   "children": [],
+   "end": "1684.760",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "They were all over the threshold just in time to slam the door against Bellatrix."
    ]
   },
   {
    "begin": "1684.760",
    "children": [],
    "end": "1691.000",
-   "id": "f000187",
+   "id": "f000320",
    "language": "eng",
    "lines": [
     "\"Colloportus!\" shouted Harry, and he heard three bodies slam into the door on the other side."
@@ -1873,28 +3203,58 @@
   {
    "begin": "1691.000",
    "children": [],
-   "end": "1697.080",
-   "id": "f000188",
+   "end": "1694.040",
+   "id": "f000321",
    "language": "eng",
    "lines": [
-    "\"It doesn't matter!\" said a man's voice. \"There are other ways in - WE'VE GOT THEM, THEY'RE HERE!\""
+    "\"It doesn't matter!\" said a man's voice."
+   ]
+  },
+  {
+   "begin": "1694.040",
+   "children": [],
+   "end": "1697.080",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "\"There are other ways in - WE'VE GOT THEM, THEY'RE HERE!\""
    ]
   },
   {
    "begin": "1697.080",
    "children": [],
-   "end": "1709.760",
-   "id": "f000189",
+   "end": "1699.080",
+   "id": "f000323",
    "language": "eng",
    "lines": [
-    "Harry spun around. They were back in the Brain Room and, sure enough, there were doors all around the walls. He could hear footsteps in the hall behind them as more Death Eaters came running to join the first."
+    "Harry spun around."
+   ]
+  },
+  {
+   "begin": "1699.080",
+   "children": [],
+   "end": "1703.880",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "They were back in the Brain Room and, sure enough, there were doors all around the walls."
+   ]
+  },
+  {
+   "begin": "1703.880",
+   "children": [],
+   "end": "1709.760",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "He could hear footsteps in the hall behind them as more Death Eaters came running to join the first."
    ]
   },
   {
    "begin": "1709.760",
    "children": [],
    "end": "1712.400",
-   "id": "f000190",
+   "id": "f000326",
    "language": "eng",
    "lines": [
     "\"Luna - Neville - help me!\""
@@ -1904,7 +3264,7 @@
    "begin": "1712.400",
    "children": [],
    "end": "1721.200",
-   "id": "f000191",
+   "id": "f000327",
    "language": "eng",
    "lines": [
     "The three of them tore around the room, sealing the doors as they went: Harry crashed into a table and rolled over the top of it in his haste to reach the next door."
@@ -1914,7 +3274,7 @@
    "begin": "1721.200",
    "children": [],
    "end": "1722.960",
-   "id": "f000192",
+   "id": "f000328",
    "language": "eng",
    "lines": [
     "\"Colloportus!\""
@@ -1923,48 +3283,88 @@
   {
    "begin": "1722.960",
    "children": [],
-   "end": "1741.960",
-   "id": "f000193",
+   "end": "1731.280",
+   "id": "f000329",
    "language": "eng",
    "lines": [
-    "There were footsteps running along behind the doors; every now and then another heavy body would launch itself against one, so it creaked and shuddered. Luna and Neville were bewitching the doors along the opposite wall - then, as Harry reached the very top of the room, he heard Luna cry, \"Collo - aaaaaaaaargh . . .\""
+    "There were footsteps running along behind the doors; every now and then another heavy body would launch itself against one, so it creaked and shuddered."
+   ]
+  },
+  {
+   "begin": "1731.280",
+   "children": [],
+   "end": "1741.960",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "Luna and Neville were bewitching the doors along the opposite wall - then, as Harry reached the very top of the room, he heard Luna cry, \"Collo - aaaaaaaaargh . . .\""
    ]
   },
   {
    "begin": "1741.960",
    "children": [],
-   "end": "1757.880",
-   "id": "f000194",
+   "end": "1745.200",
+   "id": "f000331",
    "language": "eng",
    "lines": [
-    "He turned in time to see her flying through the air. Five Death Eaters were surging into the room through the door she had not reached in time; Luna hit a desk, slid over its surface and onto the floor on the other side where she lay sprawled, as still as Hermione."
+    "He turned in time to see her flying through the air."
+   ]
+  },
+  {
+   "begin": "1745.200",
+   "children": [],
+   "end": "1757.880",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "Five Death Eaters were surging into the room through the door she had not reached in time; Luna hit a desk, slid over its surface and onto the floor on the other side where she lay sprawled, as still as Hermione."
    ]
   },
   {
    "begin": "1757.880",
    "children": [],
-   "end": "1768.520",
-   "id": "f000195",
+   "end": "1762.360",
+   "id": "f000333",
    "language": "eng",
    "lines": [
-    "\"Get Potter!\" shrieked Bellatrix, and she ran at him. He dodged her and sprinted back up the room; he was safe as long as they thought they might hit the prophecy -"
+    "\"Get Potter!\" shrieked Bellatrix, and she ran at him."
+   ]
+  },
+  {
+   "begin": "1762.360",
+   "children": [],
+   "end": "1768.520",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "He dodged her and sprinted back up the room; he was safe as long as they thought they might hit the prophecy -"
    ]
   },
   {
    "begin": "1768.520",
    "children": [],
-   "end": "1783.280",
-   "id": "f000196",
+   "end": "1775.680",
+   "id": "f000335",
    "language": "eng",
    "lines": [
-    "\"Hey!\" said Ron, who had staggered to his feet and was now tottering drunkenly toward Harry, giggling. \"Hey, Harry, there are brains in here, ha ha ha, isn't that weird, Harry?\""
+    "\"Hey!\" said Ron, who had staggered to his feet and was now tottering drunkenly toward Harry, giggling."
+   ]
+  },
+  {
+   "begin": "1775.680",
+   "children": [],
+   "end": "1783.280",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "\"Hey, Harry, there are brains in here, ha ha ha, isn't that weird, Harry?\""
    ]
   },
   {
    "begin": "1783.280",
    "children": [],
    "end": "1785.760",
-   "id": "f000197",
+   "id": "f000337",
    "language": "eng",
    "lines": [
     "\"Ron, get out of the way, get down - \""
@@ -1974,7 +3374,7 @@
    "begin": "1785.760",
    "children": [],
    "end": "1789.040",
-   "id": "f000198",
+   "id": "f000338",
    "language": "eng",
    "lines": [
     "But Ron had already pointed his wand at the tank."
@@ -1984,7 +3384,7 @@
    "begin": "1789.040",
    "children": [],
    "end": "1794.560",
-   "id": "f000199",
+   "id": "f000339",
    "language": "eng",
    "lines": [
     "\"Honest, Harry, they're brains - look - Accio Brain!\""
@@ -1993,38 +3393,68 @@
   {
    "begin": "1794.560",
    "children": [],
-   "end": "1801.880",
-   "id": "f000200",
+   "end": "1797.640",
+   "id": "f000340",
    "language": "eng",
    "lines": [
-    "The scene seemed momentarily frozen. Harry, Ginny, and Neville and each of the Death Eaters turned in spite of themselves to watch"
+    "The scene seemed momentarily frozen."
+   ]
+  },
+  {
+   "begin": "1797.640",
+   "children": [],
+   "end": "1801.880",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "Harry, Ginny, and Neville and each of the Death Eaters turned in spite of themselves to watch"
    ]
   },
   {
    "begin": "1801.880",
    "children": [],
-   "end": "1818.960",
-   "id": "f000201",
+   "end": "1807.400",
+   "id": "f000342",
    "language": "eng",
    "lines": [
-    "the top of the tank as a brain burst from the green liquid like a leaping fish. For a moment it seemed suspended in midair, then it soared toward Ron, spinning as it came, and what looked like ribbons of moving images flew from it, unraveling like rolls of film -"
+    "the top of the tank as a brain burst from the green liquid like a leaping fish."
    ]
   },
   {
-   "begin": "1818.960",
+   "begin": "1807.400",
    "children": [],
-   "end": "1830.000",
-   "id": "f000202",
+   "end": "1818.920",
+   "id": "f000343",
    "language": "eng",
    "lines": [
-    "\"Ha ha ha, Harry, look at it - \" said Ron, watching it disgorge its gaudy innards. \"Harry, come and touch it, bet it's weird - \""
+    "For a moment it seemed suspended in midair, then it soared toward Ron, spinning as it came, and what looked like ribbons of moving images flew from it, unraveling like rolls of film -"
+   ]
+  },
+  {
+   "begin": "1818.920",
+   "children": [],
+   "end": "1825.880",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "\"Ha ha ha, Harry, look at it - \" said Ron, watching it disgorge its gaudy innards."
+   ]
+  },
+  {
+   "begin": "1825.880",
+   "children": [],
+   "end": "1830.000",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "\"Harry, come and touch it, bet it's weird - \""
    ]
   },
   {
    "begin": "1830.000",
    "children": [],
    "end": "1831.320",
-   "id": "f000203",
+   "id": "f000346",
    "language": "eng",
    "lines": [
     "\"RON, NO!\""
@@ -2033,18 +3463,28 @@
   {
    "begin": "1831.320",
    "children": [],
-   "end": "1845.040",
-   "id": "f000204",
+   "end": "1839.880",
+   "id": "f000347",
    "language": "eng",
    "lines": [
-    "Harry did not know what would happen if Ron touched the tentacles of thought now flying behind the brain, but he was sure it would not be anything good. He darted forward but Ron had already caught the brain in his outstretched hands."
+    "Harry did not know what would happen if Ron touched the tentacles of thought now flying behind the brain, but he was sure it would not be anything good."
+   ]
+  },
+  {
+   "begin": "1839.880",
+   "children": [],
+   "end": "1845.040",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "He darted forward but Ron had already caught the brain in his outstretched hands."
    ]
   },
   {
    "begin": "1845.040",
    "children": [],
    "end": "1851.960",
-   "id": "f000205",
+   "id": "f000349",
    "language": "eng",
    "lines": [
     "The moment they made contact with his skin, the tentacles began wrapping themselves around Ron's arms like ropes."
@@ -2054,7 +3494,7 @@
    "begin": "1851.960",
    "children": [],
    "end": "1859.880",
-   "id": "f000206",
+   "id": "f000350",
    "language": "eng",
    "lines": [
     "\"Harry, look what's happen - no - no, I don't like it - no, stop - stop - \""
@@ -2063,108 +3503,298 @@
   {
    "begin": "1859.880",
    "children": [],
-   "end": "1869.240",
-   "id": "f000207",
+   "end": "1863.840",
+   "id": "f000351",
    "language": "eng",
    "lines": [
-    "But the thin ribbons were spinning around Ron's chest now. He tugged and tore at them as the brain was pulled tight against him like an octopus's body."
+    "But the thin ribbons were spinning around Ron's chest now."
+   ]
+  },
+  {
+   "begin": "1863.840",
+   "children": [],
+   "end": "1869.240",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "He tugged and tore at them as the brain was pulled tight against him like an octopus's body."
    ]
   },
   {
    "begin": "1869.240",
    "children": [],
-   "end": "1881.320",
-   "id": "f000208",
+   "end": "1877.680",
+   "id": "f000353",
    "language": "eng",
    "lines": [
-    "\"Diffindo!\" yelled Harry, trying to sever the feelers wrapping themselves tightly around Ron before his eyes, but they would not break. Ron fell over, still thrashing against his bonds."
+    "\"Diffindo!\" yelled Harry, trying to sever the feelers wrapping themselves tightly around Ron before his eyes, but they would not break."
+   ]
+  },
+  {
+   "begin": "1877.680",
+   "children": [],
+   "end": "1881.320",
+   "id": "f000354",
+   "language": "eng",
+   "lines": [
+    "Ron fell over, still thrashing against his bonds."
    ]
   },
   {
    "begin": "1881.320",
    "children": [],
-   "end": "1897.440",
-   "id": "f000209",
+   "end": "1893.560",
+   "id": "f000355",
    "language": "eng",
    "lines": [
-    "\"Harry, it'll suffocate him!\" screamed Ginny, immobilized by her broken ankle on the floor - then a jet of red light flew from one of the Death Eater's wands and hit her squarely in the face. She keeled over sideways and lay there unconscious."
+    "\"Harry, it'll suffocate him!\" screamed Ginny, immobilized by her broken ankle on the floor - then a jet of red light flew from one of the Death Eater's wands and hit her squarely in the face."
+   ]
+  },
+  {
+   "begin": "1893.560",
+   "children": [],
+   "end": "1897.440",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "She keeled over sideways and lay there unconscious."
    ]
   },
   {
    "begin": "1897.440",
    "children": [],
-   "end": "1906.280",
-   "id": "f000210",
+   "end": "1903.920",
+   "id": "f000357",
    "language": "eng",
    "lines": [
-    "\"STUBEFY !\" shouted Neville, wheeling around and waving Hermione's wand at the oncoming Death Eaters. \"STUBEFY, STUBEFY !\""
+    "\"STUBEFY !\" shouted Neville, wheeling around and waving Hermione's wand at the oncoming Death Eaters."
+   ]
+  },
+  {
+   "begin": "1903.920",
+   "children": [],
+   "end": "1906.280",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "\"STUBEFY, STUBEFY !\""
    ]
   },
   {
    "begin": "1906.280",
    "children": [],
-   "end": "1922.520",
-   "id": "f000211",
+   "end": "1913.320",
+   "id": "f000359",
    "language": "eng",
    "lines": [
-    "But nothing happened - one of the Death Eaters shot their own Stunning Spell at Neville; it missed him by inches. Harry and Neville were now the only two left fighting the five Death Eaters, two of whom sent streams of silver light like arrows past them that left craters"
+    "But nothing happened - one of the Death Eaters shot their own Stunning Spell at Neville; it missed him by inches."
+   ]
+  },
+  {
+   "begin": "1913.320",
+   "children": [],
+   "end": "1922.520",
+   "id": "f000360",
+   "language": "eng",
+   "lines": [
+    "Harry and Neville were now the only two left fighting the five Death Eaters, two of whom sent streams of silver light like arrows past them that left craters"
    ]
   },
   {
    "begin": "1922.520",
    "children": [],
-   "end": "1935.640",
-   "id": "f000212",
+   "end": "1923.560",
+   "id": "f000361",
    "language": "eng",
    "lines": [
-    "in the wall behind them. Harry ran for it as Bellatrix Lestrange sprinted right at him. Holding the prophecy high above his head he sprinted back up the room; all he could think of doing was to draw the Death Eaters away from the others."
+    "in the wall behind them."
+   ]
+  },
+  {
+   "begin": "1923.560",
+   "children": [],
+   "end": "1927.720",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    "Harry ran for it as Bellatrix Lestrange sprinted right at him."
+   ]
+  },
+  {
+   "begin": "1927.720",
+   "children": [],
+   "end": "1935.640",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "Holding the prophecy high above his head he sprinted back up the room; all he could think of doing was to draw the Death Eaters away from the others."
    ]
   },
   {
    "begin": "1935.640",
    "children": [],
-   "end": "1958.960",
-   "id": "f000213",
+   "end": "1937.440",
+   "id": "f000364",
    "language": "eng",
    "lines": [
-    "It seemed to have worked. They streaked after him, knocking chairs and tables flying but not daring to bewitch him in case they hurt the prophecy, and he dashed through the only door still open, the one through which the Death Eaters themselves had come. Inwardly praying that Neville would stay with Ron - find some way of releasing him - he ran a few feet into the new room and felt the floor vanish -"
+    "It seemed to have worked."
+   ]
+  },
+  {
+   "begin": "1937.440",
+   "children": [],
+   "end": "1950.000",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "They streaked after him, knocking chairs and tables flying but not daring to bewitch him in case they hurt the prophecy, and he dashed through the only door still open, the one through which the Death Eaters themselves had come."
+   ]
+  },
+  {
+   "begin": "1950.000",
+   "children": [],
+   "end": "1958.960",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "Inwardly praying that Neville would stay with Ron - find some way of releasing him - he ran a few feet into the new room and felt the floor vanish -"
    ]
   },
   {
    "begin": "1958.960",
    "children": [],
-   "end": "2012.760",
-   "id": "f000214",
+   "end": "1973.800",
+   "id": "f000367",
    "language": "eng",
    "lines": [
-    "He was falling down steep stone step after steep stone step, bouncing on every tier until at last, with a crash that knocked all the breath out of his body, he landed flat on his back in the sunken pit where the stone archway stood on its dais. The whole room was ringing with the Death Eaters' laughter. He looked up and saw the five who had been in the Brain Room descending toward him, while as many more emerged through other doorways and began leaping from bench to bench toward him. Harry got to his feet though his legs were trembling so badly they barely supported him. The prophecy was still miraculously unbroken in his left hand, his wand clutched tightly in his right. He backed away, looking around, trying to keep all the Death Eaters within his sights. The back of his legs hit something solid; he had reached the dais where the archway stood. He climbed backward onto it."
+    "He was falling down steep stone step after steep stone step, bouncing on every tier until at last, with a crash that knocked all the breath out of his body, he landed flat on his back in the sunken pit where the stone archway stood on its dais."
+   ]
+  },
+  {
+   "begin": "1973.800",
+   "children": [],
+   "end": "1977.520",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "The whole room was ringing with the Death Eaters' laughter."
+   ]
+  },
+  {
+   "begin": "1977.520",
+   "children": [],
+   "end": "1987.840",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "He looked up and saw the five who had been in the Brain Room descending toward him, while as many more emerged through other doorways and began leaping from bench to bench toward him."
+   ]
+  },
+  {
+   "begin": "1987.840",
+   "children": [],
+   "end": "1993.080",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "Harry got to his feet though his legs were trembling so badly they barely supported him."
+   ]
+  },
+  {
+   "begin": "1993.080",
+   "children": [],
+   "end": "1999.680",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "The prophecy was still miraculously unbroken in his left hand, his wand clutched tightly in his right."
+   ]
+  },
+  {
+   "begin": "1999.680",
+   "children": [],
+   "end": "2004.800",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "He backed away, looking around, trying to keep all the Death Eaters within his sights."
+   ]
+  },
+  {
+   "begin": "2004.800",
+   "children": [],
+   "end": "2010.440",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "The back of his legs hit something solid; he had reached the dais where the archway stood."
+   ]
+  },
+  {
+   "begin": "2010.440",
+   "children": [],
+   "end": "2012.760",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "He climbed backward onto it."
    ]
   },
   {
    "begin": "2012.760",
    "children": [],
-   "end": "2026.640",
-   "id": "f000215",
+   "end": "2016.080",
+   "id": "f000375",
    "language": "eng",
    "lines": [
-    "The Death Eaters all halted, gazing at him. Some were panting as hard as he was. One was bleeding badly; Dolohov, freed of the full Body-Bind, was leering, his wand pointing straight at Harry's face."
+    "The Death Eaters all halted, gazing at him."
+   ]
+  },
+  {
+   "begin": "2016.080",
+   "children": [],
+   "end": "2018.640",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "Some were panting as hard as he was."
+   ]
+  },
+  {
+   "begin": "2018.640",
+   "children": [],
+   "end": "2026.640",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "One was bleeding badly; Dolohov, freed of the full Body-Bind, was leering, his wand pointing straight at Harry's face."
    ]
   },
   {
    "begin": "2026.640",
    "children": [],
-   "end": "2035.680",
-   "id": "f000216",
+   "end": "2032.360",
+   "id": "f000378",
    "language": "eng",
    "lines": [
-    "\"Potter, your race is run,\" drawled Lucius Malfoy, pulling off his mask. \"Now hand me the prophecy like a good boy. . . .\""
+    "\"Potter, your race is run,\" drawled Lucius Malfoy, pulling off his mask."
+   ]
+  },
+  {
+   "begin": "2032.360",
+   "children": [],
+   "end": "2035.680",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "\"Now hand me the prophecy like a good boy. . . .\""
    ]
   },
   {
    "begin": "2035.680",
    "children": [],
    "end": "2040.560",
-   "id": "f000217",
+   "id": "f000380",
    "language": "eng",
    "lines": [
     "\"Let - let the others go, and I'll give it to you!\" said Harry desperately."
@@ -2174,7 +3804,7 @@
    "begin": "2040.560",
    "children": [],
    "end": "2043.000",
-   "id": "f000218",
+   "id": "f000381",
    "language": "eng",
    "lines": [
     "A few of the Death Eaters laughed."
@@ -2183,38 +3813,68 @@
   {
    "begin": "2043.000",
    "children": [],
-   "end": "2057.160",
-   "id": "f000219",
+   "end": "2050.280",
+   "id": "f000382",
    "language": "eng",
    "lines": [
-    "\"You are not in a position to bargain, Potter,\" said Lucius Malfoy, his pale face flushed with pleasure. \"You see, there are ten of us and only one of you . . . or hasn't Dumbledore ever taught you how to count?\""
+    "\"You are not in a position to bargain, Potter,\" said Lucius Malfoy, his pale face flushed with pleasure."
+   ]
+  },
+  {
+   "begin": "2050.280",
+   "children": [],
+   "end": "2057.160",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "\"You see, there are ten of us and only one of you . . . or hasn't Dumbledore ever taught you how to count?\""
    ]
   },
   {
    "begin": "2057.160",
    "children": [],
-   "end": "2062.800",
-   "id": "f000220",
+   "end": "2060.960",
+   "id": "f000384",
    "language": "eng",
    "lines": [
-    "\"He's dot alone!\" shouted a voice from above them. \"He's still god be!\""
+    "\"He's dot alone!\" shouted a voice from above them."
+   ]
+  },
+  {
+   "begin": "2060.960",
+   "children": [],
+   "end": "2062.800",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "\"He's still god be!\""
    ]
   },
   {
    "begin": "2062.800",
    "children": [],
-   "end": "2070.680",
-   "id": "f000221",
+   "end": "2064.720",
+   "id": "f000386",
    "language": "eng",
    "lines": [
-    "Harry's heart sank. Neville was scrambling down the stone benches toward them, Hermione's wand held fast in his trembling hand."
+    "Harry's heart sank."
+   ]
+  },
+  {
+   "begin": "2064.720",
+   "children": [],
+   "end": "2070.680",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "Neville was scrambling down the stone benches toward them, Hermione's wand held fast in his trembling hand."
    ]
   },
   {
    "begin": "2070.680",
    "children": [],
    "end": "2073.640",
-   "id": "f000222",
+   "id": "f000388",
    "language": "eng",
    "lines": [
     "\"Neville - no - go back to Ron - \""
@@ -2223,48 +3883,88 @@
   {
    "begin": "2073.640",
    "children": [],
-   "end": "2081.280",
-   "id": "f000223",
+   "end": "2080.720",
+   "id": "f000389",
    "language": "eng",
    "lines": [
-    "\"STUBEFY !\" Neville shouted again, pointing his wand at each Death Eater in turn, \"STUBEFY ! STUBE - \""
+    "\"STUBEFY !\" Neville shouted again, pointing his wand at each Death Eater in turn, \"STUBEFY !"
+   ]
+  },
+  {
+   "begin": "2080.720",
+   "children": [],
+   "end": "2081.280",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "STUBE - \""
    ]
   },
   {
    "begin": "2081.280",
    "children": [],
-   "end": "2090.280",
-   "id": "f000224",
+   "end": "2086.720",
+   "id": "f000391",
    "language": "eng",
    "lines": [
-    "One of the largest Death Eaters seized Neville from behind, pinioning his arms to his sides. He struggled and kicked; several of the Death Eaters laughed."
+    "One of the largest Death Eaters seized Neville from behind, pinioning his arms to his sides."
+   ]
+  },
+  {
+   "begin": "2086.720",
+   "children": [],
+   "end": "2090.280",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "He struggled and kicked; several of the Death Eaters laughed."
    ]
   },
   {
    "begin": "2090.280",
    "children": [],
-   "end": "2103.120",
-   "id": "f000225",
+   "end": "2094.640",
+   "id": "f000393",
    "language": "eng",
    "lines": [
-    "\"It's Longbottom, isn't it?\" sneered Lucius Malfoy. \"Well, your grandmother is used to losing family members to our cause. . . . Your death will not come as a great shock. . . .\""
+    "\"It's Longbottom, isn't it?\" sneered Lucius Malfoy."
+   ]
+  },
+  {
+   "begin": "2094.640",
+   "children": [],
+   "end": "2103.120",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "\"Well, your grandmother is used to losing family members to our cause. . . . Your death will not come as a great shock. . . .\""
    ]
   },
   {
    "begin": "2103.120",
    "children": [],
-   "end": "2114.000",
-   "id": "f000226",
+   "end": "2109.680",
+   "id": "f000395",
    "language": "eng",
    "lines": [
-    "\"Longbottom?\" repeated Bellatrix, and a truly evil smile lit her gaunt face. \"Why, I have had the pleasure of meeting your parents, boy. . . .\""
+    "\"Longbottom?\" repeated Bellatrix, and a truly evil smile lit her gaunt face."
+   ]
+  },
+  {
+   "begin": "2109.680",
+   "children": [],
+   "end": "2114.000",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "\"Why, I have had the pleasure of meeting your parents, boy. . . .\""
    ]
   },
   {
    "begin": "2114.000",
    "children": [],
    "end": "2123.120",
-   "id": "f000227",
+   "id": "f000397",
    "language": "eng",
    "lines": [
     "\"I DOE YOU HAB!\" roared Neville, and he fought so hard against his captor's encircling grip that the Death Eater shouted, \"Someone Stun him!\""
@@ -2273,68 +3973,158 @@
   {
    "begin": "2123.120",
    "children": [],
-   "end": "2141.240",
-   "id": "f000228",
+   "end": "2126.600",
+   "id": "f000398",
    "language": "eng",
    "lines": [
-    "\"No, no, no,\" said Bellatrix. She looked transported, alive with excitement as she glanced at Harry, then back at Neville. \"No, let's see how long Longbottom lasts before he cracks like his parents. . . . Unless Potter wants to give us the prophecy - \""
+    "\"No, no, no,\" said Bellatrix."
+   ]
+  },
+  {
+   "begin": "2126.600",
+   "children": [],
+   "end": "2132.080",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "She looked transported, alive with excitement as she glanced at Harry, then back at Neville."
+   ]
+  },
+  {
+   "begin": "2132.080",
+   "children": [],
+   "end": "2141.240",
+   "id": "f000400",
+   "language": "eng",
+   "lines": [
+    "\"No, let's see how long Longbottom lasts before he cracks like his parents. . . . Unless Potter wants to give us the prophecy - \""
    ]
   },
   {
    "begin": "2141.240",
    "children": [],
-   "end": "2152.920",
-   "id": "f000229",
+   "end": "2150.920",
+   "id": "f000401",
    "language": "eng",
    "lines": [
-    "\"DON'D GIB ID DO DEM!\" roared Neville, who seemed beside himself, kicking and writhing as Bellatrix drew nearer to him and his captor, her wand raised. \"DON'D GIB ID DO DEM, HARRY!\""
+    "\"DON'D GIB ID DO DEM!\" roared Neville, who seemed beside himself, kicking and writhing as Bellatrix drew nearer to him and his captor, her wand raised."
+   ]
+  },
+  {
+   "begin": "2150.920",
+   "children": [],
+   "end": "2152.920",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "\"DON'D GIB ID DO DEM, HARRY!\""
    ]
   },
   {
    "begin": "2152.920",
    "children": [],
-   "end": "2156.600",
-   "id": "f000230",
+   "end": "2155.320",
+   "id": "f000403",
    "language": "eng",
    "lines": [
-    "Bellatrix raised her wand. \"Crucio!\""
+    "Bellatrix raised her wand."
+   ]
+  },
+  {
+   "begin": "2155.320",
+   "children": [],
+   "end": "2156.600",
+   "id": "f000404",
+   "language": "eng",
+   "lines": [
+    "\"Crucio!\""
    ]
   },
   {
    "begin": "2156.600",
    "children": [],
-   "end": "2169.600",
-   "id": "f000231",
+   "end": "2163.960",
+   "id": "f000405",
    "language": "eng",
    "lines": [
-    "Neville screamed, his legs drawn up to his chest so that the Death Eater holding him was momentarily holding him off the ground. The Death Eater dropped him and he fell to the floor, twitching and screaming in agony."
+    "Neville screamed, his legs drawn up to his chest so that the Death Eater holding him was momentarily holding him off the ground."
+   ]
+  },
+  {
+   "begin": "2163.960",
+   "children": [],
+   "end": "2169.600",
+   "id": "f000406",
+   "language": "eng",
+   "lines": [
+    "The Death Eater dropped him and he fell to the floor, twitching and screaming in agony."
    ]
   },
   {
    "begin": "2169.600",
    "children": [],
-   "end": "2187.320",
-   "id": "f000232",
+   "end": "2178.000",
+   "id": "f000407",
    "language": "eng",
    "lines": [
-    "\"That was just a taster!\" said Bellatrix, raising her wand so that Neville's screams stopped and he lay sobbing at her feet. She turned and gazed up at Harry. \"Now, Potter, either give us the prophecy, or watch your little friend die the hard way!\""
+    "\"That was just a taster!\" said Bellatrix, raising her wand so that Neville's screams stopped and he lay sobbing at her feet."
+   ]
+  },
+  {
+   "begin": "2178.000",
+   "children": [],
+   "end": "2180.520",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "She turned and gazed up at Harry."
+   ]
+  },
+  {
+   "begin": "2180.520",
+   "children": [],
+   "end": "2187.320",
+   "id": "f000409",
+   "language": "eng",
+   "lines": [
+    "\"Now, Potter, either give us the prophecy, or watch your little friend die the hard way!\""
    ]
   },
   {
    "begin": "2187.320",
    "children": [],
-   "end": "2197.840",
-   "id": "f000233",
+   "end": "2190.600",
+   "id": "f000410",
    "language": "eng",
    "lines": [
-    "Harry did not have to think; there was no choice. The prophecy was hot with the heat from his clutching hand as he held it out. Malfoy jumped forward to take it."
+    "Harry did not have to think; there was no choice."
+   ]
+  },
+  {
+   "begin": "2190.600",
+   "children": [],
+   "end": "2195.240",
+   "id": "f000411",
+   "language": "eng",
+   "lines": [
+    "The prophecy was hot with the heat from his clutching hand as he held it out."
+   ]
+  },
+  {
+   "begin": "2195.240",
+   "children": [],
+   "end": "2197.840",
+   "id": "f000412",
+   "language": "eng",
+   "lines": [
+    "Malfoy jumped forward to take it."
    ]
   },
   {
    "begin": "2197.840",
    "children": [],
    "end": "2207.080",
-   "id": "f000234",
+   "id": "f000413",
    "language": "eng",
    "lines": [
     "Then, high above them, two more doors burst open and five more people sprinted into the room: Sirius, Lupin, Moody, Tonks, and Kingsley."
@@ -2343,18 +4133,48 @@
   {
    "begin": "2207.080",
    "children": [],
-   "end": "2237.080",
-   "id": "f000235",
+   "end": "2212.480",
+   "id": "f000414",
    "language": "eng",
    "lines": [
-    "Malfoy turned and raised his wand, but Tonks had already sent a Stunning Spell right at him. Harry did not wait to see whether it had made contact, but dived off the dais out of the way. The Death Eaters were completely distracted by the appearance of the members of the Order, who were now raining spells down upon them as they jumped from step to step toward the sunken floor: Through the darting bodies, the flashes of light, Harry could see Neville crawling along. He dodged another jet of red light and flung himself flat on the ground to reach Neville."
+    "Malfoy turned and raised his wand, but Tonks had already sent a Stunning Spell right at him."
+   ]
+  },
+  {
+   "begin": "2212.480",
+   "children": [],
+   "end": "2217.960",
+   "id": "f000415",
+   "language": "eng",
+   "lines": [
+    "Harry did not wait to see whether it had made contact, but dived off the dais out of the way."
+   ]
+  },
+  {
+   "begin": "2217.960",
+   "children": [],
+   "end": "2232.760",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "The Death Eaters were completely distracted by the appearance of the members of the Order, who were now raining spells down upon them as they jumped from step to step toward the sunken floor: Through the darting bodies, the flashes of light, Harry could see Neville crawling along."
+   ]
+  },
+  {
+   "begin": "2232.760",
+   "children": [],
+   "end": "2237.080",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "He dodged another jet of red light and flung himself flat on the ground to reach Neville."
    ]
   },
   {
    "begin": "2237.080",
    "children": [],
    "end": "2242.400",
-   "id": "f000236",
+   "id": "f000418",
    "language": "eng",
    "lines": [
     "\"Are you okay?\" he yelled, as another spell soared inches over their heads."
@@ -2364,7 +4184,7 @@
    "begin": "2242.400",
    "children": [],
    "end": "2245.440",
-   "id": "f000237",
+   "id": "f000419",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Neville, trying to pull himself up."
@@ -2374,7 +4194,7 @@
    "begin": "2245.440",
    "children": [],
    "end": "2246.240",
-   "id": "f000238",
+   "id": "f000420",
    "language": "eng",
    "lines": [
     "\"And Ron?\""
@@ -2384,7 +4204,7 @@
    "begin": "2246.240",
    "children": [],
    "end": "2250.640",
-   "id": "f000239",
+   "id": "f000421",
    "language": "eng",
    "lines": [
     "\"I dink he's all right - he was still fighding the brain when I left - \""
@@ -2393,18 +4213,28 @@
   {
    "begin": "2250.640",
    "children": [],
-   "end": "2262.240",
-   "id": "f000240",
+   "end": "2257.760",
+   "id": "f000422",
    "language": "eng",
    "lines": [
-    "The stone floor between them exploded as a spell hit it, leaving a crater right where Neville's hand had been seconds before. Both scrambled away from the spot, then a thick arm came out of nowhere,"
+    "The stone floor between them exploded as a spell hit it, leaving a crater right where Neville's hand had been seconds before."
+   ]
+  },
+  {
+   "begin": "2257.760",
+   "children": [],
+   "end": "2262.240",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "Both scrambled away from the spot, then a thick arm came out of nowhere,"
    ]
   },
   {
    "begin": "2262.240",
    "children": [],
    "end": "2267.560",
-   "id": "f000241",
+   "id": "f000424",
    "language": "eng",
    "lines": [
     "seized Harry around the neck and pulled him upright, so that his toes were barely touching the floor."
@@ -2414,7 +4244,7 @@
    "begin": "2267.560",
    "children": [],
    "end": "2272.880",
-   "id": "f000242",
+   "id": "f000425",
    "language": "eng",
    "lines": [
     "\"Give it to me,\" growled a voice in his ear, \"give me the prophecy - \""
@@ -2423,18 +4253,28 @@
   {
    "begin": "2272.880",
    "children": [],
-   "end": "2303.040",
-   "id": "f000243",
+   "end": "2282.920",
+   "id": "f000426",
    "language": "eng",
    "lines": [
-    "The man was pressing so tightly on Harry's windpipe that he could not breathe - through watering eyes he saw Sirius dueling with a Death Eater some ten feet away. Kingsley was fighting two at once; Tonks, still halfway up the tiered seats, was firing spells down at Bellatrix - nobody seemed to realize that Harry was dying. . . . He turned his wand backward toward the man's side, but had no breath to utter an incantation, and the man's free hand was groping toward the hand in which Harry was grasping the prophecy -"
+    "The man was pressing so tightly on Harry's windpipe that he could not breathe - through watering eyes he saw Sirius dueling with a Death Eater some ten feet away."
+   ]
+  },
+  {
+   "begin": "2282.920",
+   "children": [],
+   "end": "2303.040",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "Kingsley was fighting two at once; Tonks, still halfway up the tiered seats, was firing spells down at Bellatrix - nobody seemed to realize that Harry was dying. . . . He turned his wand backward toward the man's side, but had no breath to utter an incantation, and the man's free hand was groping toward the hand in which Harry was grasping the prophecy -"
    ]
   },
   {
    "begin": "2303.040",
    "children": [],
    "end": "2304.480",
-   "id": "f000244",
+   "id": "f000428",
    "language": "eng",
    "lines": [
     "\"AARGH!\""
@@ -2443,38 +4283,68 @@
   {
    "begin": "2304.480",
    "children": [],
-   "end": "2320.640",
-   "id": "f000245",
+   "end": "2313.480",
+   "id": "f000429",
    "language": "eng",
    "lines": [
-    "Neville had come lunging out of nowhere: Unable to articulate a spell, he had jabbed Hermione's wand hard into the eyehole of the Death Eater's mask. The man relinquished Harry at once with a howl of pain and Harry whirled around to face him and gasped, \"STUPEFY !\""
+    "Neville had come lunging out of nowhere: Unable to articulate a spell, he had jabbed Hermione's wand hard into the eyehole of the Death Eater's mask."
+   ]
+  },
+  {
+   "begin": "2313.480",
+   "children": [],
+   "end": "2320.640",
+   "id": "f000430",
+   "language": "eng",
+   "lines": [
+    "The man relinquished Harry at once with a howl of pain and Harry whirled around to face him and gasped, \"STUPEFY !\""
    ]
   },
   {
    "begin": "2320.640",
    "children": [],
-   "end": "2331.320",
-   "id": "f000246",
+   "end": "2324.880",
+   "id": "f000431",
    "language": "eng",
    "lines": [
-    "The Death Eater keeled over backward and his mask slipped off. It was Macnair, Buckbeak's would-be killer, one of his eyes now swollen and bloodshot."
+    "The Death Eater keeled over backward and his mask slipped off."
    ]
   },
   {
-   "begin": "2331.320",
+   "begin": "2324.880",
    "children": [],
-   "end": "2350.920",
-   "id": "f000247",
+   "end": "2331.240",
+   "id": "f000432",
    "language": "eng",
    "lines": [
-    "\"Thanks!\" Harry said to Neville, pulling him aside as Sirius and his Death Eater lurched past, dueling so fiercely that their wands were blurs. Then Harry's foot made contact with something round and hard and he slipped - for a moment he thought he had dropped the prophecy, then saw Moody's magic eye spinning away across the floor."
+    "It was Macnair, Buckbeak's would-be killer, one of his eyes now swollen and bloodshot."
+   ]
+  },
+  {
+   "begin": "2331.240",
+   "children": [],
+   "end": "2340.360",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "\"Thanks!\" Harry said to Neville, pulling him aside as Sirius and his Death Eater lurched past, dueling so fiercely that their wands were blurs."
+   ]
+  },
+  {
+   "begin": "2340.360",
+   "children": [],
+   "end": "2350.920",
+   "id": "f000434",
+   "language": "eng",
+   "lines": [
+    "Then Harry's foot made contact with something round and hard and he slipped - for a moment he thought he had dropped the prophecy, then saw Moody's magic eye spinning away across the floor."
    ]
   },
   {
    "begin": "2350.920",
    "children": [],
    "end": "2361.680",
-   "id": "f000248",
+   "id": "f000435",
    "language": "eng",
    "lines": [
     "Its owner was lying on his side, bleeding from the head, and his attacker was now bearing down upon Harry and Neville: Dolohov, his long pale face twisted with glee."
@@ -2483,18 +4353,28 @@
   {
    "begin": "2361.680",
    "children": [],
-   "end": "2375.840",
-   "id": "f000249",
+   "end": "2373.200",
+   "id": "f000436",
    "language": "eng",
    "lines": [
-    "\"Tarantallegra!\" he shouted, his wand pointing at Neville, whose legs went immediately into a kind of frenzied tap dance, unbalancing him and causing him to fall to the floor again. \"Now, Potter - \""
+    "\"Tarantallegra!\" he shouted, his wand pointing at Neville, whose legs went immediately into a kind of frenzied tap dance, unbalancing him and causing him to fall to the floor again."
+   ]
+  },
+  {
+   "begin": "2373.200",
+   "children": [],
+   "end": "2375.840",
+   "id": "f000437",
+   "language": "eng",
+   "lines": [
+    "\"Now, Potter - \""
    ]
   },
   {
    "begin": "2375.840",
    "children": [],
    "end": "2382.480",
-   "id": "f000250",
+   "id": "f000438",
    "language": "eng",
    "lines": [
     "He made the same slashing movement with his wand that he had used on Hermione just as Harry yelled, \"Protego!\""
@@ -2504,7 +4384,7 @@
    "begin": "2382.480",
    "children": [],
    "end": "2393.880",
-   "id": "f000251",
+   "id": "f000439",
    "language": "eng",
    "lines": [
     "Harry felt something streak across his face like a blunt knife but the force of it knocked him sideways, and he fell over Neville's jerking legs, but the Shield Charm had stopped the worst of the spell."
@@ -2513,88 +4393,188 @@
   {
    "begin": "2393.880",
    "children": [],
-   "end": "2397.960",
-   "id": "f000252",
+   "end": "2396.520",
+   "id": "f000440",
    "language": "eng",
    "lines": [
-    "Dolohov raised his wand again. \"Accio Proph - \""
+    "Dolohov raised his wand again."
+   ]
+  },
+  {
+   "begin": "2396.520",
+   "children": [],
+   "end": "2397.960",
+   "id": "f000441",
+   "language": "eng",
+   "lines": [
+    "\"Accio Proph - \""
    ]
   },
   {
    "begin": "2397.960",
    "children": [],
-   "end": "2416.560",
-   "id": "f000253",
+   "end": "2403.880",
+   "id": "f000442",
    "language": "eng",
    "lines": [
-    "Sirius hurtled out of nowhere, rammed Dolohov with his shoulder, and sent him flying out of the way. The prophecy had again flown to the tips of Harry's fingers but he had managed to cling to it. Now Sirius and Dolohov were dueling, their wands flashing like swords, sparks flying from their wand tips -"
+    "Sirius hurtled out of nowhere, rammed Dolohov with his shoulder, and sent him flying out of the way."
+   ]
+  },
+  {
+   "begin": "2403.880",
+   "children": [],
+   "end": "2409.600",
+   "id": "f000443",
+   "language": "eng",
+   "lines": [
+    "The prophecy had again flown to the tips of Harry's fingers but he had managed to cling to it."
+   ]
+  },
+  {
+   "begin": "2409.600",
+   "children": [],
+   "end": "2416.560",
+   "id": "f000444",
+   "language": "eng",
+   "lines": [
+    "Now Sirius and Dolohov were dueling, their wands flashing like swords, sparks flying from their wand tips -"
    ]
   },
   {
    "begin": "2416.560",
    "children": [],
-   "end": "2433.440",
-   "id": "f000254",
+   "end": "2422.120",
+   "id": "f000445",
    "language": "eng",
    "lines": [
-    "Dolohov drew back his wand to make the same slashing movement he had used on Harry and Hermione. Springing up, Harry yelled, \"Petrificus Totalus!\" Once again, Dolohov's arms and legs snapped together and he keeled over backward, landing with a crash on his back."
+    "Dolohov drew back his wand to make the same slashing movement he had used on Harry and Hermione."
+   ]
+  },
+  {
+   "begin": "2422.120",
+   "children": [],
+   "end": "2425.920",
+   "id": "f000446",
+   "language": "eng",
+   "lines": [
+    "Springing up, Harry yelled, \"Petrificus Totalus!\""
+   ]
+  },
+  {
+   "begin": "2425.920",
+   "children": [],
+   "end": "2433.440",
+   "id": "f000447",
+   "language": "eng",
+   "lines": [
+    "Once again, Dolohov's arms and legs snapped together and he keeled over backward, landing with a crash on his back."
    ]
   },
   {
    "begin": "2433.440",
    "children": [],
-   "end": "2442.360",
-   "id": "f000255",
+   "end": "2440.280",
+   "id": "f000448",
    "language": "eng",
    "lines": [
-    "\"Nice one!\" shouted Sirius, forcing Harry's head down as a pair of Stunning Spells flew toward them. \"Now I want you to get out of - \""
+    "\"Nice one!\" shouted Sirius, forcing Harry's head down as a pair of Stunning Spells flew toward them."
+   ]
+  },
+  {
+   "begin": "2440.280",
+   "children": [],
+   "end": "2442.360",
+   "id": "f000449",
+   "language": "eng",
+   "lines": [
+    "\"Now I want you to get out of - \""
    ]
   },
   {
    "begin": "2442.360",
    "children": [],
-   "end": "2458.280",
-   "id": "f000256",
+   "end": "2444.040",
+   "id": "f000450",
    "language": "eng",
    "lines": [
-    "They both ducked again. A jet of green light had narrowly missed Sirius; across the room Harry saw Tonks fall from halfway up the stone steps, her limp form toppling from stone seat to stone seat, and Bellatrix, triumphant, running back toward the fray."
+    "They both ducked again."
+   ]
+  },
+  {
+   "begin": "2444.040",
+   "children": [],
+   "end": "2458.280",
+   "id": "f000451",
+   "language": "eng",
+   "lines": [
+    "A jet of green light had narrowly missed Sirius; across the room Harry saw Tonks fall from halfway up the stone steps, her limp form toppling from stone seat to stone seat, and Bellatrix, triumphant, running back toward the fray."
    ]
   },
   {
    "begin": "2458.280",
    "children": [],
-   "end": "2478.120",
-   "id": "f000257",
+   "end": "2464.240",
+   "id": "f000452",
    "language": "eng",
    "lines": [
-    "\"Harry, take the prophecy, grab Neville, and run!\" Sirius yelled, dashing to meet Bellatrix. Harry did not see what happened next: Kingsley swayed across his field of vision, battling with the pockmarked Rookwood, now mask-less; another jet of green light flew over Harry's head as he launched himself toward Neville -"
+    "\"Harry, take the prophecy, grab Neville, and run!\" Sirius yelled, dashing to meet Bellatrix."
+   ]
+  },
+  {
+   "begin": "2464.240",
+   "children": [],
+   "end": "2478.120",
+   "id": "f000453",
+   "language": "eng",
+   "lines": [
+    "Harry did not see what happened next: Kingsley swayed across his field of vision, battling with the pockmarked Rookwood, now mask-less; another jet of green light flew over Harry's head as he launched himself toward Neville -"
    ]
   },
   {
    "begin": "2478.120",
    "children": [],
-   "end": "2485.600",
-   "id": "f000258",
+   "end": "2484.080",
+   "id": "f000454",
    "language": "eng",
    "lines": [
-    "\"Can you stand?\" he bellowed in Neville's ear, as Neville's legs jerked and twitched uncontrollably. \"Put your arm round my neck - \""
+    "\"Can you stand?\" he bellowed in Neville's ear, as Neville's legs jerked and twitched uncontrollably."
+   ]
+  },
+  {
+   "begin": "2484.080",
+   "children": [],
+   "end": "2485.600",
+   "id": "f000455",
+   "language": "eng",
+   "lines": [
+    "\"Put your arm round my neck - \""
    ]
   },
   {
    "begin": "2485.600",
    "children": [],
-   "end": "2498.400",
-   "id": "f000259",
+   "end": "2495.400",
+   "id": "f000456",
    "language": "eng",
    "lines": [
-    "Neville did so - Harry heaved - Neville's legs were still flying in every direction, they would not support him and then, out of nowhere, a man lunged at them. Both fell backward, Neville's legs"
+    "Neville did so - Harry heaved - Neville's legs were still flying in every direction, they would not support him and then, out of nowhere, a man lunged at them."
+   ]
+  },
+  {
+   "begin": "2495.400",
+   "children": [],
+   "end": "2498.400",
+   "id": "f000457",
+   "language": "eng",
+   "lines": [
+    "Both fell backward, Neville's legs"
    ]
   },
   {
    "begin": "2498.400",
    "children": [],
    "end": "2506.360",
-   "id": "f000260",
+   "id": "f000458",
    "language": "eng",
    "lines": [
     "waving wildly like an overturned beetle's, Harry with his left arm held up in the air to try and save the small glass ball from being smashed."
@@ -2604,7 +4584,7 @@
    "begin": "2506.360",
    "children": [],
    "end": "2517.760",
-   "id": "f000261",
+   "id": "f000459",
    "language": "eng",
    "lines": [
     "\"The prophecy, give me the prophecy, Potter!\" snarled Lucius Malfoy's voice in his ear, and Harry felt the tip of Malfoy's wand pressing hard between his ribs."
@@ -2614,7 +4594,7 @@
    "begin": "2517.760",
    "children": [],
    "end": "2523.160",
-   "id": "f000262",
+   "id": "f000460",
    "language": "eng",
    "lines": [
     "\"No - get - off - me . . . Neville - catch it!\""
@@ -2623,28 +4603,58 @@
   {
    "begin": "2523.160",
    "children": [],
-   "end": "2537.360",
-   "id": "f000263",
+   "end": "2530.040",
+   "id": "f000461",
    "language": "eng",
    "lines": [
-    "Harry flung the prophecy across the floor, Neville spun himself around on his back and scooped the ball to his chest. Malfoy pointed the wand instead at Neville, but Harry jabbed his own wand back over his shoulder and yelled, \"Impedimenta!\""
+    "Harry flung the prophecy across the floor, Neville spun himself around on his back and scooped the ball to his chest."
+   ]
+  },
+  {
+   "begin": "2530.040",
+   "children": [],
+   "end": "2537.360",
+   "id": "f000462",
+   "language": "eng",
+   "lines": [
+    "Malfoy pointed the wand instead at Neville, but Harry jabbed his own wand back over his shoulder and yelled, \"Impedimenta!\""
    ]
   },
   {
    "begin": "2537.360",
    "children": [],
-   "end": "2554.400",
-   "id": "f000264",
+   "end": "2539.960",
+   "id": "f000463",
    "language": "eng",
    "lines": [
-    "Malfoy was blasted off his back. As Harry scrambled up again he looked around and saw Malfoy smash into the dais on which Sirius and Bellatrix were now dueling. Malfoy aimed his wand at Harry and Neville again, but before he could draw breath to strike, Lupin had jumped between them."
+    "Malfoy was blasted off his back."
+   ]
+  },
+  {
+   "begin": "2539.960",
+   "children": [],
+   "end": "2547.280",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "As Harry scrambled up again he looked around and saw Malfoy smash into the dais on which Sirius and Bellatrix were now dueling."
+   ]
+  },
+  {
+   "begin": "2547.280",
+   "children": [],
+   "end": "2554.400",
+   "id": "f000465",
+   "language": "eng",
+   "lines": [
+    "Malfoy aimed his wand at Harry and Neville again, but before he could draw breath to strike, Lupin had jumped between them."
    ]
   },
   {
    "begin": "2554.400",
    "children": [],
    "end": "2557.880",
-   "id": "f000265",
+   "id": "f000466",
    "language": "eng",
    "lines": [
     "\"Harry, round up the others and GO!\""
@@ -2653,58 +4663,138 @@
   {
    "begin": "2557.880",
    "children": [],
-   "end": "2572.680",
-   "id": "f000266",
+   "end": "2564.280",
+   "id": "f000467",
    "language": "eng",
    "lines": [
-    "Harry seized Neville by the shoulder of his robes and lifted him bodily onto the first tier of stone steps. Neville's legs twitched and jerked and would not support his weight. Harry heaved again with all the strength he possessed and they climbed another step -"
+    "Harry seized Neville by the shoulder of his robes and lifted him bodily onto the first tier of stone steps."
+   ]
+  },
+  {
+   "begin": "2564.280",
+   "children": [],
+   "end": "2567.800",
+   "id": "f000468",
+   "language": "eng",
+   "lines": [
+    "Neville's legs twitched and jerked and would not support his weight."
+   ]
+  },
+  {
+   "begin": "2567.800",
+   "children": [],
+   "end": "2572.680",
+   "id": "f000469",
+   "language": "eng",
+   "lines": [
+    "Harry heaved again with all the strength he possessed and they climbed another step -"
    ]
   },
   {
    "begin": "2572.680",
    "children": [],
-   "end": "2584.440",
-   "id": "f000267",
+   "end": "2575.600",
+   "id": "f000470",
    "language": "eng",
    "lines": [
-    "A spell hit the stone bench at Harry's heel. It crumbled away and he fell back to the step below: Neville sank to the ground, his legs still jerking and thrashing, and thrust the prophecy into his pocket."
+    "A spell hit the stone bench at Harry's heel."
+   ]
+  },
+  {
+   "begin": "2575.600",
+   "children": [],
+   "end": "2584.440",
+   "id": "f000471",
+   "language": "eng",
+   "lines": [
+    "It crumbled away and he fell back to the step below: Neville sank to the ground, his legs still jerking and thrashing, and thrust the prophecy into his pocket."
    ]
   },
   {
    "begin": "2584.440",
    "children": [],
-   "end": "2590.360",
-   "id": "f000268",
+   "end": "2588.240",
+   "id": "f000472",
    "language": "eng",
    "lines": [
-    "\"Come on!\" said Harry desperately, hauling at Neville's robes. \"Just try and push with your legs - \""
+    "\"Come on!\" said Harry desperately, hauling at Neville's robes."
+   ]
+  },
+  {
+   "begin": "2588.240",
+   "children": [],
+   "end": "2590.360",
+   "id": "f000473",
+   "language": "eng",
+   "lines": [
+    "\"Just try and push with your legs - \""
    ]
   },
   {
    "begin": "2590.360",
    "children": [],
-   "end": "2614.680",
-   "id": "f000269",
+   "end": "2603.800",
+   "id": "f000474",
    "language": "eng",
    "lines": [
-    "He gave another stupendous heave and Neville's robes tore all along the left seam - the small spun-glass ball dropped from his pocket and before either of them could catch it, one of Neville's floundering feet kicked it. It flew some ten feet to their right and smashed on the step beneath them. As both of them stared at the place where it had broken, appalled at what had happened, a pearly-white figure with"
+    "He gave another stupendous heave and Neville's robes tore all along the left seam - the small spun-glass ball dropped from his pocket and before either of them could catch it, one of Neville's floundering feet kicked it."
+   ]
+  },
+  {
+   "begin": "2603.800",
+   "children": [],
+   "end": "2608.400",
+   "id": "f000475",
+   "language": "eng",
+   "lines": [
+    "It flew some ten feet to their right and smashed on the step beneath them."
+   ]
+  },
+  {
+   "begin": "2608.400",
+   "children": [],
+   "end": "2614.680",
+   "id": "f000476",
+   "language": "eng",
+   "lines": [
+    "As both of them stared at the place where it had broken, appalled at what had happened, a pearly-white figure with"
    ]
   },
   {
    "begin": "2614.680",
    "children": [],
-   "end": "2631.960",
-   "id": "f000270",
+   "end": "2619.120",
+   "id": "f000477",
    "language": "eng",
    "lines": [
-    "hugely magnified eyes rose into the air, unnoticed by any but them. Harry could see its mouth moving, but in all the crashes and screams and yells surrounding them, not one word of the prophecy could he hear. The figure stopped speaking and dissolved into nothingness."
+    "hugely magnified eyes rose into the air, unnoticed by any but them."
+   ]
+  },
+  {
+   "begin": "2619.120",
+   "children": [],
+   "end": "2627.480",
+   "id": "f000478",
+   "language": "eng",
+   "lines": [
+    "Harry could see its mouth moving, but in all the crashes and screams and yells surrounding them, not one word of the prophecy could he hear."
+   ]
+  },
+  {
+   "begin": "2627.480",
+   "children": [],
+   "end": "2631.960",
+   "id": "f000479",
+   "language": "eng",
+   "lines": [
+    "The figure stopped speaking and dissolved into nothingness."
    ]
   },
   {
    "begin": "2631.960",
    "children": [],
    "end": "2642.400",
-   "id": "f000271",
+   "id": "f000480",
    "language": "eng",
    "lines": [
     "\"Harry, I'b sorry!\" cried Neville, his face anguished as his legs continued to flounder, \"I'b so sorry, Harry, I didn'd bean do - \""
@@ -2713,18 +4803,28 @@
   {
    "begin": "2642.400",
    "children": [],
-   "end": "2647.880",
-   "id": "f000272",
+   "end": "2645.000",
+   "id": "f000481",
    "language": "eng",
    "lines": [
-    "\"It doesn't matter!\" Harry shouted. \"Just try and stand, let's get out of - \""
+    "\"It doesn't matter!\" Harry shouted."
+   ]
+  },
+  {
+   "begin": "2645.000",
+   "children": [],
+   "end": "2647.880",
+   "id": "f000482",
+   "language": "eng",
+   "lines": [
+    "\"Just try and stand, let's get out of - \""
    ]
   },
   {
    "begin": "2647.880",
    "children": [],
    "end": "2654.320",
-   "id": "f000273",
+   "id": "f000483",
    "language": "eng",
    "lines": [
     "\"Dubbledore!\" said Neville, his sweaty face suddenly transported, staring over Harry's shoulder."
@@ -2734,7 +4834,7 @@
    "begin": "2654.320",
    "children": [],
    "end": "2655.440",
-   "id": "f000274",
+   "id": "f000484",
    "language": "eng",
    "lines": [
     "\"What?\""
@@ -2744,7 +4844,7 @@
    "begin": "2655.440",
    "children": [],
    "end": "2656.960",
-   "id": "f000275",
+   "id": "f000485",
    "language": "eng",
    "lines": [
     "\"DUBBLEDORE!\""
@@ -2753,38 +4853,108 @@
   {
    "begin": "2656.960",
    "children": [],
-   "end": "2673.960",
-   "id": "f000276",
+   "end": "2659.640",
+   "id": "f000486",
    "language": "eng",
    "lines": [
-    "Harry turned to look where Neville was staring. Directly above them, framed in the doorway from the Brain Room, stood Albus Dumbledore, his wand aloft, his face white and furious. Harry felt a kind of electric charge surge through every particle of his body - they were saved."
+    "Harry turned to look where Neville was staring."
    ]
   },
   {
-   "begin": "2673.960",
+   "begin": "2659.640",
    "children": [],
-   "end": "2696.920",
-   "id": "f000277",
+   "end": "2667.640",
+   "id": "f000487",
    "language": "eng",
    "lines": [
-    "Dumbledore sped down the steps past Neville and Harry, who had no more thought of leaving. Dumbledore was already at the foot of the steps when the Death Eaters nearest realized he was there. There were yells; one of the Death Eaters ran for it, scrabbling like a monkey up the stone steps opposite. Dumbledore's spell pulled him back as easily and effortlessly as though he had hooked him with an invisible line -"
+    "Directly above them, framed in the doorway from the Brain Room, stood Albus Dumbledore, his wand aloft, his face white and furious."
+   ]
+  },
+  {
+   "begin": "2667.640",
+   "children": [],
+   "end": "2674.040",
+   "id": "f000488",
+   "language": "eng",
+   "lines": [
+    "Harry felt a kind of electric charge surge through every particle of his body - they were saved."
+   ]
+  },
+  {
+   "begin": "2674.040",
+   "children": [],
+   "end": "2679.320",
+   "id": "f000489",
+   "language": "eng",
+   "lines": [
+    "Dumbledore sped down the steps past Neville and Harry, who had no more thought of leaving."
+   ]
+  },
+  {
+   "begin": "2679.320",
+   "children": [],
+   "end": "2684.680",
+   "id": "f000490",
+   "language": "eng",
+   "lines": [
+    "Dumbledore was already at the foot of the steps when the Death Eaters nearest realized he was there."
+   ]
+  },
+  {
+   "begin": "2684.680",
+   "children": [],
+   "end": "2690.720",
+   "id": "f000491",
+   "language": "eng",
+   "lines": [
+    "There were yells; one of the Death Eaters ran for it, scrabbling like a monkey up the stone steps opposite."
+   ]
+  },
+  {
+   "begin": "2690.720",
+   "children": [],
+   "end": "2696.920",
+   "id": "f000492",
+   "language": "eng",
+   "lines": [
+    "Dumbledore's spell pulled him back as easily and effortlessly as though he had hooked him with an invisible line -"
    ]
   },
   {
    "begin": "2696.920",
    "children": [],
-   "end": "2713.520",
-   "id": "f000278",
+   "end": "2701.920",
+   "id": "f000493",
    "language": "eng",
    "lines": [
-    "Only one couple were still battling, apparently unaware of the new arrival. Harry saw Sirius duck Bellatrix's jet of red light: He was laughing at her. \"Come on, you can do better than that!\" he yelled, his voice echoing around the cavernous room."
+    "Only one couple were still battling, apparently unaware of the new arrival."
+   ]
+  },
+  {
+   "begin": "2701.920",
+   "children": [],
+   "end": "2707.360",
+   "id": "f000494",
+   "language": "eng",
+   "lines": [
+    "Harry saw Sirius duck Bellatrix's jet of red light: He was laughing at her."
+   ]
+  },
+  {
+   "begin": "2707.360",
+   "children": [],
+   "end": "2713.520",
+   "id": "f000495",
+   "language": "eng",
+   "lines": [
+    "\"Come on, you can do better than that!\" he yelled, his voice echoing around the cavernous room."
    ]
   },
   {
    "begin": "2713.520",
    "children": [],
    "end": "2717.400",
-   "id": "f000279",
+   "id": "f000496",
    "language": "eng",
    "lines": [
     "The second jet of light hit him squarely on the chest."
@@ -2793,38 +4963,58 @@
   {
    "begin": "2717.400",
    "children": [],
-   "end": "2722.520",
-   "id": "f000280",
+   "end": "2722.640",
+   "id": "f000497",
    "language": "eng",
    "lines": [
     "The laughter had not quite died from his face, but his eyes widened in shock."
    ]
   },
   {
-   "begin": "2722.520",
+   "begin": "2722.640",
    "children": [],
-   "end": "2732.360",
-   "id": "f000281",
+   "end": "2726.640",
+   "id": "f000498",
    "language": "eng",
    "lines": [
-    "Harry released Neville, though he was unaware of doing so. He was jumping down the steps again, pulling out his wand, as Dumbledore turned to the dais too."
+    "Harry released Neville, though he was unaware of doing so."
    ]
   },
   {
-   "begin": "2732.360",
+   "begin": "2726.640",
    "children": [],
-   "end": "2742.640",
-   "id": "f000282",
+   "end": "2732.320",
+   "id": "f000499",
    "language": "eng",
    "lines": [
-    "It seemed to take Sirius an age to fall. His body curved in a graceful arc as he sank backward through the ragged veil hanging from the arch. . . ."
+    "He was jumping down the steps again, pulling out his wand, as Dumbledore turned to the dais too."
+   ]
+  },
+  {
+   "begin": "2732.320",
+   "children": [],
+   "end": "2735.920",
+   "id": "f000500",
+   "language": "eng",
+   "lines": [
+    "It seemed to take Sirius an age to fall."
+   ]
+  },
+  {
+   "begin": "2735.920",
+   "children": [],
+   "end": "2742.640",
+   "id": "f000501",
+   "language": "eng",
+   "lines": [
+    "His body curved in a graceful arc as he sank backward through the ragged veil hanging from the arch. . . ."
    ]
   },
   {
    "begin": "2742.640",
    "children": [],
    "end": "2758.560",
-   "id": "f000283",
+   "id": "f000502",
    "language": "eng",
    "lines": [
     "And Harry saw the look of mingled fear and surprise on his godfather's wasted, once-handsome face as he fell through the ancient doorway and disappeared behind the veil, which fluttered for a moment as though in a high wind and then fell back into place."
@@ -2834,7 +5024,7 @@
    "begin": "2758.560",
    "children": [],
    "end": "2769.400",
-   "id": "f000284",
+   "id": "f000503",
    "language": "eng",
    "lines": [
     "Harry heard Bellatrix Lestrange's triumphant scream, but knew it meant nothing - Sirius had only just fallen through the archway, he would reappear from the other side any second. . . ."
@@ -2843,18 +5033,18 @@
   {
    "begin": "2769.400",
    "children": [],
-   "end": "2772.160",
-   "id": "f000285",
+   "end": "2772.120",
+   "id": "f000504",
    "language": "eng",
    "lines": [
     "But Sirius did not reappear."
    ]
   },
   {
-   "begin": "2772.160",
+   "begin": "2772.120",
    "children": [],
    "end": "2776.000",
-   "id": "f000286",
+   "id": "f000505",
    "language": "eng",
    "lines": [
     "\"SIRIUS!\" Harry yelled, \"SIRIUS!\""
@@ -2863,18 +5053,28 @@
   {
    "begin": "2776.000",
    "children": [],
-   "end": "2785.240",
-   "id": "f000287",
+   "end": "2780.120",
+   "id": "f000506",
    "language": "eng",
    "lines": [
-    "He had reached the floor, his breath coming in searing gasps. Sirius must be just behind the curtain, he, Harry, would pull him back out again. . . ."
+    "He had reached the floor, his breath coming in searing gasps."
+   ]
+  },
+  {
+   "begin": "2780.120",
+   "children": [],
+   "end": "2785.240",
+   "id": "f000507",
+   "language": "eng",
+   "lines": [
+    "Sirius must be just behind the curtain, he, Harry, would pull him back out again. . . ."
    ]
   },
   {
    "begin": "2785.240",
    "children": [],
    "end": "2791.920",
-   "id": "f000288",
+   "id": "f000508",
    "language": "eng",
    "lines": [
     "But as he reached the ground and sprinted toward the dais, Lupin grabbed Harry around the chest, holding him back."
@@ -2884,7 +5084,7 @@
    "begin": "2791.920",
    "children": [],
    "end": "2794.720",
-   "id": "f000289",
+   "id": "f000509",
    "language": "eng",
    "lines": [
     "\"There's nothing you can do, Harry - \""
@@ -2894,7 +5094,7 @@
    "begin": "2794.720",
    "children": [],
    "end": "2797.800",
-   "id": "f000290",
+   "id": "f000510",
    "language": "eng",
    "lines": [
     "\"Get him, save him, he's only just gone through!\""
@@ -2904,7 +5104,7 @@
    "begin": "2797.800",
    "children": [],
    "end": "2800.080",
-   "id": "f000291",
+   "id": "f000511",
    "language": "eng",
    "lines": [
     "\"It's too late, Harry - \""
@@ -2914,7 +5114,7 @@
    "begin": "2800.080",
    "children": [],
    "end": "2801.720",
-   "id": "f000292",
+   "id": "f000512",
    "language": "eng",
    "lines": [
     "\"We can still reach him - \""
@@ -2924,7 +5124,7 @@
    "begin": "2801.720",
    "children": [],
    "end": "2806.040",
-   "id": "f000293",
+   "id": "f000513",
    "language": "eng",
    "lines": [
     "Harry struggled hard and viciously, but Lupin would not let go. . . ."
@@ -2934,7 +5134,7 @@
    "begin": "2806.040",
    "children": [],
    "end": "2814.200",
-   "id": "f000294",
+   "id": "f000514",
    "language": "eng",
    "lines": [
     "\"There's nothing you can do, Harry . . . nothing. . . . He's gone.\""

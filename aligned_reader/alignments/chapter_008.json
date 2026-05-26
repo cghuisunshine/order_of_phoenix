@@ -13,28 +13,68 @@
   {
    "begin": "5.240",
    "children": [],
-   "end": "24.520",
+   "end": "7.840",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Harry gasped; he could not help himself. The large dungeon he had entered was horribly familiar. He had not only seen it before, he had been here before: This was the place he had visited inside Dumbledore's Pensieve, the place where he had watched the Lestranges sentenced to life imprisonment in Azkaban."
+    "Harry gasped; he could not help himself."
+   ]
+  },
+  {
+   "begin": "7.840",
+   "children": [],
+   "end": "11.880",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "The large dungeon he had entered was horribly familiar."
+   ]
+  },
+  {
+   "begin": "11.880",
+   "children": [],
+   "end": "24.520",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "He had not only seen it before, he had been here before: This was the place he had visited inside Dumbledore's Pensieve, the place where he had watched the Lestranges sentenced to life imprisonment in Azkaban."
    ]
   },
   {
    "begin": "24.520",
    "children": [],
-   "end": "41.600",
-   "id": "f000003",
+   "end": "28.400",
+   "id": "f000005",
    "language": "eng",
    "lines": [
-    "The walls were made of dark stone, dimly lit by torches. Empty benches rose on either side of him, but ahead, in the highest benches of all, were many shadowy figures. They had been talking in low voices, but as the heavy door swung closed behind Harry an ominous silence fell."
+    "The walls were made of dark stone, dimly lit by torches."
    ]
   },
   {
-   "begin": "41.600",
+   "begin": "28.400",
+   "children": [],
+   "end": "34.800",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Empty benches rose on either side of him, but ahead, in the highest benches of all, were many shadowy figures."
+   ]
+  },
+  {
+   "begin": "34.800",
+   "children": [],
+   "end": "41.680",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "They had been talking in low voices, but as the heavy door swung closed behind Harry an ominous silence fell."
+   ]
+  },
+  {
+   "begin": "41.680",
    "children": [],
    "end": "44.360",
-   "id": "f000004",
+   "id": "f000008",
    "language": "eng",
    "lines": [
     "A cold male voice rang across the courtroom."
@@ -44,7 +84,7 @@
    "begin": "44.360",
    "children": [],
    "end": "45.880",
-   "id": "f000005",
+   "id": "f000009",
    "language": "eng",
    "lines": [
     "\"You're late.\""
@@ -53,88 +93,238 @@
   {
    "begin": "45.880",
    "children": [],
-   "end": "51.320",
-   "id": "f000006",
+   "end": "49.000",
+   "id": "f000010",
    "language": "eng",
    "lines": [
-    "\"Sorry,\" said Harry nervously. \"I-I didn't know the time had changed.\""
+    "\"Sorry,\" said Harry nervously."
+   ]
+  },
+  {
+   "begin": "49.000",
+   "children": [],
+   "end": "51.320",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "\"I-I didn't know the time had changed.\""
    ]
   },
   {
    "begin": "51.320",
    "children": [],
-   "end": "58.520",
-   "id": "f000007",
+   "end": "55.000",
+   "id": "f000012",
    "language": "eng",
    "lines": [
-    "\"That is not the Wizengamot's fault,\" said the voice. \"An owl was sent to you this morning. Take your seat.\""
+    "\"That is not the Wizengamot's fault,\" said the voice."
+   ]
+  },
+  {
+   "begin": "55.000",
+   "children": [],
+   "end": "56.880",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "\"An owl was sent to you this morning."
+   ]
+  },
+  {
+   "begin": "56.880",
+   "children": [],
+   "end": "58.520",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Take your seat.\""
    ]
   },
   {
    "begin": "58.520",
    "children": [],
-   "end": "65.920",
-   "id": "f000008",
+   "end": "64.080",
+   "id": "f000015",
    "language": "eng",
    "lines": [
-    "Harry dropped his gaze to the chair in the center of the room, the arms of which were covered in chains. He had seen those chains spring"
+    "Harry dropped his gaze to the chair in the center of the room, the arms of which were covered in chains."
+   ]
+  },
+  {
+   "begin": "64.080",
+   "children": [],
+   "end": "65.920",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "He had seen those chains spring"
    ]
   },
   {
    "begin": "65.920",
    "children": [],
-   "end": "83.920",
-   "id": "f000009",
+   "end": "68.400",
+   "id": "f000017",
    "language": "eng",
    "lines": [
-    "to life and bind whoever sat between them. His footsteps echoed loudly as he walked across the stone floor. When he sat gingerly on the edge of the chair the chains clinked rather threateningly but did not bind him. Feeling rather sick he looked up at the people seated at the bench above."
+    "to life and bind whoever sat between them."
    ]
   },
   {
-   "begin": "83.920",
+   "begin": "68.400",
    "children": [],
-   "end": "100.520",
-   "id": "f000010",
+   "end": "72.560",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "His footsteps echoed loudly as he walked across the stone floor."
+   ]
+  },
+  {
+   "begin": "72.560",
+   "children": [],
+   "end": "79.400",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "When he sat gingerly on the edge of the chair the chains clinked rather threateningly but did not bind him."
+   ]
+  },
+  {
+   "begin": "79.400",
+   "children": [],
+   "end": "83.960",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Feeling rather sick he looked up at the people seated at the bench above."
+   ]
+  },
+  {
+   "begin": "83.960",
+   "children": [],
+   "end": "100.360",
+   "id": "f000021",
    "language": "eng",
    "lines": [
     "There were about fifty of them, all, as far as he could see, wearing plum-colored robes with an elaborately worked silver W on the lefthand side of the chest and all staring down their noses at him, some with very austere expressions, others looks of frank curiosity."
    ]
   },
   {
-   "begin": "100.520",
+   "begin": "100.360",
    "children": [],
-   "end": "129.720",
-   "id": "f000011",
+   "end": "105.320",
+   "id": "f000022",
    "language": "eng",
    "lines": [
-    "In the very middle of the front row sat Cornelius Fudge, the Minister of Magic. Fudge was a portly man who often sported a lime-green bowler hat, though today he had dispensed with it; he had dispensed too with the indulgent smile he had once worn when he spoke to Harry. A broad, square-jawed witch with very short gray hair sat on Fudge's left; she wore a monocle and looked forbidding. On Fudge's right was another witch, but she was sitting so far back on the bench that her face was in shadow."
+    "In the very middle of the front row sat Cornelius Fudge, the Minister of Magic."
+   ]
+  },
+  {
+   "begin": "105.320",
+   "children": [],
+   "end": "116.760",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "Fudge was a portly man who often sported a lime-green bowler hat, though today he had dispensed with it; he had dispensed too with the indulgent smile he had once worn when he spoke to Harry."
+   ]
+  },
+  {
+   "begin": "116.760",
+   "children": [],
+   "end": "124.120",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "A broad, square-jawed witch with very short gray hair sat on Fudge's left; she wore a monocle and looked forbidding."
+   ]
+  },
+  {
+   "begin": "124.120",
+   "children": [],
+   "end": "129.720",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "On Fudge's right was another witch, but she was sitting so far back on the bench that her face was in shadow."
    ]
   },
   {
    "begin": "129.720",
    "children": [],
-   "end": "138.480",
-   "id": "f000012",
+   "end": "132.680",
+   "id": "f000026",
    "language": "eng",
    "lines": [
-    "\"Very well,\" said Fudge. \"The accused being present - finally let us begin. Are you ready?\" he called down the row."
+    "\"Very well,\" said Fudge."
+   ]
+  },
+  {
+   "begin": "132.680",
+   "children": [],
+   "end": "136.280",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "\"The accused being present - finally let us begin."
+   ]
+  },
+  {
+   "begin": "136.280",
+   "children": [],
+   "end": "138.480",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Are you ready?\" he called down the row."
    ]
   },
   {
    "begin": "138.480",
    "children": [],
-   "end": "157.440",
-   "id": "f000013",
+   "end": "142.520",
+   "id": "f000029",
    "language": "eng",
    "lines": [
-    "\"Yes, sir,\" said an eager voice Harry knew. Ron's brother Percy was sitting at the very end of the front bench. Harry looked at Percy, expecting some sign of recognition from him, but none came. Percy's eyes, behind his horn-rimmed glasses, were fixed on his parchment, a quill poised in his hand."
+    "\"Yes, sir,\" said an eager voice Harry knew."
+   ]
+  },
+  {
+   "begin": "142.520",
+   "children": [],
+   "end": "146.280",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Ron's brother Percy was sitting at the very end of the front bench."
+   ]
+  },
+  {
+   "begin": "146.280",
+   "children": [],
+   "end": "151.680",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Harry looked at Percy, expecting some sign of recognition from him, but none came."
+   ]
+  },
+  {
+   "begin": "151.680",
+   "children": [],
+   "end": "157.440",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Percy's eyes, behind his horn-rimmed glasses, were fixed on his parchment, a quill poised in his hand."
    ]
   },
   {
    "begin": "157.440",
    "children": [],
    "end": "181.080",
-   "id": "f000014",
+   "id": "f000033",
    "language": "eng",
    "lines": [
     "\"Disciplinary hearing of the twelfth of August,\" said Fudge in a ringing voice, and Percy began taking notes at once, \"into offenses committed under the Decree for the Reasonable Restriction of Underage Sorcery and the International Statute of Secrecy by Harry James Potter, resident at number four, Privet Drive, Little Whinging, Surrey."
@@ -144,7 +334,7 @@
    "begin": "181.080",
    "children": [],
    "end": "190.560",
-   "id": "f000015",
+   "id": "f000034",
    "language": "eng",
    "lines": [
     "\"Interrogators: Cornelius Oswald Fudge, Minister of Magic; Amelia Susan Bones, Head of the Department of Magical Law En-"
@@ -153,78 +343,168 @@
   {
    "begin": "190.560",
    "children": [],
-   "end": "198.960",
-   "id": "f000016",
+   "end": "195.640",
+   "id": "f000035",
    "language": "eng",
    "lines": [
-    "forcement; Dolores Jane Umbridge, Senior Undersecretary to the Minister. Court Scribe, Percy Ignatius Weasley - \""
+    "forcement; Dolores Jane Umbridge, Senior Undersecretary to the Minister."
+   ]
+  },
+  {
+   "begin": "195.640",
+   "children": [],
+   "end": "198.960",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Court Scribe, Percy Ignatius Weasley - \""
    ]
   },
   {
    "begin": "198.960",
    "children": [],
-   "end": "211.800",
-   "id": "f000017",
+   "end": "211.840",
+   "id": "f000037",
    "language": "eng",
    "lines": [
     "\" - Witness for the defense, Albus Percival Wulfric Brian Dumbledore,\" said a quiet voice from behind Harry, who turned his head so fast he cricked his neck."
    ]
   },
   {
-   "begin": "211.800",
+   "begin": "211.840",
    "children": [],
-   "end": "229.840",
-   "id": "f000018",
+   "end": "219.000",
+   "id": "f000038",
    "language": "eng",
    "lines": [
-    "Dumbledore was striding serenely across the room wearing long midnight-blue robes and a perfectly calm expression. His long silver beard and hair gleamed in the torchlight as he drew level with Harry and looked up at Fudge through the half-moon spectacles that rested halfway down his very crooked nose."
+    "Dumbledore was striding serenely across the room wearing long midnight-blue robes and a perfectly calm expression."
    ]
   },
   {
-   "begin": "229.840",
+   "begin": "219.000",
    "children": [],
-   "end": "243.120",
-   "id": "f000019",
+   "end": "229.800",
+   "id": "f000039",
    "language": "eng",
    "lines": [
-    "The members of the Wizengamot were muttering. All eyes were now on Dumbledore. Some looked annoyed, others slightly frightened; two elderly witches in the back row, however, raised their hands and waved in welcome."
+    "His long silver beard and hair gleamed in the torchlight as he drew level with Harry and looked up at Fudge through the half-moon spectacles that rested halfway down his very crooked nose."
    ]
   },
   {
-   "begin": "243.120",
+   "begin": "229.800",
+   "children": [],
+   "end": "232.760",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "The members of the Wizengamot were muttering."
+   ]
+  },
+  {
+   "begin": "232.760",
+   "children": [],
+   "end": "234.960",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "All eyes were now on Dumbledore."
+   ]
+  },
+  {
+   "begin": "234.960",
+   "children": [],
+   "end": "243.080",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "Some looked annoyed, others slightly frightened; two elderly witches in the back row, however, raised their hands and waved in welcome."
+   ]
+  },
+  {
+   "begin": "243.080",
+   "children": [],
+   "end": "251.920",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "A powerful emotion had risen in Harry's chest at the sight of Dumbledore, a fortified, hopeful feeling rather like that which phoenix song gave him."
+   ]
+  },
+  {
+   "begin": "251.920",
    "children": [],
    "end": "259.200",
-   "id": "f000020",
+   "id": "f000044",
    "language": "eng",
    "lines": [
-    "A powerful emotion had risen in Harry's chest at the sight of Dumbledore, a fortified, hopeful feeling rather like that which phoenix song gave him. He wanted to catch Dumbledore's eye, but Dumbledore was not looking his way; he was continuing to look up at the obviously flustered Fudge."
+    "He wanted to catch Dumbledore's eye, but Dumbledore was not looking his way; he was continuing to look up at the obviously flustered Fudge."
    ]
   },
   {
    "begin": "259.200",
    "children": [],
-   "end": "272.360",
-   "id": "f000021",
+   "end": "263.480",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "\"Ah,\" said Fudge, who looked thoroughly disconcerted. \"Dumbledore. Yes. You - er - got our - er - message that the time and er - place of the hearing had been changed, then?\""
+    "\"Ah,\" said Fudge, who looked thoroughly disconcerted."
+   ]
+  },
+  {
+   "begin": "263.480",
+   "children": [],
+   "end": "264.760",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "\"Dumbledore."
+   ]
+  },
+  {
+   "begin": "264.760",
+   "children": [],
+   "end": "265.360",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "265.360",
+   "children": [],
+   "end": "272.360",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "You - er - got our - er - message that the time and er - place of the hearing had been changed, then?\""
    ]
   },
   {
    "begin": "272.360",
    "children": [],
-   "end": "284.720",
-   "id": "f000022",
+   "end": "276.960",
+   "id": "f000049",
    "language": "eng",
    "lines": [
-    "\"I must have missed it,\" said Dumbledore cheerfully. \"However, due to a lucky mistake I arrived at the Ministry three hours early, so no harm done.\""
+    "\"I must have missed it,\" said Dumbledore cheerfully."
+   ]
+  },
+  {
+   "begin": "276.960",
+   "children": [],
+   "end": "284.720",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "\"However, due to a lucky mistake I arrived at the Ministry three hours early, so no harm done.\""
    ]
   },
   {
    "begin": "284.720",
    "children": [],
    "end": "290.880",
-   "id": "f000023",
+   "id": "f000051",
    "language": "eng",
    "lines": [
     "\"Yes - well - I suppose we'll need another chair - I - Weasley, could you - ?\""
@@ -233,18 +513,38 @@
   {
    "begin": "290.880",
    "children": [],
-   "end": "311.200",
-   "id": "f000024",
+   "end": "301.920",
+   "id": "f000052",
    "language": "eng",
    "lines": [
-    "\"Not to worry, not to worry,\" said Dumbledore pleasantly; he took out his wand, gave it a little flick, and a squashy chintz armchair appeared out of nowhere next to Harry. Dumbledore sat down, put the tips of his long fingers together, and looked at Fudge over them with an expression of polite interest. The Wizengamot was still muttering"
+    "\"Not to worry, not to worry,\" said Dumbledore pleasantly; he took out his wand, gave it a little flick, and a squashy chintz armchair appeared out of nowhere next to Harry."
    ]
   },
   {
-   "begin": "311.200",
+   "begin": "301.920",
+   "children": [],
+   "end": "309.400",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "Dumbledore sat down, put the tips of his long fingers together, and looked at Fudge over them with an expression of polite interest."
+   ]
+  },
+  {
+   "begin": "309.400",
+   "children": [],
+   "end": "311.160",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "The Wizengamot was still muttering"
+   ]
+  },
+  {
+   "begin": "311.160",
    "children": [],
    "end": "315.360",
-   "id": "f000025",
+   "id": "f000055",
    "language": "eng",
    "lines": [
     "and fidgeting restlessly; only when Fudge spoke again did they settle down."
@@ -253,18 +553,58 @@
   {
    "begin": "315.360",
    "children": [],
-   "end": "324.440",
-   "id": "f000026",
+   "end": "319.720",
+   "id": "f000056",
    "language": "eng",
    "lines": [
-    "\"Yes,\" said Fudge again, shuffling his notes. \"Well, then. So. The charges. Yes.\""
+    "\"Yes,\" said Fudge again, shuffling his notes."
+   ]
+  },
+  {
+   "begin": "319.720",
+   "children": [],
+   "end": "320.800",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "\"Well, then."
+   ]
+  },
+  {
+   "begin": "320.800",
+   "children": [],
+   "end": "321.800",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "So."
+   ]
+  },
+  {
+   "begin": "321.800",
+   "children": [],
+   "end": "323.160",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "The charges."
+   ]
+  },
+  {
+   "begin": "323.160",
+   "children": [],
+   "end": "324.440",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "Yes.\""
    ]
   },
   {
    "begin": "324.440",
    "children": [],
    "end": "369.360",
-   "id": "f000027",
+   "id": "f000061",
    "language": "eng",
    "lines": [
     "He extricated a piece of parchment from the pile before him, took a deep breath, and read, \"The charges against the accused are as follows: That he did knowingly, deliberately, and in full awareness of the illegality of his actions, having received a previous written warning from the Ministry of Magic on a similar charge, produce a Patronus Charm in a Muggle-inhabited area, in the presence of a Muggle, on August the second at twenty-three minutes past nine, which constitutes an offense under paragraph C of the Decree for the Reasonable Restriction of Underage Sorcery, 1875, and also under section thirteen of the International Confederation of Wizards' Statute of Secrecy."
@@ -274,7 +614,7 @@
    "begin": "369.360",
    "children": [],
    "end": "379.120",
-   "id": "f000028",
+   "id": "f000062",
    "language": "eng",
    "lines": [
     "\"You are Harry James Potter, of number four, Privet Drive, Little Whinging, Surrey?\" Fudge said, glaring at Harry over the top of his parchment."
@@ -284,7 +624,7 @@
    "begin": "379.120",
    "children": [],
    "end": "381.440",
-   "id": "f000029",
+   "id": "f000063",
    "language": "eng",
    "lines": [
     "\"Yes,\" Harry said."
@@ -294,7 +634,7 @@
    "begin": "381.440",
    "children": [],
    "end": "387.400",
-   "id": "f000030",
+   "id": "f000064",
    "language": "eng",
    "lines": [
     "\"You received an official warning from the Ministry for using illegal magic three years ago, did you not?\""
@@ -303,18 +643,18 @@
   {
    "begin": "387.400",
    "children": [],
-   "end": "389.320",
-   "id": "f000031",
+   "end": "389.520",
+   "id": "f000065",
    "language": "eng",
    "lines": [
     "\"Yes, but - \""
    ]
   },
   {
-   "begin": "389.320",
+   "begin": "389.520",
    "children": [],
    "end": "394.240",
-   "id": "f000032",
+   "id": "f000066",
    "language": "eng",
    "lines": [
     "\"And yet you conjured a Patronus on the night of the second of August?\" said Fudge."
@@ -324,7 +664,7 @@
    "begin": "394.240",
    "children": [],
    "end": "396.640",
-   "id": "f000033",
+   "id": "f000067",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry, \"but - \""
@@ -334,7 +674,7 @@
    "begin": "396.640",
    "children": [],
    "end": "402.360",
-   "id": "f000034",
+   "id": "f000068",
    "language": "eng",
    "lines": [
     "\"Knowing that you are not permitted to use magic outside school while you are under the age of seventeen?\""
@@ -344,7 +684,7 @@
    "begin": "402.360",
    "children": [],
    "end": "404.200",
-   "id": "f000035",
+   "id": "f000069",
    "language": "eng",
    "lines": [
     "\"Yes, but - \""
@@ -354,7 +694,7 @@
    "begin": "404.200",
    "children": [],
    "end": "407.400",
-   "id": "f000036",
+   "id": "f000070",
    "language": "eng",
    "lines": [
     "\"Knowing that you were in an area full of Muggles?\""
@@ -364,7 +704,7 @@
    "begin": "407.400",
    "children": [],
    "end": "408.480",
-   "id": "f000037",
+   "id": "f000071",
    "language": "eng",
    "lines": [
     "\"Yes, but - \""
@@ -374,7 +714,7 @@
    "begin": "408.480",
    "children": [],
    "end": "413.440",
-   "id": "f000038",
+   "id": "f000072",
    "language": "eng",
    "lines": [
     "\"Fully aware that you were in close proximity to a Muggle at the time?"
@@ -384,7 +724,7 @@
    "begin": "413.440",
    "children": [],
    "end": "418.400",
-   "id": "f000039",
+   "id": "f000073",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry angrily, \"but I only used it because we were - \""
@@ -394,7 +734,7 @@
    "begin": "418.400",
    "children": [],
    "end": "422.200",
-   "id": "f000040",
+   "id": "f000074",
    "language": "eng",
    "lines": [
     "The witch with the monocle on Fudge's left cut across him in a booming voice."
@@ -404,7 +744,7 @@
    "begin": "422.200",
    "children": [],
    "end": "425.240",
-   "id": "f000041",
+   "id": "f000075",
    "language": "eng",
    "lines": [
     "\"You produced a fully fledged Patronus?\""
@@ -414,7 +754,7 @@
    "begin": "425.240",
    "children": [],
    "end": "427.600",
-   "id": "f000042",
+   "id": "f000076",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry, \"because - \""
@@ -424,7 +764,7 @@
    "begin": "427.600",
    "children": [],
    "end": "429.560",
-   "id": "f000043",
+   "id": "f000077",
    "language": "eng",
    "lines": [
     "\"A corporeal Patronus?\""
@@ -434,7 +774,7 @@
    "begin": "429.560",
    "children": [],
    "end": "431.960",
-   "id": "f000044",
+   "id": "f000078",
    "language": "eng",
    "lines": [
     "\"A - what?\" said Harry."
@@ -443,18 +783,28 @@
   {
    "begin": "431.960",
    "children": [],
-   "end": "438.440",
-   "id": "f000045",
+   "end": "435.600",
+   "id": "f000079",
    "language": "eng",
    "lines": [
-    "\"Your Patronus had a clearly defined form? I mean to say, it was more than vapor or smoke?\""
+    "\"Your Patronus had a clearly defined form?"
+   ]
+  },
+  {
+   "begin": "435.600",
+   "children": [],
+   "end": "438.440",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "I mean to say, it was more than vapor or smoke?\""
    ]
   },
   {
    "begin": "438.440",
    "children": [],
    "end": "445.400",
-   "id": "f000046",
+   "id": "f000081",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry, feeling both impatient and slightly desperate, \"it's a stag, it's always a stag.\""
@@ -463,18 +813,28 @@
   {
    "begin": "445.400",
    "children": [],
-   "end": "451.080",
-   "id": "f000047",
+   "end": "448.480",
+   "id": "f000082",
    "language": "eng",
    "lines": [
-    "\"Always?\" boomed Madam Bones. \"You have produced a Patronus before now?\""
+    "\"Always?\" boomed Madam Bones."
+   ]
+  },
+  {
+   "begin": "448.480",
+   "children": [],
+   "end": "451.080",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "\"You have produced a Patronus before now?\""
    ]
   },
   {
    "begin": "451.080",
    "children": [],
    "end": "454.800",
-   "id": "f000048",
+   "id": "f000084",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry, \"I've been doing it for over a year - \""
@@ -484,7 +844,7 @@
    "begin": "454.800",
    "children": [],
    "end": "457.560",
-   "id": "f000049",
+   "id": "f000085",
    "language": "eng",
    "lines": [
     "\"And you are fifteen years old?\""
@@ -494,7 +854,7 @@
    "begin": "457.560",
    "children": [],
    "end": "458.960",
-   "id": "f000050",
+   "id": "f000086",
    "language": "eng",
    "lines": [
     "\"Yes, and - \""
@@ -504,7 +864,7 @@
    "begin": "458.960",
    "children": [],
    "end": "461.080",
-   "id": "f000051",
+   "id": "f000087",
    "language": "eng",
    "lines": [
     "\"You learned this at school?\""
@@ -514,7 +874,7 @@
    "begin": "461.080",
    "children": [],
    "end": "465.280",
-   "id": "f000052",
+   "id": "f000088",
    "language": "eng",
    "lines": [
     "\"Yes, Professor Lupin taught me in my third year, because of the - \""
@@ -523,18 +883,18 @@
   {
    "begin": "465.280",
    "children": [],
-   "end": "476.400",
-   "id": "f000053",
+   "end": "475.640",
+   "id": "f000089",
    "language": "eng",
    "lines": [
     "\"Impressive,\" said Madam Bones, staring down at him, \"a true Patronus at that age . . . very impressive indeed.\""
    ]
   },
   {
-   "begin": "476.400",
+   "begin": "475.640",
    "children": [],
    "end": "483.040",
-   "id": "f000054",
+   "id": "f000090",
    "language": "eng",
    "lines": [
     "Some of the wizards and witches around her were muttering again; a few nodded, but others were frowning and shaking their heads."
@@ -543,18 +903,28 @@
   {
    "begin": "483.040",
    "children": [],
-   "end": "497.880",
-   "id": "f000055",
+   "end": "489.360",
+   "id": "f000091",
    "language": "eng",
    "lines": [
-    "\"It's not a question of how impressive the magic was,\" said Fudge in a testy voice. \"In fact, the more impressive the worse it is, I would have thought, given that the boy did it in plain view of a Muggle!\""
+    "\"It's not a question of how impressive the magic was,\" said Fudge in a testy voice."
    ]
   },
   {
-   "begin": "497.880",
+   "begin": "489.360",
+   "children": [],
+   "end": "497.240",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "\"In fact, the more impressive the worse it is, I would have thought, given that the boy did it in plain view of a Muggle!\""
+   ]
+  },
+  {
+   "begin": "497.240",
    "children": [],
    "end": "506.240",
-   "id": "f000056",
+   "id": "f000093",
    "language": "eng",
    "lines": [
     "Those who had been frowning now murmured in agreement, but it was the sight of Percy's sanctimonious little nod that goaded Harry into speech."
@@ -564,7 +934,7 @@
    "begin": "506.240",
    "children": [],
    "end": "513.280",
-   "id": "f000057",
+   "id": "f000094",
    "language": "eng",
    "lines": [
     "\"I did it because of the dementors!\" he said loudly, before anyone could interrupt him again."
@@ -574,7 +944,7 @@
    "begin": "513.280",
    "children": [],
    "end": "518.960",
-   "id": "f000058",
+   "id": "f000095",
    "language": "eng",
    "lines": [
     "He had expected more muttering, but the silence that fell seemed to be somehow denser than before."
@@ -583,28 +953,38 @@
   {
    "begin": "518.960",
    "children": [],
-   "end": "524.320",
-   "id": "f000059",
+   "end": "524.280",
+   "id": "f000096",
    "language": "eng",
    "lines": [
     "\"Dementors?\" said Madam Bones after a moment, raising her thick"
    ]
   },
   {
-   "begin": "524.320",
+   "begin": "524.280",
    "children": [],
-   "end": "529.640",
-   "id": "f000060",
+   "end": "527.360",
+   "id": "f000097",
    "language": "eng",
    "lines": [
-    "eyebrows so that her monocle looked in danger of falling out. \"What do you mean, boy?\""
+    "eyebrows so that her monocle looked in danger of falling out."
+   ]
+  },
+  {
+   "begin": "527.360",
+   "children": [],
+   "end": "529.640",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "\"What do you mean, boy?\""
    ]
   },
   {
    "begin": "529.640",
    "children": [],
    "end": "535.280",
-   "id": "f000061",
+   "id": "f000099",
    "language": "eng",
    "lines": [
     "\"I mean there were two dementors down that alleyway and they went for me and my cousin!\""
@@ -613,88 +993,218 @@
   {
    "begin": "535.280",
    "children": [],
-   "end": "547.320",
-   "id": "f000062",
+   "end": "543.200",
+   "id": "f000100",
    "language": "eng",
    "lines": [
-    "\"Ah,\" said Fudge again, smirking unpleasantly as he looked around at the Wizengamot, as though inviting them to share the joke. \"Yes. Yes, I thought we'd be hearing something like this.\""
+    "\"Ah,\" said Fudge again, smirking unpleasantly as he looked around at the Wizengamot, as though inviting them to share the joke."
+   ]
+  },
+  {
+   "begin": "543.200",
+   "children": [],
+   "end": "544.160",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "\"Yes."
+   ]
+  },
+  {
+   "begin": "544.160",
+   "children": [],
+   "end": "547.320",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "Yes, I thought we'd be hearing something like this.\""
    ]
   },
   {
    "begin": "547.320",
    "children": [],
-   "end": "555.240",
-   "id": "f000063",
+   "end": "550.160",
+   "id": "f000103",
    "language": "eng",
    "lines": [
-    "\"Dementors in Little Whinging?\" Madam Bones said in tones of great surprise. \"I don't understand - \""
+    "\"Dementors in Little Whinging?\""
+   ]
+  },
+  {
+   "begin": "550.160",
+   "children": [],
+   "end": "553.360",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "Madam Bones said in tones of great surprise."
+   ]
+  },
+  {
+   "begin": "553.360",
+   "children": [],
+   "end": "555.240",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "\"I don't understand - \""
    ]
   },
   {
    "begin": "555.240",
    "children": [],
-   "end": "579.680",
-   "id": "f000064",
+   "end": "559.240",
+   "id": "f000106",
    "language": "eng",
    "lines": [
-    "\"Don't you, Amelia?\" said Fudge, still smirking. \"Let me explain. He's been thinking it through and decided dementors would make a very nice little cover story, very nice indeed. Muggles can't see dementors, can they, boy? Highly convenient, highly convenient . . . so it's just your word and no witnesses. . . .\""
+    "\"Don't you, Amelia?\" said Fudge, still smirking."
+   ]
+  },
+  {
+   "begin": "559.240",
+   "children": [],
+   "end": "561.360",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "\"Let me explain."
+   ]
+  },
+  {
+   "begin": "561.360",
+   "children": [],
+   "end": "569.840",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "He's been thinking it through and decided dementors would make a very nice little cover story, very nice indeed."
+   ]
+  },
+  {
+   "begin": "569.840",
+   "children": [],
+   "end": "573.160",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "Muggles can't see dementors, can they, boy?"
+   ]
+  },
+  {
+   "begin": "573.160",
+   "children": [],
+   "end": "579.680",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "Highly convenient, highly convenient . . . so it's just your word and no witnesses. . . .\""
    ]
   },
   {
    "begin": "579.680",
    "children": [],
-   "end": "592.760",
-   "id": "f000065",
+   "end": "585.600",
+   "id": "f000111",
    "language": "eng",
    "lines": [
-    "\"I'm not lying!\" said Harry loudly, over another outbreak of muttering from the court. \"There were two of them, coming from opposite ends of the alley, everything went dark and cold and my cousin felt them and ran for it - \""
+    "\"I'm not lying!\" said Harry loudly, over another outbreak of muttering from the court."
    ]
   },
   {
-   "begin": "592.760",
+   "begin": "585.600",
    "children": [],
-   "end": "604.920",
-   "id": "f000066",
+   "end": "592.600",
+   "id": "f000112",
    "language": "eng",
    "lines": [
-    "\"Enough, enough!\" said Fudge with a very supercilious look on his face. \"I'm sorry to interrupt what I'm sure would have been a very well-rehearsed story - \""
+    "\"There were two of them, coming from opposite ends of the alley, everything went dark and cold and my cousin felt them and ran for it - \""
    ]
   },
   {
-   "begin": "604.920",
+   "begin": "592.600",
+   "children": [],
+   "end": "597.680",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "\"Enough, enough!\" said Fudge with a very supercilious look on his face."
+   ]
+  },
+  {
+   "begin": "597.680",
+   "children": [],
+   "end": "604.160",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "\"I'm sorry to interrupt what I'm sure would have been a very well-rehearsed story - \""
+   ]
+  },
+  {
+   "begin": "604.160",
+   "children": [],
+   "end": "606.360",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Dumbledore cleared his throat."
+   ]
+  },
+  {
+   "begin": "606.360",
    "children": [],
    "end": "608.680",
-   "id": "f000067",
+   "id": "f000116",
    "language": "eng",
    "lines": [
-    "Dumbledore cleared his throat. The Wizengamot fell silent again."
+    "The Wizengamot fell silent again."
    ]
   },
   {
    "begin": "608.680",
    "children": [],
-   "end": "619.720",
-   "id": "f000068",
+   "end": "618.800",
+   "id": "f000117",
    "language": "eng",
    "lines": [
     "\"We do, in fact, have a witness to the presence of dementors in that alleyway,\" he said, \"other than Dudley Dursley, I mean.\""
    ]
   },
   {
-   "begin": "619.720",
+   "begin": "618.800",
    "children": [],
-   "end": "637.040",
-   "id": "f000069",
+   "end": "624.200",
+   "id": "f000118",
    "language": "eng",
    "lines": [
-    "Fudge's plump face seemed to slacken, as though somebody had let air out of it. He stared down at Dumbledore for a moment or two, then, with the appearance of a man pulling himself back together, said, \"We haven't got time to listen to more taradiddles, I'm afraid, Dumbledore. I want this dealt with quickly - \""
+    "Fudge's plump face seemed to slacken, as though somebody had let air out of it."
+   ]
+  },
+  {
+   "begin": "624.200",
+   "children": [],
+   "end": "635.320",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "He stared down at Dumbledore for a moment or two, then, with the appearance of a man pulling himself back together, said, \"We haven't got time to listen to more taradiddles, I'm afraid, Dumbledore."
+   ]
+  },
+  {
+   "begin": "635.320",
+   "children": [],
+   "end": "637.040",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "I want this dealt with quickly - \""
    ]
   },
   {
    "begin": "637.040",
    "children": [],
    "end": "645.920",
-   "id": "f000070",
+   "id": "f000121",
    "language": "eng",
    "lines": [
     "\"I may be wrong,\" said Dumbledore pleasantly, \"but I am sure that under the Wizengamot Charter of Rights, the accused has the right to"
@@ -703,68 +1213,138 @@
   {
    "begin": "645.920",
    "children": [],
-   "end": "656.960",
-   "id": "f000071",
+   "end": "648.680",
+   "id": "f000122",
    "language": "eng",
    "lines": [
-    "present witnesses for his or her case? Isn't that the policy of the Department of Magical Law Enforcement, Madam Bones?\" he continued, addressing the witch in the monocle."
+    "present witnesses for his or her case?"
+   ]
+  },
+  {
+   "begin": "648.680",
+   "children": [],
+   "end": "656.960",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "Isn't that the policy of the Department of Magical Law Enforcement, Madam Bones?\" he continued, addressing the witch in the monocle."
    ]
   },
   {
    "begin": "656.960",
    "children": [],
-   "end": "660.600",
-   "id": "f000072",
+   "end": "659.440",
+   "id": "f000124",
    "language": "eng",
    "lines": [
-    "\"True,\" said Madam Bones. \"Perfectly true.\""
+    "\"True,\" said Madam Bones."
+   ]
+  },
+  {
+   "begin": "659.440",
+   "children": [],
+   "end": "660.600",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "\"Perfectly true.\""
    ]
   },
   {
    "begin": "660.600",
    "children": [],
-   "end": "666.440",
-   "id": "f000073",
+   "end": "664.800",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "\"Oh, very well, very well,\" snapped Fudge. \"Where is this person?\""
+    "\"Oh, very well, very well,\" snapped Fudge."
+   ]
+  },
+  {
+   "begin": "664.800",
+   "children": [],
+   "end": "666.440",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "\"Where is this person?\""
    ]
   },
   {
    "begin": "666.440",
    "children": [],
-   "end": "672.280",
-   "id": "f000074",
+   "end": "669.680",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "\"I brought her with me,\" said Dumbledore. \"She's just outside the door. Should I - ?\""
+    "\"I brought her with me,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "669.680",
+   "children": [],
+   "end": "671.400",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "\"She's just outside the door."
+   ]
+  },
+  {
+   "begin": "671.400",
+   "children": [],
+   "end": "672.280",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "Should I - ?\""
    ]
   },
   {
    "begin": "672.280",
    "children": [],
-   "end": "684.480",
-   "id": "f000075",
+   "end": "683.760",
+   "id": "f000131",
    "language": "eng",
    "lines": [
     "\"No - Weasley, you go,\" Fudge barked at Percy, who got up at once, hurried down the stone steps from the judge's balcony, and hastened past Dumbledore and Harry without glancing at them."
    ]
   },
   {
-   "begin": "684.480",
+   "begin": "683.760",
    "children": [],
-   "end": "695.040",
-   "id": "f000076",
+   "end": "688.320",
+   "id": "f000132",
    "language": "eng",
    "lines": [
-    "A moment later, Percy returned, followed by Mrs. Figg. She looked scared and more batty than ever. Harry wished she had thought to change out of her carpet slippers."
+    "A moment later, Percy returned, followed by Mrs. Figg."
    ]
   },
   {
-   "begin": "695.040",
+   "begin": "688.320",
+   "children": [],
+   "end": "690.840",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "She looked scared and more batty than ever."
+   ]
+  },
+  {
+   "begin": "690.840",
+   "children": [],
+   "end": "694.600",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "Harry wished she had thought to change out of her carpet slippers."
+   ]
+  },
+  {
+   "begin": "694.600",
    "children": [],
    "end": "699.800",
-   "id": "f000077",
+   "id": "f000135",
    "language": "eng",
    "lines": [
     "Dumbledore stood up and gave Mrs. Figg his chair, conjuring a second one for himself."
@@ -774,7 +1354,7 @@
    "begin": "699.800",
    "children": [],
    "end": "707.440",
-   "id": "f000078",
+   "id": "f000136",
    "language": "eng",
    "lines": [
     "\"Full name?\" said Fudge loudly, when Mrs. Figg had perched herself nervously on the very edge of her seat."
@@ -784,7 +1364,7 @@
    "begin": "707.440",
    "children": [],
    "end": "712.960",
-   "id": "f000079",
+   "id": "f000137",
    "language": "eng",
    "lines": [
     "\"Arabella Doreen Figg,\" said Mrs. Figg in her quavery voice."
@@ -794,7 +1374,7 @@
    "begin": "712.960",
    "children": [],
    "end": "718.040",
-   "id": "f000080",
+   "id": "f000138",
    "language": "eng",
    "lines": [
     "\"And who exactly are you?\" said Fudge, in a bored and lofty voice."
@@ -804,7 +1384,7 @@
    "begin": "718.040",
    "children": [],
    "end": "724.480",
-   "id": "f000081",
+   "id": "f000139",
    "language": "eng",
    "lines": [
     "\"I'm a resident of Little Whinging, close to where Harry Potter lives,\" said Mrs. Figg."
@@ -813,98 +1393,198 @@
   {
    "begin": "724.480",
    "children": [],
-   "end": "737.360",
-   "id": "f000082",
+   "end": "732.320",
+   "id": "f000140",
    "language": "eng",
    "lines": [
-    "\"We have no record of any witch or wizard living in Little Whinging other than Harry Potter,\" said Madam Bones at once. \"That situation has always been closely monitored, given . . . given past events.\""
+    "\"We have no record of any witch or wizard living in Little Whinging other than Harry Potter,\" said Madam Bones at once."
+   ]
+  },
+  {
+   "begin": "732.320",
+   "children": [],
+   "end": "737.360",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "\"That situation has always been closely monitored, given . . . given past events.\""
    ]
   },
   {
    "begin": "737.360",
    "children": [],
-   "end": "742.800",
-   "id": "f000083",
+   "end": "740.560",
+   "id": "f000142",
    "language": "eng",
    "lines": [
-    "\"I'm a Squib,\" said Mrs. Figg. \"So you wouldn't have me registered, would you?\""
+    "\"I'm a Squib,\" said Mrs. Figg."
+   ]
+  },
+  {
+   "begin": "740.560",
+   "children": [],
+   "end": "742.800",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "\"So you wouldn't have me registered, would you?\""
    ]
   },
   {
    "begin": "742.800",
    "children": [],
-   "end": "759.320",
-   "id": "f000084",
+   "end": "747.280",
+   "id": "f000144",
    "language": "eng",
    "lines": [
-    "\"A Squib, eh?\" said Fudge, eyeing her suspiciously. \"We'll be checking that. You'll leave details of your parentage with my assistant, Weasley. Incidentally, can Squibs see dementors?\" he added, looking left and right along the bench where he sat."
+    "\"A Squib, eh?\" said Fudge, eyeing her suspiciously."
+   ]
+  },
+  {
+   "begin": "747.280",
+   "children": [],
+   "end": "749.160",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "\"We'll be checking that."
+   ]
+  },
+  {
+   "begin": "749.160",
+   "children": [],
+   "end": "752.960",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "You'll leave details of your parentage with my assistant, Weasley."
+   ]
+  },
+  {
+   "begin": "752.960",
+   "children": [],
+   "end": "759.320",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "Incidentally, can Squibs see dementors?\" he added, looking left and right along the bench where he sat."
    ]
   },
   {
    "begin": "759.320",
    "children": [],
-   "end": "763.960",
-   "id": "f000085",
+   "end": "763.160",
+   "id": "f000148",
    "language": "eng",
    "lines": [
     "\"Yes, we can!\" said Mrs. Figg indignantly."
    ]
   },
   {
-   "begin": "763.960",
+   "begin": "763.160",
    "children": [],
-   "end": "772.080",
-   "id": "f000086",
+   "end": "766.840",
+   "id": "f000149",
    "language": "eng",
    "lines": [
-    "Fudge looked back down at her, his eyebrows raised. \"Very well,\" he said coolly. \"What is your story?\""
+    "Fudge looked back down at her, his eyebrows raised."
+   ]
+  },
+  {
+   "begin": "766.840",
+   "children": [],
+   "end": "769.600",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "\"Very well,\" he said coolly."
+   ]
+  },
+  {
+   "begin": "769.600",
+   "children": [],
+   "end": "772.080",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "\"What is your story?\""
    ]
   },
   {
    "begin": "772.080",
    "children": [],
-   "end": "795.520",
-   "id": "f000087",
+   "end": "790.520",
+   "id": "f000152",
    "language": "eng",
    "lines": [
-    "\"I had gone out to buy cat food from the corner shop at the end of Wisteria Walk, shortly after nine on the evening of the second of August,\" gabbled Mrs. Figg at once, as though she had learned what she was saying by heart, \"when I heard a disturbance down the alleyway between Magnolia Crescent and Wisteria Walk. On approaching the mouth of the alleyway I saw dementors running - \""
+    "\"I had gone out to buy cat food from the corner shop at the end of Wisteria Walk, shortly after nine on the evening of the second of August,\" gabbled Mrs. Figg at once, as though she had learned what she was saying by heart, \"when I heard a disturbance down the alleyway between Magnolia Crescent and Wisteria Walk."
+   ]
+  },
+  {
+   "begin": "790.520",
+   "children": [],
+   "end": "795.520",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "On approaching the mouth of the alleyway I saw dementors running - \""
    ]
   },
   {
    "begin": "795.520",
    "children": [],
-   "end": "801.880",
-   "id": "f000088",
+   "end": "798.560",
+   "id": "f000154",
    "language": "eng",
    "lines": [
-    "\"Running?\" said Madam Bones sharply. \"Dementors don't run, they glide.\""
+    "\"Running?\" said Madam Bones sharply."
+   ]
+  },
+  {
+   "begin": "798.560",
+   "children": [],
+   "end": "801.880",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "\"Dementors don't run, they glide.\""
    ]
   },
   {
    "begin": "801.880",
    "children": [],
-   "end": "813.120",
-   "id": "f000089",
+   "end": "808.200",
+   "id": "f000156",
    "language": "eng",
    "lines": [
-    "\"That's what I meant to say,\" said Mrs. Figg quickly, patches of pink appearing in her withered cheeks. \"Gliding along the alley toward what looked like two boys.\""
+    "\"That's what I meant to say,\" said Mrs. Figg quickly, patches of pink appearing in her withered cheeks."
+   ]
+  },
+  {
+   "begin": "808.200",
+   "children": [],
+   "end": "813.120",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "\"Gliding along the alley toward what looked like two boys.\""
    ]
   },
   {
    "begin": "813.120",
    "children": [],
-   "end": "821.120",
-   "id": "f000090",
+   "end": "821.280",
+   "id": "f000158",
    "language": "eng",
    "lines": [
     "\"What did they look like?\" said Madam Bones, narrowing her eyes so that the monocle's edges disappeared into her flesh."
    ]
   },
   {
-   "begin": "821.120",
+   "begin": "821.280",
    "children": [],
    "end": "826.600",
-   "id": "f000091",
+   "id": "f000159",
    "language": "eng",
    "lines": [
     "\"Well, one was very large and the other one rather skinny - \""
@@ -914,7 +1594,7 @@
    "begin": "826.600",
    "children": [],
    "end": "832.960",
-   "id": "f000092",
+   "id": "f000160",
    "language": "eng",
    "lines": [
     "\"No, no,\" said Madam Bones impatiently, \"the dementors . . . describe them.\""
@@ -923,68 +1603,168 @@
   {
    "begin": "832.960",
    "children": [],
-   "end": "844.000",
-   "id": "f000093",
+   "end": "839.040",
+   "id": "f000161",
    "language": "eng",
    "lines": [
-    "\"Oh,\" said Mrs. Figg, the pink flush creeping up her neck now. \"They were big. Big and wearing cloaks.\""
+    "\"Oh,\" said Mrs. Figg, the pink flush creeping up her neck now."
+   ]
+  },
+  {
+   "begin": "839.040",
+   "children": [],
+   "end": "840.720",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "\"They were big."
+   ]
+  },
+  {
+   "begin": "840.720",
+   "children": [],
+   "end": "844.000",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "Big and wearing cloaks.\""
    ]
   },
   {
    "begin": "844.000",
    "children": [],
-   "end": "879.440",
-   "id": "f000094",
+   "end": "848.240",
+   "id": "f000164",
    "language": "eng",
    "lines": [
-    "Harry felt a horrible sinking in the pit of his stomach. Whatever Mrs. Figg said to the contrary, it sounded to him as though the most she had ever seen was a picture of a dementor, and a picture could never convey the truth of what these beings were like: the eerie way they moved, hovering inches over the ground, or the rotting smell of them, or that terrible, rattling noise they made as they sucked on the surrounding air . . . A dumpy wizard with a large black mustache in the second row leaned close to his neighbor, a frizzy-haired witch, and whispered something in her ear. She smirked and nodded."
+    "Harry felt a horrible sinking in the pit of his stomach."
+   ]
+  },
+  {
+   "begin": "848.240",
+   "children": [],
+   "end": "877.600",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "Whatever Mrs. Figg said to the contrary, it sounded to him as though the most she had ever seen was a picture of a dementor, and a picture could never convey the truth of what these beings were like: the eerie way they moved, hovering inches over the ground, or the rotting smell of them, or that terrible, rattling noise they made as they sucked on the surrounding air . . . A dumpy wizard with a large black mustache in the second row leaned close to his neighbor, a frizzy-haired witch, and whispered something in her ear."
+   ]
+  },
+  {
+   "begin": "877.600",
+   "children": [],
+   "end": "879.440",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "She smirked and nodded."
    ]
   },
   {
    "begin": "879.440",
    "children": [],
-   "end": "889.000",
-   "id": "f000095",
+   "end": "886.640",
+   "id": "f000167",
    "language": "eng",
    "lines": [
-    "\"Big and wearing cloaks,\" repeated Madam Bones coolly, while Fudge snorted derisively. \"I see. Anything else?\""
+    "\"Big and wearing cloaks,\" repeated Madam Bones coolly, while Fudge snorted derisively."
+   ]
+  },
+  {
+   "begin": "886.640",
+   "children": [],
+   "end": "887.680",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "\"I see."
+   ]
+  },
+  {
+   "begin": "887.680",
+   "children": [],
+   "end": "889.000",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "Anything else?\""
    ]
   },
   {
    "begin": "889.000",
    "children": [],
-   "end": "908.240",
-   "id": "f000096",
+   "end": "892.160",
+   "id": "f000170",
    "language": "eng",
    "lines": [
-    "\"Yes,\" said Mrs. Figg. \"I felt them. Everything went cold, and this was a very warm summer's night, mark you. And I felt . . . as though all happiness had gone from the world . . . and I remembered . . . dreadful things. . . .\""
+    "\"Yes,\" said Mrs. Figg."
+   ]
+  },
+  {
+   "begin": "892.160",
+   "children": [],
+   "end": "893.760",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "\"I felt them."
+   ]
+  },
+  {
+   "begin": "893.760",
+   "children": [],
+   "end": "899.360",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "Everything went cold, and this was a very warm summer's night, mark you."
+   ]
+  },
+  {
+   "begin": "899.360",
+   "children": [],
+   "end": "908.240",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "And I felt . . . as though all happiness had gone from the world . . . and I remembered . . . dreadful things. . . .\""
    ]
   },
   {
    "begin": "908.240",
    "children": [],
-   "end": "911.560",
-   "id": "f000097",
+   "end": "910.640",
+   "id": "f000174",
    "language": "eng",
    "lines": [
     "Her voice shook and died."
    ]
   },
   {
-   "begin": "911.560",
+   "begin": "910.640",
    "children": [],
-   "end": "918.320",
-   "id": "f000098",
+   "end": "913.920",
+   "id": "f000175",
    "language": "eng",
    "lines": [
-    "Madam Bones' eyes widened slightly. Harry could see red marks under her eyebrow where the monocle had dug into it."
+    "Madam Bones' eyes widened slightly."
+   ]
+  },
+  {
+   "begin": "913.920",
+   "children": [],
+   "end": "918.320",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "Harry could see red marks under her eyebrow where the monocle had dug into it."
    ]
   },
   {
    "begin": "918.320",
    "children": [],
    "end": "924.480",
-   "id": "f000099",
+   "id": "f000177",
    "language": "eng",
    "lines": [
     "\"What did the dementors do?\" she asked, and Harry felt a rush of hope."
@@ -993,28 +1773,98 @@
   {
    "begin": "924.480",
    "children": [],
-   "end": "959.680",
-   "id": "f000100",
+   "end": "932.960",
+   "id": "f000178",
    "language": "eng",
    "lines": [
-    "\"They went for the boys,\" said Mrs. Figg, her voice stronger and more confident now, the pink flush ebbing away from her face. \"One of them had fallen. The other was backing away, trying to repel the dementor. That was Harry. He tried twice and produced silver vapor. On the third attempt, he produced a Patronus, which charged down the first dementor and then, with his encouragement, chased away the second from his cousin. And that . . . that was what happened,\" Mrs. Figg finished, somewhat lamely."
+    "\"They went for the boys,\" said Mrs. Figg, her voice stronger and more confident now, the pink flush ebbing away from her face."
    ]
   },
   {
-   "begin": "959.680",
+   "begin": "932.960",
    "children": [],
-   "end": "973.320",
-   "id": "f000101",
+   "end": "934.560",
+   "id": "f000179",
    "language": "eng",
    "lines": [
-    "Madam Bones looked down at Mrs. Figg in silence; Fudge was not looking at her at all, but fidgeting with his papers. Finally he raised his eyes and said, rather aggressively \"That's what you saw, is it?\""
+    "\"One of them had fallen."
+   ]
+  },
+  {
+   "begin": "934.560",
+   "children": [],
+   "end": "937.840",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "The other was backing away, trying to repel the dementor."
+   ]
+  },
+  {
+   "begin": "937.840",
+   "children": [],
+   "end": "938.840",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "That was Harry."
+   ]
+  },
+  {
+   "begin": "938.840",
+   "children": [],
+   "end": "942.640",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "He tried twice and produced silver vapor."
+   ]
+  },
+  {
+   "begin": "942.640",
+   "children": [],
+   "end": "952.280",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "On the third attempt, he produced a Patronus, which charged down the first dementor and then, with his encouragement, chased away the second from his cousin."
+   ]
+  },
+  {
+   "begin": "952.280",
+   "children": [],
+   "end": "958.680",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "And that . . . that was what happened,\" Mrs. Figg finished, somewhat lamely."
+   ]
+  },
+  {
+   "begin": "958.680",
+   "children": [],
+   "end": "966.240",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "Madam Bones looked down at Mrs. Figg in silence; Fudge was not looking at her at all, but fidgeting with his papers."
+   ]
+  },
+  {
+   "begin": "966.240",
+   "children": [],
+   "end": "973.320",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "Finally he raised his eyes and said, rather aggressively \"That's what you saw, is it?\""
    ]
   },
   {
    "begin": "973.320",
    "children": [],
    "end": "977.560",
-   "id": "f000102",
+   "id": "f000187",
    "language": "eng",
    "lines": [
     "\"That was what happened,\" Mrs. Figg repeated."
@@ -1023,28 +1873,48 @@
   {
    "begin": "977.560",
    "children": [],
-   "end": "982.800",
-   "id": "f000103",
+   "end": "980.520",
+   "id": "f000188",
    "language": "eng",
    "lines": [
-    "\"Very well,\" said Fudge. \"You may go.\""
+    "\"Very well,\" said Fudge."
    ]
   },
   {
-   "begin": "982.800",
+   "begin": "980.520",
    "children": [],
-   "end": "991.040",
-   "id": "f000104",
+   "end": "981.800",
+   "id": "f000189",
    "language": "eng",
    "lines": [
-    "Mrs. Figg cast a frightened look from Fudge to Dumbledore, then got up and shuffled off toward the door again. Harry heard it thud shut behind her."
+    "\"You may go.\""
+   ]
+  },
+  {
+   "begin": "981.800",
+   "children": [],
+   "end": "988.480",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "Mrs. Figg cast a frightened look from Fudge to Dumbledore, then got up and shuffled off toward the door again."
+   ]
+  },
+  {
+   "begin": "988.480",
+   "children": [],
+   "end": "991.040",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "Harry heard it thud shut behind her."
    ]
   },
   {
    "begin": "991.040",
    "children": [],
    "end": "996.040",
-   "id": "f000105",
+   "id": "f000192",
    "language": "eng",
    "lines": [
     "\"Not a very convincing witness,\" said Fudge loftily."
@@ -1053,18 +1923,38 @@
   {
    "begin": "996.040",
    "children": [],
-   "end": "1009.240",
-   "id": "f000106",
+   "end": "1000.560",
+   "id": "f000193",
    "language": "eng",
    "lines": [
-    "\"Oh, I don't know,\" said Madam Bones in her booming voice. \"She certainly described the effects of a dementor attack very accurately. And I can't imagine why she would say they were there if they weren't - \""
+    "\"Oh, I don't know,\" said Madam Bones in her booming voice."
+   ]
+  },
+  {
+   "begin": "1000.560",
+   "children": [],
+   "end": "1005.040",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "\"She certainly described the effects of a dementor attack very accurately."
+   ]
+  },
+  {
+   "begin": "1005.040",
+   "children": [],
+   "end": "1009.240",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "And I can't imagine why she would say they were there if they weren't - \""
    ]
   },
   {
    "begin": "1009.240",
    "children": [],
    "end": "1013.280",
-   "id": "f000107",
+   "id": "f000196",
    "language": "eng",
    "lines": [
     "\"But dementors wandering into a Muggle suburb and just happening"
@@ -1073,18 +1963,28 @@
   {
    "begin": "1013.280",
    "children": [],
-   "end": "1020.680",
-   "id": "f000108",
+   "end": "1015.600",
+   "id": "f000197",
    "language": "eng",
    "lines": [
-    "to come across a wizard?\" snorted Fudge. \"The odds on that must be very, very long, even Bagman wouldn't have bet - \""
+    "to come across a wizard?\" snorted Fudge."
+   ]
+  },
+  {
+   "begin": "1015.600",
+   "children": [],
+   "end": "1020.680",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "\"The odds on that must be very, very long, even Bagman wouldn't have bet - \""
    ]
   },
   {
    "begin": "1020.680",
    "children": [],
    "end": "1028.280",
-   "id": "f000109",
+   "id": "f000199",
    "language": "eng",
    "lines": [
     "\"Oh, I don't think any of us believe the dementors were there by coincidence,\" said Dumbledore lightly."
@@ -1094,7 +1994,7 @@
    "begin": "1028.280",
    "children": [],
    "end": "1036.040",
-   "id": "f000110",
+   "id": "f000200",
    "language": "eng",
    "lines": [
     "The witch sitting to the right of Fudge with her face in shadow moved slightly, but everyone else was quite still and silent."
@@ -1104,7 +2004,7 @@
    "begin": "1036.040",
    "children": [],
    "end": "1040.760",
-   "id": "f000111",
+   "id": "f000201",
    "language": "eng",
    "lines": [
     "\"And what is that supposed to mean?\" asked Fudge icily."
@@ -1114,7 +2014,7 @@
    "begin": "1040.760",
    "children": [],
    "end": "1046.320",
-   "id": "f000112",
+   "id": "f000202",
    "language": "eng",
    "lines": [
     "\"It means that I think they were ordered there,\" said Dumbledore."
@@ -1124,7 +2024,7 @@
    "begin": "1046.320",
    "children": [],
    "end": "1055.480",
-   "id": "f000113",
+   "id": "f000203",
    "language": "eng",
    "lines": [
     "\"I think we might have a record of it if someone had ordered a pair of dementors to go strolling through Little Whinging!\" barked Fudge."
@@ -1133,28 +2033,48 @@
   {
    "begin": "1055.480",
    "children": [],
-   "end": "1067.520",
-   "id": "f000114",
+   "end": "1063.560",
+   "id": "f000204",
    "language": "eng",
    "lines": [
-    "\"Not if the dementors are taking orders from someone other than the Ministry of Magic these days,\" said Dumbledore calmly. \"I have already given you my views on this matter, Cornelius.\""
+    "\"Not if the dementors are taking orders from someone other than the Ministry of Magic these days,\" said Dumbledore calmly."
+   ]
+  },
+  {
+   "begin": "1063.560",
+   "children": [],
+   "end": "1067.520",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "\"I have already given you my views on this matter, Cornelius.\""
    ]
   },
   {
    "begin": "1067.520",
    "children": [],
-   "end": "1081.760",
-   "id": "f000115",
+   "end": "1076.520",
+   "id": "f000206",
    "language": "eng",
    "lines": [
-    "\"Yes, you have,\" said Fudge forcefully, \"and I have no reason to believe that your views are anything other than bilge, Dumbledore. The dementors remain in place in Azkaban and are doing everything we ask them to.\""
+    "\"Yes, you have,\" said Fudge forcefully, \"and I have no reason to believe that your views are anything other than bilge, Dumbledore."
+   ]
+  },
+  {
+   "begin": "1076.520",
+   "children": [],
+   "end": "1081.760",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "The dementors remain in place in Azkaban and are doing everything we ask them to.\""
    ]
   },
   {
    "begin": "1081.760",
    "children": [],
    "end": "1093.760",
-   "id": "f000116",
+   "id": "f000208",
    "language": "eng",
    "lines": [
     "\"Then,\" said Dumbledore, quietly but clearly, \"we must ask ourselves why somebody within the Ministry ordered a pair of dementors into that alleyway on the second of August.\""
@@ -1163,28 +2083,58 @@
   {
    "begin": "1093.760",
    "children": [],
-   "end": "1102.840",
-   "id": "f000117",
+   "end": "1102.400",
+   "id": "f000209",
    "language": "eng",
    "lines": [
     "In the complete silence that greeted these words, the witch to the right of Fudge leaned forward so that Harry saw her for the first time."
    ]
   },
   {
-   "begin": "1102.840",
+   "begin": "1102.400",
    "children": [],
-   "end": "1125.720",
-   "id": "f000118",
+   "end": "1106.240",
+   "id": "f000210",
    "language": "eng",
    "lines": [
-    "He thought she looked just like a large, pale toad. She was rather squat with a broad, flabby face, as little neck as Uncle Vernon, and a very wide, slack mouth. Her eyes were large, round, and slightly bulging. Even the little black velvet bow perched on top of her short curly hair put him in mind of a large fly she was about to catch on a long sticky tongue."
+    "He thought she looked just like a large, pale toad."
+   ]
+  },
+  {
+   "begin": "1106.240",
+   "children": [],
+   "end": "1112.880",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "She was rather squat with a broad, flabby face, as little neck as Uncle Vernon, and a very wide, slack mouth."
+   ]
+  },
+  {
+   "begin": "1112.880",
+   "children": [],
+   "end": "1116.120",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "Her eyes were large, round, and slightly bulging."
+   ]
+  },
+  {
+   "begin": "1116.120",
+   "children": [],
+   "end": "1125.720",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "Even the little black velvet bow perched on top of her short curly hair put him in mind of a large fly she was about to catch on a long sticky tongue."
    ]
   },
   {
    "begin": "1125.720",
    "children": [],
    "end": "1133.640",
-   "id": "f000119",
+   "id": "f000214",
    "language": "eng",
    "lines": [
     "\"The Chair recognizes Dolores Jane Umbridge, Senior Undersecretary to the Minister,\" said Fudge."
@@ -1194,7 +2144,7 @@
    "begin": "1133.640",
    "children": [],
    "end": "1140.520",
-   "id": "f000120",
+   "id": "f000215",
    "language": "eng",
    "lines": [
     "The witch spoke in a fluttery, girlish, high-pitched voice that took Harry aback; he had been expecting a croak."
@@ -1203,38 +2153,88 @@
   {
    "begin": "1140.520",
    "children": [],
-   "end": "1159.920",
-   "id": "f000121",
+   "end": "1149.680",
+   "id": "f000216",
    "language": "eng",
    "lines": [
-    "\"I'm sure I must have misunderstood you, Professor Dumbledore,\" she said with a simper that left her big, round eyes as cold as ever. \"So silly of me. But it sounded for a teensy moment as though you were suggesting that the Ministry of Magic had ordered an attack on this boy!\""
+    "\"I'm sure I must have misunderstood you, Professor Dumbledore,\" she said with a simper that left her big, round eyes as cold as ever."
+   ]
+  },
+  {
+   "begin": "1149.680",
+   "children": [],
+   "end": "1151.320",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "\"So silly of me."
+   ]
+  },
+  {
+   "begin": "1151.320",
+   "children": [],
+   "end": "1159.920",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "But it sounded for a teensy moment as though you were suggesting that the Ministry of Magic had ordered an attack on this boy!\""
    ]
   },
   {
    "begin": "1159.920",
    "children": [],
-   "end": "1172.080",
-   "id": "f000122",
+   "end": "1164.960",
+   "id": "f000219",
    "language": "eng",
    "lines": [
-    "She gave a silvery laugh that made the hairs on the back of Harry's neck stand up. A few other members of the Wizengamot laughed with her. It could not have been plainer that not one of them was really amused."
+    "She gave a silvery laugh that made the hairs on the back of Harry's neck stand up."
+   ]
+  },
+  {
+   "begin": "1164.960",
+   "children": [],
+   "end": "1168.280",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "A few other members of the Wizengamot laughed with her."
+   ]
+  },
+  {
+   "begin": "1168.280",
+   "children": [],
+   "end": "1172.080",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "It could not have been plainer that not one of them was really amused."
    ]
   },
   {
    "begin": "1172.080",
    "children": [],
-   "end": "1197.800",
-   "id": "f000123",
+   "end": "1192.000",
+   "id": "f000222",
    "language": "eng",
    "lines": [
-    "\"If it is true that the dementors are taking orders only from the Ministry of Magic, and it is also true that two dementors attacked Harry and his cousin a week ago, then it follows logically that somebody at the Ministry might have ordered the attacks,\" said Dumbledore politely. \"Of course, these particular dementors may have been outside Ministry control - \""
+    "\"If it is true that the dementors are taking orders only from the Ministry of Magic, and it is also true that two dementors attacked Harry and his cousin a week ago, then it follows logically that somebody at the Ministry might have ordered the attacks,\" said Dumbledore politely."
+   ]
+  },
+  {
+   "begin": "1192.000",
+   "children": [],
+   "end": "1197.800",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "\"Of course, these particular dementors may have been outside Ministry control - \""
    ]
   },
   {
    "begin": "1197.800",
    "children": [],
    "end": "1204.480",
-   "id": "f000124",
+   "id": "f000224",
    "language": "eng",
    "lines": [
     "\"There are no dementors outside Ministry control!\" snapped Fudge, who had turned brick red."
@@ -1244,7 +2244,7 @@
    "begin": "1204.480",
    "children": [],
    "end": "1207.440",
-   "id": "f000125",
+   "id": "f000225",
    "language": "eng",
    "lines": [
     "Dumbledore inclined his head in a little bow."
@@ -1254,7 +2254,7 @@
    "begin": "1207.440",
    "children": [],
    "end": "1220.400",
-   "id": "f000126",
+   "id": "f000226",
    "language": "eng",
    "lines": [
     "\"Then undoubtedly the Ministry will be making a full inquiry into why two dementors were so very far from Azkaban and why they attacked without authorization.\""
@@ -1264,7 +2264,7 @@
    "begin": "1220.400",
    "children": [],
    "end": "1231.480",
-   "id": "f000127",
+   "id": "f000227",
    "language": "eng",
    "lines": [
     "\"It is not for you to decide what the Ministry of Magic does or does not do, Dumbledore!\" snapped Fudge, now a shade of magenta of which Uncle Vernon would have been proud."
@@ -1273,18 +2273,28 @@
   {
    "begin": "1231.480",
    "children": [],
-   "end": "1241.080",
-   "id": "f000128",
+   "end": "1235.080",
+   "id": "f000228",
    "language": "eng",
    "lines": [
-    "\"Of course it isn't,\" said Dumbledore mildly. \"I was merely expressing my confidence that this matter will not go uninvestigated.\""
+    "\"Of course it isn't,\" said Dumbledore mildly."
+   ]
+  },
+  {
+   "begin": "1235.080",
+   "children": [],
+   "end": "1241.080",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "\"I was merely expressing my confidence that this matter will not go uninvestigated.\""
    ]
   },
   {
    "begin": "1241.080",
    "children": [],
    "end": "1247.560",
-   "id": "f000129",
+   "id": "f000230",
    "language": "eng",
    "lines": [
     "He glanced at Madam Bones, who readjusted her monocle and stared back at him, frowning slightly."
@@ -1293,28 +2303,48 @@
   {
    "begin": "1247.560",
    "children": [],
-   "end": "1266.840",
-   "id": "f000130",
+   "end": "1259.400",
+   "id": "f000231",
    "language": "eng",
    "lines": [
-    "\"I would remind everybody that the behavior of these dementors, if indeed they are not figments of this boy's imagination, is not the subject of this hearing!\" said Fudge. \"We are here to examine Harry Potter's offenses under the Decree for the Reasonable Restriction of Underage Sorcery!\""
+    "\"I would remind everybody that the behavior of these dementors, if indeed they are not figments of this boy's imagination, is not the subject of this hearing!\" said Fudge."
+   ]
+  },
+  {
+   "begin": "1259.400",
+   "children": [],
+   "end": "1266.840",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "\"We are here to examine Harry Potter's offenses under the Decree for the Reasonable Restriction of Underage Sorcery!\""
    ]
   },
   {
    "begin": "1266.840",
    "children": [],
-   "end": "1295.640",
-   "id": "f000131",
+   "end": "1275.920",
+   "id": "f000233",
    "language": "eng",
    "lines": [
-    "\"Of course we are,\" said Dumbledore, \"but the presence of dementors in that alleyway is highly relevant. Clause seven of the Decree states that magic may be used before Muggles in exceptional circumstances, and as those exceptional circumstances include situations that threaten the life of the wizard or witch himself, or witches, wizards, or Muggles present at the time of the - \""
+    "\"Of course we are,\" said Dumbledore, \"but the presence of dementors in that alleyway is highly relevant."
+   ]
+  },
+  {
+   "begin": "1275.920",
+   "children": [],
+   "end": "1295.640",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "Clause seven of the Decree states that magic may be used before Muggles in exceptional circumstances, and as those exceptional circumstances include situations that threaten the life of the wizard or witch himself, or witches, wizards, or Muggles present at the time of the - \""
    ]
   },
   {
    "begin": "1295.640",
    "children": [],
    "end": "1300.880",
-   "id": "f000132",
+   "id": "f000235",
    "language": "eng",
    "lines": [
     "\"We are familiar with clause seven, thank you very much!\" snarled Fudge."
@@ -1323,18 +2353,28 @@
   {
    "begin": "1300.880",
    "children": [],
-   "end": "1317.800",
-   "id": "f000133",
+   "end": "1305.160",
+   "id": "f000236",
    "language": "eng",
    "lines": [
-    "\"Of course you are,\" said Dumbledore courteously. \"Then we are in agreement that Harry's use of the Patronus Charm in these circumstances falls precisely into the category of exceptional circumstances it describes?\""
+    "\"Of course you are,\" said Dumbledore courteously."
+   ]
+  },
+  {
+   "begin": "1305.160",
+   "children": [],
+   "end": "1317.800",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "\"Then we are in agreement that Harry's use of the Patronus Charm in these circumstances falls precisely into the category of exceptional circumstances it describes?\""
    ]
   },
   {
    "begin": "1317.800",
    "children": [],
    "end": "1322.040",
-   "id": "f000134",
+   "id": "f000238",
    "language": "eng",
    "lines": [
     "\"If there were dementors, which I doubt - \""
@@ -1343,28 +2383,58 @@
   {
    "begin": "1322.040",
    "children": [],
-   "end": "1333.720",
-   "id": "f000135",
+   "end": "1326.880",
+   "id": "f000239",
    "language": "eng",
    "lines": [
-    "\"You have heard from an eyewitness,\" Dumbledore interrupted. \"If you still doubt her truthfulness, call her back, question her again. I am sure she would not object.\""
+    "\"You have heard from an eyewitness,\" Dumbledore interrupted."
+   ]
+  },
+  {
+   "begin": "1326.880",
+   "children": [],
+   "end": "1331.920",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "\"If you still doubt her truthfulness, call her back, question her again."
+   ]
+  },
+  {
+   "begin": "1331.920",
+   "children": [],
+   "end": "1333.720",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "I am sure she would not object.\""
    ]
   },
   {
    "begin": "1333.720",
    "children": [],
-   "end": "1344.040",
-   "id": "f000136",
+   "end": "1340.200",
+   "id": "f000242",
    "language": "eng",
    "lines": [
-    "\"I - that - not - \" blustered Fudge, fiddling with the papers before him. \"It's - I want this over with today, Dumbledore!\""
+    "\"I - that - not - \" blustered Fudge, fiddling with the papers before him."
+   ]
+  },
+  {
+   "begin": "1340.200",
+   "children": [],
+   "end": "1344.040",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "\"It's - I want this over with today, Dumbledore!\""
    ]
   },
   {
    "begin": "1344.040",
    "children": [],
    "end": "1354.400",
-   "id": "f000137",
+   "id": "f000244",
    "language": "eng",
    "lines": [
     "\"But naturally, you would not care how many times you heard from a witness, if the alternative was a serious miscarriage of justice,\" said Dumbledore."
@@ -1373,18 +2443,38 @@
   {
    "begin": "1354.400",
    "children": [],
-   "end": "1373.720",
-   "id": "f000138",
+   "end": "1359.640",
+   "id": "f000245",
    "language": "eng",
    "lines": [
-    "\"Serious miscarriage, my hat!\" said Fudge at the top of his voice. \"Have you ever bothered to tot up the number of cock-and-bull stories this boy has come out with, Dumbledore, while trying to cover up his flagrant misuse of magic out of school? I suppose you've forgotten the Hover Charm he used three years ago - \""
+    "\"Serious miscarriage, my hat!\" said Fudge at the top of his voice."
+   ]
+  },
+  {
+   "begin": "1359.640",
+   "children": [],
+   "end": "1369.800",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "\"Have you ever bothered to tot up the number of cock-and-bull stories this boy has come out with, Dumbledore, while trying to cover up his flagrant misuse of magic out of school?"
+   ]
+  },
+  {
+   "begin": "1369.800",
+   "children": [],
+   "end": "1373.720",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "I suppose you've forgotten the Hover Charm he used three years ago - \""
    ]
   },
   {
    "begin": "1373.720",
    "children": [],
    "end": "1377.480",
-   "id": "f000139",
+   "id": "f000248",
    "language": "eng",
    "lines": [
     "\"That wasn't me, it was a house-elf!\" said Harry."
@@ -1393,38 +2483,88 @@
   {
    "begin": "1377.480",
    "children": [],
-   "end": "1388.520",
-   "id": "f000140",
+   "end": "1383.040",
+   "id": "f000249",
    "language": "eng",
    "lines": [
-    "\"YOU SEE?\" roared Fudge, gesturing flamboyantly in Harry's direction. \"A house-elf! In a Muggle house! I ask you - \""
+    "\"YOU SEE?\" roared Fudge, gesturing flamboyantly in Harry's direction."
+   ]
+  },
+  {
+   "begin": "1383.040",
+   "children": [],
+   "end": "1385.040",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "\"A house-elf!"
+   ]
+  },
+  {
+   "begin": "1385.040",
+   "children": [],
+   "end": "1386.960",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "In a Muggle house!"
+   ]
+  },
+  {
+   "begin": "1386.960",
+   "children": [],
+   "end": "1388.520",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "I ask you - \""
    ]
   },
   {
    "begin": "1388.520",
    "children": [],
-   "end": "1400.360",
-   "id": "f000141",
+   "end": "1395.320",
+   "id": "f000253",
    "language": "eng",
    "lines": [
-    "\"The house-elf in question is currently in the employ of Hogwarts School,\" said Dumbledore. \"I can summon him here in an instant to give evidence if you wish.\""
+    "\"The house-elf in question is currently in the employ of Hogwarts School,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "1395.320",
+   "children": [],
+   "end": "1400.360",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "\"I can summon him here in an instant to give evidence if you wish.\""
    ]
   },
   {
    "begin": "1400.360",
    "children": [],
-   "end": "1416.960",
-   "id": "f000142",
+   "end": "1406.000",
+   "id": "f000255",
    "language": "eng",
    "lines": [
-    "\"I - not - I haven't got time to listen to house-elves! Anyway, that's not the only - he blew up his aunt, for God's sake!\" Fudge shouted, banging his fist on the judge's bench and upsetting a bottle of ink."
+    "\"I - not - I haven't got time to listen to house-elves!"
+   ]
+  },
+  {
+   "begin": "1406.000",
+   "children": [],
+   "end": "1416.960",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "Anyway, that's not the only - he blew up his aunt, for God's sake!\" Fudge shouted, banging his fist on the judge's bench and upsetting a bottle of ink."
    ]
   },
   {
    "begin": "1416.960",
    "children": [],
    "end": "1431.280",
-   "id": "f000143",
+   "id": "f000257",
    "language": "eng",
    "lines": [
     "\"And you very kindly did not press charges on that occasion, accepting, I presume, that even the best wizards cannot always control their emotions,\" said Dumbledore calmly, as Fudge attempted to scrub the ink off his notes."
@@ -1433,18 +2573,18 @@
   {
    "begin": "1431.280",
    "children": [],
-   "end": "1435.360",
-   "id": "f000144",
+   "end": "1435.040",
+   "id": "f000258",
    "language": "eng",
    "lines": [
     "\"And I haven't even started on what he gets up to at school - \""
    ]
   },
   {
-   "begin": "1435.360",
+   "begin": "1435.040",
    "children": [],
    "end": "1451.560",
-   "id": "f000145",
+   "id": "f000259",
    "language": "eng",
    "lines": [
     "\" - but as the Ministry has no authority to punish Hogwarts students for misdemeanors at school, Harry's behavior there is not relevant to this inquiry,\" said Dumbledore, politely as ever, but now with a suggestion of coolness behind his words."
@@ -1453,28 +2593,68 @@
   {
    "begin": "1451.560",
    "children": [],
-   "end": "1458.600",
-   "id": "f000146",
+   "end": "1454.160",
+   "id": "f000260",
    "language": "eng",
    "lines": [
-    "\"Oho!\" said Fudge. \"Not our business what he does at school, eh? You think so?\""
+    "\"Oho!\" said Fudge."
+   ]
+  },
+  {
+   "begin": "1454.160",
+   "children": [],
+   "end": "1457.520",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "\"Not our business what he does at school, eh?"
+   ]
+  },
+  {
+   "begin": "1457.520",
+   "children": [],
+   "end": "1458.600",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "You think so?\""
    ]
   },
   {
    "begin": "1458.600",
    "children": [],
-   "end": "1489.160",
-   "id": "f000147",
+   "end": "1468.840",
+   "id": "f000263",
    "language": "eng",
    "lines": [
-    "\"The Ministry does not have the power to expel Hogwarts students, Cornelius, as I reminded you on the night of the second of August,\" said Dumbledore. \"Nor does it have the right to confiscate wands until charges have been successfully proven, again, as I reminded you on the night of the second of August. In your admirable haste to ensure that the law is upheld, you appear, inadvertently I am sure, to have overlooked a few laws yourself.\""
+    "\"The Ministry does not have the power to expel Hogwarts students, Cornelius, as I reminded you on the night of the second of August,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "1468.840",
+   "children": [],
+   "end": "1478.960",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "\"Nor does it have the right to confiscate wands until charges have been successfully proven, again, as I reminded you on the night of the second of August."
+   ]
+  },
+  {
+   "begin": "1478.960",
+   "children": [],
+   "end": "1489.160",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "In your admirable haste to ensure that the law is upheld, you appear, inadvertently I am sure, to have overlooked a few laws yourself.\""
    ]
   },
   {
    "begin": "1489.160",
    "children": [],
    "end": "1493.680",
-   "id": "f000148",
+   "id": "f000266",
    "language": "eng",
    "lines": [
     "\"Laws can be changed,\" said Fudge savagely."
@@ -1483,58 +2663,208 @@
   {
    "begin": "1493.680",
    "children": [],
-   "end": "1515.000",
-   "id": "f000149",
+   "end": "1498.360",
+   "id": "f000267",
    "language": "eng",
    "lines": [
-    "\"Of course they can,\" said Dumbledore, inclining his head. \"And you certainly seem to be making many changes, Cornelius. Why, in the few short weeks since I was asked to leave the Wizengamot, it has already become the practice to hold a full criminal trial to deal with a simple matter of underage magic!\""
+    "\"Of course they can,\" said Dumbledore, inclining his head."
    ]
   },
   {
-   "begin": "1515.000",
+   "begin": "1498.360",
    "children": [],
-   "end": "1528.120",
-   "id": "f000150",
+   "end": "1502.680",
+   "id": "f000268",
    "language": "eng",
    "lines": [
-    "A few of the wizards above them shifted uncomfortably in their seats. Fudge turned a slightly deeper shade of puce. The toadlike witch on his right, however, merely gazed at Dumbledore, her face quite expressionless."
+    "\"And you certainly seem to be making many changes, Cornelius."
+   ]
+  },
+  {
+   "begin": "1502.680",
+   "children": [],
+   "end": "1514.160",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "Why, in the few short weeks since I was asked to leave the Wizengamot, it has already become the practice to hold a full criminal trial to deal with a simple matter of underage magic!\""
+   ]
+  },
+  {
+   "begin": "1514.160",
+   "children": [],
+   "end": "1518.720",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "A few of the wizards above them shifted uncomfortably in their seats."
+   ]
+  },
+  {
+   "begin": "1518.720",
+   "children": [],
+   "end": "1522.080",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "Fudge turned a slightly deeper shade of puce."
+   ]
+  },
+  {
+   "begin": "1522.080",
+   "children": [],
+   "end": "1528.120",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "The toadlike witch on his right, however, merely gazed at Dumbledore, her face quite expressionless."
    ]
   },
   {
    "begin": "1528.120",
    "children": [],
-   "end": "1551.600",
-   "id": "f000151",
+   "end": "1541.320",
+   "id": "f000273",
    "language": "eng",
    "lines": [
-    "\"As far as I am aware, however,\" Dumbledore continued, \"there is no law yet in place that says this court's job is to punish Harry for every bit of magic he has ever performed. He has been charged with a specific offense and he has presented his defense. All he and I can do now is to await your verdict.\""
+    "\"As far as I am aware, however,\" Dumbledore continued, \"there is no law yet in place that says this court's job is to punish Harry for every bit of magic he has ever performed."
    ]
   },
   {
-   "begin": "1551.600",
+   "begin": "1541.320",
    "children": [],
-   "end": "1582.520",
-   "id": "f000152",
+   "end": "1547.160",
+   "id": "f000274",
    "language": "eng",
    "lines": [
-    "Dumbledore put his fingertips together again and said no more. Fudge glared at him, evidently incensed. Harry glanced sideways at Dumbledore, seeking reassurance; he was not at all sure that Dumbledore was right in telling the Wizengamot, in effect, that it was about time they made a decision. Again, however, Dumbledore seemed oblivious to Harry's attempt to catch his eye. He continued to look up at the benches where the entire Wizengamot had fallen into urgent, whispered conversations."
+    "He has been charged with a specific offense and he has presented his defense."
+   ]
+  },
+  {
+   "begin": "1547.160",
+   "children": [],
+   "end": "1552.760",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "All he and I can do now is to await your verdict.\""
+   ]
+  },
+  {
+   "begin": "1552.760",
+   "children": [],
+   "end": "1556.320",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "Dumbledore put his fingertips together again and said no more."
+   ]
+  },
+  {
+   "begin": "1556.320",
+   "children": [],
+   "end": "1559.720",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "Fudge glared at him, evidently incensed."
+   ]
+  },
+  {
+   "begin": "1559.720",
+   "children": [],
+   "end": "1570.560",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "Harry glanced sideways at Dumbledore, seeking reassurance; he was not at all sure that Dumbledore was right in telling the Wizengamot, in effect, that it was about time they made a decision."
+   ]
+  },
+  {
+   "begin": "1570.560",
+   "children": [],
+   "end": "1575.600",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "Again, however, Dumbledore seemed oblivious to Harry's attempt to catch his eye."
+   ]
+  },
+  {
+   "begin": "1575.600",
+   "children": [],
+   "end": "1582.520",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "He continued to look up at the benches where the entire Wizengamot had fallen into urgent, whispered conversations."
    ]
   },
   {
    "begin": "1582.520",
    "children": [],
-   "end": "1606.560",
-   "id": "f000153",
+   "end": "1584.600",
+   "id": "f000281",
    "language": "eng",
    "lines": [
-    "Harry looked at his feet. His heart, which seemed to have swollen to an unnatural size, was thumping loudly under his ribs. He had expected the hearing to last longer than this. He was not at all sure that he had made a good impression. He had not really said very much. He ought to have explained more fully about the dementors, about how he had fallen over, about how both he and Dudley had nearly been kissed. . . ."
+    "Harry looked at his feet."
    ]
   },
   {
-   "begin": "1606.560",
+   "begin": "1584.600",
+   "children": [],
+   "end": "1590.440",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "His heart, which seemed to have swollen to an unnatural size, was thumping loudly under his ribs."
+   ]
+  },
+  {
+   "begin": "1590.440",
+   "children": [],
+   "end": "1593.400",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "He had expected the hearing to last longer than this."
+   ]
+  },
+  {
+   "begin": "1593.400",
+   "children": [],
+   "end": "1596.160",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "He was not at all sure that he had made a good impression."
+   ]
+  },
+  {
+   "begin": "1596.160",
+   "children": [],
+   "end": "1598.360",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "He had not really said very much."
+   ]
+  },
+  {
+   "begin": "1598.360",
+   "children": [],
+   "end": "1606.640",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "He ought to have explained more fully about the dementors, about how he had fallen over, about how both he and Dudley had nearly been kissed. . . ."
+   ]
+  },
+  {
+   "begin": "1606.640",
    "children": [],
    "end": "1617.320",
-   "id": "f000154",
+   "id": "f000287",
    "language": "eng",
    "lines": [
     "Twice he looked up at Fudge and opened his mouth to speak, but his swollen heart was now constricting his air passages and both times he merely took a deep breath and looked back at his shoes."
@@ -1543,18 +2873,28 @@
   {
    "begin": "1617.320",
    "children": [],
-   "end": "1626.080",
-   "id": "f000155",
+   "end": "1619.320",
+   "id": "f000288",
    "language": "eng",
    "lines": [
-    "Then the whispering stopped. Harry wanted to look up at the judges, but found that it was really much, much easier to keep examining his laces."
+    "Then the whispering stopped."
+   ]
+  },
+  {
+   "begin": "1619.320",
+   "children": [],
+   "end": "1626.080",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "Harry wanted to look up at the judges, but found that it was really much, much easier to keep examining his laces."
    ]
   },
   {
    "begin": "1626.080",
    "children": [],
    "end": "1633.160",
-   "id": "f000156",
+   "id": "f000290",
    "language": "eng",
    "lines": [
     "\"Those in favor of clearing the accused of all charges?\" said Madam Bones's booming voice."
@@ -1563,18 +2903,38 @@
   {
    "begin": "1633.160",
    "children": [],
-   "end": "1646.480",
-   "id": "f000157",
+   "end": "1635.520",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "Harry's head jerked upward. There were hands in the air, many of them . . . more than half ! Breathing very fast, he tried to count, but before he could finish Madam Bones had said, \"And those in favor of conviction?\""
+    "Harry's head jerked upward."
+   ]
+  },
+  {
+   "begin": "1635.520",
+   "children": [],
+   "end": "1638.480",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "There were hands in the air, many of them . . . more than half !"
+   ]
+  },
+  {
+   "begin": "1638.480",
+   "children": [],
+   "end": "1646.480",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "Breathing very fast, he tried to count, but before he could finish Madam Bones had said, \"And those in favor of conviction?\""
    ]
   },
   {
    "begin": "1646.480",
    "children": [],
    "end": "1656.520",
-   "id": "f000158",
+   "id": "f000294",
    "language": "eng",
    "lines": [
     "Fudge raised his hand; so did half a dozen others, including the witch on his right and the heavily mustached wizard and the frizzyhaired witch in the second row."
@@ -1583,28 +2943,58 @@
   {
    "begin": "1656.520",
    "children": [],
-   "end": "1675.800",
-   "id": "f000159",
+   "end": "1664.200",
+   "id": "f000295",
    "language": "eng",
    "lines": [
-    "Fudge glanced around at them all, looking as though there was something large stuck in his throat, then lowered his own hand. He took two deep breaths and then said, in a voice distorted by suppressed rage, \"Very well, very well . . . cleared of all charges.\""
+    "Fudge glanced around at them all, looking as though there was something large stuck in his throat, then lowered his own hand."
+   ]
+  },
+  {
+   "begin": "1664.200",
+   "children": [],
+   "end": "1675.800",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "He took two deep breaths and then said, in a voice distorted by suppressed rage, \"Very well, very well . . . cleared of all charges.\""
    ]
   },
   {
    "begin": "1675.800",
    "children": [],
-   "end": "1689.720",
-   "id": "f000160",
+   "end": "1684.960",
+   "id": "f000297",
    "language": "eng",
    "lines": [
-    "\"Excellent,\" said Dumbledore briskly, springing to his feet, pulling out his wand, and causing the two chintz armchairs to vanish. \"Well, I must be getting along. Good day to you all.\""
+    "\"Excellent,\" said Dumbledore briskly, springing to his feet, pulling out his wand, and causing the two chintz armchairs to vanish."
+   ]
+  },
+  {
+   "begin": "1684.960",
+   "children": [],
+   "end": "1687.680",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "\"Well, I must be getting along."
+   ]
+  },
+  {
+   "begin": "1687.680",
+   "children": [],
+   "end": "1689.720",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "Good day to you all.\""
    ]
   },
   {
    "begin": "1689.720",
    "children": [],
    "end": "1697.360",
-   "id": "f000161",
+   "id": "f000300",
    "language": "eng",
    "lines": [
     "And without looking once at Harry, he swept from the dungeon."

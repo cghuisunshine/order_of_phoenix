@@ -102,7 +102,40 @@ class ReaderPipelineTests(unittest.TestCase):
         self.assertEqual(chapters[0].title, "The Advance Guard")
         self.assertTrue(chapters[0].body.startswith("But Hedwig"))
 
-    def test_build_reader_manifest_offsets_chapter_fragments_and_appends_outro(self):
+    def test_split_sentences_keeps_common_abbreviations_and_dialogue(self):
+        paragraph = (
+            'Mr. Weasley looked at Mrs. Figg. "Are you coming?" Harry asked. '
+            "They went to St. Mungo's. He waited . . . Then left."
+        )
+
+        self.assertEqual(
+            reader_pipeline.split_sentences(paragraph),
+            [
+                "Mr. Weasley looked at Mrs. Figg.",
+                '"Are you coming?" Harry asked.',
+                "They went to St. Mungo's.",
+                "He waited . . . Then left.",
+            ],
+        )
+
+    def test_chapter_fragments_emit_one_line_per_sentence(self):
+        chapter = reader_pipeline.Chapter(
+            1,
+            "Dudley Demented",
+            "First sentence. Second sentence!\n\nMr. Weasley stayed.",
+        )
+
+        self.assertEqual(
+            reader_pipeline.chapter_fragments(chapter),
+            [
+                "Chapter One. Dudley Demented.",
+                "First sentence.",
+                "Second sentence!",
+                "Mr. Weasley stayed.",
+            ],
+        )
+
+    def test_build_reader_manifest_groups_sentence_fragments_under_paragraphs(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
             align_dir = root / "alignments"
@@ -111,8 +144,9 @@ class ReaderPipelineTests(unittest.TestCase):
                 json.dumps(
                     {
                         "fragments": [
-                            {"id": "f000001", "begin": "0.000", "end": "1.500", "lines": ["First"]},
-                            {"id": "f000002", "begin": "1.500", "end": "3.000", "lines": ["Second"]},
+                            {"id": "f000001", "begin": "0.000", "end": "0.500", "lines": ["Chapter One. One."]},
+                            {"id": "f000002", "begin": "0.500", "end": "1.500", "lines": ["First."]},
+                            {"id": "f000003", "begin": "1.500", "end": "3.000", "lines": ["Second."]},
                         ]
                     }
                 ),
@@ -122,7 +156,8 @@ class ReaderPipelineTests(unittest.TestCase):
                 json.dumps(
                     {
                         "fragments": [
-                            {"id": "f000001", "begin": "0.000", "end": "2.000", "lines": ["Third"]},
+                            {"id": "f000001", "begin": "0.000", "end": "0.500", "lines": ["Chapter Two. Two."]},
+                            {"id": "f000002", "begin": "0.500", "end": "2.000", "lines": ["Third."]},
                         ]
                     }
                 ),
@@ -130,8 +165,8 @@ class ReaderPipelineTests(unittest.TestCase):
             )
 
             chapters = [
-                reader_pipeline.Chapter(1, "One", "First\n\nSecond"),
-                reader_pipeline.Chapter(2, "Two", "Third"),
+                reader_pipeline.Chapter(1, "One", "First. Second."),
+                reader_pipeline.Chapter(2, "Two", "Third."),
             ]
             audio_files = [Path("Part 001.mp3"), Path("Part 002.mp3")]
 
@@ -147,6 +182,15 @@ class ReaderPipelineTests(unittest.TestCase):
         self.assertEqual(len(manifest["chapters"]), 3)
         self.assertEqual(manifest["chapters"][1]["start"], 3.0)
         self.assertEqual(manifest["chapters"][1]["paragraphs"][0]["begin"], 3.0)
+        first_paragraph = manifest["chapters"][0]["paragraphs"][1]
+        self.assertEqual(first_paragraph["text"], "First. Second.")
+        self.assertEqual(first_paragraph["localBegin"], 0.5)
+        self.assertEqual(first_paragraph["localEnd"], 3.0)
+        self.assertEqual(
+            [sentence["id"] for sentence in first_paragraph["sentences"]],
+            ["c001_p000001_s000001", "c001_p000001_s000002"],
+        )
+        self.assertEqual(first_paragraph["sentences"][1]["begin"], 1.5)
         self.assertEqual(manifest["chapters"][2]["kind"], "outro")
         self.assertEqual(manifest["duration"], 105.0)
 

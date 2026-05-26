@@ -13,18 +13,28 @@
   {
    "begin": "74.720",
    "children": [],
-   "end": "82.320",
+   "end": "80.280",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "All were fully dressed except Mrs. Weasley, who was wearing a quilted, purple dressing gown. She leapt to her feet the moment he entered."
+    "All were fully dressed except Mrs. Weasley, who was wearing a quilted, purple dressing gown."
+   ]
+  },
+  {
+   "begin": "80.280",
+   "children": [],
+   "end": "82.320",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "She leapt to her feet the moment he entered."
    ]
   },
   {
    "begin": "82.320",
    "children": [],
    "end": "87.400",
-   "id": "f000003",
+   "id": "f000004",
    "language": "eng",
    "lines": [
     "\"Breakfast,\" she said as she pulled out her wand and hurried over to the fire."
@@ -33,18 +43,38 @@
   {
    "begin": "87.400",
    "children": [],
-   "end": "97.160",
-   "id": "f000004",
+   "end": "93.520",
+   "id": "f000005",
    "language": "eng",
    "lines": [
-    "\"M-m-morning, Harry,\" yawned Tonks. Her hair was blonde and curly this morning. \"Sleep all right?\""
+    "\"M-m-morning, Harry,\" yawned Tonks."
+   ]
+  },
+  {
+   "begin": "93.520",
+   "children": [],
+   "end": "95.840",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Her hair was blonde and curly this morning."
+   ]
+  },
+  {
+   "begin": "95.840",
+   "children": [],
+   "end": "97.160",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "\"Sleep all right?\""
    ]
   },
   {
    "begin": "97.160",
    "children": [],
    "end": "99.200",
-   "id": "f000005",
+   "id": "f000008",
    "language": "eng",
    "lines": [
     "\"Yeah,\" said Harry."
@@ -53,18 +83,28 @@
   {
    "begin": "99.200",
    "children": [],
-   "end": "108.000",
-   "id": "f000006",
+   "end": "105.440",
+   "id": "f000009",
    "language": "eng",
    "lines": [
-    "\"I've b-b-been up all night,\" she said, with another shuddering yawn. \"Come and sit down. . . .\""
+    "\"I've b-b-been up all night,\" she said, with another shuddering yawn."
    ]
   },
   {
-   "begin": "108.000",
+   "begin": "105.440",
+   "children": [],
+   "end": "108.040",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "\"Come and sit down. . . .\""
+   ]
+  },
+  {
+   "begin": "108.040",
    "children": [],
    "end": "111.440",
-   "id": "f000007",
+   "id": "f000011",
    "language": "eng",
    "lines": [
     "She drew out a chair, knocking over the one beside it in the process."
@@ -73,28 +113,88 @@
   {
    "begin": "111.440",
    "children": [],
-   "end": "118.280",
-   "id": "f000008",
+   "end": "113.360",
+   "id": "f000012",
    "language": "eng",
    "lines": [
-    "\"What do you want, Harry?\" Mrs. Weasley called. \"Porridge? Muffins? Kippers? Bacon and eggs? Toast?\""
+    "\"What do you want, Harry?\""
+   ]
+  },
+  {
+   "begin": "113.360",
+   "children": [],
+   "end": "114.320",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Mrs. Weasley called."
+   ]
+  },
+  {
+   "begin": "114.320",
+   "children": [],
+   "end": "115.480",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "\"Porridge?"
+   ]
+  },
+  {
+   "begin": "115.480",
+   "children": [],
+   "end": "116.320",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "Muffins?"
+   ]
+  },
+  {
+   "begin": "116.320",
+   "children": [],
+   "end": "116.960",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Kippers?"
+   ]
+  },
+  {
+   "begin": "116.960",
+   "children": [],
+   "end": "117.560",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Bacon and eggs?"
+   ]
+  },
+  {
+   "begin": "117.560",
+   "children": [],
+   "end": "118.280",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Toast?\""
    ]
   },
   {
    "begin": "118.280",
    "children": [],
-   "end": "122.600",
-   "id": "f000009",
+   "end": "122.560",
+   "id": "f000019",
    "language": "eng",
    "lines": [
     "\"Just - just toast, thanks,\" said Harry."
    ]
   },
   {
-   "begin": "122.600",
+   "begin": "122.560",
    "children": [],
    "end": "128.200",
-   "id": "f000010",
+   "id": "f000020",
    "language": "eng",
    "lines": [
     "Lupin glanced at Harry, then said to Tonks, \"What were you saying about Scrimgeour?\""
@@ -104,7 +204,7 @@
    "begin": "128.200",
    "children": [],
    "end": "136.560",
-   "id": "f000011",
+   "id": "f000021",
    "language": "eng",
    "lines": [
     "\"Oh . . . yeah . . . well, we need to be a bit more careful, he's been asking Kingsley and me funny questions. . . .\""
@@ -113,18 +213,58 @@
   {
    "begin": "136.560",
    "children": [],
-   "end": "160.640",
-   "id": "f000012",
+   "end": "141.240",
+   "id": "f000022",
    "language": "eng",
    "lines": [
-    "Harry felt vaguely grateful that he was not required to join in the conversation. His insides were squirming. Mrs. Weasley placed a couple of pieces of toast and marmalade in front of him; he tried to eat, but it was like chewing carpet. Mrs. Weasley sat down on his other side and started fussing with his T-shirt, tucking in the label and smoothing out creases across the shoulders. He wished she wouldn't."
+    "Harry felt vaguely grateful that he was not required to join in the conversation."
+   ]
+  },
+  {
+   "begin": "141.240",
+   "children": [],
+   "end": "143.280",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "His insides were squirming."
+   ]
+  },
+  {
+   "begin": "143.280",
+   "children": [],
+   "end": "150.960",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "Mrs. Weasley placed a couple of pieces of toast and marmalade in front of him; he tried to eat, but it was like chewing carpet."
+   ]
+  },
+  {
+   "begin": "150.960",
+   "children": [],
+   "end": "159.480",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Mrs. Weasley sat down on his other side and started fussing with his T-shirt, tucking in the label and smoothing out creases across the shoulders."
+   ]
+  },
+  {
+   "begin": "159.480",
+   "children": [],
+   "end": "160.640",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "He wished she wouldn't."
    ]
   },
   {
    "begin": "160.640",
    "children": [],
    "end": "171.600",
-   "id": "f000013",
+   "id": "f000027",
    "language": "eng",
    "lines": [
     "\". . . and I'll have to tell Dumbledore I can't do night duty tomorrow, I'm just t-t-too tired,\" Tonks finished, yawning hugely again."
@@ -133,28 +273,48 @@
   {
    "begin": "171.600",
    "children": [],
-   "end": "179.560",
-   "id": "f000014",
+   "end": "175.320",
+   "id": "f000028",
    "language": "eng",
    "lines": [
-    "\"I'll cover for you,\" said Mr. Weasley. \"I'm okay, I've got a report to finish anyway. . . .\""
+    "\"I'll cover for you,\" said Mr. Weasley."
+   ]
+  },
+  {
+   "begin": "175.320",
+   "children": [],
+   "end": "179.560",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "\"I'm okay, I've got a report to finish anyway. . . .\""
    ]
   },
   {
    "begin": "179.560",
    "children": [],
-   "end": "187.760",
-   "id": "f000015",
+   "end": "186.200",
+   "id": "f000030",
    "language": "eng",
    "lines": [
-    "Mr. Weasley was not wearing wizard's robes but a pair of pinstriped trousers and an old bomber jacket. He turned from Tonks to Harry."
+    "Mr. Weasley was not wearing wizard's robes but a pair of pinstriped trousers and an old bomber jacket."
+   ]
+  },
+  {
+   "begin": "186.200",
+   "children": [],
+   "end": "187.760",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "He turned from Tonks to Harry."
    ]
   },
   {
    "begin": "187.760",
    "children": [],
    "end": "190.840",
-   "id": "f000016",
+   "id": "f000032",
    "language": "eng",
    "lines": [
     "\"How are you feeling?\""
@@ -164,7 +324,7 @@
    "begin": "190.840",
    "children": [],
    "end": "191.720",
-   "id": "f000017",
+   "id": "f000033",
    "language": "eng",
    "lines": [
     "Harry shrugged."
@@ -173,18 +333,28 @@
   {
    "begin": "191.720",
    "children": [],
-   "end": "199.520",
-   "id": "f000018",
+   "end": "195.920",
+   "id": "f000034",
    "language": "eng",
    "lines": [
-    "\"It'll all be over soon,\" Mr. Weasley said bracingly. \"In a few hours' time you'll be cleared.\""
+    "\"It'll all be over soon,\" Mr. Weasley said bracingly."
+   ]
+  },
+  {
+   "begin": "195.920",
+   "children": [],
+   "end": "199.520",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "\"In a few hours' time you'll be cleared.\""
    ]
   },
   {
    "begin": "199.520",
    "children": [],
    "end": "200.440",
-   "id": "f000019",
+   "id": "f000036",
    "language": "eng",
    "lines": [
     "Harry said nothing."
@@ -193,28 +363,48 @@
   {
    "begin": "200.440",
    "children": [],
-   "end": "211.800",
-   "id": "f000020",
+   "end": "205.400",
+   "id": "f000037",
    "language": "eng",
    "lines": [
-    "\"The hearing's on my floor, in Amelia Bones's office. She's Head of the Department of Magical Law Enforcement and she's the one who'll be questioning you.\""
+    "\"The hearing's on my floor, in Amelia Bones's office."
+   ]
+  },
+  {
+   "begin": "205.400",
+   "children": [],
+   "end": "211.800",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "She's Head of the Department of Magical Law Enforcement and she's the one who'll be questioning you.\""
    ]
   },
   {
    "begin": "211.800",
    "children": [],
-   "end": "219.280",
-   "id": "f000021",
+   "end": "216.200",
+   "id": "f000039",
    "language": "eng",
    "lines": [
-    "\"Amelia Bones is okay, Harry,\" said Tonks earnestly. \"She's fair, she'll hear you out.\""
+    "\"Amelia Bones is okay, Harry,\" said Tonks earnestly."
+   ]
+  },
+  {
+   "begin": "216.200",
+   "children": [],
+   "end": "219.280",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "\"She's fair, she'll hear you out.\""
    ]
   },
   {
    "begin": "219.280",
    "children": [],
    "end": "222.280",
-   "id": "f000022",
+   "id": "f000041",
    "language": "eng",
    "lines": [
     "Harry nodded, still unable to think of anything to say."
@@ -223,18 +413,28 @@
   {
    "begin": "222.280",
    "children": [],
-   "end": "230.240",
-   "id": "f000023",
+   "end": "226.400",
+   "id": "f000042",
    "language": "eng",
    "lines": [
-    "\"Don't lose your temper,\" said Sirius abruptly. \"Be polite and stick to the facts.\""
+    "\"Don't lose your temper,\" said Sirius abruptly."
+   ]
+  },
+  {
+   "begin": "226.400",
+   "children": [],
+   "end": "230.240",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "\"Be polite and stick to the facts.\""
    ]
   },
   {
    "begin": "230.240",
    "children": [],
    "end": "231.280",
-   "id": "f000024",
+   "id": "f000044",
    "language": "eng",
    "lines": [
     "Harry nodded again."
@@ -243,38 +443,58 @@
   {
    "begin": "231.280",
    "children": [],
-   "end": "242.360",
-   "id": "f000025",
+   "end": "235.960",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "\"The law's on your side,\" said Lupin quietly. \"Even underage wizards are allowed to use magic in life-threatening situations.\""
+    "\"The law's on your side,\" said Lupin quietly."
+   ]
+  },
+  {
+   "begin": "235.960",
+   "children": [],
+   "end": "242.360",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "\"Even underage wizards are allowed to use magic in life-threatening situations.\""
    ]
   },
   {
    "begin": "242.360",
    "children": [],
-   "end": "256.240",
-   "id": "f000026",
+   "end": "254.240",
+   "id": "f000047",
    "language": "eng",
    "lines": [
-    "Something very cold trickled down the back of Harry's neck; for a moment he thought someone was putting a Disillusionment Charm on him again, then he realized that Mrs. Weasley was attacking his hair with a wet comb. She pressed hard on the top of his head."
+    "Something very cold trickled down the back of Harry's neck; for a moment he thought someone was putting a Disillusionment Charm on him again, then he realized that Mrs. Weasley was attacking his hair with a wet comb."
+   ]
+  },
+  {
+   "begin": "254.240",
+   "children": [],
+   "end": "256.240",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "She pressed hard on the top of his head."
    ]
   },
   {
    "begin": "256.240",
    "children": [],
-   "end": "260.320",
-   "id": "f000027",
+   "end": "260.000",
+   "id": "f000049",
    "language": "eng",
    "lines": [
     "\"Doesn't it ever lie flat?\" she said desperately."
    ]
   },
   {
-   "begin": "260.320",
+   "begin": "260.000",
    "children": [],
    "end": "262.080",
-   "id": "f000028",
+   "id": "f000050",
    "language": "eng",
    "lines": [
     "Harry shook his head."
@@ -284,7 +504,7 @@
    "begin": "262.080",
    "children": [],
    "end": "264.520",
-   "id": "f000029",
+   "id": "f000051",
    "language": "eng",
    "lines": [
     "Mr. Weasley checked his watch and looked up at Harry."
@@ -293,18 +513,28 @@
   {
    "begin": "264.520",
    "children": [],
-   "end": "272.240",
-   "id": "f000030",
+   "end": "267.400",
+   "id": "f000052",
    "language": "eng",
    "lines": [
-    "\"I think we'll go now,\" he said. \"We're a bit early, but I think you'll be better off there than hanging around here.\""
+    "\"I think we'll go now,\" he said."
+   ]
+  },
+  {
+   "begin": "267.400",
+   "children": [],
+   "end": "272.240",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "\"We're a bit early, but I think you'll be better off there than hanging around here.\""
    ]
   },
   {
    "begin": "272.240",
    "children": [],
    "end": "277.200",
-   "id": "f000031",
+   "id": "f000054",
    "language": "eng",
    "lines": [
     "\"Okay,\" said Harry automatically, dropping his toast and getting to his feet."
@@ -314,7 +544,7 @@
    "begin": "277.200",
    "children": [],
    "end": "281.480",
-   "id": "f000032",
+   "id": "f000055",
    "language": "eng",
    "lines": [
     "\"You'll be all right, Harry,\" said Tonks, patting him on the arm."
@@ -323,18 +553,28 @@
   {
    "begin": "281.480",
    "children": [],
-   "end": "286.080",
-   "id": "f000033",
+   "end": "283.960",
+   "id": "f000056",
    "language": "eng",
    "lines": [
-    "\"Good luck,\" said Lupin. \"I'm sure it will be fine.\""
+    "\"Good luck,\" said Lupin."
+   ]
+  },
+  {
+   "begin": "283.960",
+   "children": [],
+   "end": "286.080",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "\"I'm sure it will be fine.\""
    ]
   },
   {
    "begin": "286.080",
    "children": [],
    "end": "292.880",
-   "id": "f000034",
+   "id": "f000058",
    "language": "eng",
    "lines": [
     "\"And if it's not,\" said Sirius grimly, \"I'll see to Amelia Bones for you. . . .\""
@@ -343,18 +583,28 @@
   {
    "begin": "292.880",
    "children": [],
-   "end": "295.920",
-   "id": "f000035",
+   "end": "294.720",
+   "id": "f000059",
    "language": "eng",
    "lines": [
-    "Harry smiled weakly. Mrs. Weasley hugged him."
+    "Harry smiled weakly."
+   ]
+  },
+  {
+   "begin": "294.720",
+   "children": [],
+   "end": "295.920",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "Mrs. Weasley hugged him."
    ]
   },
   {
    "begin": "295.920",
    "children": [],
    "end": "299.480",
-   "id": "f000036",
+   "id": "f000061",
    "language": "eng",
    "lines": [
     "\"We've all got our fingers crossed,\" she said."
@@ -363,28 +613,58 @@
   {
    "begin": "299.480",
    "children": [],
-   "end": "304.400",
-   "id": "f000037",
+   "end": "301.880",
+   "id": "f000062",
    "language": "eng",
    "lines": [
-    "\"Right,\" said Harry. \"Well . . . see you later then.\""
+    "\"Right,\" said Harry."
+   ]
+  },
+  {
+   "begin": "301.880",
+   "children": [],
+   "end": "304.400",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "\"Well . . . see you later then.\""
    ]
   },
   {
    "begin": "304.400",
    "children": [],
-   "end": "315.760",
-   "id": "f000038",
+   "end": "307.360",
+   "id": "f000064",
    "language": "eng",
    "lines": [
-    "He followed Mr. Weasley upstairs and along the hall. He could hear Sirius's mother grunting in her sleep behind her curtains. Mr. Weasley unbolted the door and they stepped out into the cold, gray dawn."
+    "He followed Mr. Weasley upstairs and along the hall."
+   ]
+  },
+  {
+   "begin": "307.360",
+   "children": [],
+   "end": "311.600",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "He could hear Sirius's mother grunting in her sleep behind her curtains."
+   ]
+  },
+  {
+   "begin": "311.600",
+   "children": [],
+   "end": "315.760",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "Mr. Weasley unbolted the door and they stepped out into the cold, gray dawn."
    ]
   },
   {
    "begin": "315.760",
    "children": [],
    "end": "321.960",
-   "id": "f000039",
+   "id": "f000067",
    "language": "eng",
    "lines": [
     "\"You don't normally walk to work, do you?\" Harry asked him, as they set off briskly around the square."
@@ -394,7 +674,7 @@
    "begin": "321.960",
    "children": [],
    "end": "337.080",
-   "id": "f000040",
+   "id": "f000068",
    "language": "eng",
    "lines": [
     "\"No, I usually Apparate,\" said Mr. Weasley, \"but obviously you can't, and I think it's best we arrive in a thoroughly non-magical fashion . . . makes a better impression, given what you're being disciplined for. . . .\""
@@ -403,28 +683,68 @@
   {
    "begin": "337.080",
    "children": [],
-   "end": "360.640",
-   "id": "f000041",
+   "end": "340.480",
+   "id": "f000069",
    "language": "eng",
    "lines": [
-    "Mr. Weasley kept his hand inside his jacket as they walked. Harry knew it was clenched around his wand. The run-down streets were almost deserted, but when they arrived at the miserable little Underground station they found it already full of early morning commuters. As ever when he found himself in close proximity to Muggles going about their daily business, Mr. Weasley was hard put to contain his enthusiasm."
+    "Mr. Weasley kept his hand inside his jacket as they walked."
+   ]
+  },
+  {
+   "begin": "340.480",
+   "children": [],
+   "end": "342.800",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "Harry knew it was clenched around his wand."
+   ]
+  },
+  {
+   "begin": "342.800",
+   "children": [],
+   "end": "352.560",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "The run-down streets were almost deserted, but when they arrived at the miserable little Underground station they found it already full of early morning commuters."
+   ]
+  },
+  {
+   "begin": "352.560",
+   "children": [],
+   "end": "360.640",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "As ever when he found himself in close proximity to Muggles going about their daily business, Mr. Weasley was hard put to contain his enthusiasm."
    ]
   },
   {
    "begin": "360.640",
    "children": [],
-   "end": "368.480",
-   "id": "f000042",
+   "end": "366.160",
+   "id": "f000073",
    "language": "eng",
    "lines": [
-    "\"Simply fabulous,\" he whispered, indicating the automatic ticket machines. \"Wonderfully ingenious.\""
+    "\"Simply fabulous,\" he whispered, indicating the automatic ticket machines."
+   ]
+  },
+  {
+   "begin": "366.160",
+   "children": [],
+   "end": "368.480",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "\"Wonderfully ingenious.\""
    ]
   },
   {
    "begin": "368.480",
    "children": [],
    "end": "372.720",
-   "id": "f000043",
+   "id": "f000075",
    "language": "eng",
    "lines": [
     "\"They're out of order,\" said Harry, pointing at the sign."
@@ -433,28 +753,38 @@
   {
    "begin": "372.720",
    "children": [],
-   "end": "379.400",
-   "id": "f000044",
+   "end": "378.720",
+   "id": "f000076",
    "language": "eng",
    "lines": [
     "\"Yes, but even so . . .\" said Mr. Weasley, beaming fondly at them."
    ]
   },
   {
-   "begin": "379.400",
+   "begin": "378.720",
    "children": [],
-   "end": "397.920",
-   "id": "f000045",
+   "end": "393.240",
+   "id": "f000077",
    "language": "eng",
    "lines": [
-    "They bought their tickets instead from a sleepy-looking guard (Harry handled the transaction, as Mr. Weasley was not very good with Muggle money) and five minutes later they were boarding an Underground train that rattled them off toward the center of London. Mr. Weasley kept anxiously checking and rechecking the Underground map above the windows."
+    "They bought their tickets instead from a sleepy-looking guard (Harry handled the transaction, as Mr. Weasley was not very good with Muggle money) and five minutes later they were boarding an Underground train that rattled them off toward the center of London."
+   ]
+  },
+  {
+   "begin": "393.240",
+   "children": [],
+   "end": "397.920",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "Mr. Weasley kept anxiously checking and rechecking the Underground map above the windows."
    ]
   },
   {
    "begin": "397.920",
    "children": [],
    "end": "404.760",
-   "id": "f000046",
+   "id": "f000079",
    "language": "eng",
    "lines": [
     "\"Four stops, Harry . . . three stops left now . . . two stops to go, Harry . . .\""
@@ -463,28 +793,38 @@
   {
    "begin": "404.760",
    "children": [],
-   "end": "413.360",
-   "id": "f000047",
+   "end": "413.160",
+   "id": "f000080",
    "language": "eng",
    "lines": [
-    "They got off at a station in the very heart of London, swept from the train in a tide of besuited men and women carrying briefcases. Up"
+    "They got off at a station in the very heart of London, swept from the train in a tide of besuited men and women carrying briefcases."
    ]
   },
   {
-   "begin": "413.360",
+   "begin": "413.160",
    "children": [],
-   "end": "426.000",
-   "id": "f000048",
+   "end": "413.240",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "Up"
+   ]
+  },
+  {
+   "begin": "413.240",
+   "children": [],
+   "end": "426.120",
+   "id": "f000082",
    "language": "eng",
    "lines": [
     "the escalator they went, through the ticket barrier (Mr. Weasley delighted with the way the stile swallowed his ticket), and emerged onto a broad street lined with imposing-looking buildings, already full of traffic."
    ]
   },
   {
-   "begin": "426.000",
+   "begin": "426.120",
    "children": [],
    "end": "444.280",
-   "id": "f000049",
+   "id": "f000083",
    "language": "eng",
    "lines": [
     "\"Where are we?\" said Mr. Weasley blankly, and for one heartstopping moment Harry thought they had gotten off at the wrong station despite Mr. Weasley's continual references to the map; but a second later he said, \"Ah yes . . . this way, Harry,\" and led him down a side road."
@@ -493,38 +833,68 @@
   {
    "begin": "444.280",
    "children": [],
-   "end": "456.920",
-   "id": "f000050",
+   "end": "452.120",
+   "id": "f000084",
    "language": "eng",
    "lines": [
-    "\"Sorry,\" he said, \"but I never come by train and it all looks rather different from a Muggle perspective. As a matter of fact I've never even used the visitor's entrance before.\""
+    "\"Sorry,\" he said, \"but I never come by train and it all looks rather different from a Muggle perspective."
    ]
   },
   {
-   "begin": "456.920",
+   "begin": "452.120",
    "children": [],
-   "end": "472.520",
-   "id": "f000051",
+   "end": "456.120",
+   "id": "f000085",
    "language": "eng",
    "lines": [
-    "The farther they walked, the smaller and less imposing the buildings became, until finally they reached a street that contained several rather shabby-looking offices, a pub, and an overflowing dumpster. Harry had expected a rather more impressive location for the Ministry of Magic."
+    "As a matter of fact I've never even used the visitor's entrance before.\""
+   ]
+  },
+  {
+   "begin": "456.120",
+   "children": [],
+   "end": "467.720",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "The farther they walked, the smaller and less imposing the buildings became, until finally they reached a street that contained several rather shabby-looking offices, a pub, and an overflowing dumpster."
+   ]
+  },
+  {
+   "begin": "467.720",
+   "children": [],
+   "end": "472.520",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "Harry had expected a rather more impressive location for the Ministry of Magic."
    ]
   },
   {
    "begin": "472.520",
    "children": [],
-   "end": "484.840",
-   "id": "f000052",
+   "end": "482.760",
+   "id": "f000088",
    "language": "eng",
    "lines": [
-    "\"Here we are,\" said Mr. Weasley brightly, pointing at an old red telephone box, which was missing several panes of glass and stood before a heavily graffittied wall. \"After you, Harry.\""
+    "\"Here we are,\" said Mr. Weasley brightly, pointing at an old red telephone box, which was missing several panes of glass and stood before a heavily graffittied wall."
+   ]
+  },
+  {
+   "begin": "482.760",
+   "children": [],
+   "end": "484.840",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "\"After you, Harry.\""
    ]
   },
   {
    "begin": "484.840",
    "children": [],
    "end": "487.320",
-   "id": "f000053",
+   "id": "f000090",
    "language": "eng",
    "lines": [
     "He opened the telephone box door."
@@ -533,18 +903,48 @@
   {
    "begin": "487.320",
    "children": [],
-   "end": "507.160",
-   "id": "f000054",
+   "end": "490.440",
+   "id": "f000091",
    "language": "eng",
    "lines": [
-    "Harry stepped inside, wondering what on earth this was about. Mr. Weasley folded himself in beside Harry and closed the door. It was a tight fit; Harry was jammed against the telephone apparatus, which was hanging crookedly from the wall as though a vandal had tried to rip it off. Mr. Weasley reached past Harry for the receiver."
+    "Harry stepped inside, wondering what on earth this was about."
+   ]
+  },
+  {
+   "begin": "490.440",
+   "children": [],
+   "end": "495.160",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "Mr. Weasley folded himself in beside Harry and closed the door."
+   ]
+  },
+  {
+   "begin": "495.160",
+   "children": [],
+   "end": "504.440",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "It was a tight fit; Harry was jammed against the telephone apparatus, which was hanging crookedly from the wall as though a vandal had tried to rip it off."
+   ]
+  },
+  {
+   "begin": "504.440",
+   "children": [],
+   "end": "507.160",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "Mr. Weasley reached past Harry for the receiver."
    ]
   },
   {
    "begin": "507.160",
    "children": [],
    "end": "512.120",
-   "id": "f000055",
+   "id": "f000095",
    "language": "eng",
    "lines": [
     "\"Mr. Weasley, I think this might be out of order too,\" Harry said."
@@ -553,18 +953,28 @@
   {
    "begin": "512.120",
    "children": [],
-   "end": "527.920",
-   "id": "f000056",
+   "end": "519.440",
+   "id": "f000096",
    "language": "eng",
    "lines": [
-    "\"No, no, I'm sure it's fine,\" said Mr. Weasley, holding the receiver above his head and peering at the dial. \"Let's see . . . six . . .\" he dialed the number, \"two . . . four . . . and another four . . . and another two . . .\""
+    "\"No, no, I'm sure it's fine,\" said Mr. Weasley, holding the receiver above his head and peering at the dial."
    ]
   },
   {
-   "begin": "527.920",
+   "begin": "519.440",
+   "children": [],
+   "end": "527.880",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "\"Let's see . . . six . . .\" he dialed the number, \"two . . . four . . . and another four . . . and another two . . .\""
+   ]
+  },
+  {
+   "begin": "527.880",
    "children": [],
    "end": "541.640",
-   "id": "f000057",
+   "id": "f000098",
    "language": "eng",
    "lines": [
     "As the dial whirred smoothly back into place, a cool female voice sounded inside the telephone box, not from the receiver in Mr. Weasley's hand, but as loudly and plainly as though an invisible woman were standing right beside them."
@@ -573,18 +983,28 @@
   {
    "begin": "541.640",
    "children": [],
-   "end": "547.680",
-   "id": "f000058",
+   "end": "545.160",
+   "id": "f000099",
    "language": "eng",
    "lines": [
-    "\"Welcome to the Ministry of Magic. Please state your name and business.\""
+    "\"Welcome to the Ministry of Magic."
+   ]
+  },
+  {
+   "begin": "545.160",
+   "children": [],
+   "end": "547.680",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "Please state your name and business.\""
    ]
   },
   {
    "begin": "547.680",
    "children": [],
    "end": "566.720",
-   "id": "f000059",
+   "id": "f000101",
    "language": "eng",
    "lines": [
     "\"Er . . .\" said Mr. Weasley, clearly uncertain whether he should talk into the receiver or not; he compromised by holding the mouthpiece to his ear, \"Arthur Weasley, Misuse of Muggle Artifacts Office, here to escort Harry Potter, who has been asked to attend a disciplinary hearing. . . .\""
@@ -593,28 +1013,58 @@
   {
    "begin": "566.720",
    "children": [],
-   "end": "576.560",
-   "id": "f000060",
+   "end": "570.560",
+   "id": "f000102",
    "language": "eng",
    "lines": [
-    "\"Thank you,\" said the cool female voice. \"Visitor, please take the badge and attach it to the front of your robes.\""
+    "\"Thank you,\" said the cool female voice."
+   ]
+  },
+  {
+   "begin": "570.560",
+   "children": [],
+   "end": "576.560",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "\"Visitor, please take the badge and attach it to the front of your robes.\""
    ]
   },
   {
    "begin": "576.560",
    "children": [],
-   "end": "594.800",
-   "id": "f000061",
+   "end": "583.560",
+   "id": "f000104",
    "language": "eng",
    "lines": [
-    "There was a click and a rattle, and Harry saw something slide out of the metal chute where returned coins usually appeared. He picked it up: It was a square silver badge with Harry Potter, Disciplinary Hearing on it. He pinned it to the front of his T-shirt as the female voice spoke again."
+    "There was a click and a rattle, and Harry saw something slide out of the metal chute where returned coins usually appeared."
+   ]
+  },
+  {
+   "begin": "583.560",
+   "children": [],
+   "end": "590.320",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "He picked it up: It was a square silver badge with Harry Potter, Disciplinary Hearing on it."
+   ]
+  },
+  {
+   "begin": "590.320",
+   "children": [],
+   "end": "594.800",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "He pinned it to the front of his T-shirt as the female voice spoke again."
    ]
   },
   {
    "begin": "594.800",
    "children": [],
    "end": "606.960",
-   "id": "f000062",
+   "id": "f000107",
    "language": "eng",
    "lines": [
     "\"Visitor to the Ministry, you are required to submit to a search and present your wand for registration at the security desk, which is located at the far end of the Atrium.\""
@@ -623,88 +1073,228 @@
   {
    "begin": "606.960",
    "children": [],
-   "end": "640.760",
-   "id": "f000063",
+   "end": "608.880",
+   "id": "f000108",
    "language": "eng",
    "lines": [
-    "The floor of the telephone box shuddered. They were sinking slowly into the ground. Harry watched apprehensively as the pavement rose up past the glass windows of the telephone box until darkness closed over their heads. Then he could see nothing at all; he could only hear a dull grinding noise as the telephone box made its way down through the earth. After about a minute, though it felt much longer to Harry, a chink of golden light illuminated his feet and, widening, rose up his body, until it hit him in the face and he had to blink to stop his eyes from watering."
+    "The floor of the telephone box shuddered."
+   ]
+  },
+  {
+   "begin": "608.880",
+   "children": [],
+   "end": "611.440",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "They were sinking slowly into the ground."
+   ]
+  },
+  {
+   "begin": "611.440",
+   "children": [],
+   "end": "620.000",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "Harry watched apprehensively as the pavement rose up past the glass windows of the telephone box until darkness closed over their heads."
+   ]
+  },
+  {
+   "begin": "620.000",
+   "children": [],
+   "end": "627.800",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "Then he could see nothing at all; he could only hear a dull grinding noise as the telephone box made its way down through the earth."
+   ]
+  },
+  {
+   "begin": "627.800",
+   "children": [],
+   "end": "640.760",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "After about a minute, though it felt much longer to Harry, a chink of golden light illuminated his feet and, widening, rose up his body, until it hit him in the face and he had to blink to stop his eyes from watering."
    ]
   },
   {
    "begin": "640.760",
    "children": [],
-   "end": "647.200",
-   "id": "f000064",
+   "end": "646.360",
+   "id": "f000113",
    "language": "eng",
    "lines": [
     "\"The Ministry of Magic wishes you a pleasant day,\" said the woman's voice."
    ]
   },
   {
-   "begin": "647.200",
+   "begin": "646.360",
    "children": [],
-   "end": "655.280",
-   "id": "f000065",
+   "end": "654.360",
+   "id": "f000114",
    "language": "eng",
    "lines": [
     "The door of the telephone box sprang open and Mr. Weasley stepped out of it, followed by Harry, whose mouth had fallen open."
    ]
   },
   {
-   "begin": "655.280",
+   "begin": "654.360",
    "children": [],
-   "end": "691.520",
-   "id": "f000066",
+   "end": "661.120",
+   "id": "f000115",
    "language": "eng",
    "lines": [
-    "They were standing at one end of a very long and splendid hall with a highly polished, dark wood floor. The peacock-blue ceiling was inlaid with gleaming golden symbols that were continually moving and changing like some enormous heavenly notice board. The walls on each side were paneled in shiny dark wood and had many gilded fireplaces set into them. Every few seconds a witch or wizard would emerge from one of the left-hand fireplaces with a soft whoosh; on the right-hand side, short queues of wizards were forming before each fireplace, waiting to depart."
+    "They were standing at one end of a very long and splendid hall with a highly polished, dark wood floor."
    ]
   },
   {
-   "begin": "691.520",
+   "begin": "661.120",
    "children": [],
-   "end": "739.760",
-   "id": "f000067",
+   "end": "670.200",
+   "id": "f000116",
    "language": "eng",
    "lines": [
-    "Halfway down the hall was a fountain. A group of golden statues, larger than life-size, stood in the middle of a circular pool. Tallest of them all was a noble-looking wizard with his wand pointing straight up in the air. Grouped around him were a beautiful witch, a centaur, a goblin, and a house-elf. The last three were all looking adoringly up at the witch and wizard. Glittering jets of water were flying from the ends of the two wands, the point of the centaur's arrow, the tip of the goblin's hat, and each of the house-elf 's ears, so that the tinkling hiss of falling water was added to the pops and cracks of Apparators and the clatter of footsteps as hundreds of witches and wizards, most of whom were wearing glum, early-morning looks, strode toward a set of golden gates at the far end of the hall."
+    "The peacock-blue ceiling was inlaid with gleaming golden symbols that were continually moving and changing like some enormous heavenly notice board."
+   ]
+  },
+  {
+   "begin": "670.200",
+   "children": [],
+   "end": "677.280",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "The walls on each side were paneled in shiny dark wood and had many gilded fireplaces set into them."
+   ]
+  },
+  {
+   "begin": "677.280",
+   "children": [],
+   "end": "690.680",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "Every few seconds a witch or wizard would emerge from one of the left-hand fireplaces with a soft whoosh; on the right-hand side, short queues of wizards were forming before each fireplace, waiting to depart."
+   ]
+  },
+  {
+   "begin": "690.680",
+   "children": [],
+   "end": "693.920",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "Halfway down the hall was a fountain."
+   ]
+  },
+  {
+   "begin": "693.920",
+   "children": [],
+   "end": "698.480",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "A group of golden statues, larger than life-size, stood in the middle of a circular pool."
+   ]
+  },
+  {
+   "begin": "698.480",
+   "children": [],
+   "end": "704.240",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "Tallest of them all was a noble-looking wizard with his wand pointing straight up in the air."
+   ]
+  },
+  {
+   "begin": "704.240",
+   "children": [],
+   "end": "709.720",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "Grouped around him were a beautiful witch, a centaur, a goblin, and a house-elf."
+   ]
+  },
+  {
+   "begin": "709.720",
+   "children": [],
+   "end": "713.640",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "The last three were all looking adoringly up at the witch and wizard."
+   ]
+  },
+  {
+   "begin": "713.640",
+   "children": [],
+   "end": "739.760",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "Glittering jets of water were flying from the ends of the two wands, the point of the centaur's arrow, the tip of the goblin's hat, and each of the house-elf 's ears, so that the tinkling hiss of falling water was added to the pops and cracks of Apparators and the clatter of footsteps as hundreds of witches and wizards, most of whom were wearing glum, early-morning looks, strode toward a set of golden gates at the far end of the hall."
    ]
   },
   {
    "begin": "739.760",
    "children": [],
-   "end": "743.320",
-   "id": "f000068",
+   "end": "742.840",
+   "id": "f000125",
    "language": "eng",
    "lines": [
     "\"This way,\" said Mr. Weasley."
    ]
   },
   {
-   "begin": "743.320",
+   "begin": "742.840",
    "children": [],
-   "end": "765.960",
-   "id": "f000069",
+   "end": "754.840",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "They joined the throng, wending their way between the Ministry workers, some of whom were carrying tottering piles of parchment, others battered briefcases, still others reading the Daily Prophet as they walked. As they passed the fountain Harry saw silver Sickles and bronze Knuts glinting up at him from the bottom of the pool. A small, smudged sign beside it read:"
+    "They joined the throng, wending their way between the Ministry workers, some of whom were carrying tottering piles of parchment, others battered briefcases, still others reading the Daily Prophet as they walked."
    ]
   },
   {
-   "begin": "765.960",
+   "begin": "754.840",
    "children": [],
-   "end": "770.160",
-   "id": "f000070",
+   "end": "762.600",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "As they passed the fountain Harry saw silver Sickles and bronze Knuts glinting up at him from the bottom of the pool."
+   ]
+  },
+  {
+   "begin": "762.600",
+   "children": [],
+   "end": "765.320",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "A small, smudged sign beside it read:"
+   ]
+  },
+  {
+   "begin": "765.320",
+   "children": [],
+   "end": "772.840",
+   "id": "f000129",
    "language": "eng",
    "lines": [
     "All proceeds from the Fountain of Magical Brethren will be given to"
    ]
   },
   {
-   "begin": "770.160",
+   "begin": "772.840",
    "children": [],
    "end": "779.720",
-   "id": "f000071",
+   "id": "f000130",
    "language": "eng",
    "lines": [
     "If I'm not expelled from Hogwarts, I'll put in ten Galleons, Harry found himself thinking desperately."
@@ -713,18 +1303,28 @@
   {
    "begin": "779.720",
    "children": [],
-   "end": "798.200",
-   "id": "f000072",
+   "end": "792.480",
+   "id": "f000131",
    "language": "eng",
    "lines": [
-    "\"Over here, Harry,\" said Mr. Weasley, and they stepped out of the stream of Ministry employees heading for the golden gates, toward a desk on the left, over which hung a sign saying security. A badly shaven wizard in peacock-blue robes looked up as they approached and put down his Daily Prophet."
+    "\"Over here, Harry,\" said Mr. Weasley, and they stepped out of the stream of Ministry employees heading for the golden gates, toward a desk on the left, over which hung a sign saying security."
+   ]
+  },
+  {
+   "begin": "792.480",
+   "children": [],
+   "end": "798.200",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "A badly shaven wizard in peacock-blue robes looked up as they approached and put down his Daily Prophet."
    ]
   },
   {
    "begin": "798.200",
    "children": [],
    "end": "803.640",
-   "id": "f000073",
+   "id": "f000133",
    "language": "eng",
    "lines": [
     "\"I'm escorting a visitor,\" said Mr. Weasley, gesturing toward Harry."
@@ -733,18 +1333,18 @@
   {
    "begin": "803.640",
    "children": [],
-   "end": "808.760",
-   "id": "f000074",
+   "end": "808.080",
+   "id": "f000134",
    "language": "eng",
    "lines": [
     "\"Step over here,\" said the wizard in a bored voice."
    ]
   },
   {
-   "begin": "808.760",
+   "begin": "808.080",
    "children": [],
    "end": "817.280",
-   "id": "f000075",
+   "id": "f000135",
    "language": "eng",
    "lines": [
     "Harry walked closer to him and the wizard held up a long golden rod, thin and flexible as a car aerial, and passed it up and down Harry's front and back."
@@ -753,38 +1353,88 @@
   {
    "begin": "817.280",
    "children": [],
-   "end": "825.280",
-   "id": "f000076",
+   "end": "824.680",
+   "id": "f000136",
    "language": "eng",
    "lines": [
     "\"Wand,\" grunted the security wizard at Harry, putting down the golden instrument and holding out his hand."
    ]
   },
   {
-   "begin": "825.280",
+   "begin": "824.680",
    "children": [],
-   "end": "842.440",
-   "id": "f000077",
+   "end": "826.640",
+   "id": "f000137",
    "language": "eng",
    "lines": [
-    "Harry produced his wand. The wizard dropped it onto a strange brass instrument, which looked something like a set of scales with only one dish. It began to vibrate. A narrow strip of parchment came speeding out of a slit in the base. The wizard tore this off and read the writing upon it."
+    "Harry produced his wand."
+   ]
+  },
+  {
+   "begin": "826.640",
+   "children": [],
+   "end": "833.200",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "The wizard dropped it onto a strange brass instrument, which looked something like a set of scales with only one dish."
+   ]
+  },
+  {
+   "begin": "833.200",
+   "children": [],
+   "end": "835.280",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "It began to vibrate."
+   ]
+  },
+  {
+   "begin": "835.280",
+   "children": [],
+   "end": "838.960",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "A narrow strip of parchment came speeding out of a slit in the base."
+   ]
+  },
+  {
+   "begin": "838.960",
+   "children": [],
+   "end": "842.440",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "The wizard tore this off and read the writing upon it."
    ]
   },
   {
    "begin": "842.440",
    "children": [],
-   "end": "850.040",
-   "id": "f000078",
+   "end": "849.040",
+   "id": "f000142",
    "language": "eng",
    "lines": [
-    "\"Eleven inches, phoenix-feather core, been in use four years. That correct?\""
+    "\"Eleven inches, phoenix-feather core, been in use four years."
+   ]
+  },
+  {
+   "begin": "849.040",
+   "children": [],
+   "end": "850.040",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "That correct?\""
    ]
   },
   {
    "begin": "850.040",
    "children": [],
    "end": "852.640",
-   "id": "f000079",
+   "id": "f000144",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry nervously."
@@ -793,18 +1443,28 @@
   {
    "begin": "852.640",
    "children": [],
-   "end": "863.000",
-   "id": "f000080",
+   "end": "858.720",
+   "id": "f000145",
    "language": "eng",
    "lines": [
-    "\"I keep this,\" said the wizard, impaling the slip of parchment on a small brass spike. \"You get this back,\" he added, thrusting the wand at Harry."
+    "\"I keep this,\" said the wizard, impaling the slip of parchment on a small brass spike."
+   ]
+  },
+  {
+   "begin": "858.720",
+   "children": [],
+   "end": "863.000",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "\"You get this back,\" he added, thrusting the wand at Harry."
    ]
   },
   {
    "begin": "863.000",
    "children": [],
    "end": "864.280",
-   "id": "f000081",
+   "id": "f000147",
    "language": "eng",
    "lines": [
     "\"Thank you.\""
@@ -814,7 +1474,7 @@
    "begin": "864.280",
    "children": [],
    "end": "868.040",
-   "id": "f000082",
+   "id": "f000148",
    "language": "eng",
    "lines": [
     "\"Hang on. . . .\" said the wizard slowly."
@@ -824,7 +1484,7 @@
    "begin": "868.040",
    "children": [],
    "end": "873.400",
-   "id": "f000083",
+   "id": "f000149",
    "language": "eng",
    "lines": [
     "His eyes had darted from the silver visitor's badge on Harry's chest to his forehead."
@@ -833,28 +1493,58 @@
   {
    "begin": "873.400",
    "children": [],
-   "end": "885.960",
-   "id": "f000084",
+   "end": "885.000",
+   "id": "f000150",
    "language": "eng",
    "lines": [
     "\"Thank you, Eric,\" said Mr. Weasley firmly, and grasping Harry by the shoulder, he steered him away from the desk and back into the stream of wizards and witches walking through the golden gates."
    ]
   },
   {
-   "begin": "885.960",
+   "begin": "885.000",
    "children": [],
-   "end": "905.840",
-   "id": "f000085",
+   "end": "895.120",
+   "id": "f000151",
    "language": "eng",
    "lines": [
-    "Jostled slightly by the crowd, Harry followed Mr. Weasley through the gates into the smaller hall beyond, where at least twenty lifts stood behind wrought golden grilles. Harry and Mr. Weasley joined the crowd around one of them. A big, bearded wizard holding a large cardboard box stood nearby. The box was emitting rasping noises."
+    "Jostled slightly by the crowd, Harry followed Mr. Weasley through the gates into the smaller hall beyond, where at least twenty lifts stood behind wrought golden grilles."
+   ]
+  },
+  {
+   "begin": "895.120",
+   "children": [],
+   "end": "899.040",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "Harry and Mr. Weasley joined the crowd around one of them."
+   ]
+  },
+  {
+   "begin": "899.040",
+   "children": [],
+   "end": "903.040",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "A big, bearded wizard holding a large cardboard box stood nearby."
+   ]
+  },
+  {
+   "begin": "903.040",
+   "children": [],
+   "end": "905.840",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "The box was emitting rasping noises."
    ]
   },
   {
    "begin": "905.840",
    "children": [],
    "end": "910.200",
-   "id": "f000086",
+   "id": "f000155",
    "language": "eng",
    "lines": [
     "\"All right, Arthur?\" said the wizard, nodding at Mr. Weasley."
@@ -864,7 +1554,7 @@
    "begin": "910.200",
    "children": [],
    "end": "914.360",
-   "id": "f000087",
+   "id": "f000156",
    "language": "eng",
    "lines": [
     "\"What've you got there, Bob?\" asked Mr. Weasley, looking at the box."
@@ -873,28 +1563,78 @@
   {
    "begin": "914.360",
    "children": [],
-   "end": "928.320",
-   "id": "f000088",
+   "end": "918.080",
+   "id": "f000157",
    "language": "eng",
    "lines": [
-    "\"We're not sure,\" said the wizard seriously. \"We thought it was a bog-standard chicken until it started breathing fire. Looks like a serious breach of the Ban on Experimental Breeding to me.\""
+    "\"We're not sure,\" said the wizard seriously."
    ]
   },
   {
-   "begin": "928.320",
+   "begin": "918.080",
    "children": [],
-   "end": "962.080",
-   "id": "f000089",
+   "end": "922.880",
+   "id": "f000158",
    "language": "eng",
    "lines": [
-    "With a great jangling and clattering a lift descended in front of them; the golden grille slid back and Harry and Mr. Weasley moved inside it with the rest of the crowd. Harry found himself jammed against the back wall of the lift. Several witches and wizards were looking at him curiously; he stared at his feet to avoid catching anyone's eye, flattening his fringe as he did so. The grilles slid shut with a crash and the lift ascended slowly, chains rattling all the while, while the same cool female voice Harry had heard in the telephone box rang out again."
+    "\"We thought it was a bog-standard chicken until it started breathing fire."
+   ]
+  },
+  {
+   "begin": "922.880",
+   "children": [],
+   "end": "927.560",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "Looks like a serious breach of the Ban on Experimental Breeding to me.\""
+   ]
+  },
+  {
+   "begin": "927.560",
+   "children": [],
+   "end": "937.440",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "With a great jangling and clattering a lift descended in front of them; the golden grille slid back and Harry and Mr. Weasley moved inside it with the rest of the crowd."
+   ]
+  },
+  {
+   "begin": "937.440",
+   "children": [],
+   "end": "941.280",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "Harry found himself jammed against the back wall of the lift."
+   ]
+  },
+  {
+   "begin": "941.280",
+   "children": [],
+   "end": "950.160",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "Several witches and wizards were looking at him curiously; he stared at his feet to avoid catching anyone's eye, flattening his fringe as he did so."
+   ]
+  },
+  {
+   "begin": "950.160",
+   "children": [],
+   "end": "962.080",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "The grilles slid shut with a crash and the lift ascended slowly, chains rattling all the while, while the same cool female voice Harry had heard in the telephone box rang out again."
    ]
   },
   {
    "begin": "962.080",
    "children": [],
    "end": "976.000",
-   "id": "f000090",
+   "id": "f000164",
    "language": "eng",
    "lines": [
     "\"Level seven, Department of Magical Games and Sports, incorporating the British and Irish Quidditch League Headquarters, Official Gobstones Club, and Ludicrous Patents Office.\""
@@ -903,18 +1643,28 @@
   {
    "begin": "976.000",
    "children": [],
-   "end": "1014.160",
-   "id": "f000091",
+   "end": "994.320",
+   "id": "f000165",
    "language": "eng",
    "lines": [
-    "The lift doors opened; Harry glimpsed an untidy-looking corridor, with various posters of Quidditch teams tacked lopsidedly on the walls; one of the wizards in the lift, who was carrying an armful of broomsticks, extricated himself with difficulty and disappeared down the corridor. The doors closed, the lift juddered upward again, and the woman's voice said, \"Level six, Department of Magical Transport, incorporating the Floo Network Authority, Broom Regulatory Control, Portkey Office, and Apparation Test Center.\""
+    "The lift doors opened; Harry glimpsed an untidy-looking corridor, with various posters of Quidditch teams tacked lopsidedly on the walls; one of the wizards in the lift, who was carrying an armful of broomsticks, extricated himself with difficulty and disappeared down the corridor."
    ]
   },
   {
-   "begin": "1014.160",
+   "begin": "994.320",
+   "children": [],
+   "end": "1013.160",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "The doors closed, the lift juddered upward again, and the woman's voice said, \"Level six, Department of Magical Transport, incorporating the Floo Network Authority, Broom Regulatory Control, Portkey Office, and Apparation Test Center.\""
+   ]
+  },
+  {
+   "begin": "1013.160",
    "children": [],
    "end": "1021.960",
-   "id": "f000092",
+   "id": "f000167",
    "language": "eng",
    "lines": [
     "Once again the lift doors opened and four or five witches and wizards got out; at the same time, several paper airplanes swooped"
@@ -923,28 +1673,48 @@
   {
    "begin": "1021.960",
    "children": [],
-   "end": "1033.600",
-   "id": "f000093",
+   "end": "1022.760",
+   "id": "f000168",
    "language": "eng",
    "lines": [
-    "into the lift. Harry stared up at them as they flapped idly around above his head; they were a pale violet color and he could see ministry of magic stamped along the edges of their wings."
+    "into the lift."
+   ]
+  },
+  {
+   "begin": "1022.760",
+   "children": [],
+   "end": "1033.600",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "Harry stared up at them as they flapped idly around above his head; they were a pale violet color and he could see ministry of magic stamped along the edges of their wings."
    ]
   },
   {
    "begin": "1033.600",
    "children": [],
-   "end": "1045.160",
-   "id": "f000094",
+   "end": "1038.480",
+   "id": "f000170",
    "language": "eng",
    "lines": [
-    "\"Just Interdepartmental memos,\" Mr. Weasley muttered to him. \"We used to use owls, but the mess was unbelievable . . . droppings all over the desks . . .\""
+    "\"Just Interdepartmental memos,\" Mr. Weasley muttered to him."
    ]
   },
   {
-   "begin": "1045.160",
+   "begin": "1038.480",
+   "children": [],
+   "end": "1044.320",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "\"We used to use owls, but the mess was unbelievable . . . droppings all over the desks . . .\""
+   ]
+  },
+  {
+   "begin": "1044.320",
    "children": [],
    "end": "1050.440",
-   "id": "f000095",
+   "id": "f000172",
    "language": "eng",
    "lines": [
     "As they clattered upward again, the memos flapped around the swaying lamp in the lift's ceiling."
@@ -953,18 +1723,18 @@
   {
    "begin": "1050.440",
    "children": [],
-   "end": "1069.120",
-   "id": "f000096",
+   "end": "1068.200",
+   "id": "f000173",
    "language": "eng",
    "lines": [
     "\"Level five, Department of International Magical Cooperation, incorporating the International Magical Trading Standards Body, the International Magical Office of Law, and the International Confederation of Wizards, British Seats.\""
    ]
   },
   {
-   "begin": "1069.120",
+   "begin": "1068.200",
    "children": [],
    "end": "1080.200",
-   "id": "f000097",
+   "id": "f000174",
    "language": "eng",
    "lines": [
     "When the doors opened, two of the memos zoomed out with a few more witches and wizards, but several more memos zoomed in, so that the light from the lamp in the ceiling flickered and flashed as they darted around it."
@@ -974,7 +1744,7 @@
    "begin": "1080.200",
    "children": [],
    "end": "1093.760",
-   "id": "f000098",
+   "id": "f000175",
    "language": "eng",
    "lines": [
     "\"Level four, Department for the Regulation and Control of Magical Creatures, incorporating Beast, Being, and Spirit Divisions, Goblin Liaison Office, and Pest Advisory Bureau.\""
@@ -983,48 +1753,78 @@
   {
    "begin": "1093.760",
    "children": [],
-   "end": "1103.960",
-   "id": "f000099",
+   "end": "1101.440",
+   "id": "f000176",
    "language": "eng",
    "lines": [
-    "\" 'S'cuse,\" said the wizard carrying the fire-breathing chicken and he left the lift pursued by a little flock of memos. The doors clanged shut yet again."
+    "\" 'S'cuse,\" said the wizard carrying the fire-breathing chicken and he left the lift pursued by a little flock of memos."
+   ]
+  },
+  {
+   "begin": "1101.440",
+   "children": [],
+   "end": "1103.960",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "The doors clanged shut yet again."
    ]
   },
   {
    "begin": "1103.960",
    "children": [],
-   "end": "1118.360",
-   "id": "f000100",
+   "end": "1117.520",
+   "id": "f000178",
    "language": "eng",
    "lines": [
     "\"Level three, Department of Magical Accidents and Catastrophes, including the Accidental Magic Reversal Squad, Obliviator Headquarters, and Muggle-Worthy Excuse Committee.\""
    ]
   },
   {
-   "begin": "1118.360",
+   "begin": "1117.520",
    "children": [],
-   "end": "1148.240",
-   "id": "f000101",
+   "end": "1127.480",
+   "id": "f000179",
    "language": "eng",
    "lines": [
-    "Everybody left the lift on this floor except Mr. Weasley, Harry, and a witch who was reading an extremely long piece of parchment that was trailing on the ground. The remaining memos continued to soar around the lamp as the lift juddered upward again, and then the doors opened and the voice said, \"Level two, Department of Magical Law Enforcement, including the Improper Use of Magic Office, Auror Headquarters, and Wizengamot Administration Services.\""
+    "Everybody left the lift on this floor except Mr. Weasley, Harry, and a witch who was reading an extremely long piece of parchment that was trailing on the ground."
+   ]
+  },
+  {
+   "begin": "1127.480",
+   "children": [],
+   "end": "1148.240",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "The remaining memos continued to soar around the lamp as the lift juddered upward again, and then the doors opened and the voice said, \"Level two, Department of Magical Law Enforcement, including the Improper Use of Magic Office, Auror Headquarters, and Wizengamot Administration Services.\""
    ]
   },
   {
    "begin": "1148.240",
    "children": [],
-   "end": "1157.760",
-   "id": "f000102",
+   "end": "1155.080",
+   "id": "f000181",
    "language": "eng",
    "lines": [
-    "\"This is us, Harry,\" said Mr. Weasley, and they followed the witch out of the lift into a corridor lined with doors. \"My office is on the other side of the floor.\""
+    "\"This is us, Harry,\" said Mr. Weasley, and they followed the witch out of the lift into a corridor lined with doors."
+   ]
+  },
+  {
+   "begin": "1155.080",
+   "children": [],
+   "end": "1157.760",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "\"My office is on the other side of the floor.\""
    ]
   },
   {
    "begin": "1157.760",
    "children": [],
    "end": "1165.080",
-   "id": "f000103",
+   "id": "f000183",
    "language": "eng",
    "lines": [
     "\"Mr. Weasley,\" said Harry, as they passed a window through which sunlight was streaming, \"aren't we underground?\""
@@ -1033,48 +1833,118 @@
   {
    "begin": "1165.080",
    "children": [],
-   "end": "1180.160",
-   "id": "f000104",
+   "end": "1173.680",
+   "id": "f000184",
    "language": "eng",
    "lines": [
-    "\"Yes, we are,\" said Mr. Weasley, \"those are enchanted windows; Magical Maintenance decide what weather we're getting every day. We had two months of hurricanes last time they were angling for a pay raise. . . . Just round here, Harry.\""
+    "\"Yes, we are,\" said Mr. Weasley, \"those are enchanted windows; Magical Maintenance decide what weather we're getting every day."
+   ]
+  },
+  {
+   "begin": "1173.680",
+   "children": [],
+   "end": "1180.160",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "We had two months of hurricanes last time they were angling for a pay raise. . . . Just round here, Harry.\""
    ]
   },
   {
    "begin": "1180.160",
    "children": [],
-   "end": "1199.040",
-   "id": "f000105",
+   "end": "1190.120",
+   "id": "f000186",
    "language": "eng",
    "lines": [
-    "They turned a corner, walked through a pair of heavy oak doors, and emerged in a cluttered, open area divided into cubicles, which were buzzing with talk and laughter. Memos were zooming in and out of cubicles like miniature rockets. A lopsided sign on the nearest cubicle read auror headquarters."
+    "They turned a corner, walked through a pair of heavy oak doors, and emerged in a cluttered, open area divided into cubicles, which were buzzing with talk and laughter."
+   ]
+  },
+  {
+   "begin": "1190.120",
+   "children": [],
+   "end": "1194.080",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "Memos were zooming in and out of cubicles like miniature rockets."
+   ]
+  },
+  {
+   "begin": "1194.080",
+   "children": [],
+   "end": "1199.040",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "A lopsided sign on the nearest cubicle read auror headquarters."
    ]
   },
   {
    "begin": "1199.040",
    "children": [],
-   "end": "1230.480",
-   "id": "f000106",
+   "end": "1203.240",
+   "id": "f000189",
    "language": "eng",
    "lines": [
-    "Harry looked surreptitiously through the doorways as they passed. The Aurors had covered their cubicle walls with everything from pictures of wanted wizards and photographs of their families, to posters of their favorite Quidditch teams and articles from the Daily Prophet. A scarlet-robed man with a ponytail longer than Bill's was sitting with his boots up on his desk, dictating a report to his quill. A little farther along, a witch with a patch over her eye was talking over the top of her cubicle wall to Kingsley Shacklebolt."
+    "Harry looked surreptitiously through the doorways as they passed."
+   ]
+  },
+  {
+   "begin": "1203.240",
+   "children": [],
+   "end": "1214.760",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "The Aurors had covered their cubicle walls with everything from pictures of wanted wizards and photographs of their families, to posters of their favorite Quidditch teams and articles from the Daily Prophet."
+   ]
+  },
+  {
+   "begin": "1214.760",
+   "children": [],
+   "end": "1222.840",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "A scarlet-robed man with a ponytail longer than Bill's was sitting with his boots up on his desk, dictating a report to his quill."
+   ]
+  },
+  {
+   "begin": "1222.840",
+   "children": [],
+   "end": "1230.480",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "A little farther along, a witch with a patch over her eye was talking over the top of her cubicle wall to Kingsley Shacklebolt."
    ]
   },
   {
    "begin": "1230.480",
    "children": [],
-   "end": "1240.360",
-   "id": "f000107",
+   "end": "1235.560",
+   "id": "f000193",
    "language": "eng",
    "lines": [
-    "\"Morning, Weasley,\" said Kingsley carelessly, as they drew nearer. \"I've been wanting a word with you, have you got a second?\""
+    "\"Morning, Weasley,\" said Kingsley carelessly, as they drew nearer."
+   ]
+  },
+  {
+   "begin": "1235.560",
+   "children": [],
+   "end": "1240.360",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "\"I've been wanting a word with you, have you got a second?\""
    ]
   },
   {
    "begin": "1240.360",
    "children": [],
    "end": "1246.400",
-   "id": "f000108",
+   "id": "f000195",
    "language": "eng",
    "lines": [
     "\"Yes, if it really is a second,\" said Mr. Weasley, \"I'm in rather a hurry.\""
@@ -1083,88 +1953,178 @@
   {
    "begin": "1246.400",
    "children": [],
-   "end": "1259.880",
-   "id": "f000109",
+   "end": "1255.360",
+   "id": "f000196",
    "language": "eng",
    "lines": [
-    "They were talking to each other as though they hardly knew each other, and when Harry opened his mouth to say hello to Kingsley, Mr. Weasley stood on his foot. They followed Kingsley along the row and into the very last cubicle."
+    "They were talking to each other as though they hardly knew each other, and when Harry opened his mouth to say hello to Kingsley, Mr. Weasley stood on his foot."
+   ]
+  },
+  {
+   "begin": "1255.360",
+   "children": [],
+   "end": "1259.880",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "They followed Kingsley along the row and into the very last cubicle."
    ]
   },
   {
    "begin": "1259.880",
    "children": [],
-   "end": "1269.280",
-   "id": "f000110",
+   "end": "1266.240",
+   "id": "f000198",
    "language": "eng",
    "lines": [
-    "Harry received a slight shock; Sirius's face was blinking down at him from every direction. Newspaper cuttings and old photographs"
+    "Harry received a slight shock; Sirius's face was blinking down at him from every direction."
    ]
   },
   {
-   "begin": "1269.280",
+   "begin": "1266.240",
    "children": [],
-   "end": "1279.720",
-   "id": "f000111",
+   "end": "1269.160",
+   "id": "f000199",
    "language": "eng",
    "lines": [
-    "- even the one of Sirius being best man at the Potters' wedding papered the walls. The only Sirius-free space was a map of the world in which little red pins were glowing like jewels."
+    "Newspaper cuttings and old photographs"
+   ]
+  },
+  {
+   "begin": "1269.160",
+   "children": [],
+   "end": "1273.000",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "- even the one of Sirius being best man at the Potters' wedding papered the walls."
+   ]
+  },
+  {
+   "begin": "1273.000",
+   "children": [],
+   "end": "1279.720",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "The only Sirius-free space was a map of the world in which little red pins were glowing like jewels."
    ]
   },
   {
    "begin": "1279.720",
    "children": [],
-   "end": "1299.800",
-   "id": "f000112",
+   "end": "1294.200",
+   "id": "f000202",
    "language": "eng",
    "lines": [
-    "\"Here,\" said Kingsley brusquely to Mr. Weasley, shoving a sheaf of parchment into his hand, \"I need as much information as possible on flying Muggle vehicles sighted in the last twelve months. We've received information that Black might still be using his old motorcycle.\""
+    "\"Here,\" said Kingsley brusquely to Mr. Weasley, shoving a sheaf of parchment into his hand, \"I need as much information as possible on flying Muggle vehicles sighted in the last twelve months."
+   ]
+  },
+  {
+   "begin": "1294.200",
+   "children": [],
+   "end": "1299.800",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "We've received information that Black might still be using his old motorcycle.\""
    ]
   },
   {
    "begin": "1299.800",
    "children": [],
-   "end": "1318.040",
-   "id": "f000113",
+   "end": "1308.320",
+   "id": "f000204",
    "language": "eng",
    "lines": [
-    "Kingsley tipped Harry an enormous wink and added, in a whisper, \"Give him the magazine, he might find it interesting.\" Then he said in normal tones, \"And don't take too long, Weasley, the delay on that firelegs report held our investigation up for a month.\""
+    "Kingsley tipped Harry an enormous wink and added, in a whisper, \"Give him the magazine, he might find it interesting.\""
+   ]
+  },
+  {
+   "begin": "1308.320",
+   "children": [],
+   "end": "1318.040",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "Then he said in normal tones, \"And don't take too long, Weasley, the delay on that firelegs report held our investigation up for a month.\""
    ]
   },
   {
    "begin": "1318.040",
    "children": [],
-   "end": "1336.360",
-   "id": "f000114",
+   "end": "1324.560",
+   "id": "f000206",
    "language": "eng",
    "lines": [
-    "\"If you had read my report you would know that the term is 'firearms,' \" said Mr. Weasley coolly. \"And I'm afraid you'll have to wait for information on motorcycles, we're extremely busy at the moment.\" He dropped his voice and said, \"If you can get away before seven, Molly's making meatballs.\""
+    "\"If you had read my report you would know that the term is 'firearms,' \" said Mr. Weasley coolly."
+   ]
+  },
+  {
+   "begin": "1324.560",
+   "children": [],
+   "end": "1330.240",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "\"And I'm afraid you'll have to wait for information on motorcycles, we're extremely busy at the moment.\""
+   ]
+  },
+  {
+   "begin": "1330.240",
+   "children": [],
+   "end": "1336.360",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "He dropped his voice and said, \"If you can get away before seven, Molly's making meatballs.\""
    ]
   },
   {
    "begin": "1336.360",
    "children": [],
-   "end": "1362.520",
-   "id": "f000115",
+   "end": "1361.520",
+   "id": "f000209",
    "language": "eng",
    "lines": [
     "He beckoned to Harry and led him out of Kingsley's cubicle, through a second set of oak doors, into another passage, turned left, marched along another corridor, turned right into a dimly lit and distinctly shabby corridor, and finally reached a dead end, where a door on the left stood ajar, revealing a broom cupboard, and a door on the right bore a tarnished brass plaque reading misuse of muggle artifacts."
    ]
   },
   {
-   "begin": "1362.520",
+   "begin": "1361.520",
    "children": [],
-   "end": "1395.640",
-   "id": "f000116",
+   "end": "1366.760",
+   "id": "f000210",
    "language": "eng",
    "lines": [
-    "Mr. Weasley's dingy office seemed to be slightly smaller than the broom cupboard. Two desks had been crammed inside it and there was barely room to move around them because of all the overflowing filing cabinets lining the walls, on top of which were tottering piles of files. The little wall space available bore witness to Mr. Weasley's obsessions; there were several posters of cars, including one of a dismantled engine, two illustrations of postboxes he seemed to have cut out of Muggle children's books, and a diagram showing how to wire a plug."
+    "Mr. Weasley's dingy office seemed to be slightly smaller than the broom cupboard."
+   ]
+  },
+  {
+   "begin": "1366.760",
+   "children": [],
+   "end": "1377.800",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "Two desks had been crammed inside it and there was barely room to move around them because of all the overflowing filing cabinets lining the walls, on top of which were tottering piles of files."
+   ]
+  },
+  {
+   "begin": "1377.800",
+   "children": [],
+   "end": "1395.640",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "The little wall space available bore witness to Mr. Weasley's obsessions; there were several posters of cars, including one of a dismantled engine, two illustrations of postboxes he seemed to have cut out of Muggle children's books, and a diagram showing how to wire a plug."
    ]
   },
   {
    "begin": "1395.640",
    "children": [],
    "end": "1399.760",
-   "id": "f000117",
+   "id": "f000213",
    "language": "eng",
    "lines": [
     "Sitting on top of Mr. Weasley's overflowing in-tray was an old"
@@ -1173,28 +2133,68 @@
   {
    "begin": "1399.760",
    "children": [],
-   "end": "1413.160",
-   "id": "f000118",
+   "end": "1406.240",
+   "id": "f000214",
    "language": "eng",
    "lines": [
-    "toaster that was hiccuping in a disconsolate way and a pair of empty leather gloves that were twiddling their thumbs. A photograph of the Weasley family stood beside the in-tray. Harry noticed that Percy appeared to have walked out of it."
+    "toaster that was hiccuping in a disconsolate way and a pair of empty leather gloves that were twiddling their thumbs."
+   ]
+  },
+  {
+   "begin": "1406.240",
+   "children": [],
+   "end": "1409.880",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "A photograph of the Weasley family stood beside the in-tray."
+   ]
+  },
+  {
+   "begin": "1409.880",
+   "children": [],
+   "end": "1413.160",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "Harry noticed that Percy appeared to have walked out of it."
    ]
   },
   {
    "begin": "1413.160",
    "children": [],
-   "end": "1428.880",
-   "id": "f000119",
+   "end": "1421.680",
+   "id": "f000217",
    "language": "eng",
    "lines": [
-    "\"We haven't got a window,\" said Mr. Weasley apologetically, taking off his bomber jacket and placing it on the back of his chair. \"We've asked, but they don't seem to think we need one. Have a seat, Harry, doesn't look as if Perkins is in yet.\""
+    "\"We haven't got a window,\" said Mr. Weasley apologetically, taking off his bomber jacket and placing it on the back of his chair."
+   ]
+  },
+  {
+   "begin": "1421.680",
+   "children": [],
+   "end": "1425.000",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "\"We've asked, but they don't seem to think we need one."
+   ]
+  },
+  {
+   "begin": "1425.000",
+   "children": [],
+   "end": "1428.880",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "Have a seat, Harry, doesn't look as if Perkins is in yet.\""
    ]
   },
   {
    "begin": "1428.880",
    "children": [],
    "end": "1438.320",
-   "id": "f000120",
+   "id": "f000220",
    "language": "eng",
    "lines": [
     "Harry squeezed himself into the chair behind Perkins's desk while Mr. Weasley rifled through the sheaf of parchment Kingsley Shacklebolt had given him."
@@ -1203,28 +2203,58 @@
   {
    "begin": "1438.320",
    "children": [],
-   "end": "1456.040",
-   "id": "f000121",
+   "end": "1447.600",
+   "id": "f000221",
    "language": "eng",
    "lines": [
-    "\"Ah,\" he said, grinning, as he extracted a copy of a magazine entitled The Quibbler from its midst, \"yes . . .\" He flicked through it. \"Yes, he's right, I'm sure Sirius will find that very amusing - oh dear, what's this now?\""
+    "\"Ah,\" he said, grinning, as he extracted a copy of a magazine entitled The Quibbler from its midst, \"yes . . .\" He flicked through it."
    ]
   },
   {
-   "begin": "1456.040",
+   "begin": "1447.600",
    "children": [],
-   "end": "1473.440",
-   "id": "f000122",
+   "end": "1455.280",
+   "id": "f000222",
    "language": "eng",
    "lines": [
-    "A memo had just zoomed in through the open door and fluttered to rest on top of the hiccuping toaster. Mr. Weasley unfolded it and read aloud, \" 'Third regurgitating public toilet reported in Bethnal Green, kindly investigate immediately.' This is getting ridiculous. . . .\""
+    "\"Yes, he's right, I'm sure Sirius will find that very amusing - oh dear, what's this now?\""
+   ]
+  },
+  {
+   "begin": "1455.280",
+   "children": [],
+   "end": "1461.520",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "A memo had just zoomed in through the open door and fluttered to rest on top of the hiccuping toaster."
+   ]
+  },
+  {
+   "begin": "1461.520",
+   "children": [],
+   "end": "1471.080",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "Mr. Weasley unfolded it and read aloud, \" 'Third regurgitating public toilet reported in Bethnal Green, kindly investigate immediately.'"
+   ]
+  },
+  {
+   "begin": "1471.080",
+   "children": [],
+   "end": "1473.440",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "This is getting ridiculous. . . .\""
    ]
   },
   {
    "begin": "1473.440",
    "children": [],
    "end": "1475.600",
-   "id": "f000123",
+   "id": "f000226",
    "language": "eng",
    "lines": [
     "\"A regurgitating toilet?\""
@@ -1233,18 +2263,48 @@
   {
    "begin": "1475.600",
    "children": [],
-   "end": "1500.240",
-   "id": "f000124",
+   "end": "1479.920",
+   "id": "f000227",
    "language": "eng",
    "lines": [
-    "\"Anti-Muggle pranksters,\" said Mr. Weasley, frowning. \"We had two last week, one in Wimbledon, one in Elephant and Castle. Muggles are pulling the flush and instead of everything disappearing well, you can imagine. The poor things keep calling in those - those pumbles, I think they're called - you know, the ones who mend pipes and things - \""
+    "\"Anti-Muggle pranksters,\" said Mr. Weasley, frowning."
+   ]
+  },
+  {
+   "begin": "1479.920",
+   "children": [],
+   "end": "1484.400",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "\"We had two last week, one in Wimbledon, one in Elephant and Castle."
+   ]
+  },
+  {
+   "begin": "1484.400",
+   "children": [],
+   "end": "1491.680",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "Muggles are pulling the flush and instead of everything disappearing well, you can imagine."
+   ]
+  },
+  {
+   "begin": "1491.680",
+   "children": [],
+   "end": "1500.240",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "The poor things keep calling in those - those pumbles, I think they're called - you know, the ones who mend pipes and things - \""
    ]
   },
   {
    "begin": "1500.240",
    "children": [],
    "end": "1501.360",
-   "id": "f000125",
+   "id": "f000231",
    "language": "eng",
    "lines": [
     "\"Plumbers?\""
@@ -1253,38 +2313,48 @@
   {
    "begin": "1501.360",
    "children": [],
-   "end": "1507.360",
-   "id": "f000126",
+   "end": "1504.960",
+   "id": "f000232",
    "language": "eng",
    "lines": [
-    "\" - exactly, yes, but of course they're flummoxed. I only hope we can catch whoever's doing it.\""
+    "\" - exactly, yes, but of course they're flummoxed."
+   ]
+  },
+  {
+   "begin": "1504.960",
+   "children": [],
+   "end": "1507.360",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "I only hope we can catch whoever's doing it.\""
    ]
   },
   {
    "begin": "1507.360",
    "children": [],
-   "end": "1510.360",
-   "id": "f000127",
+   "end": "1510.840",
+   "id": "f000234",
    "language": "eng",
    "lines": [
     "\"Will it be Aurors who catch them?\""
    ]
   },
   {
-   "begin": "1510.360",
+   "begin": "1510.840",
    "children": [],
-   "end": "1521.000",
-   "id": "f000128",
+   "end": "1520.240",
+   "id": "f000235",
    "language": "eng",
    "lines": [
     "\"Oh no, this is too trivial for Aurors, it'll be the ordinary Magical Law Enforcement Patrol - ah, Harry, this is Perkins.\""
    ]
   },
   {
-   "begin": "1521.000",
+   "begin": "1520.240",
    "children": [],
    "end": "1526.200",
-   "id": "f000129",
+   "id": "f000236",
    "language": "eng",
    "lines": [
     "A stooped, timid-looking old wizard with fluffy white hair had just entered the room, panting."
@@ -1293,18 +2363,28 @@
   {
    "begin": "1526.200",
    "children": [],
-   "end": "1539.320",
-   "id": "f000130",
+   "end": "1530.360",
+   "id": "f000237",
    "language": "eng",
    "lines": [
-    "\"Oh Arthur!\" he said desperately, without looking at Harry. \"Thank goodness, I didn't know what to do for the best, whether to wait here for you or not, I've just sent an owl to your home but you've obviously missed it - an urgent message came ten minutes ago - \""
+    "\"Oh Arthur!\" he said desperately, without looking at Harry."
+   ]
+  },
+  {
+   "begin": "1530.360",
+   "children": [],
+   "end": "1539.320",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "\"Thank goodness, I didn't know what to do for the best, whether to wait here for you or not, I've just sent an owl to your home but you've obviously missed it - an urgent message came ten minutes ago - \""
    ]
   },
   {
    "begin": "1539.320",
    "children": [],
    "end": "1543.480",
-   "id": "f000131",
+   "id": "f000239",
    "language": "eng",
    "lines": [
     "\"I know about the regurgitating toilet,\" said Mr. Weasley."
@@ -1314,7 +2394,7 @@
    "begin": "1543.480",
    "children": [],
    "end": "1552.800",
-   "id": "f000132",
+   "id": "f000240",
    "language": "eng",
    "lines": [
     "\"No, no, it's not the toilet, it's the Potter boy's hearing - they've changed the time and venue - it starts at eight o'clock now and it's down in old Courtroom Ten - \""
@@ -1324,7 +2404,7 @@
    "begin": "1552.800",
    "children": [],
    "end": "1557.360",
-   "id": "f000133",
+   "id": "f000241",
    "language": "eng",
    "lines": [
     "\"Down in old - but they told me - Merlin's beard - \""
@@ -1334,7 +2414,7 @@
    "begin": "1557.360",
    "children": [],
    "end": "1561.680",
-   "id": "f000134",
+   "id": "f000242",
    "language": "eng",
    "lines": [
     "Mr. Weasley looked at his watch, let out a yelp, and leapt from his chair."
@@ -1344,7 +2424,7 @@
    "begin": "1561.680",
    "children": [],
    "end": "1564.560",
-   "id": "f000135",
+   "id": "f000243",
    "language": "eng",
    "lines": [
     "\"Quick, Harry, we should have been there five minutes ago!\""
@@ -1354,7 +2434,7 @@
    "begin": "1564.560",
    "children": [],
    "end": "1571.640",
-   "id": "f000136",
+   "id": "f000244",
    "language": "eng",
    "lines": [
     "Perkins flattened himself against the filing cabinets as Mr. Weasley left the office at a run, Harry on his heels."
@@ -1363,18 +2443,28 @@
   {
    "begin": "1571.640",
    "children": [],
-   "end": "1586.040",
-   "id": "f000137",
+   "end": "1581.520",
+   "id": "f000245",
    "language": "eng",
    "lines": [
-    "\"Why have they changed the time?\" Harry said breathlessly as they hurtled past the Auror cubicles; people poked out their heads and stared as they streaked past. Harry felt as though he had left all his insides back at Perkins's desk."
+    "\"Why have they changed the time?\" Harry said breathlessly as they hurtled past the Auror cubicles; people poked out their heads and stared as they streaked past."
+   ]
+  },
+  {
+   "begin": "1581.520",
+   "children": [],
+   "end": "1586.040",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "Harry felt as though he had left all his insides back at Perkins's desk."
    ]
   },
   {
    "begin": "1586.040",
    "children": [],
    "end": "1592.320",
-   "id": "f000138",
+   "id": "f000247",
    "language": "eng",
    "lines": [
     "\"I've no idea, but thank goodness we got here so early, if you'd missed it it would have been catastrophic!\""
@@ -1383,18 +2473,18 @@
   {
    "begin": "1592.320",
    "children": [],
-   "end": "1598.040",
-   "id": "f000139",
+   "end": "1598.000",
+   "id": "f000248",
    "language": "eng",
    "lines": [
     "Mr. Weasley skidded to a halt beside the lifts and jabbed impatiently at the down button."
    ]
   },
   {
-   "begin": "1598.040",
+   "begin": "1598.000",
    "children": [],
    "end": "1599.720",
-   "id": "f000140",
+   "id": "f000249",
    "language": "eng",
    "lines": [
     "\"Come ON!\""
@@ -1403,28 +2493,48 @@
   {
    "begin": "1599.720",
    "children": [],
-   "end": "1607.880",
-   "id": "f000141",
+   "end": "1602.920",
+   "id": "f000250",
    "language": "eng",
    "lines": [
-    "The lift clattered into view and they hurried inside. Every time it stopped Mr. Weasley cursed furiously and pummelled the number nine button."
+    "The lift clattered into view and they hurried inside."
+   ]
+  },
+  {
+   "begin": "1602.920",
+   "children": [],
+   "end": "1607.880",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "Every time it stopped Mr. Weasley cursed furiously and pummelled the number nine button."
    ]
   },
   {
    "begin": "1607.880",
    "children": [],
-   "end": "1617.680",
-   "id": "f000142",
+   "end": "1613.160",
+   "id": "f000252",
    "language": "eng",
    "lines": [
-    "\"Those courtrooms haven't been used in years,\" said Mr. Weasley angrily. \"I can't think why they're doing it down there - unless but no . . .\""
+    "\"Those courtrooms haven't been used in years,\" said Mr. Weasley angrily."
+   ]
+  },
+  {
+   "begin": "1613.160",
+   "children": [],
+   "end": "1617.680",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "\"I can't think why they're doing it down there - unless but no . . .\""
    ]
   },
   {
    "begin": "1617.680",
    "children": [],
    "end": "1623.960",
-   "id": "f000143",
+   "id": "f000254",
    "language": "eng",
    "lines": [
     "A plump witch carrying a smoking goblet entered the lift at that moment, and Mr. Weasley did not elaborate."
@@ -1433,28 +2543,48 @@
   {
    "begin": "1623.960",
    "children": [],
-   "end": "1639.760",
-   "id": "f000144",
+   "end": "1634.320",
+   "id": "f000255",
    "language": "eng",
    "lines": [
-    "\"The Atrium,\" said the cool female voice and the golden grilles slid open, showing Harry a distant glimpse of the golden statues in the fountain. The plump witch got out and a sallow-skinned wizard with a very mournful face got in."
+    "\"The Atrium,\" said the cool female voice and the golden grilles slid open, showing Harry a distant glimpse of the golden statues in the fountain."
+   ]
+  },
+  {
+   "begin": "1634.320",
+   "children": [],
+   "end": "1639.760",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "The plump witch got out and a sallow-skinned wizard with a very mournful face got in."
    ]
   },
   {
    "begin": "1639.760",
    "children": [],
-   "end": "1649.240",
-   "id": "f000145",
+   "end": "1646.880",
+   "id": "f000257",
    "language": "eng",
    "lines": [
-    "\"Morning, Arthur,\" he said in a sepulchral voice as the lift began to descend. \"Don't often see you down here. . . .\""
+    "\"Morning, Arthur,\" he said in a sepulchral voice as the lift began to descend."
+   ]
+  },
+  {
+   "begin": "1646.880",
+   "children": [],
+   "end": "1649.240",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "\"Don't often see you down here. . . .\""
    ]
   },
   {
    "begin": "1649.240",
    "children": [],
    "end": "1657.120",
-   "id": "f000146",
+   "id": "f000259",
    "language": "eng",
    "lines": [
     "\"Urgent business, Bode,\" said Mr. Weasley, who was bouncing on the balls of his feet and throwing anxious looks over at Harry."
@@ -1463,18 +2593,28 @@
   {
    "begin": "1657.120",
    "children": [],
-   "end": "1664.200",
-   "id": "f000147",
+   "end": "1662.160",
+   "id": "f000260",
    "language": "eng",
    "lines": [
-    "\"Ah, yes,\" said Bode, surveying Harry unblinkingly. \"Of course.\""
+    "\"Ah, yes,\" said Bode, surveying Harry unblinkingly."
+   ]
+  },
+  {
+   "begin": "1662.160",
+   "children": [],
+   "end": "1664.200",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "\"Of course.\""
    ]
   },
   {
    "begin": "1664.200",
    "children": [],
    "end": "1671.080",
-   "id": "f000148",
+   "id": "f000262",
    "language": "eng",
    "lines": [
     "Harry barely had emotion to spare for Bode, but his unfaltering gaze did not make him feel any more comfortable."
@@ -1484,7 +2624,7 @@
    "begin": "1671.080",
    "children": [],
    "end": "1677.800",
-   "id": "f000149",
+   "id": "f000263",
    "language": "eng",
    "lines": [
     "\"Department of Mysteries,\" said the cool female voice, and left it at that."
@@ -1493,38 +2633,78 @@
   {
    "begin": "1677.800",
    "children": [],
-   "end": "1701.560",
-   "id": "f000150",
+   "end": "1686.040",
+   "id": "f000264",
    "language": "eng",
    "lines": [
-    "\"Quick, Harry,\" said Mr. Weasley as the lift doors rattled open, and they sped up a corridor that was quite different from those above. The walls were bare; there were no windows and no doors apart from a plain black one set at the very end of the corridor. Harry expected them to go through it, but instead Mr. Weasley seized him by the arm and dragged him to the left, where there was an opening leading to a flight of steps."
+    "\"Quick, Harry,\" said Mr. Weasley as the lift doors rattled open, and they sped up a corridor that was quite different from those above."
+   ]
+  },
+  {
+   "begin": "1686.040",
+   "children": [],
+   "end": "1692.640",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "The walls were bare; there were no windows and no doors apart from a plain black one set at the very end of the corridor."
+   ]
+  },
+  {
+   "begin": "1692.640",
+   "children": [],
+   "end": "1701.560",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "Harry expected them to go through it, but instead Mr. Weasley seized him by the arm and dragged him to the left, where there was an opening leading to a flight of steps."
    ]
   },
   {
    "begin": "1701.560",
    "children": [],
-   "end": "1711.240",
-   "id": "f000151",
+   "end": "1706.920",
+   "id": "f000267",
    "language": "eng",
    "lines": [
-    "\"Down here, down here,\" panted Mr. Weasley, taking two steps at a time. \"The lift doesn't even come down this far . . . why they're doing it there . . .\""
+    "\"Down here, down here,\" panted Mr. Weasley, taking two steps at a time."
+   ]
+  },
+  {
+   "begin": "1706.920",
+   "children": [],
+   "end": "1711.240",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "\"The lift doesn't even come down this far . . . why they're doing it there . . .\""
    ]
   },
   {
    "begin": "1711.240",
    "children": [],
-   "end": "1728.000",
-   "id": "f000152",
+   "end": "1722.920",
+   "id": "f000269",
    "language": "eng",
    "lines": [
-    "They reached the bottom of the steps and ran along yet another corridor, which bore a great resemblance to that which led to Snape's dungeon at Hogwarts, with rough stone walls and torches in brackets. The doors they passed here were heavy wooden ones with iron bolts and keyholes."
+    "They reached the bottom of the steps and ran along yet another corridor, which bore a great resemblance to that which led to Snape's dungeon at Hogwarts, with rough stone walls and torches in brackets."
+   ]
+  },
+  {
+   "begin": "1722.920",
+   "children": [],
+   "end": "1728.000",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "The doors they passed here were heavy wooden ones with iron bolts and keyholes."
    ]
   },
   {
    "begin": "1728.000",
    "children": [],
    "end": "1733.280",
-   "id": "f000153",
+   "id": "f000271",
    "language": "eng",
    "lines": [
     "\"Courtroom . . . ten . . . I think . . . we're nearly . . . yes.\""
@@ -1534,7 +2714,7 @@
    "begin": "1733.280",
    "children": [],
    "end": "1743.080",
-   "id": "f000154",
+   "id": "f000272",
    "language": "eng",
    "lines": [
     "Mr. Weasley stumbled to a halt outside a grimy dark door with an immense iron lock and slumped against the wall, clutching at a stitch in his chest."
@@ -1543,18 +2723,28 @@
   {
    "begin": "1743.080",
    "children": [],
-   "end": "1747.080",
-   "id": "f000155",
+   "end": "1746.280",
+   "id": "f000273",
    "language": "eng",
    "lines": [
-    "\"Go on,\" he panted, pointing his thumb at the door. \"Get in there.\""
+    "\"Go on,\" he panted, pointing his thumb at the door."
+   ]
+  },
+  {
+   "begin": "1746.280",
+   "children": [],
+   "end": "1747.080",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "\"Get in there.\""
    ]
   },
   {
    "begin": "1747.080",
    "children": [],
    "end": "1749.320",
-   "id": "f000156",
+   "id": "f000275",
    "language": "eng",
    "lines": [
     "\"Aren't - aren't you coming with - ?\""
@@ -1563,21 +2753,41 @@
   {
    "begin": "1749.320",
    "children": [],
-   "end": "1752.760",
-   "id": "f000157",
+   "end": "1751.680",
+   "id": "f000276",
    "language": "eng",
    "lines": [
-    "\"No, no, I'm not allowed. Good luck!\""
+    "\"No, no, I'm not allowed."
+   ]
+  },
+  {
+   "begin": "1751.680",
+   "children": [],
+   "end": "1752.760",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "Good luck!\""
    ]
   },
   {
    "begin": "1752.760",
    "children": [],
-   "end": "1765.600",
-   "id": "f000158",
+   "end": "1757.360",
+   "id": "f000278",
    "language": "eng",
    "lines": [
-    "Harry's heart was beating a violent tattoo against his Adam's apple. He swallowed hard, turned the heavy iron door handle, and stepped inside the courtroom."
+    "Harry's heart was beating a violent tattoo against his Adam's apple."
+   ]
+  },
+  {
+   "begin": "1757.360",
+   "children": [],
+   "end": "1765.600",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "He swallowed hard, turned the heavy iron door handle, and stepped inside the courtroom."
    ]
   }
  ]
