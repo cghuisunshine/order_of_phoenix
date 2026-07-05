@@ -46,6 +46,18 @@ class AlignedReaderHtmlTests(unittest.TestCase):
         self.assertIn("return paragraph.sentences && paragraph.sentences.length ? paragraph.sentences : [paragraph];", html)
         self.assertIn("function findParagraphByPlaybackId(chapter, playbackId)", html)
 
+    def test_reader_supports_prompt_search_to_matched_sentence(self):
+        html = READER_HTML.read_text(encoding="utf-8")
+
+        self.assertIn('id="searchButton"', html)
+        self.assertIn('aria-label="Search text"', html)
+        self.assertIn("function searchSentences(query)", html)
+        self.assertIn("function promptSearch()", html)
+        self.assertIn("window.prompt('Search text')", html)
+        self.assertIn("loadChapter(match.chapterIndex, false, match.sentence.localBegin);", html)
+        self.assertIn("scrollToPlaybackUnit(match.sentence.id);", html)
+        self.assertIn("searchButton.addEventListener('click', promptSearch);", html)
+
 
 if __name__ == "__main__":
     unittest.main()

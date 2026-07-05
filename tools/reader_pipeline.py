@@ -797,6 +797,30 @@ def build_reader_html(manifest: dict) -> str:
       align-items: center;
       padding: 12px 20px;
     }}
+    .search-button {{
+      position: fixed;
+      right: 20px;
+      bottom: 74px;
+      width: 44px;
+      height: 44px;
+      border: 1px solid var(--button);
+      border-radius: 8px;
+      background: var(--button);
+      color: var(--button-text);
+      cursor: pointer;
+      display: grid;
+      place-items: center;
+      z-index: 2;
+    }}
+    .search-button:hover {{
+      background: #2f2b27;
+      border-color: #2f2b27;
+    }}
+    .search-button svg {{
+      width: 20px;
+      height: 20px;
+      stroke: currentColor;
+    }}
     button.control {{
       border: 1px solid var(--line);
       border-radius: 6px;
@@ -837,6 +861,10 @@ def build_reader_html(manifest: dict) -> str:
       .player input[type="range"] {{
         grid-column: 1 / -1;
       }}
+      .search-button {{
+        right: 16px;
+        bottom: 112px;
+      }}
     }}
   </style>
 </head>
@@ -861,6 +889,12 @@ def build_reader_html(manifest: dict) -> str:
     <input id="seekBar" type="range" min="0" max="1000" value="0" aria-label="Seek">
     <span class="time" id="chapterTime">0:00</span>
   </div>
+  <button class="search-button" id="searchButton" type="button" aria-label="Search text">
+    <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="7"></circle>
+      <path d="m16.5 16.5 4 4"></path>
+    </svg>
+  </button>
   <audio id="audio" preload="metadata"></audio>
   <script>
     const manifest = {manifest_json};
@@ -874,6 +908,7 @@ def build_reader_html(manifest: dict) -> str:
     const seekBar = document.getElementById('seekBar');
     const timeLabel = document.getElementById('timeLabel');
     const chapterTime = document.getElementById('chapterTime');
+    const searchButton = document.getElementById('searchButton');
     const progressStorageKey = 'aligned-reader-progress-v1';
     const tocEntries = [
       {{ chapter: 1, title: 'Dudley Demented', bookPage: 1, appPage: 37 }},
@@ -961,6 +996,50 @@ def build_reader_html(manifest: dict) -> str:
         if (paragraph.id === playbackId) return true;
         return sentenceItems(paragraph).some((sentence) => sentence.id === playbackId);
       }}) || null;
+    }}
+
+    function searchSentences(query) {{
+      const needle = query.trim().toLowerCase();
+      if (!needle) return null;
+
+      const matches = [];
+      manifest.chapters.forEach((chapter, chapterIndex) => {{
+        chapter.paragraphs.forEach((paragraph) => {{
+          sentenceItems(paragraph).forEach((sentence) => {{
+            if (sentence.text.toLowerCase().includes(needle)) {{
+              matches.push({{ chapterIndex, sentence }});
+            }}
+          }});
+        }});
+      }});
+      if (!matches.length) return null;
+
+      const currentChapter = manifest.chapters[currentIndex];
+      const currentGlobalTime = currentChapter.start + resolveLocalTime();
+      return matches.find((match) => {{
+        const chapter = manifest.chapters[match.chapterIndex];
+        return chapter.start + match.sentence.localBegin > currentGlobalTime + 0.01;
+      }}) || matches[0];
+    }}
+
+    function scrollToPlaybackUnit(playbackId) {{
+      document.getElementById(playbackId)?.scrollIntoView({{ block: 'center', behavior: 'smooth' }});
+    }}
+
+    function promptSearch() {{
+      const query = window.prompt('Search text');
+      if (query === null) return;
+
+      const match = searchSentences(query);
+      if (!match) {{
+        window.alert('No match found.');
+        return;
+      }}
+
+      pendingStartTime = null;
+      loadChapter(match.chapterIndex, false, match.sentence.localBegin);
+      scrollToPlaybackUnit(match.sentence.id);
+      saveProgress(match.sentence.id, match.sentence.localBegin);
     }}
 
     function saveProgress(paragraphId = currentParagraphId, localTime = audio.currentTime || 0) {{
@@ -1110,7 +1189,7 @@ def build_reader_html(manifest: dict) -> str:
       if (currentParagraphId) {{
         const node = document.getElementById(currentParagraphId);
         node?.classList.add('active');
-        node?.scrollIntoView({{ block: 'center', behavior: 'smooth' }});
+        scrollToPlaybackUnit(currentParagraphId);
         saveProgress(currentParagraphId, local);
       }}
     }}
@@ -1140,6 +1219,7 @@ def build_reader_html(manifest: dict) -> str:
     }});
     prevButton.addEventListener('click', () => loadChapter(currentIndex - 1, !audio.paused));
     nextButton.addEventListener('click', () => loadChapter(currentIndex + 1, !audio.paused));
+    searchButton.addEventListener('click', promptSearch);
     seekBar.addEventListener('input', () => {{
       const chapter = manifest.chapters[currentIndex];
       const local = (Number(seekBar.value) / 1000) * chapter.duration;
